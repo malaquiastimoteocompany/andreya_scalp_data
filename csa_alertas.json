@@ -18085,5 +18085,22 @@
     "zona_sr": 0.04916,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-814f-95ae-d9d9935030d7",
+    "token": "ANKR",
+    "direccao": "LONG",
+    "preco_alerta": 0.003606,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T20:02:21.413291+00:00",
+    "rsi_1h": 41.61,
+    "funding_rate": 0.003,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00361167,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
