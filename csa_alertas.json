@@ -21672,7 +21672,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.07085,
+    "pnl_pct": 0.411,
+    "duracao_min": 15.3,
+    "data_resultado": "2026-07-07T23:19:48.997801+00:00"
   },
   {
     "page_id": "396a5230-de72-8118-ad57-e45dea8a6789",
