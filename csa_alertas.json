@@ -21330,5 +21330,22 @@
     "zona_sr": 0.73475,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8137-85a2-f552bdbc7ba4",
+    "token": "SPX",
+    "direccao": "LONG",
+    "preco_alerta": 0.3758,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T22:59:33.585222+00:00",
+    "rsi_1h": 39.32,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.37715,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
