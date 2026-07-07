@@ -661,5 +661,22 @@
     "zona_sr": 65.335,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81ec-96b8-db397e65e31c",
+    "token": "ETC",
+    "direccao": "LONG",
+    "preco_alerta": 7.021,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T08:51:58.236547+00:00",
+    "rsi_1h": 41.39,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 7.031,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
