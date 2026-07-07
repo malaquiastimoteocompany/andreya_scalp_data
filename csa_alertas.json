@@ -17122,7 +17122,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.628,
+    "pnl_pct": 0.271,
+    "duracao_min": 32.5,
+    "data_resultado": "2026-07-07T19:41:54.604625+00:00"
   },
   {
     "page_id": "396a5230-de72-81c2-bb28-cedef4b9ee21",
