@@ -9510,11 +9510,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03047333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03068,
-    "pnl_pct": 0.557,
-    "duracao_min": 14.8,
-    "data_resultado": "2026-07-07T14:54:32.962110+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.0311,
+    "pnl_pct": 1.245,
+    "duracao_min": 18.6,
+    "data_resultado": "2026-07-07T14:58:23.120078+00:00"
   },
   {
     "page_id": "396a5230-de72-814e-b95b-d150ceb61928",
