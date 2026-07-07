@@ -338,5 +338,22 @@
     "zona_sr": 17.18666667,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-811b-8159-e1a21cbe1985",
+    "token": "KSM",
+    "direccao": "SHORT",
+    "preco_alerta": 3.369,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T08:50:12.075702+00:00",
+    "rsi_1h": 40.56,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 3.3625,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
