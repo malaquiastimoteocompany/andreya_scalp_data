@@ -13234,11 +13234,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1624.8675,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 1626.28,
-    "pnl_pct": 0.137,
-    "duracao_min": 106.5,
-    "data_resultado": "2026-07-07T18:13:20.112772+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1625.88,
+    "pnl_pct": 0.124,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-07T18:27:10.158374+00:00"
   },
   {
     "page_id": "396a5230-de72-81a9-8afe-c90fcb2c71a1",
