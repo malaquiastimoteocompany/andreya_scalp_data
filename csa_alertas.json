@@ -11350,7 +11350,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04879667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.04882,
+    "pnl_pct": 0.473,
+    "duracao_min": 19.6,
+    "data_resultado": "2026-07-07T15:54:08.655777+00:00"
   },
   {
     "page_id": "396a5230-de72-8137-93d8-dbfa0f7518ab",
