@@ -8029,7 +8029,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0070365,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.007214,
+    "pnl_pct": -2.559,
+    "duracao_min": 30.9,
+    "data_resultado": "2026-07-07T14:20:23.680204+00:00"
   },
   {
     "page_id": "396a5230-de72-8174-b240-ef6c57a7967c",
