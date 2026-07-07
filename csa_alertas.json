@@ -8221,11 +8221,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.383875,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3894,
-    "pnl_pct": 1.143,
-    "duracao_min": 50.8,
-    "data_resultado": "2026-07-07T14:47:54.232120+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.3911,
+    "pnl_pct": 1.364,
+    "duracao_min": 62.8,
+    "data_resultado": "2026-07-07T14:59:55.509747+00:00"
   },
   {
     "page_id": "396a5230-de72-819e-806b-cd2e66d28599",
