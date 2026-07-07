@@ -2506,5 +2506,22 @@
     "pnl_pct": 1.114,
     "duracao_min": 4.7,
     "data_resultado": "2026-07-07T10:26:31.965879+00:00"
+  },
+  {
+    "page_id": "396a5230-de72-81e7-878b-f4033d2b394d",
+    "token": "TAO",
+    "direccao": "LONG",
+    "preco_alerta": 214.38,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T10:26:46.976426+00:00",
+    "rsi_1h": 54.17,
+    "funding_rate": 0.0008,
+    "estado_cfi": "E1",
+    "zona_sr": 213.76428571,
+    "toques_sr": 7,
+    "resultado": "Pendente"
   }
 ]
