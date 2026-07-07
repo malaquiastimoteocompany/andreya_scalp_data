@@ -12887,11 +12887,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.367895,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3731,
-    "pnl_pct": 1.773,
-    "duracao_min": 45.6,
-    "data_resultado": "2026-07-07T17:05:00.566517+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3631,
+    "pnl_pct": 0.409,
+    "duracao_min": 58.0,
+    "data_resultado": "2026-07-07T17:17:21.438272+00:00"
   },
   {
     "page_id": "396a5230-de72-8140-9677-e335211449bf",
