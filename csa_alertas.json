@@ -10290,7 +10290,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.02327,
+    "pnl_pct": 2.799,
+    "duracao_min": 5.5,
+    "data_resultado": "2026-07-07T15:07:43.142249+00:00"
   },
   {
     "page_id": "396a5230-de72-8136-9376-d731dc6f79c7",
