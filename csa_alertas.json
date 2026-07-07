@@ -8920,11 +8920,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.059945,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.05963,
-    "pnl_pct": 0.65,
-    "duracao_min": 26.5,
-    "data_resultado": "2026-07-07T14:43:34.462024+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06002,
+    "pnl_pct": 0.325,
+    "duracao_min": 34.0,
+    "data_resultado": "2026-07-07T14:51:02.999017+00:00"
   },
   {
     "page_id": "396a5230-de72-8195-bbcb-cd5b748158b2",
