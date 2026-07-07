@@ -19913,5 +19913,22 @@
     "zona_sr": 0.1094,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8113-9c54-fe76721157c3",
+    "token": "SXT",
+    "direccao": "LONG",
+    "preco_alerta": 0.006751,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T21:24:32.021007+00:00",
+    "rsi_1h": 40.83,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0067815,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
