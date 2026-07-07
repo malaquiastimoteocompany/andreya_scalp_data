@@ -19955,5 +19955,22 @@
     "zona_sr": 2.51626667,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81af-b9a5-f7276727b806",
+    "token": "PI",
+    "direccao": "LONG",
+    "preco_alerta": 0.1104,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T21:26:58.054661+00:00",
+    "rsi_1h": 34.3,
+    "funding_rate": -0.0168,
+    "estado_cfi": "E1",
+    "zona_sr": 0.110775,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
