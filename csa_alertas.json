@@ -11235,11 +11235,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.001276,
-    "pnl_pct": 0.7,
-    "duracao_min": 2.0,
-    "data_resultado": "2026-07-07T15:34:11.916627+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.001267,
+    "pnl_pct": 1.051,
+    "duracao_min": 8.9,
+    "data_resultado": "2026-07-07T15:41:06.938423+00:00"
   },
   {
     "page_id": "396a5230-de72-8163-8230-d15083a6a6eb",
