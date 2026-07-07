@@ -888,11 +888,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.047245,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04661,
-    "pnl_pct": 0.893,
-    "duracao_min": 109.9,
-    "data_resultado": "2026-07-07T10:50:52.751466+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04635,
+    "pnl_pct": 1.169,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-07T11:02:08.931785+00:00"
   },
   {
     "page_id": "396a5230-de72-8168-b065-e7e1908cdbc1",
