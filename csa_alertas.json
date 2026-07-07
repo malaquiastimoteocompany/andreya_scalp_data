@@ -3808,11 +3808,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.20776667,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.21,
-    "pnl_pct": 0.575,
-    "duracao_min": 55.0,
-    "data_resultado": "2026-07-07T11:59:28.147211+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.2091,
+    "pnl_pct": 0.359,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-07T13:05:28.185450+00:00"
   },
   {
     "page_id": "396a5230-de72-81b9-b328-c66af23822f6",
