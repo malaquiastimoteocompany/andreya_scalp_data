@@ -2419,11 +2419,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 2.25,
-    "pnl_pct": 0.618,
-    "duracao_min": 2.0,
-    "data_resultado": "2026-07-07T10:18:48.923330+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 2.232,
+    "pnl_pct": 1.016,
+    "duracao_min": 26.5,
+    "data_resultado": "2026-07-07T10:43:19.914844+00:00"
   },
   {
     "page_id": "396a5230-de72-815e-822a-fe2153ae08c6",
