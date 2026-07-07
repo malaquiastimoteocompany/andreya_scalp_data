@@ -8270,11 +8270,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07536,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07433,
-    "pnl_pct": 1.771,
-    "duracao_min": 37.7,
-    "data_resultado": "2026-07-07T14:37:16.604097+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.07427,
+    "pnl_pct": 1.81,
+    "duracao_min": 39.6,
+    "data_resultado": "2026-07-07T14:39:10.991373+00:00"
   },
   {
     "page_id": "396a5230-de72-8198-b374-e485c86cc404",
