@@ -19642,11 +19642,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07460333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07406,
-    "pnl_pct": 0.564,
-    "duracao_min": 7.7,
-    "data_resultado": "2026-07-07T21:22:12.837439+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.07453,
+    "pnl_pct": 0.248,
+    "duracao_min": 28.3,
+    "data_resultado": "2026-07-07T21:42:43.492158+00:00"
   },
   {
     "page_id": "396a5230-de72-8152-b50a-ec5952c56479",
