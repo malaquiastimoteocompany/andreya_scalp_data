@@ -9316,5 +9316,22 @@
     "zona_sr": 6.6995,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81ae-a7cf-ca20313c732d",
+    "token": "ARB",
+    "direccao": "LONG",
+    "preco_alerta": 0.07761,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T14:39:34.726211+00:00",
+    "rsi_1h": 38.78,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.077455,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
