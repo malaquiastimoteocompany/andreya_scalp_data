@@ -19302,11 +19302,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.10225,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.103,
-    "pnl_pct": 0.39,
-    "duracao_min": 9.9,
-    "data_resultado": "2026-07-07T21:14:16.069626+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.1025,
+    "pnl_pct": 0.146,
+    "duracao_min": 16.3,
+    "data_resultado": "2026-07-07T21:20:40.520380+00:00"
   },
   {
     "page_id": "396a5230-de72-81bd-a21d-de02323a58bb",
