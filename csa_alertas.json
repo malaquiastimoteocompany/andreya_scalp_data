@@ -9132,11 +9132,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.380675,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3853,
-    "pnl_pct": 0.732,
-    "duracao_min": 38.8,
-    "data_resultado": "2026-07-07T14:58:13.921107+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.3908,
+    "pnl_pct": 1.451,
+    "duracao_min": 77.6,
+    "data_resultado": "2026-07-07T15:36:59.882905+00:00"
   },
   {
     "page_id": "396a5230-de72-8115-baf9-c83341c0d5c9",
