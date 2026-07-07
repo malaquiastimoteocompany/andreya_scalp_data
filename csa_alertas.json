@@ -5425,5 +5425,22 @@
     "zona_sr": 0.42906,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81af-9356-d61736938aad",
+    "token": "ENA",
+    "direccao": "LONG",
+    "preco_alerta": 0.07719,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T12:11:56.366902+00:00",
+    "rsi_1h": 49.63,
+    "funding_rate": 0.0041,
+    "estado_cfi": "E1",
+    "zona_sr": 0.077004,
+    "toques_sr": 5,
+    "resultado": "Pendente"
   }
 ]
