@@ -508,5 +508,22 @@
     "zona_sr": 298.40444444,
     "toques_sr": 9,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-814e-b0bc-c2789279ae69",
+    "token": "ENS",
+    "direccao": "LONG",
+    "preco_alerta": 4.218,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T08:50:36.510590+00:00",
+    "rsi_1h": 46.57,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 4.2165,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
