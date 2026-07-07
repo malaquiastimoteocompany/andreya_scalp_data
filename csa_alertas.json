@@ -17983,5 +17983,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8159-89b0-f9e64d8a5aab",
+    "token": "EVAA",
+    "direccao": "SHORT",
+    "preco_alerta": 2.4567,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T20:01:55.544223+00:00",
+    "rsi_1h": 77.23,
+    "funding_rate": 0.108,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
