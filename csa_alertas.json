@@ -1696,5 +1696,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81e3-bd85-e9dc6b336a52",
+    "token": "BEL",
+    "direccao": "LONG",
+    "preco_alerta": 0.11166,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T09:34:21.445225+00:00",
+    "rsi_1h": 34.92,
+    "funding_rate": -0.0144,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
