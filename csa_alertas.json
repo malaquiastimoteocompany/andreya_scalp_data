@@ -6933,11 +6933,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.16122,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.16255,
-    "pnl_pct": 0.65,
-    "duracao_min": 115.7,
-    "data_resultado": "2026-07-07T14:57:47.999816+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.16233,
+    "pnl_pct": 0.582,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-07T15:02:47.672321+00:00"
   },
   {
     "page_id": "396a5230-de72-81f7-bb4f-e8a3cfa4ae0a",
