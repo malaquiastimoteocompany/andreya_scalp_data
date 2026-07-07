@@ -11636,11 +11636,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.022734,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02281,
-    "pnl_pct": 0.44,
-    "duracao_min": 7.1,
-    "data_resultado": "2026-07-07T15:49:12.709132+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.02271,
+    "pnl_pct": 0.22,
+    "duracao_min": 25.5,
+    "data_resultado": "2026-07-07T16:07:35.716180+00:00"
   },
   {
     "page_id": "396a5230-de72-81f2-9fb3-f80488fc9e86",
