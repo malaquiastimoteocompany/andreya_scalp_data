@@ -355,5 +355,22 @@
     "zona_sr": 3.3625,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81fb-abed-d4fe552017ac",
+    "token": "CRV",
+    "direccao": "LONG",
+    "preco_alerta": 0.2081,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T08:50:14.134936+00:00",
+    "rsi_1h": 42.9,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.20778,
+    "toques_sr": 5,
+    "resultado": "Pendente"
   }
 ]
