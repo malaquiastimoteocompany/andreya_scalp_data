@@ -9697,11 +9697,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.002211,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002214,
-    "pnl_pct": 0.545,
-    "duracao_min": 3.7,
-    "data_resultado": "2026-07-07T14:48:24.568347+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.002227,
+    "pnl_pct": 0.84,
+    "duracao_min": 11.9,
+    "data_resultado": "2026-07-07T14:56:34.657257+00:00"
   },
   {
     "page_id": "396a5230-de72-81fc-ba3c-d005683be378",
