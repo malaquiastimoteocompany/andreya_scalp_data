@@ -3687,11 +3687,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.99266667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 2.012,
-    "pnl_pct": 0.55,
-    "duracao_min": 16.8,
-    "data_resultado": "2026-07-07T11:21:13.452743+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.027,
+    "pnl_pct": 0.925,
+    "duracao_min": 51.7,
+    "data_resultado": "2026-07-07T11:56:07.499169+00:00"
   },
   {
     "page_id": "396a5230-de72-8110-b201-fefb8a17c64c",
