@@ -19854,11 +19854,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.20373333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2056,
-    "pnl_pct": 0.489,
-    "duracao_min": 10.1,
-    "data_resultado": "2026-07-07T21:29:32.563309+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2042,
+    "pnl_pct": 0.147,
+    "duracao_min": 42.7,
+    "data_resultado": "2026-07-07T22:02:06.840273+00:00"
   },
   {
     "page_id": "396a5230-de72-81cf-a7af-fa23c7788019",
