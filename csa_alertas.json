@@ -6655,5 +6655,22 @@
     "zona_sr": 0.04374333,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81e8-a531-df8d0ea9b69a",
+    "token": "MERL",
+    "direccao": "LONG",
+    "preco_alerta": 0.01948,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T13:02:07.598939+00:00",
+    "rsi_1h": 42.84,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.019475,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
