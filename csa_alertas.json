@@ -19094,11 +19094,11 @@
     "estado_cfi": "E1",
     "zona_sr": 61.27,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 60.5,
-    "pnl_pct": 0.771,
-    "duracao_min": 25.1,
-    "data_resultado": "2026-07-07T21:22:00.400863+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 60.19,
+    "pnl_pct": 1.025,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-07T22:58:07.517561+00:00"
   },
   {
     "page_id": "396a5230-de72-81f1-9863-c51d0894f59e",
