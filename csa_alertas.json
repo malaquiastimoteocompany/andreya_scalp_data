@@ -21600,5 +21600,22 @@
     "zona_sr": 0.25295,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8155-bbdb-fab59c888e5d",
+    "token": "HBAR",
+    "direccao": "LONG",
+    "preco_alerta": 0.07056,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T23:04:30.126724+00:00",
+    "rsi_1h": 34.86,
+    "funding_rate": 0.0004,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
