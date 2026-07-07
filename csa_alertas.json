@@ -5547,11 +5547,11 @@
     "estado_cfi": "E1",
     "zona_sr": 216.07666667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 215.82,
-    "pnl_pct": 0.452,
-    "duracao_min": 26.3,
-    "data_resultado": "2026-07-07T12:38:10.592988+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 213.99,
+    "pnl_pct": 0.874,
+    "duracao_min": 54.1,
+    "data_resultado": "2026-07-07T13:05:53.441256+00:00"
   },
   {
     "page_id": "396a5230-de72-8131-b746-d3ac40147254",
