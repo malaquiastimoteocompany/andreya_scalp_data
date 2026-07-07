@@ -9123,11 +9123,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01794333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01809,
-    "pnl_pct": 0.388,
-    "duracao_min": 42.9,
-    "data_resultado": "2026-07-07T15:00:10.433580+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01818,
+    "pnl_pct": 0.638,
+    "duracao_min": 93.1,
+    "data_resultado": "2026-07-07T15:50:20.019744+00:00"
   },
   {
     "page_id": "396a5230-de72-811d-826c-e1c4e04d89d7",
