@@ -5845,11 +5845,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06028,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06019,
-    "pnl_pct": 0.611,
-    "duracao_min": 84.4,
-    "data_resultado": "2026-07-07T13:41:16.613064+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.05969,
+    "pnl_pct": 1.024,
+    "duracao_min": 118.7,
+    "data_resultado": "2026-07-07T14:15:31.103080+00:00"
   },
   {
     "page_id": "396a5230-de72-81c8-a56f-dc6986cc5220",
