@@ -1989,11 +1989,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
+    "resultado": "Falhado",
     "preco_saida": 1302.7,
     "pnl_pct": 0.123,
-    "duracao_min": 94.9,
-    "data_resultado": "2026-07-07T11:11:43.974444+00:00"
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-07T11:37:02.378592+00:00"
   },
   {
     "page_id": "396a5230-de72-814e-a28f-e449d3136662",
