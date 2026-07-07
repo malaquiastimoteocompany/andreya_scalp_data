@@ -6604,5 +6604,22 @@
     "zona_sr": 0.39055,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8148-b72a-d61726f04b8c",
+    "token": "TRUMPOFFICIAL",
+    "direccao": "LONG",
+    "preco_alerta": 1.655,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T13:01:56.433166+00:00",
+    "rsi_1h": 42.21,
+    "funding_rate": -0.0028,
+    "estado_cfi": "E1",
+    "zona_sr": 1.65566667,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
