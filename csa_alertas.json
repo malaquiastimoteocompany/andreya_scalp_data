@@ -22031,11 +22031,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.002211,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002228,
-    "pnl_pct": 0.406,
-    "duracao_min": 16.8,
-    "data_resultado": "2026-07-07T23:28:55.782515+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.002219,
+    "pnl_pct": 0.203,
+    "duracao_min": 44.1,
+    "data_resultado": "2026-07-07T23:56:14.976747+00:00"
   },
   {
     "page_id": "396a5230-de72-8193-b00f-d8efb145bbbc",
