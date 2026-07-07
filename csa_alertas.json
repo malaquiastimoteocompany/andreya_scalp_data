@@ -8642,5 +8642,22 @@
     "zona_sr": 0.735725,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8190-8d32-e6d2f4a0d17e",
+    "token": "AGLD",
+    "direccao": "LONG",
+    "preco_alerta": 0.1537,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T14:14:27.204748+00:00",
+    "rsi_1h": 65.24,
+    "funding_rate": -0.1133,
+    "estado_cfi": "E1",
+    "zona_sr": 0.1543,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
