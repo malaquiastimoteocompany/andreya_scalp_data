@@ -1468,5 +1468,22 @@
     "zona_sr": 0.04879667,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-813e-bbd6-f61d0d9426a7",
+    "token": "MIRA",
+    "direccao": "SHORT",
+    "preco_alerta": 0.04703,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T09:00:56.387824+00:00",
+    "rsi_1h": 36.8,
+    "funding_rate": -0.0602,
+    "estado_cfi": "E1",
+    "zona_sr": 0.047245,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
