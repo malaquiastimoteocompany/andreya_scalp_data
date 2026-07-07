@@ -7462,7 +7462,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.002451,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.002464,
+    "pnl_pct": 0.367,
+    "duracao_min": 22.0,
+    "data_resultado": "2026-07-07T13:49:08.285274+00:00"
   },
   {
     "page_id": "396a5230-de72-8178-8e0e-c04611ee90a4",
