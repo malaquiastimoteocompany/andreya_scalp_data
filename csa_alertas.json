@@ -18867,11 +18867,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03547,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03532,
-    "pnl_pct": 0.619,
-    "duracao_min": 59.6,
-    "data_resultado": "2026-07-07T21:44:00.119703+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0356,
+    "pnl_pct": 0.225,
+    "duracao_min": 61.0,
+    "data_resultado": "2026-07-07T21:45:26.184736+00:00"
   },
   {
     "page_id": "396a5230-de72-81c9-b011-f4061af8a582",
