@@ -20530,7 +20530,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02408,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.0244,
+    "pnl_pct": 1.203,
+    "duracao_min": 18.6,
+    "data_resultado": "2026-07-07T22:20:49.228277+00:00"
   },
   {
     "page_id": "396a5230-de72-81f0-b29f-de431ebbf283",
