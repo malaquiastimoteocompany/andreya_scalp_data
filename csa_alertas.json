@@ -6978,11 +6978,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02305,
-    "pnl_pct": 3.758,
-    "duracao_min": 20.3,
-    "data_resultado": "2026-07-07T13:24:44.123343+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.02397,
+    "pnl_pct": 1.837,
+    "duracao_min": 55.5,
+    "data_resultado": "2026-07-07T14:00:00.689141+00:00"
   },
   {
     "page_id": "396a5230-de72-8157-a9fb-f21f4db6fd09",
