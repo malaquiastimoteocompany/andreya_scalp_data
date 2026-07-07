@@ -6486,5 +6486,22 @@
     "zona_sr": 0.02623333,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8102-9297-eac63e2aa5c1",
+    "token": "TNSR",
+    "direccao": "SHORT",
+    "preco_alerta": 0.03466,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T12:59:26.040882+00:00",
+    "rsi_1h": 45.25,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.03471,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
