@@ -22015,5 +22015,22 @@
     "zona_sr": 0.0044515,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-817a-b749-d181f9e9d464",
+    "token": "AVAX",
+    "direccao": "LONG",
+    "preco_alerta": 6.708,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T23:24:21.837477+00:00",
+    "rsi_1h": 40.61,
+    "funding_rate": -0.0001,
+    "estado_cfi": "E1",
+    "zona_sr": 6.6995,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
