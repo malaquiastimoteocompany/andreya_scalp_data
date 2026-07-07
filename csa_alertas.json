@@ -16851,11 +16851,11 @@
     "estado_cfi": "E1",
     "zona_sr": 213.365,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 213.62,
-    "pnl_pct": 0.603,
-    "duracao_min": 41.4,
-    "data_resultado": "2026-07-07T19:43:15.326945+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 213.93,
+    "pnl_pct": 0.676,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-07T21:02:44.781127+00:00"
   },
   {
     "page_id": "396a5230-de72-816b-9cc0-e0848c5b2318",
