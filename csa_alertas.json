@@ -6484,11 +6484,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05338,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.05433,
-    "pnl_pct": 1.513,
-    "duracao_min": 13.3,
-    "data_resultado": "2026-07-07T13:02:49.561298+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.05346,
+    "pnl_pct": 0.701,
+    "duracao_min": 35.1,
+    "data_resultado": "2026-07-07T13:24:36.857173+00:00"
   },
   {
     "page_id": "396a5230-de72-810c-af40-e4c9eda50122",
