@@ -15683,11 +15683,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 495.31,
-    "pnl_pct": 0.932,
-    "duracao_min": 45.2,
-    "data_resultado": "2026-07-07T18:59:30.737060+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 489.76,
+    "pnl_pct": 1.487,
+    "duracao_min": 54.6,
+    "data_resultado": "2026-07-07T19:08:55.084231+00:00"
   },
   {
     "page_id": "396a5230-de72-8154-bf84-f40b0214b8d2",
