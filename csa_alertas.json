@@ -8444,11 +8444,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.231,
-    "pnl_pct": 0.478,
-    "duracao_min": 52.1,
-    "data_resultado": "2026-07-07T14:54:08.221033+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2328,
+    "pnl_pct": 0.87,
+    "duracao_min": 58.0,
+    "data_resultado": "2026-07-07T15:00:01.387423+00:00"
   },
   {
     "page_id": "396a5230-de72-81b5-91e1-c35e9dc4ec96",
