@@ -11126,5 +11126,22 @@
     "zona_sr": 0.2289,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8148-867a-e589f0f6baaa",
+    "token": "MONAD",
+    "direccao": "SHORT",
+    "preco_alerta": 0.02529,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T15:32:04.820585+00:00",
+    "rsi_1h": 62.32,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.02539667,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
