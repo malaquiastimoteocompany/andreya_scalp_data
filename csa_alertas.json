@@ -19353,5 +19353,22 @@
     "zona_sr": 44.06166667,
     "toques_sr": 6,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8119-9c44-e7e705c69a37",
+    "token": "DASH",
+    "direccao": "SHORT",
+    "preco_alerta": 35.91,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T21:06:52.272661+00:00",
+    "rsi_1h": 55.68,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 35.775,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
