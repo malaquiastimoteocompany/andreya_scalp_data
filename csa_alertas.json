@@ -4173,5 +4173,22 @@
     "zona_sr": 0.0058745,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81a4-aabc-ef682e8f6da6",
+    "token": "REZ",
+    "direccao": "LONG",
+    "preco_alerta": 0.002892,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T11:22:01.077437+00:00",
+    "rsi_1h": 40.32,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0029055,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
