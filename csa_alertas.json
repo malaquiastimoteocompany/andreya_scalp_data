@@ -9739,11 +9739,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02985,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02968,
-    "pnl_pct": 0.968,
-    "duracao_min": 31.5,
-    "data_resultado": "2026-07-07T15:13:41.154905+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.02953,
+    "pnl_pct": 1.218,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-07T16:42:56.260954+00:00"
   },
   {
     "page_id": "396a5230-de72-81f8-bc93-d5ccf3384951",
