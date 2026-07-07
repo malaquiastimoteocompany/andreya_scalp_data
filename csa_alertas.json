@@ -12663,11 +12663,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004124,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004142,
-    "pnl_pct": 0.607,
-    "duracao_min": 18.5,
-    "data_resultado": "2026-07-07T16:28:17.558663+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004116,
+    "pnl_pct": 0.291,
+    "duracao_min": 72.0,
+    "data_resultado": "2026-07-07T17:21:51.885853+00:00"
   },
   {
     "page_id": "396a5230-de72-8167-bd8d-fca833149603",
