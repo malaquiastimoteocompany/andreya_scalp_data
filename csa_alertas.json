@@ -2947,11 +2947,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.17,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.192,
-    "pnl_pct": 1.045,
-    "duracao_min": 70.6,
-    "data_resultado": "2026-07-07T11:44:57.457828+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.19,
+    "pnl_pct": 1.013,
+    "duracao_min": 97.1,
+    "data_resultado": "2026-07-07T12:11:26.949658+00:00"
   },
   {
     "page_id": "396a5230-de72-8199-a733-c2536598ab41",
