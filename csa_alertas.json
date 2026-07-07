@@ -2689,11 +2689,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0256825,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02569,
-    "pnl_pct": 0.43,
-    "duracao_min": 6.9,
-    "data_resultado": "2026-07-07T10:38:55.595020+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.02556,
+    "pnl_pct": 0.176,
+    "duracao_min": 12.9,
+    "data_resultado": "2026-07-07T10:44:54.715895+00:00"
   },
   {
     "page_id": "396a5230-de72-8154-bda3-cf857a63934d",
