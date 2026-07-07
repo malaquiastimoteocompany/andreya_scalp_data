@@ -2149,5 +2149,22 @@
     "pnl_pct": 0.486,
     "duracao_min": 1.9,
     "data_resultado": "2026-07-07T10:04:03.123094+00:00"
+  },
+  {
+    "page_id": "396a5230-de72-81b8-b1fc-c26d4c0210f9",
+    "token": "ALLO",
+    "direccao": "SHORT",
+    "preco_alerta": 0.42376,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T10:04:17.229370+00:00",
+    "rsi_1h": 66.69,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
