@@ -9199,7 +9199,11 @@
     "estado_cfi": "E1",
     "zona_sr": 14.0875,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 14.15,
+    "pnl_pct": 0.712,
+    "duracao_min": 80.4,
+    "data_resultado": "2026-07-07T15:42:18.369677+00:00"
   },
   {
     "page_id": "396a5230-de72-818e-a53d-ca4c414df7c6",
