@@ -13306,11 +13306,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 36.8,
-    "pnl_pct": 0.541,
-    "duracao_min": 14.5,
-    "data_resultado": "2026-07-07T16:58:57.841489+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 37.01,
+    "pnl_pct": 0.257,
+    "duracao_min": 20.7,
+    "data_resultado": "2026-07-07T17:05:07.240494+00:00"
   },
   {
     "page_id": "396a5230-de72-811c-a7b7-db206e6b58c6",
