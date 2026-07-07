@@ -3791,5 +3791,22 @@
     "zona_sr": 0.002211,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81f6-a482-eef10f6063e5",
+    "token": "SLP",
+    "direccao": "LONG",
+    "preco_alerta": 0.0005187,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T11:05:05.807374+00:00",
+    "rsi_1h": 41.78,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00051737,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
