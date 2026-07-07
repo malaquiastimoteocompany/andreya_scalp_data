@@ -355,11 +355,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.071375,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07155,
-    "pnl_pct": 0.421,
-    "duracao_min": 63.8,
-    "data_resultado": "2026-07-07T10:03:31.170805+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07123,
+    "pnl_pct": 0.196,
+    "duracao_min": 91.1,
+    "data_resultado": "2026-07-07T10:30:48.791389+00:00"
   },
   {
     "page_id": "396a5230-de72-817a-bd1e-cb3e21b3c67e",
