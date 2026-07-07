@@ -1,0 +1,30 @@
+{
+  "aviso": "Este ficheiro documenta mudanças de regime nos dados do CSA — leituras obrigatórias antes de analisar csa_alertas_historico.json ou csa_alertas.json. Objectivo: qualquer instância do Claude (mesmo sem memória de conversas anteriores) consegue perceber sozinha onde estão as fronteiras de dados válidos, sem depender de contexto de chat.",
+
+  "eventos": [
+    {
+      "data": "2026-07-04T18:33:00+00:00",
+      "titulo": "Bug do SL introduzido",
+      "descricao": "Ao adicionar TP2, o SL deixou de ser verificado depois do TP1 ser atingido — posições ficavam sem stop até expirar. Produziu perdas de -6% a -15.8% registadas como 'Falhado' em vez de perda real.",
+      "impacto": "PnL Alerta (%) e Resultado não fiáveis entre este momento e o fix seguinte."
+    },
+    {
+      "data": "2026-07-05T00:00:00+00:00",
+      "titulo": "Fix do bug do SL — sistema 50/50",
+      "descricao": "SL sobe para break-even após TP1; posição fecha 50% no TP1 e 50% no TP2/break-even. Novas etiquetas de Resultado: 'BE Hit', 'BE Tardio'.",
+      "impacto": "Dados a partir daqui são fiáveis para PnL e taxa de sucesso. Dados anteriores a 2026-07-04T18:33 (antes do bug existir) também são válidos para PnL — só a janela intermédia (18:33 de 04/07 até 00:00 de 05/07) está contaminada."
+    },
+    {
+      "data": "2026-07-07T08:58:00+00:00",
+      "titulo": "Fix do filtro de liquidez (vol24 × lastPrice)",
+      "descricao": "O filtro de elegibilidade multiplicava volume24 (já em USD) por lastPrice, distorcendo o universo de tokens elegíveis — a favor de tokens caros, contra tokens baratos. Não afecta PnL de alertas já registados (esse cálculo é independente), mas afecta QUE tokens chegaram a gerar alerta.",
+      "impacto": "Simulações agregadas (ex.: 'X USDT/dia com 10 USDT por trade') feitas com dados anteriores a esta data reflectem um universo de tokens distorcido — 32% dos alertas em tokens >$100, quando o filtro correcto (>=$5M volume 24h real) não deveria produzir esse viés. Para simulações comparáveis ao sistema corrigido, usar só dados a partir desta data."
+    }
+  ],
+
+  "resumo_pratico": {
+    "pnl_e_resultado_fiaveis_desde": "2026-07-05T00:00:00+00:00",
+    "universo_de_tokens_corrigido_desde": "2026-07-07T08:58:00+00:00",
+    "nota": "csa_alertas.json (ao vivo) só contém registos a partir de 2026-07-07T08:58 UTC — os anteriores foram removidos daqui por já estarem duplicados em csa_alertas_historico.json, que mantém o histórico completo desde 2026-06-27, incluindo os períodos acima assinalados como não-fiáveis."
+  }
+}
