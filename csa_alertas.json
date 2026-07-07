@@ -593,5 +593,22 @@
     "zona_sr": 0.77763333,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8180-8a44-df9df77b9e87",
+    "token": "ZEN",
+    "direccao": "LONG",
+    "preco_alerta": 4.193,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T08:50:47.265625+00:00",
+    "rsi_1h": 45.91,
+    "funding_rate": -0.0013,
+    "estado_cfi": "E1",
+    "zona_sr": 4.20966667,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
