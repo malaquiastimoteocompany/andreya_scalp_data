@@ -12142,7 +12142,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 508.39,
+    "pnl_pct": -2.543,
+    "duracao_min": 21.6,
+    "data_resultado": "2026-07-07T16:23:28.992364+00:00"
   },
   {
     "page_id": "396a5230-de72-819a-b8c5-da1ef59a9d2b",
