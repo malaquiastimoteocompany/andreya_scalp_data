@@ -11782,11 +11782,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05008667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.05027,
-    "pnl_pct": 0.822,
-    "duracao_min": 15.9,
-    "data_resultado": "2026-07-07T16:03:06.680345+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.05085,
+    "pnl_pct": 1.404,
+    "duracao_min": 40.9,
+    "data_resultado": "2026-07-07T16:28:04.233143+00:00"
   },
   {
     "page_id": "396a5230-de72-81ca-beb2-f02efe2dcc2a",
