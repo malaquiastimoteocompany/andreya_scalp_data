@@ -14083,11 +14083,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.12876667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1299,
-    "pnl_pct": 1.011,
-    "duracao_min": 5.4,
-    "data_resultado": "2026-07-07T17:09:43.864316+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1286,
+    "pnl_pct": 0.505,
+    "duracao_min": 113.2,
+    "data_resultado": "2026-07-07T18:57:32.681269+00:00"
   },
   {
     "page_id": "396a5230-de72-810a-8800-c4d988c48bd9",
