@@ -13850,7 +13850,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.016265,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.01593,
+    "pnl_pct": -1.788,
+    "duracao_min": 81.0,
+    "data_resultado": "2026-07-07T18:18:04.899419+00:00"
   },
   {
     "page_id": "396a5230-de72-81ee-8cc9-f4e542150c14",
