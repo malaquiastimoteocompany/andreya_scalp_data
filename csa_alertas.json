@@ -10011,5 +10011,22 @@
     "zona_sr": 0.00362318,
     "toques_sr": 11,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81b9-82b8-e18de40fbda0",
+    "token": "XAN",
+    "direccao": "LONG",
+    "preco_alerta": 0.011179,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T14:57:15.957574+00:00",
+    "rsi_1h": 40.51,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0112274,
+    "toques_sr": 5,
+    "resultado": "Pendente"
   }
 ]
