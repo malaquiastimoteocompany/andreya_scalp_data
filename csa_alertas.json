@@ -11121,11 +11121,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.12235,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.1307,
-    "pnl_pct": 0.489,
-    "duracao_min": 11.0,
-    "data_resultado": "2026-07-07T15:37:54.462352+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.125,
+    "pnl_pct": 0.236,
+    "duracao_min": 45.2,
+    "data_resultado": "2026-07-07T16:12:05.474770+00:00"
   },
   {
     "page_id": "396a5230-de72-81f2-a749-e6828682209f",
