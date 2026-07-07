@@ -1052,11 +1052,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.001653,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001641,
-    "pnl_pct": 0.846,
-    "duracao_min": 111.1,
-    "data_resultado": "2026-07-07T10:52:29.649870+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.001631,
+    "pnl_pct": 1.148,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-07T11:02:19.866300+00:00"
   },
   {
     "page_id": "396a5230-de72-816e-87d3-e9aca3672f10",
