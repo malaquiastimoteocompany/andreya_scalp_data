@@ -7526,11 +7526,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00660375,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.006547,
-    "pnl_pct": 0.486,
-    "duracao_min": 5.1,
-    "data_resultado": "2026-07-07T13:37:06.136276+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.006593,
+    "pnl_pct": 0.137,
+    "duracao_min": 14.0,
+    "data_resultado": "2026-07-07T13:45:59.835380+00:00"
   },
   {
     "page_id": "396a5230-de72-8130-bec0-ca092d65dc14",
