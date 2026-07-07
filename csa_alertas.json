@@ -15433,11 +15433,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3036,
-    "pnl_pct": 0.946,
-    "duracao_min": 57.5,
-    "data_resultado": "2026-07-07T18:59:26.236355+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3072,
+    "pnl_pct": 0.359,
+    "duracao_min": 74.3,
+    "data_resultado": "2026-07-07T19:16:15.963678+00:00"
   },
   {
     "page_id": "396a5230-de72-81a4-8511-d6bed9cfdda7",
