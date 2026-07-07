@@ -2836,11 +2836,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02271,
-    "pnl_pct": 2.824,
-    "duracao_min": 7.1,
-    "data_resultado": "2026-07-07T10:46:29.859517+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.02345,
+    "pnl_pct": 1.241,
+    "duracao_min": 13.5,
+    "data_resultado": "2026-07-07T10:52:52.461951+00:00"
   },
   {
     "page_id": "396a5230-de72-818e-911b-d42cb25387f1",
