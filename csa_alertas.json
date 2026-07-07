@@ -15650,5 +15650,22 @@
     "zona_sr": 0.0643,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8130-8510-e625b0bcdac4",
+    "token": "DYDX",
+    "direccao": "SHORT",
+    "preco_alerta": 0.1285,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T18:24:18.474569+00:00",
+    "rsi_1h": 48.74,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.1282,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
