@@ -4854,5 +4854,22 @@
     "zona_sr": 0.007926,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-817d-a956-db2652c230fa",
+    "token": "PUMPFUN",
+    "direccao": "SHORT",
+    "preco_alerta": 0.001636,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T12:02:14.132440+00:00",
+    "rsi_1h": 50.05,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00164167,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
