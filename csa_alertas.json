@@ -8329,11 +8329,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02250667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02254,
-    "pnl_pct": 0.49,
-    "duracao_min": 4.3,
-    "data_resultado": "2026-07-07T14:06:26.259606+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.02243,
+    "pnl_pct": 0.245,
+    "duracao_min": 24.3,
+    "data_resultado": "2026-07-07T14:26:23.187504+00:00"
   },
   {
     "page_id": "396a5230-de72-8131-8e5a-db86cf9a7175",
