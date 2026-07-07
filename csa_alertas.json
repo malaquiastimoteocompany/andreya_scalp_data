@@ -5183,11 +5183,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1185,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1171,
-    "pnl_pct": 1.431,
-    "duracao_min": 10.1,
-    "data_resultado": "2026-07-07T12:14:58.125447+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1145,
+    "pnl_pct": 2.525,
+    "duracao_min": 76.3,
+    "data_resultado": "2026-07-07T13:21:07.932715+00:00"
   },
   {
     "page_id": "396a5230-de72-81e8-8517-d47ecee9726a",
