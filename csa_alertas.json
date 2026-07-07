@@ -21033,5 +21033,22 @@
     "zona_sr": 0.05022333,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-815c-8212-fdbc167e5a30",
+    "token": "YFI",
+    "direccao": "SHORT",
+    "preco_alerta": 2186.0,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T22:39:22.111390+00:00",
+    "rsi_1h": 40.32,
+    "funding_rate": -0.0709,
+    "estado_cfi": "E1",
+    "zona_sr": 2178.0,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
