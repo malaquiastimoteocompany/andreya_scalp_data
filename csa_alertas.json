@@ -17310,11 +17310,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00271333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.002723,
-    "pnl_pct": 0.406,
-    "duracao_min": 54.9,
-    "data_resultado": "2026-07-07T20:04:38.573758+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.002712,
+    "pnl_pct": 0.203,
+    "duracao_min": 84.8,
+    "data_resultado": "2026-07-07T20:34:27.974225+00:00"
   },
   {
     "page_id": "396a5230-de72-81a5-800b-c9647ddfc826",
