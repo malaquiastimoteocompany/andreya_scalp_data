@@ -5416,11 +5416,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3886,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.392,
-    "pnl_pct": 0.953,
-    "duracao_min": 19.0,
-    "data_resultado": "2026-07-07T12:28:34.853678+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.3876,
+    "pnl_pct": 0.386,
+    "duracao_min": 23.7,
+    "data_resultado": "2026-07-07T12:33:16.507282+00:00"
   },
   {
     "page_id": "396a5230-de72-8145-9b4b-f1b0c62d10d2",
