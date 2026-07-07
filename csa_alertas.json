@@ -525,5 +525,22 @@
     "zona_sr": 4.2165,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8110-bd87-fc66942e374e",
+    "token": "TIA",
+    "direccao": "LONG",
+    "preco_alerta": 0.38,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T08:50:38.646853+00:00",
+    "rsi_1h": 45.06,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.3814,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
