@@ -11310,11 +11310,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.012055,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
+    "resultado": "Falhado",
     "preco_saida": 0.01214,
     "pnl_pct": 0.831,
-    "duracao_min": 82.8,
-    "data_resultado": "2026-07-07T16:52:23.064411+00:00"
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-07T17:29:34.182769+00:00"
   },
   {
     "page_id": "396a5230-de72-81e1-9179-d36edd7e6f1c",
