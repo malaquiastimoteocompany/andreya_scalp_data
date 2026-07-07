@@ -4216,11 +4216,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0035535,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.003567,
-    "pnl_pct": 0.338,
-    "duracao_min": 38.1,
-    "data_resultado": "2026-07-07T11:45:15.989643+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.003585,
+    "pnl_pct": 0.591,
+    "duracao_min": 59.1,
+    "data_resultado": "2026-07-07T12:06:15.594089+00:00"
   },
   {
     "page_id": "396a5230-de72-81f8-b2e3-e3f508d954db",
