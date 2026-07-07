@@ -13020,11 +13020,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00363683,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.003618,
-    "pnl_pct": 0.44,
-    "duracao_min": 23.2,
-    "data_resultado": "2026-07-07T16:47:55.599927+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.003637,
+    "pnl_pct": 0.179,
+    "duracao_min": 28.1,
+    "data_resultado": "2026-07-07T16:52:54.720742+00:00"
   },
   {
     "page_id": "396a5230-de72-816b-b0cf-d5bbea92548c",
