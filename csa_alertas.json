@@ -21012,5 +21012,22 @@
     "zona_sr": 0.02724,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8134-8f97-ee3712b7e28b",
+    "token": "LUNANEW",
+    "direccao": "SHORT",
+    "preco_alerta": 0.05012,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T22:37:04.527265+00:00",
+    "rsi_1h": 62.13,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.05022333,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
