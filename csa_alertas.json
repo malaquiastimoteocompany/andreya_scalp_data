@@ -20653,7 +20653,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.04436,
+    "pnl_pct": 0.271,
+    "duracao_min": 16.1,
+    "data_resultado": "2026-07-07T22:20:53.848796+00:00"
   },
   {
     "page_id": "396a5230-de72-81eb-9544-f4f80ede79df",
