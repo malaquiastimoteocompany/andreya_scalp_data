@@ -13854,5 +13854,22 @@
     "zona_sr": 0.002211,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8167-ba86-c7d4c1561dc6",
+    "token": "SHIB",
+    "direccao": "SHORT",
+    "preco_alerta": 4.492e-06,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T17:04:36.737018+00:00",
+    "rsi_1h": 71.4,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 4.48e-06,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
