@@ -3933,11 +3933,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03123667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03137,
-    "pnl_pct": 0.642,
-    "duracao_min": 17.9,
-    "data_resultado": "2026-07-07T11:22:52.516921+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.03153,
+    "pnl_pct": 0.898,
+    "duracao_min": 42.1,
+    "data_resultado": "2026-07-07T11:47:07.459515+00:00"
   },
   {
     "page_id": "396a5230-de72-818e-a972-d5f0b233a7d4",
