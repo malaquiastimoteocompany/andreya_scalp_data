@@ -9718,11 +9718,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.071375,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07128,
-    "pnl_pct": 0.366,
-    "duracao_min": 4.5,
-    "data_resultado": "2026-07-07T14:51:22.672639+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.07167,
+    "pnl_pct": 0.641,
+    "duracao_min": 9.7,
+    "data_resultado": "2026-07-07T14:56:37.066349+00:00"
   },
   {
     "page_id": "396a5230-de72-8144-9a66-dc06522ca9e3",
