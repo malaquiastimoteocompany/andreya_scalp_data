@@ -3814,11 +3814,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.7841,
-    "pnl_pct": 1.022,
-    "duracao_min": 6.0,
-    "data_resultado": "2026-07-07T11:10:33.412969+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.776,
+    "pnl_pct": 1.534,
+    "duracao_min": 74.7,
+    "data_resultado": "2026-07-07T12:19:13.351917+00:00"
   },
   {
     "page_id": "396a5230-de72-81d4-b007-e94eede3ab4a",
