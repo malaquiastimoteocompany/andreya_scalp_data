@@ -2067,5 +2067,22 @@
     "zona_sr": 1.65566667,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8153-bb07-c9b23965f46f",
+    "token": "EPIC",
+    "direccao": "SHORT",
+    "preco_alerta": 0.3748,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T09:04:28.355954+00:00",
+    "rsi_1h": 43.06,
+    "funding_rate": -0.048,
+    "estado_cfi": "E1",
+    "zona_sr": 0.37455,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
