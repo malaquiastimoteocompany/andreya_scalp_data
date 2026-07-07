@@ -2891,11 +2891,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.007035,
-    "pnl_pct": 0.608,
-    "duracao_min": 7.1,
-    "data_resultado": "2026-07-07T10:46:34.461480+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.007088,
+    "pnl_pct": 0.233,
+    "duracao_min": 11.8,
+    "data_resultado": "2026-07-07T10:51:18.524792+00:00"
   },
   {
     "page_id": "396a5230-de72-814e-82b7-ebe70e166be6",
