@@ -9409,5 +9409,22 @@
     "zona_sr": 0.063695,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-810e-ba73-fc8fe2b010f7",
+    "token": "APT",
+    "direccao": "SHORT",
+    "preco_alerta": 0.6314,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T14:41:54.464691+00:00",
+    "rsi_1h": 50.01,
+    "funding_rate": 0.0,
+    "estado_cfi": "E1",
+    "zona_sr": 0.6339,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
