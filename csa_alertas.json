@@ -17603,11 +17603,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02867,
-    "pnl_pct": 0.738,
-    "duracao_min": 22.1,
-    "data_resultado": "2026-07-07T19:34:36.175620+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.02858,
+    "pnl_pct": 0.58,
+    "duracao_min": 121.4,
+    "data_resultado": "2026-07-07T21:13:51.217914+00:00"
   },
   {
     "page_id": "396a5230-de72-812d-9c61-ec8ac973eb29",
