@@ -1663,11 +1663,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00052688,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0005288,
-    "pnl_pct": 0.399,
-    "duracao_min": 48.4,
-    "data_resultado": "2026-07-07T10:05:27.623802+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.0005298,
+    "pnl_pct": 0.494,
+    "duracao_min": 67.7,
+    "data_resultado": "2026-07-07T10:24:44.643557+00:00"
   },
   {
     "page_id": "396a5230-de72-8143-9557-c4091806507f",
