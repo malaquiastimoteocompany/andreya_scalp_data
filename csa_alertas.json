@@ -4643,11 +4643,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.22325,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2258,
-    "pnl_pct": 0.714,
-    "duracao_min": 9.9,
-    "data_resultado": "2026-07-07T11:51:45.668438+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.2282,
+    "pnl_pct": 1.249,
+    "duracao_min": 24.6,
+    "data_resultado": "2026-07-07T12:06:26.620275+00:00"
   },
   {
     "page_id": "396a5230-de72-819a-8da4-f1ba7aa96db4",
