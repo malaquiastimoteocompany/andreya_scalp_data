@@ -9222,11 +9222,11 @@
     "estado_cfi": "E1",
     "zona_sr": 4.37e-06,
     "toques_sr": 8,
-    "resultado": "TP Tardio",
-    "preco_saida": 4.402e-06,
-    "pnl_pct": 0.571,
-    "duracao_min": 31.7,
-    "data_resultado": "2026-07-07T14:56:16.330765+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 4.414e-06,
+    "pnl_pct": 0.708,
+    "duracao_min": 56.6,
+    "data_resultado": "2026-07-07T15:21:13.030260+00:00"
   },
   {
     "page_id": "396a5230-de72-8154-97e9-e6b4e814bb76",
