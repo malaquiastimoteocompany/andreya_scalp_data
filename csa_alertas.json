@@ -3621,5 +3621,22 @@
     "zona_sr": 0.063355,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8128-acbf-e686839e9eb1",
+    "token": "FARTCOIN",
+    "direccao": "LONG",
+    "preco_alerta": 0.16008,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T11:04:37.037149+00:00",
+    "rsi_1h": 46.12,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.159325,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
