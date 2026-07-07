@@ -21727,5 +21727,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81f0-9840-fefef20418e8",
+    "token": "PTB",
+    "direccao": "LONG",
+    "preco_alerta": 0.000518,
+    "score": 6,
+    "setup": "C",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T23:07:13.307521+00:00",
+    "rsi_1h": 41.57,
+    "funding_rate": 0.082,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0005174,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
