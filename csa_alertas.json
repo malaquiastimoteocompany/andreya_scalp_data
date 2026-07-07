@@ -1277,5 +1277,22 @@
     "zona_sr": 0.16122,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81e1-9e0d-cdd2a16085f2",
+    "token": "SAND",
+    "direccao": "LONG",
+    "preco_alerta": 0.04945,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T09:00:22.410381+00:00",
+    "rsi_1h": 43.04,
+    "funding_rate": 0.0073,
+    "estado_cfi": "E1",
+    "zona_sr": 0.049625,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
