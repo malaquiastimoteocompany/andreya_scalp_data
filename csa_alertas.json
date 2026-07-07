@@ -20430,11 +20430,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0020115,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002034,
-    "pnl_pct": 0.843,
-    "duracao_min": 11.9,
-    "data_resultado": "2026-07-07T21:51:34.360835+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.002052,
+    "pnl_pct": 1.289,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-07T23:39:57.567405+00:00"
   },
   {
     "page_id": "396a5230-de72-819e-ae2c-eaf790d427ab",
