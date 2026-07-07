@@ -5001,11 +5001,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.007926,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.008037,
-    "pnl_pct": 0.929,
-    "duracao_min": 8.1,
-    "data_resultado": "2026-07-07T12:10:17.865849+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.00796,
+    "pnl_pct": 0.446,
+    "duracao_min": 35.8,
+    "data_resultado": "2026-07-07T12:38:03.162857+00:00"
   },
   {
     "page_id": "396a5230-de72-817d-a956-db2652c230fa",
