@@ -17162,11 +17162,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.628,
-    "pnl_pct": 0.271,
-    "duracao_min": 32.5,
-    "data_resultado": "2026-07-07T19:41:54.604625+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.6263,
+    "pnl_pct": 0.136,
+    "duracao_min": 50.6,
+    "data_resultado": "2026-07-07T19:59:56.957141+00:00"
   },
   {
     "page_id": "396a5230-de72-81c2-bb28-cedef4b9ee21",
