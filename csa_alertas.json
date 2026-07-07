@@ -2628,5 +2628,22 @@
     "zona_sr": 0.071375,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8187-be9f-c2a65fe8826d",
+    "token": "SNX",
+    "direccao": "SHORT",
+    "preco_alerta": 0.2271,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T10:31:53.676430+00:00",
+    "rsi_1h": 59.97,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.22793333,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
