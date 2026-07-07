@@ -18393,7 +18393,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00361167,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.003562,
+    "pnl_pct": -1.22,
+    "duracao_min": 116.0,
+    "data_resultado": "2026-07-07T21:58:24.911131+00:00"
   },
   {
     "page_id": "396a5230-de72-8108-996a-e120633373f7",
