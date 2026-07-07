@@ -19783,5 +19783,22 @@
     "zona_sr": 0.00271333,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8155-affc-f4997c8c3701",
+    "token": "DOGS",
+    "direccao": "LONG",
+    "preco_alerta": 4.079e-05,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T21:19:48.413441+00:00",
+    "rsi_1h": 22.83,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 4.065e-05,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
