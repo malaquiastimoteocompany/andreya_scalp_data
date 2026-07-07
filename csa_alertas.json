@@ -18588,5 +18588,22 @@
     "zona_sr": 0.02724,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81e6-ba0c-fda1ea82f252",
+    "token": "AEVO",
+    "direccao": "LONG",
+    "preco_alerta": 0.01848,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T20:36:59.668374+00:00",
+    "rsi_1h": 34.12,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.018565,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
