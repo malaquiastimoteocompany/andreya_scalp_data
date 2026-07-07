@@ -17123,7 +17123,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07736667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.078,
+    "pnl_pct": 0.528,
+    "duracao_min": 25.0,
+    "data_resultado": "2026-07-07T19:34:25.690616+00:00"
   },
   {
     "page_id": "396a5230-de72-816e-8cc9-c24c49c0238e",
