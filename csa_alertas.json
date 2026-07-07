@@ -17645,11 +17645,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01659,
-    "pnl_pct": 0.606,
-    "duracao_min": 105.3,
-    "data_resultado": "2026-07-07T20:59:50.353101+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.01668,
+    "pnl_pct": 0.879,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-07T21:15:22.190876+00:00"
   },
   {
     "page_id": "396a5230-de72-81a8-8fd6-ea48ede423b9",
