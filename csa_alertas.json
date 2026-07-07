@@ -4721,11 +4721,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02594833,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02598,
-    "pnl_pct": 0.542,
-    "duracao_min": 3.7,
-    "data_resultado": "2026-07-07T11:58:10.968061+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.0261,
+    "pnl_pct": 0.774,
+    "duracao_min": 9.9,
+    "data_resultado": "2026-07-07T12:04:27.768416+00:00"
   },
   {
     "page_id": "396a5230-de72-813d-aaed-c88a6a7ad3c0",
