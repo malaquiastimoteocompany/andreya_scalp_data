@@ -11427,5 +11427,22 @@
     "zona_sr": 0.39135,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-815b-9962-c2e09ff9d50a",
+    "token": "VET",
+    "direccao": "SHORT",
+    "preco_alerta": 0.004821,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T15:39:41.036607+00:00",
+    "rsi_1h": 45.11,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0048245,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
