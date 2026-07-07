@@ -13049,11 +13049,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0645725,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06473,
-    "pnl_pct": 0.466,
-    "duracao_min": 4.2,
-    "data_resultado": "2026-07-07T16:23:43.872870+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.06448,
+    "pnl_pct": 0.272,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-07T18:19:31.734927+00:00"
   },
   {
     "page_id": "396a5230-de72-812d-84db-cad757a70e29",
