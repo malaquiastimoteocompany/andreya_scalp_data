@@ -11618,11 +11618,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004608,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004629,
-    "pnl_pct": 0.543,
-    "duracao_min": 9.1,
-    "data_resultado": "2026-07-07T15:49:07.902293+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004603,
+    "pnl_pct": 0.261,
+    "duracao_min": 35.5,
+    "data_resultado": "2026-07-07T16:15:28.338495+00:00"
   },
   {
     "page_id": "396a5230-de72-81d1-8b48-c306347cd415",
