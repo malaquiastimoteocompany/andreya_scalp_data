@@ -2015,5 +2015,22 @@
     "zona_sr": 456.96,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81b8-9edb-e1196795940d",
+    "token": "LDO",
+    "direccao": "SHORT",
+    "preco_alerta": 0.2869,
+    "score": 8,
+    "setup": "A",
+    "prioritario": true,
+    "enviado": true,
+    "data_alerta": "2026-07-07T10:01:52.804261+00:00",
+    "rsi_1h": 65.58,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.2881,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
