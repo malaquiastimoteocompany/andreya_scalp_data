@@ -10591,11 +10591,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1567,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1575,
-    "pnl_pct": 0.897,
-    "duracao_min": 33.1,
-    "data_resultado": "2026-07-07T15:37:35.380678+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1594,
+    "pnl_pct": 1.505,
+    "duracao_min": 55.5,
+    "data_resultado": "2026-07-07T15:59:57.004572+00:00"
   },
   {
     "page_id": "396a5230-de72-813d-b1f9-d2a9b34a03c1",
