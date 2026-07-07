@@ -14294,11 +14294,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1671,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1657,
-    "pnl_pct": 0.48,
-    "duracao_min": 18.8,
-    "data_resultado": "2026-07-07T17:33:15.367298+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1643,
+    "pnl_pct": 0.901,
+    "duracao_min": 97.3,
+    "data_resultado": "2026-07-07T18:51:46.788543+00:00"
   },
   {
     "page_id": "396a5230-de72-8128-835c-e0065dd6b4a4",
