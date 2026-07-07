@@ -5971,11 +5971,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.777,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.77,
-    "pnl_pct": 0.901,
-    "duracao_min": 108.9,
-    "data_resultado": "2026-07-07T14:10:45.658920+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.7698,
+    "pnl_pct": 0.914,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-07T14:23:04.487030+00:00"
   },
   {
     "page_id": "396a5230-de72-8132-b8b9-d5566bfd9179",
