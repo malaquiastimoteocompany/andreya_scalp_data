@@ -14213,11 +14213,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.73e-06,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.7086e-06,
-    "pnl_pct": 0.613,
-    "duracao_min": 102.4,
-    "data_resultado": "2026-07-07T18:49:30.424157+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.6876e-06,
+    "pnl_pct": 0.998,
+    "duracao_min": 113.7,
+    "data_resultado": "2026-07-07T19:00:50.833738+00:00"
   },
   {
     "page_id": "396a5230-de72-81b2-ad60-fcc04b6a9d02",
