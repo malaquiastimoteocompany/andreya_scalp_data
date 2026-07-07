@@ -14827,11 +14827,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.050645,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0502,
-    "pnl_pct": 0.791,
-    "duracao_min": 4.7,
-    "data_resultado": "2026-07-07T17:46:44.095927+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.0498,
+    "pnl_pct": 1.186,
+    "duracao_min": 7.9,
+    "data_resultado": "2026-07-07T17:49:53.635996+00:00"
   },
   {
     "page_id": "396a5230-de72-81fc-8cdb-f0da8bbbb677",
