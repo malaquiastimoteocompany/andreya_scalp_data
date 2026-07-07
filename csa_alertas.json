@@ -11476,11 +11476,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002883,
-    "pnl_pct": 4.951,
-    "duracao_min": 8.0,
-    "data_resultado": "2026-07-07T15:47:26.209816+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.002727,
+    "pnl_pct": 2.111,
+    "duracao_min": 26.5,
+    "data_resultado": "2026-07-07T16:05:56.159375+00:00"
   },
   {
     "page_id": "396a5230-de72-810a-8a3a-f810d2bc6c1e",
