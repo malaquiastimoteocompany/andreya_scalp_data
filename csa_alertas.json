@@ -14606,5 +14606,22 @@
     "zona_sr": 0.05059,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-811f-a4ee-de4158bab776",
+    "token": "RSR",
+    "direccao": "SHORT",
+    "preco_alerta": 0.001266,
+    "score": 8,
+    "setup": "A",
+    "prioritario": true,
+    "enviado": false,
+    "data_alerta": "2026-07-07T17:34:41.254153+00:00",
+    "rsi_1h": 72.45,
+    "funding_rate": 0.0022,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00126,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
