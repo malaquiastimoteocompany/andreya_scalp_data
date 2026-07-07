@@ -17246,11 +17246,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.002211,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.002212,
-    "pnl_pct": 0.409,
-    "duracao_min": 34.7,
-    "data_resultado": "2026-07-07T19:41:51.135148+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.002211,
+    "pnl_pct": 0.386,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-07T21:07:42.356752+00:00"
   },
   {
     "page_id": "396a5230-de72-8145-ba88-c28fff2a6bb2",
