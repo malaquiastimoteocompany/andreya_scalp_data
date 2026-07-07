@@ -15498,11 +15498,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.012105,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01199,
-    "pnl_pct": 0.58,
-    "duracao_min": 8.0,
-    "data_resultado": "2026-07-07T18:20:03.470768+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.01196,
+    "pnl_pct": 0.705,
+    "duracao_min": 20.1,
+    "data_resultado": "2026-07-07T18:32:08.234071+00:00"
   },
   {
     "page_id": "396a5230-de72-8125-bb30-f9a849a2e1e7",
