@@ -9703,7 +9703,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.22325,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.2249,
+    "pnl_pct": 0.807,
+    "duracao_min": 7.7,
+    "data_resultado": "2026-07-07T14:54:40.590596+00:00"
   },
   {
     "page_id": "396a5230-de72-81cb-92dc-ddb4b53bbc00",
