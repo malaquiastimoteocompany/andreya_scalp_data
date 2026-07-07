@@ -11542,7 +11542,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004608,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.004629,
+    "pnl_pct": 0.543,
+    "duracao_min": 9.1,
+    "data_resultado": "2026-07-07T15:49:07.902293+00:00"
   },
   {
     "page_id": "396a5230-de72-81d1-8b48-c306347cd415",
