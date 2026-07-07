@@ -16498,11 +16498,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.12235,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.1246,
-    "pnl_pct": 0.429,
-    "duracao_min": 61.2,
-    "data_resultado": "2026-07-07T19:58:11.585182+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.1198,
+    "pnl_pct": 0.214,
+    "duracao_min": 72.0,
+    "data_resultado": "2026-07-07T20:08:59.430171+00:00"
   },
   {
     "page_id": "396a5230-de72-8104-80ca-c22b78f09476",
