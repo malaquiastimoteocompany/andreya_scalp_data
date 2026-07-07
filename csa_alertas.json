@@ -712,5 +712,22 @@
     "zona_sr": 6.7765,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81b4-ba36-fa35f722d913",
+    "token": "TQQQ",
+    "direccao": "LONG",
+    "preco_alerta": 74.33,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T08:54:23.424478+00:00",
+    "rsi_1h": 38.37,
+    "funding_rate": 0.0,
+    "estado_cfi": "E1",
+    "zona_sr": 74.665,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
