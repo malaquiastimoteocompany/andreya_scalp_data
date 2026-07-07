@@ -4466,11 +4466,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.13306667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1306,
-    "pnl_pct": 1.878,
-    "duracao_min": 32.0,
-    "data_resultado": "2026-07-07T11:56:21.759439+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1285,
+    "pnl_pct": 2.667,
+    "duracao_min": 70.3,
+    "data_resultado": "2026-07-07T12:34:39.783585+00:00"
   },
   {
     "page_id": "396a5230-de72-81dd-a555-da2765e0becf",
