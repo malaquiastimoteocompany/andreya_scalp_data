@@ -13205,11 +13205,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.022225,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02168,
-    "pnl_pct": 2.033,
-    "duracao_min": 4.3,
-    "data_resultado": "2026-07-07T16:31:19.124196+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.02044,
+    "pnl_pct": 4.835,
+    "duracao_min": 66.0,
+    "data_resultado": "2026-07-07T17:33:01.426887+00:00"
   },
   {
     "page_id": "396a5230-de72-812e-86bf-e275d7e49547",
