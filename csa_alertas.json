@@ -16484,5 +16484,22 @@
     "zona_sr": 0.0065945,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81f3-a4e0-eb99448d1bef",
+    "token": "MINA",
+    "direccao": "LONG",
+    "preco_alerta": 0.04782,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T18:59:44.279372+00:00",
+    "rsi_1h": 40.15,
+    "funding_rate": -0.0007,
+    "estado_cfi": "E1",
+    "zona_sr": 0.04789,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
