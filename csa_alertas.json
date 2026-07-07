@@ -14851,11 +14851,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1819,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1783,
-    "pnl_pct": 2.141,
-    "duracao_min": 98.9,
-    "data_resultado": "2026-07-07T19:13:22.988311+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.1806,
+    "pnl_pct": 1.509,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-07T19:35:44.712847+00:00"
   },
   {
     "page_id": "396a5230-de72-8138-b198-c53a3b4fd598",
