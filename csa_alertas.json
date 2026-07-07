@@ -12868,11 +12868,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00051955,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0005214,
-    "pnl_pct": 0.482,
-    "duracao_min": 20.3,
-    "data_resultado": "2026-07-07T16:37:18.547670+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0005176,
+    "pnl_pct": 0.116,
+    "duracao_min": 75.9,
+    "data_resultado": "2026-07-07T17:32:55.306361+00:00"
   },
   {
     "page_id": "396a5230-de72-81a7-a418-ed0711f170f3",
