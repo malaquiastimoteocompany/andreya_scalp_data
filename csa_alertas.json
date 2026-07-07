@@ -16940,11 +16940,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05964,
-    "pnl_pct": 0.726,
-    "duracao_min": 42.6,
-    "data_resultado": "2026-07-07T19:44:49.158320+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.06029,
+    "pnl_pct": 1.275,
+    "duracao_min": 116.0,
+    "data_resultado": "2026-07-07T20:58:12.201317+00:00"
   },
   {
     "page_id": "396a5230-de72-81f6-b35d-dea53c979b4f",
