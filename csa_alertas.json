@@ -10780,11 +10780,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.68e-06,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 2.706e-06,
-    "pnl_pct": 0.539,
-    "duracao_min": 13.4,
-    "data_resultado": "2026-07-07T15:23:01.464785+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.7228e-06,
+    "pnl_pct": 0.851,
+    "duracao_min": 44.4,
+    "data_resultado": "2026-07-07T15:54:00.432773+00:00"
   },
   {
     "page_id": "396a5230-de72-817d-a16a-ed35557e2c96",
