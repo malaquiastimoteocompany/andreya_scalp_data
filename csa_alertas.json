@@ -22192,11 +22192,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2552,
-    "pnl_pct": 0.893,
-    "duracao_min": 23.9,
-    "data_resultado": "2026-07-07T23:53:20.543652+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.2532,
+    "pnl_pct": 1.282,
+    "duracao_min": 29.7,
+    "data_resultado": "2026-07-07T23:59:06.524660+00:00"
   },
   {
     "page_id": "396a5230-de72-819f-b949-cddc8bc84e33",
