@@ -20493,7 +20493,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.01433,
+    "pnl_pct": 0.915,
+    "duracao_min": 7.2,
+    "data_resultado": "2026-07-07T22:09:20.591828+00:00"
   },
   {
     "page_id": "396a5230-de72-8144-b963-fdd2316c872c",
