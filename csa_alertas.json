@@ -17819,5 +17819,22 @@
     "pnl_pct": 0.803,
     "duracao_min": 2.3,
     "data_resultado": "2026-07-07T19:46:39.863909+00:00"
+  },
+  {
+    "page_id": "396a5230-de72-8196-abe0-d40e8daf4094",
+    "token": "ETHFI",
+    "direccao": "SHORT",
+    "preco_alerta": 0.4321,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T19:46:51.981547+00:00",
+    "rsi_1h": 48.2,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.43044,
+    "toques_sr": 5,
+    "resultado": "Pendente"
   }
 ]
