@@ -12155,5 +12155,22 @@
     "zona_sr": 0.11216667,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8123-b60f-fb6c482381b7",
+    "token": "KAVA",
+    "direccao": "LONG",
+    "preco_alerta": 0.04501,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T16:02:09.925445+00:00",
+    "rsi_1h": 47.28,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.044917,
+    "toques_sr": 10,
+    "resultado": "Pendente"
   }
 ]
