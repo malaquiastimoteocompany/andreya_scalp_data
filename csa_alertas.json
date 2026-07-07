@@ -16842,5 +16842,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-818c-b024-e74d4eb359de",
+    "token": "ACE",
+    "direccao": "LONG",
+    "preco_alerta": 0.07386,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T19:04:33.267929+00:00",
+    "rsi_1h": 33.06,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
