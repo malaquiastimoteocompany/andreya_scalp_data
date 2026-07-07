@@ -10019,11 +10019,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004608,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00463,
-    "pnl_pct": 0.718,
-    "duracao_min": 3.8,
-    "data_resultado": "2026-07-07T14:58:39.147095+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.004597,
+    "pnl_pct": 0.359,
+    "duracao_min": 11.2,
+    "data_resultado": "2026-07-07T15:06:05.952979+00:00"
   },
   {
     "page_id": "396a5230-de72-8128-9598-f19c6a2a94c2",
