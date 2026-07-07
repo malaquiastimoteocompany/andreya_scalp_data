@@ -4936,11 +4936,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02628167,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02663,
-    "pnl_pct": 0.986,
-    "duracao_min": 6.4,
-    "data_resultado": "2026-07-07T12:08:30.056980+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.02665,
+    "pnl_pct": 1.024,
+    "duracao_min": 9.8,
+    "data_resultado": "2026-07-07T12:11:50.078940+00:00"
   },
   {
     "page_id": "396a5230-de72-812c-89d5-c6c555939c3c",
