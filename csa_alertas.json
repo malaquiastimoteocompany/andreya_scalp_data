@@ -14960,11 +14960,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.002095,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.002067,
-    "pnl_pct": 0.958,
-    "duracao_min": 70.2,
-    "data_resultado": "2026-07-07T18:49:49.865031+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.002049,
+    "pnl_pct": 1.39,
+    "duracao_min": 78.1,
+    "data_resultado": "2026-07-07T18:57:44.960559+00:00"
   },
   {
     "page_id": "396a5230-de72-81e5-9b50-cee2c468c11f",
