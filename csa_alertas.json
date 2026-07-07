@@ -5217,11 +5217,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07588,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07593,
-    "pnl_pct": 0.423,
-    "duracao_min": 22.9,
-    "data_resultado": "2026-07-07T12:29:59.928434+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.07559,
+    "pnl_pct": 0.198,
+    "duracao_min": 26.1,
+    "data_resultado": "2026-07-07T12:33:11.473383+00:00"
   },
   {
     "page_id": "396a5230-de72-8156-b88c-d08a0e25b5ef",
