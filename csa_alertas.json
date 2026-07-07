@@ -17778,5 +17778,22 @@
     "pnl_pct": 0.563,
     "duracao_min": 1.0,
     "data_resultado": "2026-07-07T19:40:33.019064+00:00"
+  },
+  {
+    "page_id": "396a5230-de72-819b-9e0f-faa5a007f6c6",
+    "token": "ENA",
+    "direccao": "LONG",
+    "preco_alerta": 0.07725,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T19:44:20.469723+00:00",
+    "rsi_1h": 50.2,
+    "funding_rate": 0.0024,
+    "estado_cfi": "E1",
+    "zona_sr": 0.07705833,
+    "toques_sr": 6,
+    "resultado": "Pendente"
   }
 ]
