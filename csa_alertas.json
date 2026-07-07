@@ -4529,7 +4529,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03471,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.03453,
+    "pnl_pct": 0.49,
+    "duracao_min": 71.6,
+    "data_resultado": "2026-07-07T12:41:02.756304+00:00"
   },
   {
     "page_id": "396a5230-de72-8149-ac3e-d1c4c6e9e38b",
