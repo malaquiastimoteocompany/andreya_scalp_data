@@ -3191,11 +3191,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.7385,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 6.777,
-    "pnl_pct": 0.385,
-    "duracao_min": 39.1,
-    "data_resultado": "2026-07-07T11:25:56.642191+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 6.816,
+    "pnl_pct": 0.674,
+    "duracao_min": 84.7,
+    "data_resultado": "2026-07-07T12:11:30.662963+00:00"
   },
   {
     "page_id": "396a5230-de72-812c-b668-f6e87a691646",
