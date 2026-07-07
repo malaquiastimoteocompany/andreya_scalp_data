@@ -725,11 +725,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03497667,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03516,
-    "pnl_pct": 0.486,
-    "duracao_min": 7.8,
-    "data_resultado": "2026-07-07T09:08:35.843480+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.03496,
+    "pnl_pct": 0.2,
+    "duracao_min": 23.3,
+    "data_resultado": "2026-07-07T09:24:10.354625+00:00"
   },
   {
     "page_id": "396a5230-de72-818c-a642-e6c6830f6b56",
