@@ -9235,11 +9235,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.898,
-    "pnl_pct": 3.163,
-    "duracao_min": 46.6,
-    "data_resultado": "2026-07-07T15:13:31.192460+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.8129,
+    "pnl_pct": 5.334,
+    "duracao_min": 48.3,
+    "data_resultado": "2026-07-07T15:15:07.922751+00:00"
   },
   {
     "page_id": "396a5230-de72-81e7-9326-c1a7fafab3e1",
