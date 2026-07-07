@@ -1897,5 +1897,22 @@
     "zona_sr": 0.048385,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81a4-a6a2-de4e514015a8",
+    "token": "LYN",
+    "direccao": "SHORT",
+    "preco_alerta": 0.03541,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T09:02:31.700995+00:00",
+    "rsi_1h": 53.57,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.03542,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
