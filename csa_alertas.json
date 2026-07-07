@@ -2016,5 +2016,22 @@
     "zona_sr": 0.002105,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8118-80c7-ce08a199b3cf",
+    "token": "PEPE",
+    "direccao": "LONG",
+    "preco_alerta": 2.6827e-06,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T09:02:56.493393+00:00",
+    "rsi_1h": 44.82,
+    "funding_rate": 0.0059,
+    "estado_cfi": "E1",
+    "zona_sr": 2.68e-06,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
