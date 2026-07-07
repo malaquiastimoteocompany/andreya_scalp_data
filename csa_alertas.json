@@ -1631,11 +1631,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06575,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06645,
-    "pnl_pct": 0.575,
-    "duracao_min": 44.9,
-    "data_resultado": "2026-07-07T09:59:19.809800+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.06708,
+    "pnl_pct": 1.052,
+    "duracao_min": 105.9,
+    "data_resultado": "2026-07-07T11:00:19.552016+00:00"
   },
   {
     "page_id": "396a5230-de72-81d2-87c7-fb0a283659db",
