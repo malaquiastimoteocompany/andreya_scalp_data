@@ -17340,7 +17340,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.110775,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.1106,
+    "pnl_pct": 0.272,
+    "duracao_min": 14.2,
+    "data_resultado": "2026-07-07T19:28:34.702659+00:00"
   },
   {
     "page_id": "396a5230-de72-81ce-8d14-d1d7eb5367c8",
