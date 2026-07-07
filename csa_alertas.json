@@ -15962,11 +15962,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.082435,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08247,
-    "pnl_pct": 0.451,
-    "duracao_min": 3.6,
-    "data_resultado": "2026-07-07T18:45:26.962588+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.08206,
+    "pnl_pct": 0.201,
+    "duracao_min": 16.2,
+    "data_resultado": "2026-07-07T18:58:03.052544+00:00"
   },
   {
     "page_id": "396a5230-de72-8199-bb46-e00bafdabccb",
