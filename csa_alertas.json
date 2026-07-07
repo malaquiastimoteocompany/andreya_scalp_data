@@ -17961,11 +17961,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00126,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001249,
-    "pnl_pct": 0.636,
-    "duracao_min": 33.1,
-    "data_resultado": "2026-07-07T20:07:44.146820+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.001236,
+    "pnl_pct": 1.154,
+    "duracao_min": 108.7,
+    "data_resultado": "2026-07-07T21:23:19.839768+00:00"
   },
   {
     "page_id": "396a5230-de72-81d3-8d02-f15127bb5674",
