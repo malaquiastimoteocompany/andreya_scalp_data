@@ -8970,11 +8970,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3856,
-    "pnl_pct": 0.548,
-    "duracao_min": 37.4,
-    "data_resultado": "2026-07-07T14:54:19.778655+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.3887,
+    "pnl_pct": 0.952,
+    "duracao_min": 53.6,
+    "data_resultado": "2026-07-07T15:10:35.103733+00:00"
   },
   {
     "page_id": "396a5230-de72-81be-a0b6-d3aeb0a65c57",
