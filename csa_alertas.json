@@ -12564,5 +12564,22 @@
     "zona_sr": 1.12235,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8160-8413-c171c8fb7cbc",
+    "token": "ILV",
+    "direccao": "SHORT",
+    "preco_alerta": 3.248,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T16:14:27.451757+00:00",
+    "rsi_1h": 54.99,
+    "funding_rate": 0.0029,
+    "estado_cfi": "E1",
+    "zona_sr": 3.251,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
