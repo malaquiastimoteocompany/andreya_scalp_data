@@ -7904,11 +7904,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00660375,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.006558,
-    "pnl_pct": 0.742,
-    "duracao_min": 6.2,
-    "data_resultado": "2026-07-07T13:55:36.161184+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.006525,
+    "pnl_pct": 0.991,
+    "duracao_min": 10.9,
+    "data_resultado": "2026-07-07T14:00:14.488866+00:00"
   },
   {
     "page_id": "396a5230-de72-810b-b397-ea44fc28f856",
