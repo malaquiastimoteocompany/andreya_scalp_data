@@ -17899,5 +17899,22 @@
     "zona_sr": 0.1282,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81dc-bf08-e168b6bf29f2",
+    "token": "MELANIA",
+    "direccao": "LONG",
+    "preco_alerta": 0.08198,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T19:54:23.188794+00:00",
+    "rsi_1h": 37.61,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.08167125,
+    "toques_sr": 8,
+    "resultado": "Pendente"
   }
 ]
