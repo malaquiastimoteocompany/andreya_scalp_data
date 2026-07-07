@@ -19758,11 +19758,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.002211,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.00222,
-    "pnl_pct": 0.452,
-    "duracao_min": 118.0,
-    "data_resultado": "2026-07-07T23:07:36.341017+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.002219,
+    "pnl_pct": 0.43,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-07T23:10:30.359125+00:00"
   },
   {
     "page_id": "396a5230-de72-81ce-9027-ef7652168ca9",
