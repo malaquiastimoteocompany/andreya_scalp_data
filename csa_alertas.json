@@ -4773,11 +4773,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0354375,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03519,
-    "pnl_pct": 0.396,
-    "duracao_min": 28.1,
-    "data_resultado": "2026-07-07T12:10:09.430537+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.03533,
+    "pnl_pct": 0.198,
+    "duracao_min": 65.2,
+    "data_resultado": "2026-07-07T12:47:10.321811+00:00"
   },
   {
     "page_id": "396a5230-de72-8152-975b-fe4f919e6c17",
