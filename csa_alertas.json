@@ -13619,11 +13619,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 506.12,
-    "pnl_pct": 0.726,
-    "duracao_min": 8.6,
-    "data_resultado": "2026-07-07T17:00:29.654541+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 499.77,
+    "pnl_pct": 1.349,
+    "duracao_min": 81.6,
+    "data_resultado": "2026-07-07T18:13:25.298397+00:00"
   },
   {
     "page_id": "396a5230-de72-81f1-8477-fda4b7328327",
