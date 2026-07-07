@@ -1675,5 +1675,22 @@
     "zona_sr": 0.0182,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8187-92dc-ccda1cf21043",
+    "token": "WLD",
+    "direccao": "LONG",
+    "preco_alerta": 0.3948,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T09:31:48.839846+00:00",
+    "rsi_1h": 34.43,
+    "funding_rate": -0.0076,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
