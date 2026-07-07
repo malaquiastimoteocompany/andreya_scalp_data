@@ -1800,11 +1800,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.11346,
-    "pnl_pct": 1.612,
-    "duracao_min": 22.1,
-    "data_resultado": "2026-07-07T09:56:29.649699+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.11577,
+    "pnl_pct": 2.646,
+    "duracao_min": 31.1,
+    "data_resultado": "2026-07-07T10:05:31.762258+00:00"
   },
   {
     "page_id": "396a5230-de72-8186-b0c8-d1184677bf56",
