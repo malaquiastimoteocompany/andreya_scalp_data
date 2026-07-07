@@ -1778,5 +1778,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81c4-9483-eb3c5de66b2b",
+    "token": "MASK",
+    "direccao": "LONG",
+    "preco_alerta": 0.4226,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T09:02:13.079378+00:00",
+    "rsi_1h": 43.02,
+    "funding_rate": -0.0089,
+    "estado_cfi": "E1",
+    "zona_sr": 0.4211125,
+    "toques_sr": 8,
+    "resultado": "Pendente"
   }
 ]
