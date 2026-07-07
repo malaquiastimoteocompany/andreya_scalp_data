@@ -1868,5 +1868,22 @@
     "zona_sr": 0.383875,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8122-8189-d0b8245582b2",
+    "token": "BSV",
+    "direccao": "SHORT",
+    "preco_alerta": 14.28,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T09:49:19.132134+00:00",
+    "rsi_1h": 41.0,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 14.308,
+    "toques_sr": 5,
+    "resultado": "Pendente"
   }
 ]
