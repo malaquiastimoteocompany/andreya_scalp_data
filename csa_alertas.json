@@ -6742,11 +6742,11 @@
     "estado_cfi": "E1",
     "zona_sr": 7.9415,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 7.9,
-    "pnl_pct": 0.278,
-    "duracao_min": 14.7,
-    "data_resultado": "2026-07-07T13:16:36.600743+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 7.866,
+    "pnl_pct": 0.492,
+    "duracao_min": 53.1,
+    "data_resultado": "2026-07-07T13:54:59.477317+00:00"
   },
   {
     "page_id": "396a5230-de72-811f-bfb3-da7ada84af5f",
