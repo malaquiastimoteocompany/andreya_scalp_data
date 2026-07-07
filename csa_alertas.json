@@ -12231,5 +12231,22 @@
     "zona_sr": 0.105686,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8139-8e8e-d3c6fa7daae9",
+    "token": "FET",
+    "direccao": "SHORT",
+    "preco_alerta": 0.1683,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T16:04:25.451231+00:00",
+    "rsi_1h": 46.47,
+    "funding_rate": -0.0246,
+    "estado_cfi": "E1",
+    "zona_sr": 0.1689,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
