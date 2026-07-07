@@ -5876,5 +5876,22 @@
     "zona_sr": 0.1819,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8166-bfaa-ef6aaab609ea",
+    "token": "CELR",
+    "direccao": "LONG",
+    "preco_alerta": 0.001875,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T12:29:27.689268+00:00",
+    "rsi_1h": 50.6,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00188133,
+    "toques_sr": 6,
+    "resultado": "Pendente"
   }
 ]
