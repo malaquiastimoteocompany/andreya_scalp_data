@@ -8815,5 +8815,22 @@
     "zona_sr": 0.0605875,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8188-87d2-e5455bf72c7b",
+    "token": "GRT",
+    "direccao": "LONG",
+    "preco_alerta": 0.01802,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T14:17:11.958730+00:00",
+    "rsi_1h": 40.15,
+    "funding_rate": -0.0245,
+    "estado_cfi": "E1",
+    "zona_sr": 0.01794333,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
