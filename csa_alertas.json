@@ -5473,11 +5473,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.6322,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 2.5908,
-    "pnl_pct": 1.412,
-    "duracao_min": 27.2,
-    "data_resultado": "2026-07-07T12:36:33.398623+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.6336,
+    "pnl_pct": 0.597,
+    "duracao_min": 91.8,
+    "data_resultado": "2026-07-07T13:41:12.521046+00:00"
   },
   {
     "page_id": "396a5230-de72-8170-9b43-f900ac25ee77",
