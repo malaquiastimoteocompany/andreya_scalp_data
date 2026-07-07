@@ -219,5 +219,22 @@
     "zona_sr": 2.23166667,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81a1-9a24-e46f259e8c56",
+    "token": "XPD",
+    "direccao": "LONG",
+    "preco_alerta": 1269.51,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T08:49:55.687532+00:00",
+    "rsi_1h": 48.37,
+    "funding_rate": 0.0001,
+    "estado_cfi": "E1",
+    "zona_sr": 1271.068,
+    "toques_sr": 10,
+    "resultado": "Pendente"
   }
 ]
