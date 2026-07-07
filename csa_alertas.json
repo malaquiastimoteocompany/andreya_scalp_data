@@ -15393,7 +15393,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04981429,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.04921,
+    "pnl_pct": -1.224,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-07T19:59:33.658169+00:00"
   },
   {
     "page_id": "396a5230-de72-812c-84fa-e263ebc278f5",
