@@ -20304,11 +20304,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004286,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004325,
-    "pnl_pct": 0.581,
-    "duracao_min": 94.3,
-    "data_resultado": "2026-07-07T23:01:25.242427+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.00434,
+    "pnl_pct": 0.756,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-07T23:28:25.704562+00:00"
   },
   {
     "page_id": "396a5230-de72-8108-95cd-d3652f6c4c49",
