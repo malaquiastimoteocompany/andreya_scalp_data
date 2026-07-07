@@ -2553,11 +2553,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07558,
-    "pnl_pct": 0.33,
-    "duracao_min": 42.8,
-    "data_resultado": "2026-07-07T10:57:11.211440+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.07521,
+    "pnl_pct": 0.574,
+    "duracao_min": 103.4,
+    "data_resultado": "2026-07-07T11:57:44.854987+00:00"
   },
   {
     "page_id": "396a5230-de72-8132-8e07-fd9f647e4b7f",
