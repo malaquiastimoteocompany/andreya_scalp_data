@@ -9053,11 +9053,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0071425,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.007227,
-    "pnl_pct": 1.006,
-    "duracao_min": 9.4,
-    "data_resultado": "2026-07-07T14:33:54.256961+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.007301,
+    "pnl_pct": 1.523,
+    "duracao_min": 14.9,
+    "data_resultado": "2026-07-07T14:39:20.990774+00:00"
   },
   {
     "page_id": "396a5230-de72-8168-9910-f8a15869cb4d",
