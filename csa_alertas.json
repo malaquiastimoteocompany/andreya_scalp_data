@@ -7732,7 +7732,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05338,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.0482,
+    "pnl_pct": -9.535,
+    "duracao_min": 108.6,
+    "data_resultado": "2026-07-07T15:18:05.586516+00:00"
   },
   {
     "page_id": "396a5230-de72-8160-87c5-fb63096321ac",
