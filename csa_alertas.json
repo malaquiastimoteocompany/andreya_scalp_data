@@ -3729,11 +3729,11 @@
     "estado_cfi": "E1",
     "zona_sr": 4.269e-05,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 4.299e-05,
-    "pnl_pct": 0.42,
-    "duracao_min": 44.2,
-    "data_resultado": "2026-07-07T11:46:49.113102+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 4.278e-05,
+    "pnl_pct": 0.175,
+    "duracao_min": 106.0,
+    "data_resultado": "2026-07-07T12:48:37.380388+00:00"
   },
   {
     "page_id": "396a5230-de72-81cd-86a1-df237f9116a4",
