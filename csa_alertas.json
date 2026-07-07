@@ -9020,7 +9020,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02250667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.02256,
+    "pnl_pct": 0.535,
+    "duracao_min": 4.0,
+    "data_resultado": "2026-07-07T14:31:01.250189+00:00"
   },
   {
     "page_id": "396a5230-de72-8190-a7f6-c1b374ce1c7e",
