@@ -20265,5 +20265,22 @@
     "zona_sr": 0.00051255,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-811c-9d9d-eaf88b368283",
+    "token": "SUI",
+    "direccao": "LONG",
+    "preco_alerta": 0.7254,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T21:51:52.755909+00:00",
+    "rsi_1h": 37.03,
+    "funding_rate": 0.0094,
+    "estado_cfi": "E1",
+    "zona_sr": 0.7287,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
