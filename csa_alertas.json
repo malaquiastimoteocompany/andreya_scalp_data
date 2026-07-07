@@ -7313,11 +7313,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0012185,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.001229,
-    "pnl_pct": 0.573,
-    "duracao_min": 27.0,
-    "data_resultado": "2026-07-07T13:49:00.073629+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.001222,
+    "pnl_pct": 0.286,
+    "duracao_min": 33.2,
+    "data_resultado": "2026-07-07T13:55:12.619014+00:00"
   },
   {
     "page_id": "396a5230-de72-8162-b1de-d901065c3bdd",
