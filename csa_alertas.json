@@ -4469,5 +4469,22 @@
     "zona_sr": 3.5058,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-811a-8abc-c15f94335592",
+    "token": "OPENAI",
+    "direccao": "LONG",
+    "preco_alerta": 1302.6,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T11:39:17.335634+00:00",
+    "rsi_1h": 34.05,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 1303.05,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
