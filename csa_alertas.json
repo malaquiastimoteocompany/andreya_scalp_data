@@ -514,11 +514,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.22325,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2263,
-    "pnl_pct": 1.298,
-    "duracao_min": 25.5,
-    "data_resultado": "2026-07-07T09:25:32.523701+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.2249,
+    "pnl_pct": 0.985,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-07T11:00:08.814702+00:00"
   },
   {
     "page_id": "396a5230-de72-8150-80e3-eac10a96a31d",
