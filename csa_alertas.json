@@ -13423,11 +13423,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 167.0,
-    "pnl_pct": 1.749,
-    "duracao_min": 9.2,
-    "data_resultado": "2026-07-07T16:51:02.926895+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 163.92,
+    "pnl_pct": 0.81,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-07T18:42:01.660813+00:00"
   },
   {
     "page_id": "396a5230-de72-815d-abb0-d19b634764b7",
