@@ -20373,7 +20373,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.1835,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 2.203,
+    "pnl_pct": 0.594,
+    "duracao_min": 74.1,
+    "data_resultado": "2026-07-07T22:58:30.966866+00:00"
   },
   {
     "page_id": "396a5230-de72-810d-8481-ddcc853dd199",
