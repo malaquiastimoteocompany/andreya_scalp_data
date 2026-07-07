@@ -10840,11 +10840,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004608,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004618,
-    "pnl_pct": 0.522,
-    "duracao_min": 13.3,
-    "data_resultado": "2026-07-07T15:27:58.551128+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.004557,
+    "pnl_pct": -0.141,
+    "duracao_min": 20.9,
+    "data_resultado": "2026-07-07T15:35:34.934701+00:00"
   },
   {
     "page_id": "396a5230-de72-8198-93a4-f7a28067f45c",
