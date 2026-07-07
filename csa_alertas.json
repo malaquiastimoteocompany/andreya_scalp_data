@@ -5826,11 +5826,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.2088,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 3.18,
-    "pnl_pct": 0.407,
-    "duracao_min": 25.6,
-    "data_resultado": "2026-07-07T12:47:23.774112+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.158,
+    "pnl_pct": 0.752,
+    "duracao_min": 44.2,
+    "data_resultado": "2026-07-07T13:06:01.887915+00:00"
   },
   {
     "page_id": "396a5230-de72-81e8-bf62-c622a327b8bf",
