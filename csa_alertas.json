@@ -18440,11 +18440,11 @@
     "estado_cfi": "E1",
     "zona_sr": 35.775,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 35.68,
-    "pnl_pct": 0.668,
-    "duracao_min": 34.1,
-    "data_resultado": "2026-07-07T20:43:28.424414+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 35.92,
+    "pnl_pct": 0.334,
+    "duracao_min": 57.0,
+    "data_resultado": "2026-07-07T21:06:19.066598+00:00"
   },
   {
     "page_id": "396a5230-de72-81c2-b563-fe78a40fa9d3",
