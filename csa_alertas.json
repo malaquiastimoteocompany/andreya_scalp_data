@@ -3323,11 +3323,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.007051,
-    "pnl_pct": 0.494,
-    "duracao_min": 20.9,
-    "data_resultado": "2026-07-07T11:18:01.516867+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.00698,
+    "pnl_pct": 0.995,
+    "duracao_min": 30.9,
+    "data_resultado": "2026-07-07T11:27:57.805763+00:00"
   },
   {
     "page_id": "396a5230-de72-819c-80ff-ffb9c04b2e0e",
