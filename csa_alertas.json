@@ -15265,11 +15265,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.27233333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.251,
-    "pnl_pct": 0.672,
-    "duracao_min": 63.5,
-    "data_resultado": "2026-07-07T18:57:48.922071+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.23,
+    "pnl_pct": 0.993,
+    "duracao_min": 74.5,
+    "data_resultado": "2026-07-07T19:08:49.870986+00:00"
   },
   {
     "page_id": "396a5230-de72-813a-9ef4-e2bb2f03d48a",
