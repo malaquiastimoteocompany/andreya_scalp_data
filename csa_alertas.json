@@ -2084,5 +2084,22 @@
     "zona_sr": 0.37455,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8155-839f-c25b006b26a0",
+    "token": "HNT",
+    "direccao": "LONG",
+    "preco_alerta": 0.2343,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T09:04:32.626175+00:00",
+    "rsi_1h": 36.06,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.2353,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
