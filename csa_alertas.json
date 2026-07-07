@@ -13657,11 +13657,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01974,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01959,
-    "pnl_pct": 0.457,
-    "duracao_min": 5.1,
-    "data_resultado": "2026-07-07T17:02:09.824079+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.0197,
+    "pnl_pct": 0.178,
+    "duracao_min": 12.6,
+    "data_resultado": "2026-07-07T17:09:38.449530+00:00"
   },
   {
     "page_id": "396a5230-de72-81b3-a63f-d2c3d7a4319b",
