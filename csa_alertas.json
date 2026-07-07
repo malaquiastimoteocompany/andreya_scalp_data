@@ -19240,11 +19240,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.012595,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01272,
-    "pnl_pct": 0.553,
-    "duracao_min": 1.1,
-    "data_resultado": "2026-07-07T21:03:27.677492+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.01279,
+    "pnl_pct": 0.83,
+    "duracao_min": 10.3,
+    "data_resultado": "2026-07-07T21:12:42.196122+00:00"
   },
   {
     "page_id": "396a5230-de72-81f7-8842-cc2e75f089e1",
