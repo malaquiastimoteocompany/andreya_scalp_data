@@ -17242,5 +17242,22 @@
     "zona_sr": 0.0044515,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81f4-8e72-d4db239f3b12",
+    "token": "EDU",
+    "direccao": "LONG",
+    "preco_alerta": 0.03072,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T19:12:22.583897+00:00",
+    "rsi_1h": 41.8,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.030634,
+    "toques_sr": 5,
+    "resultado": "Pendente"
   }
 ]
