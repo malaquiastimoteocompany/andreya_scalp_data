@@ -2262,11 +2262,11 @@
     "estado_cfi": "E1",
     "zona_sr": 456.96,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 461.94,
-    "pnl_pct": 1.24,
-    "duracao_min": 118.9,
-    "data_resultado": "2026-07-07T12:00:44.947988+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 458.32,
+    "pnl_pct": 0.844,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-07T12:02:20.635231+00:00"
   },
   {
     "page_id": "396a5230-de72-81b8-9edb-e1196795940d",
