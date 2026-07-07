@@ -14889,11 +14889,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 2.5131,
-    "pnl_pct": 4.666,
-    "duracao_min": 10.4,
-    "data_resultado": "2026-07-07T17:57:12.710838+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 2.4093,
+    "pnl_pct": 6.635,
+    "duracao_min": 13.3,
+    "data_resultado": "2026-07-07T18:00:09.419364+00:00"
   },
   {
     "page_id": "396a5230-de72-81e2-82fb-ff28f562dd00",
