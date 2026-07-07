@@ -7307,5 +7307,22 @@
     "zona_sr": 0.3886,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-819a-bbb2-e2f1c37c7450",
+    "token": "ALICE",
+    "direccao": "LONG",
+    "preco_alerta": 0.1292,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T13:26:51.966116+00:00",
+    "rsi_1h": 37.55,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.12876667,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
