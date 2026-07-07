@@ -17040,11 +17040,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00159875,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001606,
-    "pnl_pct": 0.879,
-    "duracao_min": 62.0,
-    "data_resultado": "2026-07-07T20:04:31.212091+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.001601,
+    "pnl_pct": 0.722,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-07T21:02:54.557817+00:00"
   },
   {
     "page_id": "396a5230-de72-814b-9641-d3cc7304c6fa",
