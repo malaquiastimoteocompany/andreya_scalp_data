@@ -5427,11 +5427,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.228075,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2264,
-    "pnl_pct": 0.396,
-    "duracao_min": 14.5,
-    "data_resultado": "2026-07-07T12:24:01.842839+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.225,
+    "pnl_pct": 0.704,
+    "duracao_min": 36.2,
+    "data_resultado": "2026-07-07T12:45:44.045121+00:00"
   },
   {
     "page_id": "396a5230-de72-8127-a6f5-c1aa6af9e08a",
