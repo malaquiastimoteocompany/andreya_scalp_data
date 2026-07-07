@@ -6672,5 +6672,22 @@
     "zona_sr": 0.019475,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-816b-9404-cf5581d18cd2",
+    "token": "ANIME",
+    "direccao": "LONG",
+    "preco_alerta": 0.002772,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T13:02:11.345215+00:00",
+    "rsi_1h": 46.31,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00278533,
+    "toques_sr": 6,
+    "resultado": "Pendente"
   }
 ]
