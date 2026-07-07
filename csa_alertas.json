@@ -7771,11 +7771,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1668,
-    "pnl_pct": 1.03,
-    "duracao_min": 6.7,
-    "data_resultado": "2026-07-07T13:46:08.930373+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1649,
+    "pnl_pct": 0.454,
+    "duracao_min": 43.9,
+    "data_resultado": "2026-07-07T14:23:17.481404+00:00"
   },
   {
     "page_id": "396a5230-de72-8185-b385-d2c235d4d5d6",
