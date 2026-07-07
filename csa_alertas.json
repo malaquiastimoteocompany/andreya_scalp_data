@@ -1400,5 +1400,22 @@
     "zona_sr": 0.017955,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8197-9ed9-e685787ddffe",
+    "token": "BICO",
+    "direccao": "LONG",
+    "preco_alerta": 0.01518,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T09:00:44.428490+00:00",
+    "rsi_1h": 42.97,
+    "funding_rate": -0.0068,
+    "estado_cfi": "E1",
+    "zona_sr": 0.01524,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
