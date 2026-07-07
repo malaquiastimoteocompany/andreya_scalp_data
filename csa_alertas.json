@@ -15938,11 +15938,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1282,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1276,
-    "pnl_pct": 0.7,
-    "duracao_min": 37.1,
-    "data_resultado": "2026-07-07T19:01:25.030612+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1285,
+    "pnl_pct": 0.35,
+    "duracao_min": 84.9,
+    "data_resultado": "2026-07-07T19:49:14.245233+00:00"
   },
   {
     "page_id": "396a5230-de72-81c1-bcfa-cdafccb47c1c",
