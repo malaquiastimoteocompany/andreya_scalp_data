@@ -14097,5 +14097,22 @@
     "zona_sr": 0.2489,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8118-a9e4-d66a9dff1b62",
+    "token": "HEI",
+    "direccao": "LONG",
+    "preco_alerta": 0.1166,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T17:16:58.600836+00:00",
+    "rsi_1h": 38.14,
+    "funding_rate": 0.0012,
+    "estado_cfi": "E1",
+    "zona_sr": 0.11605,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
