@@ -17830,11 +17830,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07705833,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07787,
-    "pnl_pct": 0.803,
-    "duracao_min": 2.3,
-    "data_resultado": "2026-07-07T19:46:39.863909+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.07724,
+    "pnl_pct": 0.395,
+    "duracao_min": 12.6,
+    "data_resultado": "2026-07-07T19:57:00.052933+00:00"
   },
   {
     "page_id": "396a5230-de72-8196-abe0-d40e8daf4094",
