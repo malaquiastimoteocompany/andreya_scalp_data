@@ -11529,5 +11529,22 @@
     "zona_sr": 0.022734,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81f2-9fb3-f80488fc9e86",
+    "token": "ZIL",
+    "direccao": "SHORT",
+    "preco_alerta": 0.003067,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T15:42:10.621108+00:00",
+    "rsi_1h": 51.42,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.003067,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
