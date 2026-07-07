@@ -6046,11 +6046,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.38876667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3905,
-    "pnl_pct": 0.826,
-    "duracao_min": 78.9,
-    "data_resultado": "2026-07-07T13:45:41.993576+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3866,
+    "pnl_pct": 0.323,
+    "duracao_min": 85.0,
+    "data_resultado": "2026-07-07T13:51:46.888648+00:00"
   },
   {
     "page_id": "396a5230-de72-8156-a94e-d167831ee668",
