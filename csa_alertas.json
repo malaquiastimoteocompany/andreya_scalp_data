@@ -5699,5 +5699,22 @@
     "zona_sr": 3.2088,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81e8-bf62-c622a327b8bf",
+    "token": "JTO",
+    "direccao": "SHORT",
+    "preco_alerta": 0.777,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T12:21:50.863067+00:00",
+    "rsi_1h": 56.49,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.777,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
