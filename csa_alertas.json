@@ -457,5 +457,22 @@
     "zona_sr": 161.638,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8197-8454-ea417f227327",
+    "token": "EWJ",
+    "direccao": "LONG",
+    "preco_alerta": 94.08,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T08:50:30.400830+00:00",
+    "rsi_1h": 32.82,
+    "funding_rate": 0.0,
+    "estado_cfi": "E1",
+    "zona_sr": 93.8,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
