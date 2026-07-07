@@ -8921,11 +8921,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.735725,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.7378,
-    "pnl_pct": 0.367,
-    "duracao_min": 41.7,
-    "data_resultado": "2026-07-07T14:56:06.484580+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.7419,
+    "pnl_pct": 0.646,
+    "duracao_min": 94.2,
+    "data_resultado": "2026-07-07T15:48:36.787348+00:00"
   },
   {
     "page_id": "396a5230-de72-8190-8d32-e6d2f4a0d17e",
