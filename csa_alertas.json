@@ -9745,5 +9745,22 @@
     "zona_sr": 0.048385,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81fb-ae5f-db1c4160c1f5",
+    "token": "WLFI",
+    "direccao": "SHORT",
+    "preco_alerta": 0.06007,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T14:51:54.704494+00:00",
+    "rsi_1h": 54.02,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.059945,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
