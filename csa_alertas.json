@@ -19664,5 +19664,22 @@
     "zona_sr": 0.0044515,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8169-adfa-d19ae904004a",
+    "token": "UNI",
+    "direccao": "SHORT",
+    "preco_alerta": 3.219,
+    "score": 8,
+    "setup": "A",
+    "prioritario": true,
+    "enviado": false,
+    "data_alerta": "2026-07-07T21:19:19.262988+00:00",
+    "rsi_1h": 53.99,
+    "funding_rate": 0.01,
+    "estado_cfi": "E2",
+    "zona_sr": 3.211875,
+    "toques_sr": 8,
+    "resultado": "Pendente"
   }
 ]
