@@ -8219,11 +8219,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.380675,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3846,
-    "pnl_pct": 0.733,
-    "duracao_min": 4.4,
-    "data_resultado": "2026-07-07T14:06:22.817173+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.3818,
+    "pnl_pct": 0.367,
+    "duracao_min": 9.2,
+    "data_resultado": "2026-07-07T14:11:07.681980+00:00"
   },
   {
     "page_id": "396a5230-de72-81f7-856b-c09161ae5060",
