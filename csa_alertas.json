@@ -224,11 +224,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.735725,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.7425,
-    "pnl_pct": 0.596,
-    "duracao_min": 64.1,
-    "data_resultado": "2026-07-07T10:03:27.600693+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.7389,
+    "pnl_pct": 0.352,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-07T10:59:55.641760+00:00"
   },
   {
     "page_id": "396a5230-de72-8177-88d4-c5be4c1ebd22",
