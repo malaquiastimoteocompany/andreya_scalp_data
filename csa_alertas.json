@@ -12313,11 +12313,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.72e-06,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 2.729e-06,
-    "pnl_pct": 0.582,
-    "duracao_min": 22.8,
-    "data_resultado": "2026-07-07T16:25:13.974371+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.7459e-06,
+    "pnl_pct": 0.894,
+    "duracao_min": 46.8,
+    "data_resultado": "2026-07-07T16:49:15.833753+00:00"
   },
   {
     "page_id": "396a5230-de72-81fd-894d-e6fa2e7cda54",
