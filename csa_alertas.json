@@ -14705,11 +14705,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05059,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.05108,
-    "pnl_pct": 1.048,
-    "duracao_min": 3.2,
-    "data_resultado": "2026-07-07T17:37:54.614258+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0504,
+    "pnl_pct": 0.376,
+    "duracao_min": 33.0,
+    "data_resultado": "2026-07-07T18:07:43.424270+00:00"
   },
   {
     "page_id": "396a5230-de72-811f-a4ee-de4158bab776",
