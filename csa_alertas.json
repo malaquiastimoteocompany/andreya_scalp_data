@@ -8282,11 +8282,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.029515,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02925,
-    "pnl_pct": 0.78,
-    "duracao_min": 27.5,
-    "data_resultado": "2026-07-07T14:24:46.390333+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0295,
+    "pnl_pct": 0.356,
+    "duracao_min": 94.9,
+    "data_resultado": "2026-07-07T15:32:09.807796+00:00"
   },
   {
     "page_id": "396a5230-de72-81f3-ac90-d97d8f7c76cb",
