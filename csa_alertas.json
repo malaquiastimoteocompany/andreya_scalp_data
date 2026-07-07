@@ -12087,5 +12087,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-819a-b8c5-da1ef59a9d2b",
+    "token": "DRAM",
+    "direccao": "LONG",
+    "preco_alerta": 60.06,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T16:01:54.832802+00:00",
+    "rsi_1h": 34.58,
+    "funding_rate": 0.013,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
