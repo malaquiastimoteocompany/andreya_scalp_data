@@ -440,5 +440,22 @@
     "zona_sr": 4.7505,
     "toques_sr": 6,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-81fc-b22a-f34757acf0b3",
+    "token": "XBI",
+    "direccao": "SHORT",
+    "preco_alerta": 161.43,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T08:50:27.557571+00:00",
+    "rsi_1h": 54.65,
+    "funding_rate": 0.0117,
+    "estado_cfi": "E1",
+    "zona_sr": 161.638,
+    "toques_sr": 5,
+    "resultado": "Pendente"
   }
 ]
