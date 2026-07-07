@@ -9844,11 +9844,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0337975,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03385,
-    "pnl_pct": 0.535,
-    "duracao_min": 10.0,
-    "data_resultado": "2026-07-07T14:54:37.707206+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.03374,
+    "pnl_pct": 0.371,
+    "duracao_min": 121.4,
+    "data_resultado": "2026-07-07T16:46:01.106539+00:00"
   },
   {
     "page_id": "396a5230-de72-81ec-b9f4-ec543884635e",
