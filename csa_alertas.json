@@ -19143,5 +19143,22 @@
     "zona_sr": 0.0065215,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8135-aa9e-f8d54491a860",
+    "token": "MANTA",
+    "direccao": "LONG",
+    "preco_alerta": 0.06041,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T21:02:10.873461+00:00",
+    "rsi_1h": 42.81,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0605875,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
