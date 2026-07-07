@@ -21033,11 +21033,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.21975,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2218,
-    "pnl_pct": 0.59,
-    "duracao_min": 69.3,
-    "data_resultado": "2026-07-07T23:21:16.708142+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2203,
+    "pnl_pct": 0.249,
+    "duracao_min": 89.6,
+    "data_resultado": "2026-07-07T23:41:33.212326+00:00"
   },
   {
     "page_id": "396a5230-de72-81b6-93d4-c2da079b7d46",
