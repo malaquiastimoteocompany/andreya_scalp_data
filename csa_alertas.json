@@ -3381,5 +3381,22 @@
     "zona_sr": 0.72811667,
     "toques_sr": 6,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "396a5230-de72-8161-9cc4-c8eaea23d249",
+    "token": "CHZ",
+    "direccao": "LONG",
+    "preco_alerta": 0.01779,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-07T11:02:12.957105+00:00",
+    "rsi_1h": 42.35,
+    "funding_rate": 0.0028,
+    "estado_cfi": "E1",
+    "zona_sr": 0.017745,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
