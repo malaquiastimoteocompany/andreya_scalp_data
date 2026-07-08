@@ -21542,11 +21542,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.37715,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3797,
-    "pnl_pct": 1.038,
-    "duracao_min": 60.8,
-    "data_resultado": "2026-07-08T00:00:21.863531+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3746,
+    "pnl_pct": 0.359,
+    "duracao_min": 78.8,
+    "data_resultado": "2026-07-08T00:18:24.774591+00:00"
   },
   {
     "page_id": "396a5230-de72-815e-af9a-c97e26ff4e37",
