@@ -30222,7 +30222,11 @@
     "estado_cfi": "E1",
     "zona_sr": 33.97,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 34.04,
+    "pnl_pct": -0.264,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-08T08:05:29.263962+00:00"
   },
   {
     "page_id": "397a5230-de72-819e-8606-fd7b01671fb4",
