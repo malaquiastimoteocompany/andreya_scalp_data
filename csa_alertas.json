@@ -32377,7 +32377,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.10666667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 3.1,
+    "pnl_pct": -0.673,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-08T10:02:37.502505+00:00"
   },
   {
     "page_id": "397a5230-de72-811c-a18a-c3bf7dbfc792",
