@@ -38429,11 +38429,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.3317,
-    "pnl_pct": 1.185,
-    "duracao_min": 69.5,
-    "data_resultado": "2026-07-08T13:36:34.883415+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.3034,
+    "pnl_pct": 0.571,
+    "duracao_min": 78.6,
+    "data_resultado": "2026-07-08T13:45:41.952664+00:00"
   },
   {
     "page_id": "397a5230-de72-81e6-9274-e37a73c43d06",
