@@ -33642,7 +33642,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.138,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 3.192,
+    "pnl_pct": 1.269,
+    "duracao_min": 4.3,
+    "data_resultado": "2026-07-08T08:48:50.215258+00:00"
   },
   {
     "page_id": "397a5230-de72-8157-bca5-fc4c9e14a976",
