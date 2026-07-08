@@ -36372,11 +36372,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.412935,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.4025,
-    "pnl_pct": 2.282,
-    "duracao_min": 24.5,
-    "data_resultado": "2026-07-08T11:06:31.708328+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.3935,
+    "pnl_pct": 3.375,
+    "duracao_min": 41.0,
+    "data_resultado": "2026-07-08T11:22:56.633544+00:00"
   },
   {
     "page_id": "397a5230-de72-815b-9e7c-c8a190fa0dbb",
