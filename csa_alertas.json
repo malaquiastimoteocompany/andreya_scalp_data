@@ -34183,11 +34183,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 7.608,
-    "pnl_pct": 0.436,
-    "duracao_min": 89.8,
-    "data_resultado": "2026-07-08T10:31:56.791592+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 7.603,
+    "pnl_pct": 0.403,
+    "duracao_min": 121.8,
+    "data_resultado": "2026-07-08T11:04:00.291378+00:00"
   },
   {
     "page_id": "397a5230-de72-81c9-b7e4-c68c2591f70a",
