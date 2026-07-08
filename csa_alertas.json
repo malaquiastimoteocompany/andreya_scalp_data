@@ -38200,11 +38200,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08878,
-    "pnl_pct": 1.224,
-    "duracao_min": 18.3,
-    "data_resultado": "2026-07-08T12:37:58.444772+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.09,
+    "pnl_pct": 0.545,
+    "duracao_min": 31.9,
+    "data_resultado": "2026-07-08T12:51:34.773810+00:00"
   },
   {
     "page_id": "397a5230-de72-8198-a566-d366b367fc4f",
