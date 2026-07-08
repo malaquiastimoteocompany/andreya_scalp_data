@@ -26110,5 +26110,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-8175-a803-ff35105700c3",
+    "token": "US",
+    "direccao": "SHORT",
+    "preco_alerta": 0.019337,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T02:19:37.373182+00:00",
+    "rsi_1h": 51.14,
+    "funding_rate": 0.0152,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0192975,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
