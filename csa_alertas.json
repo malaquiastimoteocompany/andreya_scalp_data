@@ -31236,11 +31236,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 3.626,
-    "pnl_pct": 0.638,
-    "duracao_min": 24.6,
-    "data_resultado": "2026-07-08T07:26:36.211535+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.568,
+    "pnl_pct": -0.167,
+    "duracao_min": 76.7,
+    "data_resultado": "2026-07-08T08:18:45.774797+00:00"
   },
   {
     "page_id": "397a5230-de72-815a-8992-c14271c59bca",
