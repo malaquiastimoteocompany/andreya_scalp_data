@@ -27188,5 +27188,22 @@
     "zona_sr": 0.71955,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-81ac-9820-e4b93e3e903d",
+    "token": "ATOM",
+    "direccao": "LONG",
+    "preco_alerta": 1.567,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T03:47:03.871192+00:00",
+    "rsi_1h": 38.99,
+    "funding_rate": -0.0165,
+    "estado_cfi": "E1",
+    "zona_sr": 1.5635,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
