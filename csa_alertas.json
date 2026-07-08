@@ -36072,5 +36072,22 @@
     "pnl_pct": 2.31,
     "duracao_min": 2.3,
     "data_resultado": "2026-07-08T10:29:23.553156+00:00"
+  },
+  {
+    "page_id": "397a5230-de72-8122-bb0a-cf14ad333e50",
+    "token": "SCRT",
+    "direccao": "LONG",
+    "preco_alerta": 0.03756,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T10:32:01.288359+00:00",
+    "rsi_1h": 16.58,
+    "funding_rate": -0.0105,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
