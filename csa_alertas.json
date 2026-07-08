@@ -25034,11 +25034,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.028705,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02891,
-    "pnl_pct": 0.697,
-    "duracao_min": 113.0,
-    "data_resultado": "2026-07-08T03:35:34.295471+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.02894,
+    "pnl_pct": 0.749,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-08T03:43:43.027907+00:00"
   },
   {
     "page_id": "397a5230-de72-8174-9524-f821f844edc1",
