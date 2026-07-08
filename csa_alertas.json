@@ -23107,11 +23107,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03096333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03083,
-    "pnl_pct": 0.516,
-    "duracao_min": 89.1,
-    "data_resultado": "2026-07-08T01:36:25.738213+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.03027,
+    "pnl_pct": 1.42,
+    "duracao_min": 91.2,
+    "data_resultado": "2026-07-08T01:38:30.934685+00:00"
   },
   {
     "page_id": "397a5230-de72-8169-815f-d014001f367d",
