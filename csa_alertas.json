@@ -30460,11 +30460,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0065615,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00672,
-    "pnl_pct": 2.862,
-    "duracao_min": 12.7,
-    "data_resultado": "2026-07-08T06:27:11.757388+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.007174,
+    "pnl_pct": 6.337,
+    "duracao_min": 40.6,
+    "data_resultado": "2026-07-08T06:55:05.998824+00:00"
   },
   {
     "page_id": "397a5230-de72-8185-9a82-f9e51a33b53a",
