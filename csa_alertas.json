@@ -29739,7 +29739,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.439375,
     "toques_sr": 8,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 3.403,
+    "pnl_pct": -1.018,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-08T07:40:44.781684+00:00"
   },
   {
     "page_id": "397a5230-de72-8151-be68-da2728ba438f",
