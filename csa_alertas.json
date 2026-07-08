@@ -20997,11 +20997,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04806,
-    "pnl_pct": 0.523,
-    "duracao_min": 28.4,
-    "data_resultado": "2026-07-07T22:35:23.144625+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04819,
+    "pnl_pct": 0.659,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-08T00:08:08.229052+00:00"
   },
   {
     "page_id": "396a5230-de72-81c0-82dc-e2d693697985",
