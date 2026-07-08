@@ -23818,11 +23818,11 @@
     "estado_cfi": "E1",
     "zona_sr": 4.41e-06,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 4.381e-06,
-    "pnl_pct": 0.477,
-    "duracao_min": 28.5,
-    "data_resultado": "2026-07-08T01:30:46.657252+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 4.321e-06,
+    "pnl_pct": 1.159,
+    "duracao_min": 37.2,
+    "data_resultado": "2026-07-08T01:39:23.908225+00:00"
   },
   {
     "page_id": "397a5230-de72-81fb-9c47-c5bf29b30cf0",
