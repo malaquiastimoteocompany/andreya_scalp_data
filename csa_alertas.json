@@ -37515,11 +37515,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0164,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01651,
-    "pnl_pct": 0.609,
-    "duracao_min": 22.8,
-    "data_resultado": "2026-07-08T11:45:02.751085+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01641,
+    "pnl_pct": 0.305,
+    "duracao_min": 99.1,
+    "data_resultado": "2026-07-08T13:01:22.086839+00:00"
   },
   {
     "page_id": "397a5230-de72-8109-95fe-d464ad32d790",
