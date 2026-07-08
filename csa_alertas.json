@@ -31793,7 +31793,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00052997,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.0005398,
+    "pnl_pct": 1.511,
+    "duracao_min": 11.3,
+    "data_resultado": "2026-07-08T07:48:29.785860+00:00"
   },
   {
     "page_id": "397a5230-de72-814d-a2e3-c1d7653732f9",
