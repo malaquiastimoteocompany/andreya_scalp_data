@@ -34253,5 +34253,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-8143-a25a-d2927f99e55c",
+    "token": "GALA",
+    "direccao": "LONG",
+    "preco_alerta": 0.002083,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T09:03:12.506574+00:00",
+    "rsi_1h": 22.92,
+    "funding_rate": -0.0082,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
