@@ -26055,11 +26055,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 208.4,
-    "pnl_pct": 0.691,
-    "duracao_min": 40.0,
-    "data_resultado": "2026-07-08T02:49:26.517511+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 209.93,
+    "pnl_pct": 1.061,
+    "duracao_min": 65.4,
+    "data_resultado": "2026-07-08T03:14:51.979306+00:00"
   },
   {
     "page_id": "397a5230-de72-8126-a805-cfc0cd34b990",
