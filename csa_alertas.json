@@ -34490,11 +34490,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.146375,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1444,
-    "pnl_pct": 1.096,
-    "duracao_min": 26.2,
-    "data_resultado": "2026-07-08T09:30:43.886298+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.146,
+    "pnl_pct": 0.548,
+    "duracao_min": 45.5,
+    "data_resultado": "2026-07-08T09:50:03.029148+00:00"
   },
   {
     "page_id": "397a5230-de72-81b3-9dd9-d3cab893551d",
