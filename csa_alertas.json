@@ -26989,11 +26989,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05085,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.05122,
-    "pnl_pct": 1.225,
-    "duracao_min": 15.8,
-    "data_resultado": "2026-07-08T03:25:23.608604+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.05058,
+    "pnl_pct": 0.593,
+    "duracao_min": 77.3,
+    "data_resultado": "2026-07-08T04:26:55.011667+00:00"
   },
   {
     "page_id": "397a5230-de72-818b-b61f-e46ef7064540",
