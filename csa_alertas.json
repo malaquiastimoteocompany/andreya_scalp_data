@@ -29247,11 +29247,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1452,
-    "pnl_pct": 1.681,
-    "duracao_min": 57.1,
-    "data_resultado": "2026-07-08T06:09:07.818849+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1427,
+    "pnl_pct": 0.805,
+    "duracao_min": 69.0,
+    "data_resultado": "2026-07-08T06:21:00.945951+00:00"
   },
   {
     "page_id": "397a5230-de72-810a-821e-f5af77ec2dd2",
