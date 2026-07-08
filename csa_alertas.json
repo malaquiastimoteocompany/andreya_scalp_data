@@ -25474,11 +25474,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.002523,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.002552,
-    "pnl_pct": 0.671,
-    "duracao_min": 64.7,
-    "data_resultado": "2026-07-08T02:59:26.707847+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.002577,
+    "pnl_pct": 1.164,
+    "duracao_min": 69.2,
+    "data_resultado": "2026-07-08T03:03:56.148745+00:00"
   },
   {
     "page_id": "397a5230-de72-81ba-9c92-ddb25a76988f",
