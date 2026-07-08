@@ -22383,11 +22383,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1094,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1114,
-    "pnl_pct": 1.735,
-    "duracao_min": 32.1,
-    "data_resultado": "2026-07-07T23:59:03.654927+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.1108,
+    "pnl_pct": 1.461,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-08T01:27:31.385243+00:00"
   },
   {
     "page_id": "396a5230-de72-8172-815d-c10076e93095",
