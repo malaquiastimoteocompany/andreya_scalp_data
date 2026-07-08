@@ -27084,11 +27084,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.413,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.4175,
-    "pnl_pct": 1.574,
-    "duracao_min": 119.2,
-    "data_resultado": "2026-07-08T05:16:12.519483+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.4174,
+    "pnl_pct": 1.562,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-08T05:17:48.532201+00:00"
   },
   {
     "page_id": "397a5230-de72-81dc-9ac0-ee5a294b8fa3",
