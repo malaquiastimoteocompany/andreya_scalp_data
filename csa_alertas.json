@@ -33263,7 +33263,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.04399,
+    "pnl_pct": 0.503,
+    "duracao_min": 23.6,
+    "data_resultado": "2026-07-08T08:48:26.958863+00:00"
   },
   {
     "page_id": "397a5230-de72-81c9-8572-d502678d0611",
