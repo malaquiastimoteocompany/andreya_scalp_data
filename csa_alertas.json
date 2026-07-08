@@ -39615,5 +39615,22 @@
     "zona_sr": 0.058475,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-816f-b3b3-fa3a945875ee",
+    "token": "XTZ",
+    "direccao": "SHORT",
+    "preco_alerta": 0.2465,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T13:39:26.565453+00:00",
+    "rsi_1h": 40.19,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.24582,
+    "toques_sr": 5,
+    "resultado": "Pendente"
   }
 ]
