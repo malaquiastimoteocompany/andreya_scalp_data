@@ -34204,11 +34204,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.083,
-    "pnl_pct": 0.361,
-    "duracao_min": 94.5,
-    "data_resultado": "2026-07-08T10:36:44.951193+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.0826,
+    "pnl_pct": 0.343,
+    "duracao_min": 121.8,
+    "data_resultado": "2026-07-08T11:04:03.379326+00:00"
   },
   {
     "page_id": "397a5230-de72-8155-92d9-c93584acd4bf",
