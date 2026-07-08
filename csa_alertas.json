@@ -32860,7 +32860,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.18166667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 2.158,
+    "pnl_pct": -1.326,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-08T10:17:55.148406+00:00"
   },
   {
     "page_id": "397a5230-de72-81ae-b8cf-f45a9a77a811",
