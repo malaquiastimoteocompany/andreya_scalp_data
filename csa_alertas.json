@@ -28099,11 +28099,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 7.718,
-    "pnl_pct": 0.416,
-    "duracao_min": 64.9,
-    "data_resultado": "2026-07-08T05:11:55.657836+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 7.686,
+    "pnl_pct": 0.208,
+    "duracao_min": 99.4,
+    "data_resultado": "2026-07-08T05:46:30.505421+00:00"
   },
   {
     "page_id": "397a5230-de72-8123-aa30-f7e149de84a0",
