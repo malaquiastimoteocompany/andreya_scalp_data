@@ -39370,7 +39370,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.00349,
+    "pnl_pct": 0.576,
+    "duracao_min": 16.4,
+    "data_resultado": "2026-07-08T13:33:37.255036+00:00"
   },
   {
     "page_id": "397a5230-de72-8188-a59f-df69795dfd52",
