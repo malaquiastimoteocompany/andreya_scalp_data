@@ -34123,7 +34123,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.2021,
+    "pnl_pct": 0.597,
+    "duracao_min": 34.3,
+    "data_resultado": "2026-07-08T09:36:46.846878+00:00"
   },
   {
     "page_id": "397a5230-de72-81e4-8c2d-e46f1ab61518",
