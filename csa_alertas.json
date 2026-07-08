@@ -31862,5 +31862,22 @@
     "zona_sr": 0.007328,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-81fa-baad-c7fd2c959215",
+    "token": "ASTER",
+    "direccao": "LONG",
+    "preco_alerta": 0.6233,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T07:46:56.158053+00:00",
+    "rsi_1h": 39.76,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.62625,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
