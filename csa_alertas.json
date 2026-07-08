@@ -29239,11 +29239,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.006587,
-    "pnl_pct": 0.904,
-    "duracao_min": 110.9,
-    "data_resultado": "2026-07-08T07:00:30.383288+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.006593,
+    "pnl_pct": 0.95,
+    "duracao_min": 121.4,
+    "data_resultado": "2026-07-08T07:11:01.324166+00:00"
   },
   {
     "page_id": "397a5230-de72-817d-bff7-f29d3f2680e1",
