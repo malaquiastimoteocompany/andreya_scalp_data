@@ -30302,11 +30302,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02408,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02446,
-    "pnl_pct": 1.284,
-    "duracao_min": 87.0,
-    "data_resultado": "2026-07-08T07:31:48.477520+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.02412,
+    "pnl_pct": 0.58,
+    "duracao_min": 115.0,
+    "data_resultado": "2026-07-08T07:59:50.768825+00:00"
   },
   {
     "page_id": "397a5230-de72-8136-9d8b-e01ca31e292d",
