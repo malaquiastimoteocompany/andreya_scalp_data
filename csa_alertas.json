@@ -26484,11 +26484,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.439375,
     "toques_sr": 8,
-    "resultado": "TP Hit",
-    "preco_saida": 3.482,
-    "pnl_pct": 1.28,
-    "duracao_min": 19.9,
-    "data_resultado": "2026-07-08T03:11:49.994966+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.437,
+    "pnl_pct": 0.625,
+    "duracao_min": 44.0,
+    "data_resultado": "2026-07-08T03:35:57.256651+00:00"
   },
   {
     "page_id": "397a5230-de72-8103-9b40-e1109597ffe8",
