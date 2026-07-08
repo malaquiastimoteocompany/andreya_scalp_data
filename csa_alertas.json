@@ -34827,11 +34827,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01752,
-    "pnl_pct": 0.459,
-    "duracao_min": 15.7,
-    "data_resultado": "2026-07-08T09:35:15.764292+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01743,
+    "pnl_pct": 0.201,
+    "duracao_min": 48.2,
+    "data_resultado": "2026-07-08T10:07:46.022719+00:00"
   },
   {
     "page_id": "397a5230-de72-8126-9128-caa09729b19d",
