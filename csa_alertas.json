@@ -30910,11 +30910,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00236,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00238,
-    "pnl_pct": 0.549,
-    "duracao_min": 8.6,
-    "data_resultado": "2026-07-08T07:00:54.659303+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.002365,
+    "pnl_pct": 0.232,
+    "duracao_min": 23.7,
+    "data_resultado": "2026-07-08T07:16:00.241939+00:00"
   },
   {
     "page_id": "397a5230-de72-8165-9bb4-d834302af06d",
