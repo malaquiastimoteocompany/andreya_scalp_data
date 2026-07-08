@@ -31720,7 +31720,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00120933,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.001181,
+    "pnl_pct": -1.91,
+    "duracao_min": 65.8,
+    "data_resultado": "2026-07-08T08:30:31.344866+00:00"
   },
   {
     "page_id": "397a5230-de72-8130-aa56-ed74a1df287f",
