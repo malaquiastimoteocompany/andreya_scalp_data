@@ -21165,11 +21165,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.64,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.652,
-    "pnl_pct": 0.487,
-    "duracao_min": 104.7,
-    "data_resultado": "2026-07-08T00:06:41.553858+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.65,
+    "pnl_pct": 0.426,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-08T00:22:42.374018+00:00"
   },
   {
     "page_id": "396a5230-de72-816e-8ad9-cfdf10410a93",
