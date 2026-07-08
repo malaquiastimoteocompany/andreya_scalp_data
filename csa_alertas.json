@@ -27189,11 +27189,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04421,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04464,
-    "pnl_pct": 1.247,
-    "duracao_min": 114.5,
-    "data_resultado": "2026-07-08T05:24:03.279883+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04467,
+    "pnl_pct": 1.281,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-08T05:30:03.401345+00:00"
   },
   {
     "page_id": "397a5230-de72-8103-9771-c69a085ef751",
