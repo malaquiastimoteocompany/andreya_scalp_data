@@ -35645,11 +35645,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01792,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01807,
-    "pnl_pct": 0.556,
-    "duracao_min": 17.4,
-    "data_resultado": "2026-07-08T10:20:07.339889+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01819,
+    "pnl_pct": 0.89,
+    "duracao_min": 106.7,
+    "data_resultado": "2026-07-08T11:49:22.569591+00:00"
   },
   {
     "page_id": "397a5230-de72-8197-b39d-eb5b7956258a",
