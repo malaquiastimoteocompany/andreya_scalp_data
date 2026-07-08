@@ -31880,7 +31880,11 @@
     "estado_cfi": "E1",
     "zona_sr": 59.4,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 56.88,
+    "pnl_pct": -3.773,
+    "duracao_min": 59.5,
+    "data_resultado": "2026-07-08T08:36:32.111531+00:00"
   },
   {
     "page_id": "397a5230-de72-813f-ac3f-c7713d1f97f2",
