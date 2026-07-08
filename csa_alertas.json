@@ -29740,5 +29740,22 @@
     "zona_sr": 68.3835,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-81e3-9ad8-c0e9acdb6900",
+    "token": "XRP",
+    "direccao": "LONG",
+    "preco_alerta": 1.0903,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T05:51:58.053485+00:00",
+    "rsi_1h": 27.57,
+    "funding_rate": 0.0001,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
