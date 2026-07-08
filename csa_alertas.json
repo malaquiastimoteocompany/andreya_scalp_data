@@ -36837,11 +36837,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.89,
-    "pnl_pct": 0.746,
-    "duracao_min": 37.0,
-    "data_resultado": "2026-07-08T11:44:04.650122+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.875,
+    "pnl_pct": 0.346,
+    "duracao_min": 44.0,
+    "data_resultado": "2026-07-08T11:51:09.189368+00:00"
   },
   {
     "page_id": "397a5230-de72-810d-b454-ee7ab706cf3b",
