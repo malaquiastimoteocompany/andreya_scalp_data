@@ -34172,11 +34172,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.215,
-    "pnl_pct": 0.467,
-    "duracao_min": 31.0,
-    "data_resultado": "2026-07-08T09:33:32.299842+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2139,
+    "pnl_pct": 0.21,
+    "duracao_min": 61.9,
+    "data_resultado": "2026-07-08T10:04:25.615391+00:00"
   },
   {
     "page_id": "397a5230-de72-81d6-a76e-fd4029cb91c6",
