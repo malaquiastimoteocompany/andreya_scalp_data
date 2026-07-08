@@ -30809,5 +30809,22 @@
     "zona_sr": 0.06762,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-81b3-b62d-eb0b4e91cf0d",
+    "token": "BLUR",
+    "direccao": "LONG",
+    "preco_alerta": 0.01937,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T06:49:36.261118+00:00",
+    "rsi_1h": 43.73,
+    "funding_rate": -0.2038,
+    "estado_cfi": "E1",
+    "zona_sr": 0.01945,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
