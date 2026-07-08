@@ -34403,7 +34403,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.04737,
+    "pnl_pct": 0.445,
+    "duracao_min": 104.4,
+    "data_resultado": "2026-07-08T10:47:19.221845+00:00"
   },
   {
     "page_id": "397a5230-de72-8169-aa86-cd348c5e5263",
