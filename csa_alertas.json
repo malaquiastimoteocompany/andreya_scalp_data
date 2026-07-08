@@ -21249,11 +21249,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04435,
-    "pnl_pct": 0.317,
-    "duracao_min": 121.3,
-    "data_resultado": "2026-07-08T00:33:20.296452+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04433,
+    "pnl_pct": 0.294,
+    "duracao_min": 122.8,
+    "data_resultado": "2026-07-08T00:34:49.797160+00:00"
   },
   {
     "page_id": "396a5230-de72-8160-afdf-dd03a1edbaf5",
