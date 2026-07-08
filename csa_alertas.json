@@ -36353,7 +36353,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.436625,
     "toques_sr": 8,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 3.469,
+    "pnl_pct": 1.108,
+    "duracao_min": 66.8,
+    "data_resultado": "2026-07-08T11:43:44.805834+00:00"
   },
   {
     "page_id": "397a5230-de72-8144-bf60-fc9e0030362e",
