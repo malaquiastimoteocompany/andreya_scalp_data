@@ -37393,7 +37393,11 @@
     "estado_cfi": "E1",
     "zona_sr": 68.4062,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 68.619,
+    "pnl_pct": 0.507,
+    "duracao_min": 26.3,
+    "data_resultado": "2026-07-08T11:48:14.288578+00:00"
   },
   {
     "page_id": "397a5230-de72-81ac-94e5-c479dd37ae88",
