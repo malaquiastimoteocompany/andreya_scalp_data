@@ -27815,11 +27815,11 @@
     "estado_cfi": "E1",
     "zona_sr": 87.98,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 88.36,
-    "pnl_pct": 0.581,
-    "duracao_min": 22.0,
-    "data_resultado": "2026-07-08T04:23:59.956925+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 88.21,
+    "pnl_pct": 0.495,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-08T06:02:42.437788+00:00"
   },
   {
     "page_id": "397a5230-de72-8115-aca6-db065e856131",
