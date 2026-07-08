@@ -26471,11 +26471,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03013,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03025,
-    "pnl_pct": 0.699,
-    "duracao_min": 29.7,
-    "data_resultado": "2026-07-08T03:11:47.204164+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.0305,
+    "pnl_pct": 1.115,
+    "duracao_min": 56.8,
+    "data_resultado": "2026-07-08T03:38:56.923623+00:00"
   },
   {
     "page_id": "397a5230-de72-811a-826b-de6dbbbc511b",
