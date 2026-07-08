@@ -37010,11 +37010,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.076125,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07582,
-    "pnl_pct": 0.433,
-    "duracao_min": 105.4,
-    "data_resultado": "2026-07-08T12:52:50.927931+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.07527,
+    "pnl_pct": 0.794,
+    "duracao_min": 119.5,
+    "data_resultado": "2026-07-08T13:06:57.762091+00:00"
   },
   {
     "page_id": "397a5230-de72-8183-bf11-f062008b5ab5",
