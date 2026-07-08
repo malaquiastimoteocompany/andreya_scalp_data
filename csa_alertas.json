@@ -28430,5 +28430,22 @@
     "zona_sr": 0.05085,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-81f5-8e4e-f5e4f5fdb8f1",
+    "token": "DRAM",
+    "direccao": "LONG",
+    "preco_alerta": 59.62,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T04:36:54.631394+00:00",
+    "rsi_1h": 42.88,
+    "funding_rate": 0.0195,
+    "estado_cfi": "E1",
+    "zona_sr": 59.4,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
