@@ -25223,7 +25223,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.0612,
+    "pnl_pct": -0.536,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-08T03:45:35.974192+00:00"
   },
   {
     "page_id": "397a5230-de72-8178-b3e3-da252b497bb9",
