@@ -31188,11 +31188,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0180855,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.017621,
-    "pnl_pct": 2.834,
-    "duracao_min": 119.7,
-    "data_resultado": "2026-07-08T08:56:51.751383+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.017633,
+    "pnl_pct": 2.801,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-08T08:58:20.681535+00:00"
   },
   {
     "page_id": "397a5230-de72-81e1-8bd4-c080884217dd",
