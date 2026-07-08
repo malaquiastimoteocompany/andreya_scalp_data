@@ -21686,11 +21686,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.082875,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08273,
-    "pnl_pct": 0.397,
-    "duracao_min": 37.9,
-    "data_resultado": "2026-07-07T23:40:14.037402+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.08308,
+    "pnl_pct": 0.187,
+    "duracao_min": 66.0,
+    "data_resultado": "2026-07-08T00:08:19.219158+00:00"
   },
   {
     "page_id": "396a5230-de72-81b1-8490-e854ff67d545",
