@@ -25412,7 +25412,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1094,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.1081,
+    "pnl_pct": -1.279,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-08T03:48:40.785435+00:00"
   },
   {
     "page_id": "397a5230-de72-81a7-a95d-d9bb61fd6cbf",
