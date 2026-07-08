@@ -32664,11 +32664,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.412935,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.4034,
-    "pnl_pct": 1.849,
-    "duracao_min": 13.0,
-    "data_resultado": "2026-07-08T08:25:01.000338+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.4116,
+    "pnl_pct": 0.852,
+    "duracao_min": 87.6,
+    "data_resultado": "2026-07-08T09:39:37.960955+00:00"
   },
   {
     "page_id": "397a5230-de72-8144-abc2-e0ee55c38de6",
