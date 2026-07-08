@@ -34372,5 +34372,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-815d-a79a-c5018b88e94f",
+    "token": "SKL",
+    "direccao": "LONG",
+    "preco_alerta": 0.003418,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T09:04:54.100225+00:00",
+    "rsi_1h": 27.2,
+    "funding_rate": -0.0109,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
