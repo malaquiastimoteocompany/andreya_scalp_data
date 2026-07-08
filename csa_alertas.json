@@ -35355,11 +35355,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.16703333,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1661,
-    "pnl_pct": 0.658,
-    "duracao_min": 21.1,
-    "data_resultado": "2026-07-08T10:03:07.631969+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.1663,
+    "pnl_pct": 0.598,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-08T11:42:02.720950+00:00"
   },
   {
     "page_id": "397a5230-de72-81fe-97fa-f9a0b84d2d3c",
