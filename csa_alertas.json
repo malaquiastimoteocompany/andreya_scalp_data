@@ -30721,5 +30721,22 @@
     "pnl_pct": 1.23,
     "duracao_min": 0.9,
     "data_resultado": "2026-07-08T06:40:32.875130+00:00"
+  },
+  {
+    "page_id": "397a5230-de72-8107-9d0e-ea94c1d25ce2",
+    "token": "NEAR",
+    "direccao": "LONG",
+    "preco_alerta": 1.904,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T06:41:53.823622+00:00",
+    "rsi_1h": 30.24,
+    "funding_rate": -0.0035,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
