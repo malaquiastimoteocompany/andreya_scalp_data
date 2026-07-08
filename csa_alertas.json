@@ -35312,7 +35312,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 68.25,
+    "pnl_pct": 0.538,
+    "duracao_min": 30.3,
+    "data_resultado": "2026-07-08T10:32:14.526714+00:00"
   },
   {
     "page_id": "397a5230-de72-81bc-8fe3-f222d474dc1c",
