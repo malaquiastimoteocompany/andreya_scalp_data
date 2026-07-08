@@ -37060,7 +37060,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.035022,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.03625,
+    "pnl_pct": 3.012,
+    "duracao_min": 2.5,
+    "data_resultado": "2026-07-08T11:17:03.881004+00:00"
   },
   {
     "page_id": "397a5230-de72-81d7-8ad3-c8e41e77c866",
