@@ -27852,11 +27852,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1829,
-    "pnl_pct": 1.274,
-    "duracao_min": 8.5,
-    "data_resultado": "2026-07-08T04:10:47.345533+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1806,
+    "pnl_pct": 0.637,
+    "duracao_min": 80.4,
+    "data_resultado": "2026-07-08T05:22:39.362012+00:00"
   },
   {
     "page_id": "397a5230-de72-8154-9577-c1f5bf9c30c3",
