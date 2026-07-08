@@ -28592,7 +28592,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04916,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.04809,
+    "pnl_pct": -1.877,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-08T06:22:24.103407+00:00"
   },
   {
     "page_id": "397a5230-de72-81e6-b728-e406006f1222",
