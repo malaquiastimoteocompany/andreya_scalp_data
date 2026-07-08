@@ -30457,5 +30457,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-810a-99fc-e6100bf7bd5f",
+    "token": "POL",
+    "direccao": "SHORT",
+    "preco_alerta": 0.076,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T06:22:02.777394+00:00",
+    "rsi_1h": 51.99,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.076125,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
