@@ -27857,11 +27857,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2162,
-    "pnl_pct": 0.558,
-    "duracao_min": 65.0,
-    "data_resultado": "2026-07-08T05:07:03.982686+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.2157,
+    "pnl_pct": 0.442,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-08T06:02:48.178288+00:00"
   },
   {
     "page_id": "397a5230-de72-819f-9133-d00f3cf07b03",
