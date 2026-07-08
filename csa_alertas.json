@@ -33675,11 +33675,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.6256,
-    "pnl_pct": 1.641,
-    "duracao_min": 4.1,
-    "data_resultado": "2026-07-08T08:48:53.686602+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.615,
+    "pnl_pct": 0.78,
+    "duracao_min": 12.5,
+    "data_resultado": "2026-07-08T08:57:13.592109+00:00"
   },
   {
     "page_id": "397a5230-de72-8163-a94b-d0e6e4ffa14a",
