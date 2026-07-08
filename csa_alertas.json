@@ -24275,11 +24275,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.14435,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1457,
-    "pnl_pct": 0.761,
-    "duracao_min": 59.7,
-    "data_resultado": "2026-07-08T02:19:11.075846+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1434,
+    "pnl_pct": -0.035,
+    "duracao_min": 72.2,
+    "data_resultado": "2026-07-08T02:31:38.842437+00:00"
   },
   {
     "page_id": "397a5230-de72-810e-8564-ec5e153c95ee",
