@@ -26142,7 +26142,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.20472,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.206,
+    "pnl_pct": 0.537,
+    "duracao_min": 35.1,
+    "data_resultado": "2026-07-08T02:49:33.489683+00:00"
   },
   {
     "page_id": "397a5230-de72-810b-9e28-c48d125e6ccb",
