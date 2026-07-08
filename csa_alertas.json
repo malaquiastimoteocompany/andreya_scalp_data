@@ -38516,5 +38516,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-8116-ba8d-fa604cc66cfd",
+    "token": "SCRT",
+    "direccao": "LONG",
+    "preco_alerta": 0.0383,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T12:37:17.673094+00:00",
+    "rsi_1h": 21.78,
+    "funding_rate": -0.0265,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
