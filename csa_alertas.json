@@ -34100,5 +34100,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-812a-b9e6-d0f6325dcb1c",
+    "token": "SUSHI",
+    "direccao": "LONG",
+    "preco_alerta": 0.1562,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T09:02:41.185397+00:00",
+    "rsi_1h": 34.67,
+    "funding_rate": 0.0097,
+    "estado_cfi": "E1",
+    "zona_sr": 0.156,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
