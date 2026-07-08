@@ -27836,11 +27836,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 34.23,
-    "pnl_pct": 0.854,
-    "duracao_min": 72.8,
-    "data_resultado": "2026-07-08T05:14:49.163191+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 34.11,
+    "pnl_pct": 0.678,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-08T06:02:45.344884+00:00"
   },
   {
     "page_id": "397a5230-de72-814b-840e-f02e3cde8b97",
