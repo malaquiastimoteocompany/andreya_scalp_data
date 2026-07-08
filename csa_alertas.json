@@ -36300,7 +36300,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06762,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.06838,
+    "pnl_pct": 1.214,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-08T12:24:54.531894+00:00"
   },
   {
     "page_id": "397a5230-de72-8198-9139-e2bdee04848e",
