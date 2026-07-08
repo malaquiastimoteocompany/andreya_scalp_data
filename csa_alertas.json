@@ -34304,11 +34304,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07577,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07555,
-    "pnl_pct": 0.396,
-    "duracao_min": 12.9,
-    "data_resultado": "2026-07-08T09:15:54.078531+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.07493,
+    "pnl_pct": 0.804,
+    "duracao_min": 42.8,
+    "data_resultado": "2026-07-08T09:45:44.370417+00:00"
   },
   {
     "page_id": "397a5230-de72-8184-9abc-f8c059c82f17",
