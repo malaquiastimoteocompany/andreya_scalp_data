@@ -22723,7 +22723,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.063355,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.06284,
+    "pnl_pct": 0.554,
+    "duracao_min": 12.5,
+    "data_resultado": "2026-07-08T00:17:12.802424+00:00"
   },
   {
     "page_id": "397a5230-de72-811e-8684-c39e59ac4dd6",
