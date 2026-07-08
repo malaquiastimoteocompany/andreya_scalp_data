@@ -32941,11 +32941,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.216,
-    "pnl_pct": 0.465,
-    "duracao_min": 28.6,
-    "data_resultado": "2026-07-08T08:48:12.493587+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2148,
+    "pnl_pct": 0.186,
+    "duracao_min": 34.6,
+    "data_resultado": "2026-07-08T08:54:13.246605+00:00"
   },
   {
     "page_id": "397a5230-de72-81bf-8b39-d525bfa7f36a",
