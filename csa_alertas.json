@@ -26853,7 +26853,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00051255,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.0005125,
+    "pnl_pct": 0.352,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-08T05:05:11.072903+00:00"
   },
   {
     "page_id": "397a5230-de72-8135-a066-f4778b2f4b61",
