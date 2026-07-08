@@ -22680,5 +22680,22 @@
     "zona_sr": 0.063355,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-811e-8684-c39e59ac4dd6",
+    "token": "SOMI",
+    "direccao": "LONG",
+    "preco_alerta": 0.1135,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T00:04:45.250326+00:00",
+    "rsi_1h": 48.57,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.11335,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
