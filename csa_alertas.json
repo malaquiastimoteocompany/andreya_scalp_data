@@ -29693,11 +29693,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.2075,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.141,
-    "pnl_pct": 1.966,
-    "duracao_min": 54.3,
-    "data_resultado": "2026-07-08T06:38:44.477626+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.074,
+    "pnl_pct": 3.012,
+    "duracao_min": 71.9,
+    "data_resultado": "2026-07-08T06:56:22.713722+00:00"
   },
   {
     "page_id": "397a5230-de72-81de-92dd-fb39caa1d195",
