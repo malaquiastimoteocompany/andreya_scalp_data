@@ -38131,5 +38131,22 @@
     "zona_sr": 0.02408,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-812c-a704-d376d7dde473",
+    "token": "WAVES",
+    "direccao": "LONG",
+    "preco_alerta": 0.2595,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T12:19:33.751840+00:00",
+    "rsi_1h": 42.59,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.26055,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
