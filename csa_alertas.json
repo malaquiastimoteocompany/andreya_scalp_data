@@ -33351,11 +33351,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.003435,
-    "pnl_pct": 0.439,
-    "duracao_min": 21.1,
-    "data_resultado": "2026-07-08T08:48:29.967567+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.003419,
+    "pnl_pct": 0.205,
+    "duracao_min": 29.7,
+    "data_resultado": "2026-07-08T08:57:07.293350+00:00"
   },
   {
     "page_id": "397a5230-de72-8152-b21b-fb26134edb03",
