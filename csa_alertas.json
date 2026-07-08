@@ -36862,11 +36862,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 3.595,
-    "pnl_pct": 0.7,
-    "duracao_min": 12.9,
-    "data_resultado": "2026-07-08T11:20:02.879989+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.631,
+    "pnl_pct": 1.204,
+    "duracao_min": 45.5,
+    "data_resultado": "2026-07-08T11:52:37.401168+00:00"
   },
   {
     "page_id": "397a5230-de72-8141-98b3-f5f1c668d623",
