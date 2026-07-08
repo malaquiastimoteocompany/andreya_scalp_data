@@ -36027,11 +36027,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04928,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04971,
-    "pnl_pct": 1.263,
-    "duracao_min": 65.8,
-    "data_resultado": "2026-07-08T11:22:49.782331+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04923,
+    "pnl_pct": 0.774,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-08T12:17:43.275471+00:00"
   },
   {
     "page_id": "397a5230-de72-8164-a100-f4c9dde9f4a0",
