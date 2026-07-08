@@ -39523,5 +39523,22 @@
     "pnl_pct": 0.296,
     "duracao_min": 4.0,
     "data_resultado": "2026-07-08T13:33:44.310312+00:00"
+  },
+  {
+    "page_id": "397a5230-de72-8104-aa9c-eab57a8b7b01",
+    "token": "WLFI",
+    "direccao": "SHORT",
+    "preco_alerta": 0.05937,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T13:34:30.015107+00:00",
+    "rsi_1h": 59.33,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.05956,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
