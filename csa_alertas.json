@@ -25795,11 +25795,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1269,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1282,
-    "pnl_pct": 0.786,
-    "duracao_min": 5.7,
-    "data_resultado": "2026-07-08T02:10:32.086566+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.1262,
+    "pnl_pct": 0.0,
+    "duracao_min": 13.1,
+    "data_resultado": "2026-07-08T02:17:58.644415+00:00"
   },
   {
     "page_id": "397a5230-de72-818a-a7b9-fc33f764f611",
