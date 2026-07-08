@@ -26601,11 +26601,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02807,
-    "pnl_pct": 0.899,
-    "duracao_min": 7.2,
-    "data_resultado": "2026-07-08T02:42:01.797215+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.02788,
+    "pnl_pct": 0.557,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-08T04:35:34.528094+00:00"
   },
   {
     "page_id": "397a5230-de72-814b-9fda-e8a24532c390",
