@@ -30831,11 +30831,11 @@
     "estado_cfi": "E1",
     "zona_sr": 475.6,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 473.49,
-    "pnl_pct": 0.875,
-    "duracao_min": 8.5,
-    "data_resultado": "2026-07-08T06:40:28.973214+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 477.8,
+    "pnl_pct": 0.424,
+    "duracao_min": 63.2,
+    "data_resultado": "2026-07-08T07:35:09.690565+00:00"
   },
   {
     "page_id": "397a5230-de72-8180-815a-fd1213df8d38",
