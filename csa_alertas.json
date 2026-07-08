@@ -33576,11 +33576,11 @@
     "estado_cfi": "E1",
     "zona_sr": 466.28,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 472.01,
-    "pnl_pct": 0.952,
-    "duracao_min": 6.0,
-    "data_resultado": "2026-07-08T08:45:31.407764+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 466.66,
+    "pnl_pct": 0.38,
+    "duracao_min": 42.2,
+    "data_resultado": "2026-07-08T09:21:40.144518+00:00"
   },
   {
     "page_id": "397a5230-de72-815a-8c0a-e31b6b1fdd83",
