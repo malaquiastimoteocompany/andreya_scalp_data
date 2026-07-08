@@ -23170,11 +23170,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.082875,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08189,
-    "pnl_pct": 1.385,
-    "duracao_min": 89.1,
-    "data_resultado": "2026-07-08T01:38:35.753995+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.08204,
+    "pnl_pct": 1.295,
+    "duracao_min": 91.7,
+    "data_resultado": "2026-07-08T01:41:10.514385+00:00"
   },
   {
     "page_id": "397a5230-de72-815b-a6f5-c4aae08405a9",
