@@ -29459,11 +29459,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 3.337,
-    "pnl_pct": 1.155,
-    "duracao_min": 13.5,
-    "data_resultado": "2026-07-08T05:37:52.402129+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.3,
+    "pnl_pct": 1.703,
+    "duracao_min": 55.1,
+    "data_resultado": "2026-07-08T06:19:28.181722+00:00"
   },
   {
     "page_id": "397a5230-de72-81fe-a750-efbaea7c1b2a",
