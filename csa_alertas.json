@@ -22572,7 +22572,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.4152,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.4087,
+    "pnl_pct": -2.014,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-08T01:45:03.641100+00:00"
   },
   {
     "page_id": "396a5230-de72-81aa-be74-c7a5f4d622a8",
