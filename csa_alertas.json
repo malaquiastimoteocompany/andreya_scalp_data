@@ -28996,5 +28996,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-817d-bff7-f29d3f2680e1",
+    "token": "BIO",
+    "direccao": "LONG",
+    "preco_alerta": 0.02795,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T05:09:41.685989+00:00",
+    "rsi_1h": 34.74,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
