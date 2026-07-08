@@ -36509,11 +36509,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1263,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1269,
-    "pnl_pct": 0.874,
-    "duracao_min": 27.8,
-    "data_resultado": "2026-07-08T11:19:53.441011+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1287,
+    "pnl_pct": 1.59,
+    "duracao_min": 51.7,
+    "data_resultado": "2026-07-08T11:43:48.264887+00:00"
   },
   {
     "page_id": "397a5230-de72-8118-8f9b-fc11fe72061a",
