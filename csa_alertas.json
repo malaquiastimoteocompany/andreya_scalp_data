@@ -36659,5 +36659,22 @@
     "zona_sr": 0.38876667,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-815d-af57-cb4c2a264d4f",
+    "token": "AAVE",
+    "direccao": "LONG",
+    "preco_alerta": 87.72,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T11:06:57.081457+00:00",
+    "rsi_1h": 37.0,
+    "funding_rate": 0.0087,
+    "estado_cfi": "E1",
+    "zona_sr": 87.98,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
