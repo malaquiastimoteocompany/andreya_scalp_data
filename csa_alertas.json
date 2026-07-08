@@ -35244,5 +35244,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-81ff-b606-dbb363832ade",
+    "token": "NES",
+    "direccao": "SHORT",
+    "preco_alerta": 0.3087,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T10:02:11.457676+00:00",
+    "rsi_1h": 66.88,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
