@@ -28762,7 +28762,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.17475,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.1767,
+    "pnl_pct": 0.856,
+    "duracao_min": 10.6,
+    "data_resultado": "2026-07-08T05:07:38.138541+00:00"
   },
   {
     "page_id": "397a5230-de72-81e2-b69a-e20d85026264",
