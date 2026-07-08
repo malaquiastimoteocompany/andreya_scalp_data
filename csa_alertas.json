@@ -28042,11 +28042,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.30655,
     "toques_sr": 8,
-    "resultado": "TP Hit",
-    "preco_saida": 0.315,
-    "pnl_pct": 2.306,
-    "duracao_min": 14.1,
-    "data_resultado": "2026-07-08T04:21:05.358761+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.3226,
+    "pnl_pct": 3.54,
+    "duracao_min": 72.6,
+    "data_resultado": "2026-07-08T05:19:35.112697+00:00"
   },
   {
     "page_id": "397a5230-de72-8185-b554-ec100bff2c25",
