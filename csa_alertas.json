@@ -30030,11 +30030,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04796,
-    "pnl_pct": 0.503,
-    "duracao_min": 93.5,
-    "data_resultado": "2026-07-08T07:28:01.794327+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.04816,
+    "pnl_pct": 0.712,
+    "duracao_min": 97.0,
+    "data_resultado": "2026-07-08T07:31:28.355580+00:00"
   },
   {
     "page_id": "397a5230-de72-8150-be08-e8f1fe97121b",
