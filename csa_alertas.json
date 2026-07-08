@@ -35929,11 +35929,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06053,
-    "pnl_pct": 0.665,
-    "duracao_min": 21.1,
-    "data_resultado": "2026-07-08T10:35:34.497320+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.06102,
+    "pnl_pct": 1.073,
+    "duracao_min": 62.3,
+    "data_resultado": "2026-07-08T11:16:46.478366+00:00"
   },
   {
     "page_id": "397a5230-de72-8129-96ee-ee88912caae3",
