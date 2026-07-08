@@ -38052,7 +38052,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.1266,
+    "pnl_pct": 1.402,
+    "duracao_min": 105.4,
+    "data_resultado": "2026-07-08T13:49:58.639778+00:00"
   },
   {
     "page_id": "397a5230-de72-81da-9a49-dac04c6b6d05",
