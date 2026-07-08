@@ -34629,5 +34629,22 @@
     "zona_sr": 1.54166667,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-8181-a7b0-ec545f5af8fd",
+    "token": "KORU",
+    "direccao": "LONG",
+    "preco_alerta": 437.56,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T09:16:53.842003+00:00",
+    "rsi_1h": 28.65,
+    "funding_rate": 0.0788,
+    "estado_cfi": "E2",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
