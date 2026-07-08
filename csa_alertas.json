@@ -37192,11 +37192,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.12633333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1277,
-    "pnl_pct": 0.869,
-    "duracao_min": 32.5,
-    "data_resultado": "2026-07-08T11:44:34.583410+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.124,
+    "pnl_pct": -0.592,
+    "duracao_min": 77.2,
+    "data_resultado": "2026-07-08T12:29:17.184591+00:00"
   },
   {
     "page_id": "397a5230-de72-8147-b4bc-d8362838778b",
