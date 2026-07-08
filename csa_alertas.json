@@ -29886,11 +29886,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.7182,
-    "pnl_pct": 0.631,
-    "duracao_min": 101.8,
-    "data_resultado": "2026-07-08T07:31:21.778216+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.717,
+    "pnl_pct": 0.546,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-08T07:49:38.655579+00:00"
   },
   {
     "page_id": "397a5230-de72-8154-b641-c8421a0e318d",
