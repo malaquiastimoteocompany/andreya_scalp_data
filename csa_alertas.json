@@ -30271,5 +30271,22 @@
     "zona_sr": 0.04421,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-8126-a7cb-fc31a8498626",
+    "token": "SUPRA",
+    "direccao": "LONG",
+    "preco_alerta": 0.0002108,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T06:12:18.123334+00:00",
+    "rsi_1h": 38.97,
+    "funding_rate": 0.02,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0002104,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
