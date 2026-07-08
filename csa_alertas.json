@@ -28679,11 +28679,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0003328,
-    "pnl_pct": 0.574,
-    "duracao_min": 30.3,
-    "data_resultado": "2026-07-08T05:07:30.768319+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.0003356,
+    "pnl_pct": 0.997,
+    "duracao_min": 82.8,
+    "data_resultado": "2026-07-08T06:00:00.426194+00:00"
   },
   {
     "page_id": "397a5230-de72-81a4-8d9e-e54a99c31785",
