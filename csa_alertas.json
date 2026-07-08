@@ -27698,11 +27698,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.09314,
-    "pnl_pct": 1.239,
-    "duracao_min": 14.2,
-    "data_resultado": "2026-07-08T04:13:37.850252+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.09521,
+    "pnl_pct": 2.364,
+    "duracao_min": 67.5,
+    "data_resultado": "2026-07-08T05:06:59.444449+00:00"
   },
   {
     "page_id": "397a5230-de72-8124-a6b3-d8bd4265fec6",
