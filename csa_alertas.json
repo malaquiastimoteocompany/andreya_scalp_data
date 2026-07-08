@@ -34607,11 +34607,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07309,
-    "pnl_pct": 0.647,
-    "duracao_min": 26.6,
-    "data_resultado": "2026-07-08T09:33:41.069728+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07258,
+    "pnl_pct": 0.296,
+    "duracao_min": 65.1,
+    "data_resultado": "2026-07-08T10:12:11.850532+00:00"
   },
   {
     "page_id": "397a5230-de72-8113-88ff-fa3ea489faaa",
