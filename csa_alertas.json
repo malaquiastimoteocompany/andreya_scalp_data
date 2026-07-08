@@ -29429,5 +29429,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-8115-8007-cd858c978074",
+    "token": "EIGEN",
+    "direccao": "SHORT",
+    "preco_alerta": 0.2195,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T05:34:25.119232+00:00",
+    "rsi_1h": 42.42,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.2191,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
