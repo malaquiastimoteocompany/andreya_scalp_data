@@ -31859,11 +31859,11 @@
     "estado_cfi": "E1",
     "zona_sr": 475.6,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 474.2,
-    "pnl_pct": 0.76,
-    "duracao_min": 40.1,
-    "data_resultado": "2026-07-08T08:17:04.941641+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 468.39,
+    "pnl_pct": 1.368,
+    "duracao_min": 59.5,
+    "data_resultado": "2026-07-08T08:36:29.532898+00:00"
   },
   {
     "page_id": "397a5230-de72-8164-882b-f3013e555ae5",
