@@ -34540,11 +34540,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.002045,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.002056,
-    "pnl_pct": 0.834,
-    "duracao_min": 36.3,
-    "data_resultado": "2026-07-08T09:39:54.836956+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.002038,
+    "pnl_pct": 0.392,
+    "duracao_min": 85.3,
+    "data_resultado": "2026-07-08T10:28:55.771312+00:00"
   },
   {
     "page_id": "397a5230-de72-8137-b3f2-e08e995a5bdf",
