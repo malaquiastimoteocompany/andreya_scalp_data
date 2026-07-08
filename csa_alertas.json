@@ -21459,11 +21459,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07736667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07747,
-    "pnl_pct": 0.545,
-    "duracao_min": 93.8,
-    "data_resultado": "2026-07-08T00:25:47.066697+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.0779,
+    "pnl_pct": 0.824,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-08T00:52:35.453498+00:00"
   },
   {
     "page_id": "396a5230-de72-8135-a8f8-c319f43a14bf",
