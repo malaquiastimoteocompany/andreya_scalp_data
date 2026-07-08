@@ -30285,11 +30285,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07211,
-    "pnl_pct": 0.502,
-    "duracao_min": 87.0,
-    "data_resultado": "2026-07-08T07:31:44.336718+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.07195,
+    "pnl_pct": 0.39,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-08T08:05:35.231695+00:00"
   },
   {
     "page_id": "397a5230-de72-8158-898c-fe3a2e1fea07",
