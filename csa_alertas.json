@@ -20976,11 +20976,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04379,
-    "pnl_pct": 1.98,
-    "duracao_min": 118.4,
-    "data_resultado": "2026-07-08T00:03:21.759791+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04408,
+    "pnl_pct": 2.317,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-08T00:05:02.668508+00:00"
   },
   {
     "page_id": "396a5230-de72-8120-b60c-d20604fb8699",
