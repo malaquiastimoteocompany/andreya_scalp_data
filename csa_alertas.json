@@ -23279,5 +23279,22 @@
     "zona_sr": 0.3425,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-81d1-8555-fe307238b161",
+    "token": "FLOW",
+    "direccao": "LONG",
+    "preco_alerta": 0.02713,
+    "score": 8,
+    "setup": "A",
+    "prioritario": true,
+    "enviado": false,
+    "data_alerta": "2026-07-08T00:39:22.626035+00:00",
+    "rsi_1h": 33.88,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.02724,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
