@@ -28609,11 +28609,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.20472,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.206,
-    "pnl_pct": 0.488,
-    "duracao_min": 21.5,
-    "data_resultado": "2026-07-08T05:01:03.052385+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2074,
+    "pnl_pct": 0.829,
+    "duracao_min": 31.0,
+    "data_resultado": "2026-07-08T05:10:34.617713+00:00"
   },
   {
     "page_id": "397a5230-de72-81d6-9aeb-c15c7ad0213d",
