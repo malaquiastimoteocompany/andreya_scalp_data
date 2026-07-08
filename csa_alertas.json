@@ -33274,11 +33274,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.20816667,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 3.18,
-    "pnl_pct": 1.15,
-    "duracao_min": 3.9,
-    "data_resultado": "2026-07-08T08:30:55.146636+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 3.144,
+    "pnl_pct": 1.71,
+    "duracao_min": 13.0,
+    "data_resultado": "2026-07-08T08:39:58.767578+00:00"
   },
   {
     "page_id": "397a5230-de72-811d-b6ad-d75d9d294bcc",
