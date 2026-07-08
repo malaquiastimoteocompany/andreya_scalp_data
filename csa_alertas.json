@@ -34372,7 +34372,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.156,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.1566,
+    "pnl_pct": 0.256,
+    "duracao_min": 121.6,
+    "data_resultado": "2026-07-08T11:04:18.805269+00:00"
   },
   {
     "page_id": "397a5230-de72-818d-b6e9-e6a3c0cada07",
