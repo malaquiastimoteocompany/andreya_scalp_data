@@ -27588,11 +27588,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01892,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01899,
-    "pnl_pct": 0.636,
-    "duracao_min": 79.2,
-    "data_resultado": "2026-07-08T05:06:51.818236+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.019,
+    "pnl_pct": 0.662,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-08T05:48:09.856924+00:00"
   },
   {
     "page_id": "397a5230-de72-81d5-abf0-d41a75ac8342",
