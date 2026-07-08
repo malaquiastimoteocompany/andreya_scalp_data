@@ -33633,11 +33633,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03222,
-    "pnl_pct": 1.48,
-    "duracao_min": 44.8,
-    "data_resultado": "2026-07-08T09:24:38.082226+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.03288,
+    "pnl_pct": 2.52,
+    "duracao_min": 71.5,
+    "data_resultado": "2026-07-08T09:51:21.735818+00:00"
   },
   {
     "page_id": "397a5230-de72-81eb-b78a-f966d6971a56",
