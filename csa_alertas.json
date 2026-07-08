@@ -31362,11 +31362,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.2755,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.236,
-    "pnl_pct": 1.671,
-    "duracao_min": 71.9,
-    "data_resultado": "2026-07-08T08:18:49.137534+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.225,
+    "pnl_pct": 1.838,
+    "duracao_min": 77.7,
+    "data_resultado": "2026-07-08T08:24:41.177054+00:00"
   },
   {
     "page_id": "397a5230-de72-8115-8ae2-c22027621c09",
