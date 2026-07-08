@@ -26269,11 +26269,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1269,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1276,
-    "pnl_pct": 0.71,
-    "duracao_min": 19.7,
-    "data_resultado": "2026-07-08T02:41:53.560353+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1289,
+    "pnl_pct": 1.223,
+    "duracao_min": 33.1,
+    "data_resultado": "2026-07-08T02:55:16.794588+00:00"
   },
   {
     "page_id": "397a5230-de72-8120-9a41-ee69f04ac62c",
