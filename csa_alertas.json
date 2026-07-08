@@ -20888,11 +20888,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.062755,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06255,
-    "pnl_pct": 0.414,
-    "duracao_min": 101.3,
-    "data_resultado": "2026-07-07T23:45:59.576085+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06386,
+    "pnl_pct": -0.629,
+    "duracao_min": 118.6,
+    "data_resultado": "2026-07-08T00:03:19.152617+00:00"
   },
   {
     "page_id": "396a5230-de72-8128-9bc7-de7c4f00fc30",
