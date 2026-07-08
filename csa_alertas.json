@@ -25115,5 +25115,22 @@
     "zona_sr": 0.40963333,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-8126-9073-ea387ac71eec",
+    "token": "ICNT",
+    "direccao": "LONG",
+    "preco_alerta": 0.1773,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T01:47:14.941183+00:00",
+    "rsi_1h": 42.63,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.17738333,
+    "toques_sr": 6,
+    "resultado": "Pendente"
   }
 ]
