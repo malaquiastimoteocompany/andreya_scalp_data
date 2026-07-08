@@ -39322,11 +39322,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1938,
-    "pnl_pct": 0.832,
-    "duracao_min": 19.0,
-    "data_resultado": "2026-07-08T13:33:33.446288+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.1955,
+    "pnl_pct": 1.275,
+    "duracao_min": 26.8,
+    "data_resultado": "2026-07-08T13:41:24.328807+00:00"
   },
   {
     "page_id": "397a5230-de72-815f-bb23-f5324075e3b3",
