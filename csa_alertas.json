@@ -37061,11 +37061,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02437,
-    "pnl_pct": 0.578,
-    "duracao_min": 26.6,
-    "data_resultado": "2026-07-08T11:36:24.576496+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.02453,
+    "pnl_pct": 0.908,
+    "duracao_min": 34.5,
+    "data_resultado": "2026-07-08T11:44:23.295053+00:00"
   },
   {
     "page_id": "397a5230-de72-81a3-999b-d724675740fd",
