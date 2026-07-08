@@ -28758,11 +28758,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01279,
-    "pnl_pct": 0.629,
-    "duracao_min": 18.0,
-    "data_resultado": "2026-07-08T05:07:34.862989+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01271,
+    "pnl_pct": 0.315,
+    "duracao_min": 52.5,
+    "data_resultado": "2026-07-08T05:42:05.354943+00:00"
   },
   {
     "page_id": "397a5230-de72-818b-b81b-d21f747a6270",
