@@ -27420,7 +27420,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.5635,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 1.565,
+    "pnl_pct": -0.128,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-08T05:47:59.759595+00:00"
   },
   {
     "page_id": "397a5230-de72-8110-b046-ee7d77e2516f",
