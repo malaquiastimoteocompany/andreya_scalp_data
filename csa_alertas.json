@@ -29553,11 +29553,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1827,
-    "pnl_pct": 1.331,
-    "duracao_min": 44.7,
-    "data_resultado": "2026-07-08T06:09:14.570732+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1797,
+    "pnl_pct": 0.499,
+    "duracao_min": 97.6,
+    "data_resultado": "2026-07-08T07:02:08.620509+00:00"
   },
   {
     "page_id": "397a5230-de72-81bf-8334-f67500bc1026",
