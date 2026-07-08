@@ -27435,11 +27435,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05022333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04959,
-    "pnl_pct": 0.879,
-    "duracao_min": 6.0,
-    "data_resultado": "2026-07-08T03:53:32.450663+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.049,
+    "pnl_pct": 1.469,
+    "duracao_min": 31.9,
+    "data_resultado": "2026-07-08T04:19:25.402208+00:00"
   },
   {
     "page_id": "397a5230-de72-8153-b2e6-d1ff9081635f",
