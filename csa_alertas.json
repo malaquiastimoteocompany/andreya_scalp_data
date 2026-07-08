@@ -38613,5 +38613,22 @@
     "zona_sr": 0.00236,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-81bd-9047-d99d8144328a",
+    "token": "BANANA",
+    "direccao": "LONG",
+    "preco_alerta": 3.058,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T12:46:59.507980+00:00",
+    "rsi_1h": 38.82,
+    "funding_rate": 0.003,
+    "estado_cfi": "E1",
+    "zona_sr": 3.06,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
