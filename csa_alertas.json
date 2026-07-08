@@ -24775,11 +24775,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.5635,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.572,
-    "pnl_pct": 0.383,
-    "duracao_min": 3.2,
-    "data_resultado": "2026-07-08T01:45:20.800784+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 1.566,
+    "pnl_pct": 0.192,
+    "duracao_min": 19.3,
+    "data_resultado": "2026-07-08T02:01:30.141543+00:00"
   },
   {
     "page_id": "397a5230-de72-8140-955b-f21aab702e53",
