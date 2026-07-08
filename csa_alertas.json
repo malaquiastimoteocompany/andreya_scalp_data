@@ -35333,11 +35333,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.412935,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.4057,
-    "pnl_pct": 1.768,
-    "duracao_min": 4.3,
-    "data_resultado": "2026-07-08T10:06:21.926164+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.413,
+    "pnl_pct": 0.884,
+    "duracao_min": 30.2,
+    "data_resultado": "2026-07-08T10:32:17.003103+00:00"
   },
   {
     "page_id": "397a5230-de72-8160-999f-f90c24130783",
