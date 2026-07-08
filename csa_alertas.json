@@ -36744,5 +36744,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-81ab-97a5-f5af1e1fda88",
+    "token": "FET",
+    "direccao": "LONG",
+    "preco_alerta": 0.1573,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T11:07:15.219282+00:00",
+    "rsi_1h": 22.4,
+    "funding_rate": -0.0153,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
