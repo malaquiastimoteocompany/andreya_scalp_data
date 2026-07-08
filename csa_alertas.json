@@ -21522,7 +21522,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02577333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.02566,
+    "pnl_pct": 0.039,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-08T00:55:29.324473+00:00"
   },
   {
     "page_id": "396a5230-de72-8139-888a-e519842c0f45",
