@@ -33539,11 +33539,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0164,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01666,
-    "pnl_pct": 1.092,
-    "duracao_min": 13.9,
-    "data_resultado": "2026-07-08T08:48:41.218599+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01648,
+    "pnl_pct": 0.546,
+    "duracao_min": 40.9,
+    "data_resultado": "2026-07-08T09:15:43.860975+00:00"
   },
   {
     "page_id": "397a5230-de72-81e6-8561-da11421da73f",
