@@ -28299,11 +28299,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002559,
-    "pnl_pct": 2.606,
-    "duracao_min": 20.9,
-    "data_resultado": "2026-07-08T04:40:25.207336+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.00276,
+    "pnl_pct": 6.636,
+    "duracao_min": 41.4,
+    "data_resultado": "2026-07-08T05:00:54.224925+00:00"
   },
   {
     "page_id": "397a5230-de72-8146-af56-e99808e01b82",
