@@ -37439,11 +37439,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02145,
-    "pnl_pct": 0.941,
-    "duracao_min": 25.3,
-    "data_resultado": "2026-07-08T11:44:55.294995+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.02124,
+    "pnl_pct": 0.447,
+    "duracao_min": 107.4,
+    "data_resultado": "2026-07-08T13:07:02.856344+00:00"
   },
   {
     "page_id": "397a5230-de72-81ac-9453-d048ab2ddfa6",
