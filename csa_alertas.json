@@ -38778,5 +38778,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-81e2-9548-c0af5eb76b71",
+    "token": "ENJ",
+    "direccao": "LONG",
+    "preco_alerta": 0.02776,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T12:59:38.874675+00:00",
+    "rsi_1h": 31.77,
+    "funding_rate": -0.0046,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
