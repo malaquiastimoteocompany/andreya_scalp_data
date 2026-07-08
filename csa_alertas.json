@@ -28187,5 +28187,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-81e2-8817-c04bdfd71d63",
+    "token": "TLM",
+    "direccao": "LONG",
+    "preco_alerta": 0.002494,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T04:19:27.002751+00:00",
+    "rsi_1h": 33.71,
+    "funding_rate": -0.019,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
