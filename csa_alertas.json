@@ -28574,11 +28574,11 @@
     "estado_cfi": "E1",
     "zona_sr": 59.4,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 60.3,
-    "pnl_pct": 1.141,
-    "duracao_min": 30.5,
-    "data_resultado": "2026-07-08T05:07:28.622935+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 59.57,
+    "pnl_pct": 0.528,
+    "duracao_min": 41.2,
+    "data_resultado": "2026-07-08T05:18:07.321470+00:00"
   },
   {
     "page_id": "397a5230-de72-81ed-a12f-fea2f1a6431f",
