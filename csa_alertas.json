@@ -24522,7 +24522,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.4364,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 2.4778,
+    "pnl_pct": 1.441,
+    "duracao_min": 102.6,
+    "data_resultado": "2026-07-08T03:14:33.053322+00:00"
   },
   {
     "page_id": "397a5230-de72-8107-b039-ce570b403a8f",
