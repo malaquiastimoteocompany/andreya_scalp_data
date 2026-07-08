@@ -31129,11 +31129,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1404,
-    "pnl_pct": 1.518,
-    "duracao_min": 9.4,
-    "data_resultado": "2026-07-08T07:11:32.093149+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.1435,
+    "pnl_pct": 2.639,
+    "duracao_min": 28.0,
+    "data_resultado": "2026-07-08T07:30:05.790754+00:00"
   },
   {
     "page_id": "397a5230-de72-81f8-98f3-d69597183ccf",
