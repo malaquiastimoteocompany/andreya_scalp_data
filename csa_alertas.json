@@ -29727,11 +29727,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.16703333,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1659,
-    "pnl_pct": 0.54,
-    "duracao_min": 35.7,
-    "data_resultado": "2026-07-08T06:22:40.757608+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1677,
+    "pnl_pct": 0.0,
+    "duracao_min": 64.9,
+    "data_resultado": "2026-07-08T06:51:54.731362+00:00"
   },
   {
     "page_id": "397a5230-de72-81cb-a2d0-d348d5779be3",
