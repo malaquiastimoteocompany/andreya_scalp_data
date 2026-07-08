@@ -27690,7 +27690,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.1242,
+    "pnl_pct": 0.812,
+    "duracao_min": 11.5,
+    "data_resultado": "2026-07-08T04:13:41.308852+00:00"
   },
   {
     "page_id": "397a5230-de72-81b3-929f-e6999f841b76",
