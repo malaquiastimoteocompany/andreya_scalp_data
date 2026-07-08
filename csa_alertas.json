@@ -37633,5 +37633,22 @@
     "zona_sr": 0.06963333,
     "toques_sr": 6,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-8190-94a2-e9e4804d32ef",
+    "token": "VANRY",
+    "direccao": "LONG",
+    "preco_alerta": 0.006535,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T11:44:39.630840+00:00",
+    "rsi_1h": 45.82,
+    "funding_rate": -0.016,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0065615,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
