@@ -36608,11 +36608,11 @@
     "estado_cfi": "E1",
     "zona_sr": 43.225,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 43.49,
-    "pnl_pct": 0.323,
-    "duracao_min": 17.9,
-    "data_resultado": "2026-07-08T11:19:57.554253+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 43.34,
+    "pnl_pct": 0.15,
+    "duracao_min": 31.2,
+    "data_resultado": "2026-07-08T11:33:15.089419+00:00"
   },
   {
     "page_id": "397a5230-de72-81c0-bf41-f73507758f6f",
