@@ -35703,7 +35703,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02661,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.02683,
+    "pnl_pct": 0.374,
+    "duracao_min": 38.8,
+    "data_resultado": "2026-07-08T10:45:57.465919+00:00"
   },
   {
     "page_id": "397a5230-de72-8140-b8b7-c5f380e884f1",
