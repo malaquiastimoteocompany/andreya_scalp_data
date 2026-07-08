@@ -37322,7 +37322,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 469.94,
+    "pnl_pct": 4.209,
+    "duracao_min": 25.4,
+    "data_resultado": "2026-07-08T11:44:51.357877+00:00"
   },
   {
     "page_id": "397a5230-de72-8121-bad1-c73097892b12",
