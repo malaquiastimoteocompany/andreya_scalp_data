@@ -29718,11 +29718,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02684,
-    "pnl_pct": 0.336,
-    "duracao_min": 111.0,
-    "data_resultado": "2026-07-08T07:27:56.721438+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.0269,
+    "pnl_pct": 0.449,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-08T07:37:47.460736+00:00"
   },
   {
     "page_id": "397a5230-de72-81f0-b04b-fd389b4a9a1f",
