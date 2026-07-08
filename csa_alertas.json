@@ -27743,11 +27743,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.17475,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1767,
-    "pnl_pct": 0.684,
-    "duracao_min": 24.9,
-    "data_resultado": "2026-07-08T04:27:08.911094+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1755,
+    "pnl_pct": 0.342,
+    "duracao_min": 40.9,
+    "data_resultado": "2026-07-08T04:43:11.404326+00:00"
   },
   {
     "page_id": "397a5230-de72-8196-bf60-e5303ade615e",
