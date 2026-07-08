@@ -36040,7 +36040,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.754,
+    "pnl_pct": 0.614,
+    "duracao_min": 106.3,
+    "data_resultado": "2026-07-08T12:05:44.105656+00:00"
   },
   {
     "page_id": "397a5230-de72-8137-8f9b-ff192023b427",
