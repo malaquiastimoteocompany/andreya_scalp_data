@@ -20682,11 +20682,11 @@
     "estado_cfi": "E1",
     "zona_sr": 90.0925,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 89.76,
-    "pnl_pct": 0.675,
-    "duracao_min": 114.0,
-    "data_resultado": "2026-07-07T23:55:53.111352+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 89.83,
+    "pnl_pct": 0.636,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-08T00:03:08.221797+00:00"
   },
   {
     "page_id": "396a5230-de72-81ec-a1d9-c436b5cb6433",
