@@ -22546,11 +22546,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01569,
-    "pnl_pct": 0.577,
-    "duracao_min": 29.8,
-    "data_resultado": "2026-07-08T00:24:30.161869+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.0158,
+    "pnl_pct": 0.929,
+    "duracao_min": 44.9,
+    "data_resultado": "2026-07-08T00:39:32.030230+00:00"
   },
   {
     "page_id": "396a5230-de72-81ed-9156-c918acf3e076",
