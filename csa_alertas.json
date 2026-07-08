@@ -30642,7 +30642,11 @@
     "estado_cfi": "E1",
     "zona_sr": 4.3e-06,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 4.282e-06,
+    "pnl_pct": -0.047,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-08T08:13:40.280163+00:00"
   },
   {
     "page_id": "397a5230-de72-819b-8ffe-d4cad718df4c",
