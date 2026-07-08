@@ -36384,11 +36384,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03813,
-    "pnl_pct": 1.518,
-    "duracao_min": 15.8,
-    "data_resultado": "2026-07-08T10:47:50.123440+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.03834,
+    "pnl_pct": 1.797,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-08T12:33:15.709408+00:00"
   },
   {
     "page_id": "397a5230-de72-8137-9348-cec15503a2fb",
