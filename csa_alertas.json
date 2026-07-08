@@ -23248,11 +23248,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1784,
-    "pnl_pct": 2.514,
-    "duracao_min": 52.4,
-    "data_resultado": "2026-07-08T01:11:49.026590+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1841,
+    "pnl_pct": 0.956,
+    "duracao_min": 75.6,
+    "data_resultado": "2026-07-08T01:35:01.880747+00:00"
   },
   {
     "page_id": "397a5230-de72-81e3-93d1-d3a88e2399d2",
