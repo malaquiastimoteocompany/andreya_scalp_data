@@ -21571,11 +21571,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07460333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07386,
-    "pnl_pct": 0.712,
-    "duracao_min": 42.0,
-    "data_resultado": "2026-07-07T23:41:41.758266+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07446,
+    "pnl_pct": 0.309,
+    "duracao_min": 87.6,
+    "data_resultado": "2026-07-08T00:27:15.191794+00:00"
   },
   {
     "page_id": "396a5230-de72-81f3-8928-d21b58173bae",
