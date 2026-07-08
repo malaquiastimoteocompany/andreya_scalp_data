@@ -36756,11 +36756,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3073,
-    "pnl_pct": 1.601,
-    "duracao_min": 2.9,
-    "data_resultado": "2026-07-08T11:05:08.806860+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.298,
+    "pnl_pct": 3.09,
+    "duracao_min": 56.1,
+    "data_resultado": "2026-07-08T11:58:23.205316+00:00"
   },
   {
     "page_id": "397a5230-de72-81c1-a0ce-c4c0c3e66cd3",
