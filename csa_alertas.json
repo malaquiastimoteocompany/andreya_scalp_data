@@ -24864,11 +24864,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1269,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1288,
-    "pnl_pct": 1.099,
-    "duracao_min": 17.2,
-    "data_resultado": "2026-07-08T01:59:36.201377+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.1271,
+    "pnl_pct": 0.432,
+    "duracao_min": 19.1,
+    "data_resultado": "2026-07-08T02:01:33.554753+00:00"
   },
   {
     "page_id": "397a5230-de72-81a4-aa91-c027ec6367ae",
