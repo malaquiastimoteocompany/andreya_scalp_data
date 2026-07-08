@@ -24056,5 +24056,22 @@
     "zona_sr": 0.14435,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-810e-8564-ec5e153c95ee",
+    "token": "WOO",
+    "direccao": "LONG",
+    "preco_alerta": 0.01176,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T01:19:31.769162+00:00",
+    "rsi_1h": 42.59,
+    "funding_rate": 0.0076,
+    "estado_cfi": "E1",
+    "zona_sr": 0.011784,
+    "toques_sr": 5,
+    "resultado": "Pendente"
   }
 ]
