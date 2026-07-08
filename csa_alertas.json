@@ -28004,11 +28004,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.00351,
-    "pnl_pct": 0.429,
-    "duracao_min": 64.5,
-    "data_resultado": "2026-07-08T05:07:10.733429+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.003497,
+    "pnl_pct": 0.243,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-08T06:02:53.491766+00:00"
   },
   {
     "page_id": "397a5230-de72-81d7-a003-c01cb16ae4bf",
