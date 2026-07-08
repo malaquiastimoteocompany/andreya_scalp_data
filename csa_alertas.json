@@ -33977,11 +33977,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004627,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.00465,
-    "pnl_pct": 0.562,
-    "duracao_min": 35.2,
-    "data_resultado": "2026-07-08T09:35:01.111289+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004621,
+    "pnl_pct": 0.249,
+    "duracao_min": 76.7,
+    "data_resultado": "2026-07-08T10:16:29.335047+00:00"
   },
   {
     "page_id": "397a5230-de72-8101-ad2a-f3c6b5483e90",
