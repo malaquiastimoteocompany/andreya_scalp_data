@@ -33952,7 +33952,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0015515,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.001562,
+    "pnl_pct": 0.97,
+    "duracao_min": 75.9,
+    "data_resultado": "2026-07-08T10:06:00.381594+00:00"
   },
   {
     "page_id": "397a5230-de72-8169-b0c1-de748faab429",
