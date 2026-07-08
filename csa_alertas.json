@@ -22623,11 +22623,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03553333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03519,
-    "pnl_pct": 1.152,
-    "duracao_min": 58.6,
-    "data_resultado": "2026-07-08T00:55:41.752861+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.03513,
+    "pnl_pct": 1.236,
+    "duracao_min": 60.0,
+    "data_resultado": "2026-07-08T00:57:05.135280+00:00"
   },
   {
     "page_id": "396a5230-de72-81bf-953d-c50ee0e4ba9c",
