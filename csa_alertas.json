@@ -34393,7 +34393,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.1569,
+    "pnl_pct": -0.696,
+    "duracao_min": 121.6,
+    "data_resultado": "2026-07-08T11:04:21.500552+00:00"
   },
   {
     "page_id": "397a5230-de72-8169-b53a-e432029fc155",
