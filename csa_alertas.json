@@ -26723,11 +26723,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2241,
-    "pnl_pct": 1.037,
-    "duracao_min": 14.3,
-    "data_resultado": "2026-07-08T03:16:31.471332+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2217,
+    "pnl_pct": 0.496,
+    "duracao_min": 49.6,
+    "data_resultado": "2026-07-08T03:51:49.708245+00:00"
   },
   {
     "page_id": "397a5230-de72-81b4-ad30-d32bb5b338ba",
