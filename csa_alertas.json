@@ -36006,11 +36006,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004346,
-    "pnl_pct": 0.486,
-    "duracao_min": 19.3,
-    "data_resultado": "2026-07-08T10:34:03.299784+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.004363,
+    "pnl_pct": 0.682,
+    "duracao_min": 121.5,
+    "data_resultado": "2026-07-08T12:16:14.082161+00:00"
   },
   {
     "page_id": "397a5230-de72-819d-8f70-f2c0c7979696",
