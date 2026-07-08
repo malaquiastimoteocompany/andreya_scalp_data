@@ -21963,7 +21963,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.00355,
+    "pnl_pct": -0.084,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-08T01:05:42.658973+00:00"
   },
   {
     "page_id": "396a5230-de72-81f0-bc50-ecb4d34e0072",
