@@ -26299,11 +26299,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01763,
-    "pnl_pct": 0.743,
-    "duracao_min": 5.7,
-    "data_resultado": "2026-07-08T02:40:19.038860+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.01769,
+    "pnl_pct": 0.914,
+    "duracao_min": 13.4,
+    "data_resultado": "2026-07-08T02:48:00.446836+00:00"
   },
   {
     "page_id": "397a5230-de72-8198-a56d-c5a03cdb8f6a",
