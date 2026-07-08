@@ -23687,11 +23687,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 2.6587,
-    "pnl_pct": 5.509,
-    "duracao_min": 15.9,
-    "data_resultado": "2026-07-08T01:17:48.152680+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.8596,
+    "pnl_pct": 1.939,
+    "duracao_min": 34.6,
+    "data_resultado": "2026-07-08T01:36:34.764593+00:00"
   },
   {
     "page_id": "397a5230-de72-817a-80b9-c2d85fd3ca48",
