@@ -33452,11 +33452,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 155.02,
-    "pnl_pct": 1.987,
-    "duracao_min": 22.4,
-    "data_resultado": "2026-07-08T08:54:24.764809+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 152.0,
+    "pnl_pct": 0.993,
+    "duracao_min": 32.1,
+    "data_resultado": "2026-07-08T09:04:06.024419+00:00"
   },
   {
     "page_id": "397a5230-de72-810a-ab7e-ffdf65852954",
