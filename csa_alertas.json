@@ -30806,11 +30806,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0168275,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01684,
-    "pnl_pct": 0.537,
-    "duracao_min": 58.4,
-    "data_resultado": "2026-07-08T07:20:35.077793+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0167,
+    "pnl_pct": 0.119,
+    "duracao_min": 114.5,
+    "data_resultado": "2026-07-08T08:16:43.127011+00:00"
   },
   {
     "page_id": "397a5230-de72-813e-96c9-f04080996bf9",
