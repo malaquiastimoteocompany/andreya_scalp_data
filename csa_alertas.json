@@ -22409,11 +22409,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.21033333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 2.217,
-    "pnl_pct": 0.544,
-    "duracao_min": 21.6,
-    "data_resultado": "2026-07-08T00:08:30.700261+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.233,
+    "pnl_pct": 0.907,
+    "duracao_min": 37.5,
+    "data_resultado": "2026-07-08T00:24:26.905417+00:00"
   },
   {
     "page_id": "396a5230-de72-816e-9a04-d39432cb4955",
