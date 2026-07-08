@@ -34688,5 +34688,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-8126-9128-caa09729b19d",
+    "token": "CFX",
+    "direccao": "LONG",
+    "preco_alerta": 0.0418,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T09:19:36.411522+00:00",
+    "rsi_1h": 26.4,
+    "funding_rate": -0.0084,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
