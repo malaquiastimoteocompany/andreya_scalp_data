@@ -23240,11 +23240,11 @@
     "estado_cfi": "E1",
     "zona_sr": 61.21,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 60.94,
-    "pnl_pct": 0.911,
-    "duracao_min": 3.5,
-    "data_resultado": "2026-07-08T00:35:20.731991+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 61.59,
+    "pnl_pct": 0.382,
+    "duracao_min": 7.8,
+    "data_resultado": "2026-07-08T00:39:43.695577+00:00"
   },
   {
     "page_id": "397a5230-de72-810e-8464-c3f7ace4c50b",
