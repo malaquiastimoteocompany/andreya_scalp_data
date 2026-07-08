@@ -38414,5 +38414,22 @@
     "zona_sr": 0.14582,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-8181-9eef-e0520f4520e4",
+    "token": "EDEN",
+    "direccao": "LONG",
+    "preco_alerta": 0.04072,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T12:34:59.521890+00:00",
+    "rsi_1h": 34.61,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
