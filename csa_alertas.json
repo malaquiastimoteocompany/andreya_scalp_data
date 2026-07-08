@@ -25098,5 +25098,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-81d8-a986-cc3aefccd8da",
+    "token": "ETHFI",
+    "direccao": "LONG",
+    "preco_alerta": 0.4096,
+    "score": 8,
+    "setup": "A",
+    "prioritario": true,
+    "enviado": false,
+    "data_alerta": "2026-07-08T01:47:10.022716+00:00",
+    "rsi_1h": 31.33,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.40963333,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
