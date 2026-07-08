@@ -22320,7 +22320,11 @@
     "estado_cfi": "E1",
     "zona_sr": 7.884,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 7.852,
+    "pnl_pct": -0.419,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-08T01:24:35.596752+00:00"
   },
   {
     "page_id": "396a5230-de72-8108-9d00-e85226f40d69",
