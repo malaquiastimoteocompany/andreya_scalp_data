@@ -33253,11 +33253,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.058475,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.05909,
-    "pnl_pct": 0.888,
-    "duracao_min": 10.3,
-    "data_resultado": "2026-07-08T08:35:16.692494+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.05834,
+    "pnl_pct": 0.248,
+    "duracao_min": 15.0,
+    "data_resultado": "2026-07-08T08:39:56.120751+00:00"
   },
   {
     "page_id": "397a5230-de72-81e1-9b31-d756604b19e2",
