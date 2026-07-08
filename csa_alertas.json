@@ -30675,5 +30675,22 @@
     "zona_sr": 0.08369,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-8109-b16d-cdcdb05341c3",
+    "token": "OPN",
+    "direccao": "LONG",
+    "preco_alerta": 0.05875,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T06:39:31.791075+00:00",
+    "rsi_1h": 29.12,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.058475,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
