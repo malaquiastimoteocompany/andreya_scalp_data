@@ -38120,11 +38120,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.5635,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.566,
-    "pnl_pct": 0.513,
-    "duracao_min": 7.7,
-    "data_resultado": "2026-07-08T12:22:15.518932+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 1.558,
+    "pnl_pct": 0.257,
+    "duracao_min": 21.9,
+    "data_resultado": "2026-07-08T12:36:27.901104+00:00"
   },
   {
     "page_id": "397a5230-de72-8112-b77f-f3078c3623a4",
