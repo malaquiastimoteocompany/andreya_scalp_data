@@ -21957,7 +21957,11 @@
     "estado_cfi": "E1",
     "zona_sr": 59.4,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 60.02,
+    "pnl_pct": 0.772,
+    "duracao_min": 55.9,
+    "data_resultado": "2026-07-08T00:05:20.988736+00:00"
   },
   {
     "page_id": "396a5230-de72-81f3-9ef0-f6fe96952200",
