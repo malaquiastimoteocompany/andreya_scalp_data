@@ -37515,11 +37515,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.061825,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.062,
-    "pnl_pct": 0.731,
-    "duracao_min": 7.9,
-    "data_resultado": "2026-07-08T11:34:59.284014+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.06242,
+    "pnl_pct": 1.072,
+    "duracao_min": 22.7,
+    "data_resultado": "2026-07-08T11:49:48.709039+00:00"
   },
   {
     "page_id": "397a5230-de72-8151-8145-d09dc930c121",
