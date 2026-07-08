@@ -26459,5 +26459,22 @@
     "pnl_pct": 0.699,
     "duracao_min": 1.5,
     "data_resultado": "2026-07-08T03:01:07.547759+00:00"
+  },
+  {
+    "page_id": "397a5230-de72-8177-8f3c-d54755c20454",
+    "token": "UNI",
+    "direccao": "SHORT",
+    "preco_alerta": 3.197,
+    "score": 8,
+    "setup": "A",
+    "prioritario": true,
+    "enviado": false,
+    "data_alerta": "2026-07-08T03:01:55.683706+00:00",
+    "rsi_1h": 49.79,
+    "funding_rate": 0.0069,
+    "estado_cfi": "E2",
+    "zona_sr": 3.211875,
+    "toques_sr": 8,
+    "resultado": "Pendente"
   }
 ]
