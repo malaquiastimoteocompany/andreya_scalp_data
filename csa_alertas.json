@@ -38182,5 +38182,22 @@
     "zona_sr": 0.04928,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-818d-bf1f-cb8ba016601d",
+    "token": "SEI",
+    "direccao": "LONG",
+    "preco_alerta": 0.04648,
+    "score": 8,
+    "setup": "A",
+    "prioritario": true,
+    "enviado": false,
+    "data_alerta": "2026-07-08T12:19:43.380091+00:00",
+    "rsi_1h": 32.14,
+    "funding_rate": -0.0332,
+    "estado_cfi": "E1",
+    "zona_sr": 0.046575,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
