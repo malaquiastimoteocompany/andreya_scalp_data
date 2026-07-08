@@ -26090,11 +26090,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.081692,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08221,
-    "pnl_pct": 0.55,
-    "duracao_min": 52.5,
-    "data_resultado": "2026-07-08T02:59:35.519068+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.08278,
+    "pnl_pct": 0.899,
+    "duracao_min": 97.1,
+    "data_resultado": "2026-07-08T03:44:09.322567+00:00"
   },
   {
     "page_id": "397a5230-de72-81ce-891e-e2150b0cc34f",
