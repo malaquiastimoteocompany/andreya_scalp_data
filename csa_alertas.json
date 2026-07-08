@@ -22545,11 +22545,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 162.39,
-    "pnl_pct": 1.908,
-    "duracao_min": 6.2,
-    "data_resultado": "2026-07-08T00:05:31.745952+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 166.45,
+    "pnl_pct": 3.182,
+    "duracao_min": 14.9,
+    "data_resultado": "2026-07-08T00:14:17.429849+00:00"
   },
   {
     "page_id": "397a5230-de72-811f-a5ab-cd7e0e58c45d",
