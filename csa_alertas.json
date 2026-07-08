@@ -25622,7 +25622,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.02469,
+    "pnl_pct": 0.57,
+    "duracao_min": 3.7,
+    "data_resultado": "2026-07-08T02:06:09.586923+00:00"
   },
   {
     "page_id": "397a5230-de72-8107-9a5b-e57fea38f1ba",
