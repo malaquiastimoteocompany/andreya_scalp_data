@@ -37242,7 +37242,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.54166667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 1.547,
+    "pnl_pct": 0.455,
+    "duracao_min": 27.8,
+    "data_resultado": "2026-07-08T11:44:43.210639+00:00"
   },
   {
     "page_id": "397a5230-de72-81ab-8e2d-c04c5a7a3600",
