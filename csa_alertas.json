@@ -38089,5 +38089,22 @@
     "zona_sr": 1.5635,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-8112-b77f-f3078c3623a4",
+    "token": "XPL",
+    "direccao": "LONG",
+    "preco_alerta": 0.09276,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T12:14:33.078421+00:00",
+    "rsi_1h": 32.77,
+    "funding_rate": 0.0036,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
