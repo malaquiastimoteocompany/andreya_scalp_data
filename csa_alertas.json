@@ -35962,7 +35962,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.0695,
+    "pnl_pct": 0.376,
+    "duracao_min": 15.1,
+    "data_resultado": "2026-07-08T10:37:05.858341+00:00"
   },
   {
     "page_id": "397a5230-de72-81d3-b8ae-cabb09257f9f",
