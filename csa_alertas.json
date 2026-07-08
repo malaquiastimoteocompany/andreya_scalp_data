@@ -30576,11 +30576,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.003482,
-    "pnl_pct": 0.462,
-    "duracao_min": 74.1,
-    "data_resultado": "2026-07-08T07:26:26.478735+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.003466,
+    "pnl_pct": 0.231,
+    "duracao_min": 104.5,
+    "data_resultado": "2026-07-08T07:56:54.055485+00:00"
   },
   {
     "page_id": "397a5230-de72-8105-b714-d670ad929de7",
