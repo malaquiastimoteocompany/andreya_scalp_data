@@ -36920,11 +36920,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00342,
-    "pnl_pct": 0.411,
-    "duracao_min": 3.4,
-    "data_resultado": "2026-07-08T11:11:08.326407+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.003439,
+    "pnl_pct": 0.69,
+    "duracao_min": 30.3,
+    "data_resultado": "2026-07-08T11:37:59.178076+00:00"
   },
   {
     "page_id": "397a5230-de72-812f-9585-df71130f97a6",
