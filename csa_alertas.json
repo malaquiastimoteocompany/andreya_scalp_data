@@ -31215,11 +31215,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.373,
-    "pnl_pct": 0.784,
-    "duracao_min": 18.7,
-    "data_resultado": "2026-07-08T07:20:42.718257+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3681,
+    "pnl_pct": 0.122,
+    "duracao_min": 76.8,
+    "data_resultado": "2026-07-08T08:18:43.283518+00:00"
   },
   {
     "page_id": "397a5230-de72-8170-8c71-e406c03f1446",
