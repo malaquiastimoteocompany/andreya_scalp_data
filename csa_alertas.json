@@ -35628,11 +35628,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04208,
-    "pnl_pct": 0.502,
-    "duracao_min": 29.9,
-    "data_resultado": "2026-07-08T10:32:20.983024+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04225,
+    "pnl_pct": 0.705,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-08T12:02:39.350137+00:00"
   },
   {
     "page_id": "397a5230-de72-817f-b615-faa93b372c5d",
