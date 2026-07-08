@@ -31821,5 +31821,22 @@
     "zona_sr": 0.07736667,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-81cd-b46e-dd2944c74bb1",
+    "token": "BLESS",
+    "direccao": "LONG",
+    "preco_alerta": 0.007342,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T07:42:07.794526+00:00",
+    "rsi_1h": 33.01,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.007328,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
