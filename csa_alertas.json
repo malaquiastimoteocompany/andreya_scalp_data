@@ -28676,11 +28676,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05864,
     "toques_sr": 7,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05832,
-    "pnl_pct": 0.512,
-    "duracao_min": 94.0,
-    "data_resultado": "2026-07-08T06:06:00.018784+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.05831,
+    "pnl_pct": 0.52,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-08T06:32:43.781243+00:00"
   },
   {
     "page_id": "397a5230-de72-8114-84f8-f33103bcbf93",
