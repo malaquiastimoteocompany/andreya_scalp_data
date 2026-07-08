@@ -39311,5 +39311,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-8188-a59f-df69795dfd52",
+    "token": "AUDIO",
+    "direccao": "LONG",
+    "preco_alerta": 0.01359,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T13:19:35.958332+00:00",
+    "rsi_1h": 45.7,
+    "funding_rate": -0.0126,
+    "estado_cfi": "E1",
+    "zona_sr": 0.01356,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
