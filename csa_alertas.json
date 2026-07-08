@@ -23065,11 +23065,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00475675,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.00473,
-    "pnl_pct": 0.4,
-    "duracao_min": 81.9,
-    "data_resultado": "2026-07-08T01:29:04.016376+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.004674,
+    "pnl_pct": 0.99,
+    "duracao_min": 91.3,
+    "data_resultado": "2026-07-08T01:38:28.109507+00:00"
   },
   {
     "page_id": "397a5230-de72-817f-87f1-e370689bd0f2",
