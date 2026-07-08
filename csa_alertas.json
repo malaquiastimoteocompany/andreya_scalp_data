@@ -22414,7 +22414,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3777,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.3825,
+    "pnl_pct": 0.897,
+    "duracao_min": 64.6,
+    "data_resultado": "2026-07-08T00:43:59.507601+00:00"
   },
   {
     "page_id": "396a5230-de72-813b-be3d-e42aac43cb4c",
