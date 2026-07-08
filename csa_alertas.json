@@ -32212,11 +32212,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00052997,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0005328,
-    "pnl_pct": 0.661,
-    "duracao_min": 6.2,
-    "data_resultado": "2026-07-08T08:06:02.677546+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.0005276,
+    "pnl_pct": 0.17,
+    "duracao_min": 17.6,
+    "data_resultado": "2026-07-08T08:17:24.718772+00:00"
   },
   {
     "page_id": "397a5230-de72-812b-af1d-e4ca41ba7734",
