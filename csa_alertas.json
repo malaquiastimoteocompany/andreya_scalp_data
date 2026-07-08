@@ -36442,7 +36442,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 2.3424,
+    "pnl_pct": 1.609,
+    "duracao_min": 50.8,
+    "data_resultado": "2026-07-08T11:37:47.929347+00:00"
   },
   {
     "page_id": "397a5230-de72-8186-b76e-c7145bb7c83a",
