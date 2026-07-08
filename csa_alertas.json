@@ -36871,5 +36871,22 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-8159-ace2-cd6d0729913b",
+    "token": "BERA",
+    "direccao": "LONG",
+    "preco_alerta": 0.1914,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T11:09:34.269196+00:00",
+    "rsi_1h": 26.76,
+    "funding_rate": -0.0315,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
