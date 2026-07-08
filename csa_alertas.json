@@ -23241,5 +23241,22 @@
     "pnl_pct": 0.911,
     "duracao_min": 3.5,
     "data_resultado": "2026-07-08T00:35:20.731991+00:00"
+  },
+  {
+    "page_id": "397a5230-de72-810e-8464-c3f7ace4c50b",
+    "token": "APT",
+    "direccao": "SHORT",
+    "preco_alerta": 0.6319,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T00:36:50.818459+00:00",
+    "rsi_1h": 47.99,
+    "funding_rate": 0.0,
+    "estado_cfi": "E1",
+    "zona_sr": 0.6339,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
