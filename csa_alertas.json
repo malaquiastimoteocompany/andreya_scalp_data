@@ -33694,11 +33694,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.138,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 3.192,
-    "pnl_pct": 1.269,
-    "duracao_min": 4.3,
-    "data_resultado": "2026-07-08T08:48:50.215258+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.225,
+    "pnl_pct": 1.793,
+    "duracao_min": 38.6,
+    "data_resultado": "2026-07-08T09:23:09.059443+00:00"
   },
   {
     "page_id": "397a5230-de72-8157-bca5-fc4c9e14a976",
