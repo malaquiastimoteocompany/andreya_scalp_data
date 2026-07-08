@@ -29844,7 +29844,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 7.696,
+    "pnl_pct": 0.182,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-08T07:49:34.746702+00:00"
   },
   {
     "page_id": "397a5230-de72-812a-8673-eaa3702bdb10",
