@@ -20871,11 +20871,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01718,
-    "pnl_pct": 0.585,
-    "duracao_min": 32.1,
-    "data_resultado": "2026-07-07T22:36:49.303414+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01731,
+    "pnl_pct": 0.966,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-08T00:04:55.633375+00:00"
   },
   {
     "page_id": "396a5230-de72-8186-8a74-e0fd46ffc1f8",
