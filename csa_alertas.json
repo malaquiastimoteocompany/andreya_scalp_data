@@ -33615,11 +33615,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.54166667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 1.546,
-    "pnl_pct": 0.39,
-    "duracao_min": 4.7,
-    "data_resultado": "2026-07-08T08:46:57.478119+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.54,
+    "pnl_pct": 0.195,
+    "duracao_min": 30.6,
+    "data_resultado": "2026-07-08T09:12:51.093854+00:00"
   },
   {
     "page_id": "397a5230-de72-8142-89a6-ec2f7af92a87",
