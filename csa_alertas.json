@@ -37533,11 +37533,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0003258,
-    "pnl_pct": 0.587,
-    "duracao_min": 54.6,
-    "data_resultado": "2026-07-08T12:19:19.709979+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0003237,
+    "pnl_pct": 0.262,
+    "duracao_min": 74.5,
+    "data_resultado": "2026-07-08T12:39:14.078352+00:00"
   },
   {
     "page_id": "397a5230-de72-81ed-8d3b-c8568e1822d3",
