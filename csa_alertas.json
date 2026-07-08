@@ -37608,5 +37608,22 @@
     "zona_sr": 0.37683333,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "397a5230-de72-81c7-8746-ef053d249d37",
+    "token": "MANA",
+    "direccao": "LONG",
+    "preco_alerta": 0.0695,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-08T11:44:35.455942+00:00",
+    "rsi_1h": 57.97,
+    "funding_rate": -0.0137,
+    "estado_cfi": "E1",
+    "zona_sr": 0.06963333,
+    "toques_sr": 6,
+    "resultado": "Pendente"
   }
 ]
