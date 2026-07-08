@@ -37749,11 +37749,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01892,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01896,
-    "pnl_pct": 0.637,
-    "duracao_min": 15.6,
-    "data_resultado": "2026-07-08T11:52:48.839108+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01881,
+    "pnl_pct": 0.239,
+    "duracao_min": 108.4,
+    "data_resultado": "2026-07-08T13:25:39.490052+00:00"
   },
   {
     "page_id": "397a5230-de72-81c0-aaf0-ca45c42f5f84",
