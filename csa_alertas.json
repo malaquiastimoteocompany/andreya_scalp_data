@@ -24305,11 +24305,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3582,
-    "pnl_pct": 1.647,
-    "duracao_min": 43.9,
-    "data_resultado": "2026-07-08T02:05:51.694098+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.3511,
+    "pnl_pct": 2.622,
+    "duracao_min": 45.4,
+    "data_resultado": "2026-07-08T02:07:20.249051+00:00"
   },
   {
     "page_id": "397a5230-de72-812a-b763-d550e2baea1f",
