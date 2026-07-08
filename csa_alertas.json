@@ -36153,11 +36153,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.171,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.173,
-    "pnl_pct": 0.509,
-    "duracao_min": 81.7,
-    "data_resultado": "2026-07-08T11:43:39.349361+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 2.174,
+    "pnl_pct": 0.532,
+    "duracao_min": 121.4,
+    "data_resultado": "2026-07-08T12:23:19.882167+00:00"
   },
   {
     "page_id": "397a5230-de72-8152-9cd5-e4dc034c6357",
