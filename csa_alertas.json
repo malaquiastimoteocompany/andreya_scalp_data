@@ -25601,11 +25601,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00121025,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001193,
-    "pnl_pct": 1.242,
-    "duracao_min": 42.5,
-    "data_resultado": "2026-07-08T02:37:06.513078+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.001197,
+    "pnl_pct": 1.076,
+    "duracao_min": 121.4,
+    "data_resultado": "2026-07-08T03:56:01.240668+00:00"
   },
   {
     "page_id": "397a5230-de72-819e-98d8-ec4e9c40f744",
