@@ -21732,11 +21732,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.5782,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.581,
-    "pnl_pct": 0.381,
-    "duracao_min": 103.2,
-    "data_resultado": "2026-07-08T00:45:21.903925+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.583,
+    "pnl_pct": 0.444,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-08T01:02:36.840990+00:00"
   },
   {
     "page_id": "396a5230-de72-8105-b8cf-cbbcff185089",
