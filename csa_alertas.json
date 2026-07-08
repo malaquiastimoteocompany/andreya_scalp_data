@@ -35313,7 +35313,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.05528,
+    "pnl_pct": -1.462,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-08T11:32:59.622868+00:00"
   },
   {
     "page_id": "397a5230-de72-8121-80e6-c43d01d6f334",
