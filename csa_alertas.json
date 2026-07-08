@@ -37502,7 +37502,11 @@
     "estado_cfi": "E1",
     "zona_sr": 466.28,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 467.83,
+    "pnl_pct": 0.767,
+    "duracao_min": 27.3,
+    "data_resultado": "2026-07-08T11:54:12.935849+00:00"
   },
   {
     "page_id": "397a5230-de72-8180-9df4-c4b0eccd42c0",
