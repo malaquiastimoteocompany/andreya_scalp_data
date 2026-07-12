@@ -59281,11 +59281,11 @@
     "estado_cfi": "E1",
     "zona_sr": 67.84383333,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 67.798,
-    "pnl_pct": 0.275,
-    "duracao_min": 77.2,
-    "data_resultado": "2026-07-12T18:22:04.172321+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 67.985,
+    "pnl_pct": 0.138,
+    "duracao_min": 92.4,
+    "data_resultado": "2026-07-12T18:37:14.631466+00:00"
   },
   {
     "page_id": "39ba5230-de72-8116-9540-fb74d6b2ece9",
