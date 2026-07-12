@@ -56499,7 +56499,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01395,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.01374,
+    "pnl_pct": -1.857,
+    "duracao_min": 108.0,
+    "data_resultado": "2026-07-12T17:02:59.585823+00:00"
   },
   {
     "page_id": "39ba5230-de72-81bd-989a-c979209e74e1",
