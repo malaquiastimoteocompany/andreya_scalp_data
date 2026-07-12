@@ -1,6 +1,5 @@
 {
   "aviso": "Este ficheiro documenta mudanças de regime nos dados do CSA — leituras obrigatórias antes de analisar csa_alertas_historico.json ou csa_alertas.json. Objectivo: qualquer instância do Claude (mesmo sem memória de conversas anteriores) consegue perceber sozinha onde estão as fronteiras de dados válidos, sem depender de contexto de chat.",
-
   "eventos": [
     {
       "data": "2026-07-04T18:33:00+00:00",
@@ -19,12 +18,18 @@
       "titulo": "Fix do filtro de liquidez (vol24 × lastPrice)",
       "descricao": "O filtro de elegibilidade multiplicava volume24 (já em USD) por lastPrice, distorcendo o universo de tokens elegíveis — a favor de tokens caros, contra tokens baratos. Não afecta PnL de alertas já registados (esse cálculo é independente), mas afecta QUE tokens chegaram a gerar alerta.",
       "impacto": "Simulações agregadas (ex.: 'X USDT/dia com 10 USDT por trade') feitas com dados anteriores a esta data reflectem um universo de tokens distorcido — 32% dos alertas em tokens >$100, quando o filtro correcto (>=$5M volume 24h real) não deveria produzir esse viés. Para simulações comparáveis ao sistema corrigido, usar só dados a partir desta data."
+    },
+    {
+      "data": "2026-07-12T11:42:00+00:00",
+      "titulo": "CSA — 'momento zero' para a próxima leitura de dados (bateria de correcções 12/07/2026)",
+      "descricao": "Numa sessão só, corrigido: (1) github_sync parado desde 08/07 13:52 por ficheiro >1MB, recuperado via backfill do CSV do Notion; (2) Setup N/A deixa de gerar alerta/contar como accionável, mas continua registado (campo novo 'Executável') — antes disparava misturado com A/B/C sem distinção; (3) ATR/TP1/TP2/SL e os sub-componentes do score (campo novo 'Componentes Score') passam a ser gravados — antes só existiam em memória durante o ciclo, nunca chegavam a Notion/GitHub; (4) get_open_interest corrigido — o endpoint dedicado da MEXC devolvia 403 há semanas, Setup B nunca tinha disparado uma única vez desde sempre; (5) unidade do OI corrigida — 'holdVol' vem em contratos, não em USD (confirmado com contractSize real da MEXC), o filtro MIN_OI estava a comparar grandezas erradas; (6) Volume 24h / Spread % / OI USD passam a ser gravados por alerta (campos novos); (7) bug do priority_key (volume24 × lastPrice a decidir a ordem de análise de cada ciclo, mesmo erro do filtro de liquidez já corrigido a 07/07/2026, reintroduzido noutro sítio do código) — corrigido a seguir a este registo, mesma sessão.",
+      "impacto": "Dados anteriores a este momento reflectem: Setup B estruturalmente impossível de disparar; MIN_OI nunca aplicado, ou aplicado com unidade errada; ordem de análise por ciclo enviesada a favor de tokens de preço alto; sem ATR/TP1/TP2/SL/Componentes Score/Volume 24h/Spread/OI USD registados por alerta (campos não existiam). Para qualquer leitura futura (dali a uns dias, quando houver amostra nova) que queira avaliar Setup B, o filtro de liquidez, a ordem de priorização, ou usar qualquer um dos campos novos, usar só dados a partir desta data. Dados anteriores continuam válidos para tudo o que já estava validado antes (PnL, Resultado, Setup A/C) — só estas dimensões novas é que não têm histórico fiável anterior a este ponto."
     }
   ],
-
   "resumo_pratico": {
     "pnl_e_resultado_fiaveis_desde": "2026-07-05T00:00:00+00:00",
     "universo_de_tokens_corrigido_desde": "2026-07-07T08:58:00+00:00",
-    "nota": "csa_alertas.json (ao vivo) só contém registos a partir de 2026-07-07T08:58 UTC — os anteriores foram removidos daqui por já estarem duplicados em csa_alertas_historico.json, que mantém o histórico completo desde 2026-06-27, incluindo os períodos acima assinalados como não-fiáveis."
+    "nota": "csa_alertas.json (ao vivo) só contém registos a partir de 2026-07-07T08:58 UTC — os anteriores foram removidos daqui por já estarem duplicados em csa_alertas_historico.json, que mantém o histórico completo desde 2026-06-27, incluindo os períodos acima assinalados como não-fiáveis.",
+    "momento_zero_para_setup_b_oi_volume_spread": "2026-07-12T11:42:00+00:00"
   }
 }
