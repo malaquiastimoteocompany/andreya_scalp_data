@@ -62791,11 +62791,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.12125,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.131,
-    "pnl_pct": 0.256,
-    "duracao_min": 86.2,
-    "data_resultado": "2026-07-12T21:01:03.991626+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.123,
+    "pnl_pct": 0.128,
+    "duracao_min": 93.5,
+    "data_resultado": "2026-07-12T21:08:23.900180+00:00"
   },
   {
     "page_id": "39ba5230-de72-814b-b528-fecd255c024a",
