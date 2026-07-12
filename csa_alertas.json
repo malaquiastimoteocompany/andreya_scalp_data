@@ -43463,5 +43463,23 @@
     "zona_sr": 0.78866667,
     "toques_sr": 6,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-81e3-8e81-d93f38ed1c48",
+    "token": "TAO",
+    "direccao": "SHORT",
+    "preco_alerta": 209.94,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "data_alerta": "2026-07-12T10:19:56.967233+00:00",
+    "rsi_1h": 47.03,
+    "funding_rate": 0.0011,
+    "estado_cfi": "E1",
+    "zona_sr": 210.93375,
+    "toques_sr": 8,
+    "resultado": "Pendente"
   }
 ]
