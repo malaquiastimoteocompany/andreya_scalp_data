@@ -60661,11 +60661,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 4.278e-06,
-    "pnl_pct": 0.211,
-    "duracao_min": 26.6,
-    "data_resultado": "2026-07-12T18:38:50.813821+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 4.289e-06,
+    "pnl_pct": 0.34,
+    "duracao_min": 101.4,
+    "data_resultado": "2026-07-12T19:53:37.398416+00:00"
   },
   {
     "page_id": "39ba5230-de72-8125-86f2-d6369033db2a",
