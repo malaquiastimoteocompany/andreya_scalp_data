@@ -59381,11 +59381,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.14795,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1492,
-    "pnl_pct": 0.471,
-    "duracao_min": 27.4,
-    "data_resultado": "2026-07-12T17:42:26.725234+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1484,
+    "pnl_pct": 0.202,
+    "duracao_min": 40.8,
+    "data_resultado": "2026-07-12T17:55:51.309090+00:00"
   },
   {
     "page_id": "39ba5230-de72-81b9-8648-f3bf5dd4a2cc",
