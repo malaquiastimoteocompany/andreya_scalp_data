@@ -43424,5 +43424,22 @@
     "zona_sr": 2.4455,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-81c0-8acb-e32b59ad83d5",
+    "token": "SKYAI",
+    "direccao": "SHORT",
+    "preco_alerta": 0.03509,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-12T10:18:10.659765+00:00",
+    "rsi_1h": 44.77,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.03508,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
