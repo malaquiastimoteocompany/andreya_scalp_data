@@ -48243,7 +48243,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.002109,
+    "pnl_pct": 1.983,
+    "duracao_min": 27.0,
+    "data_resultado": "2026-07-12T11:25:54.681310+00:00"
   },
   {
     "page_id": "39ba5230-de72-812b-bed8-d18481dfa12c",
