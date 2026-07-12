@@ -65229,11 +65229,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1874425,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1875,
-    "pnl_pct": 0.451,
-    "duracao_min": 2.0,
-    "data_resultado": "2026-07-12T21:22:09.184645+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.18665,
+    "pnl_pct": 0.677,
+    "duracao_min": 40.1,
+    "data_resultado": "2026-07-12T22:00:15.260469+00:00"
   },
   {
     "page_id": "39ba5230-de72-81cc-bf84-fb322fb1e025",
