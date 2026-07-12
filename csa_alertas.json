@@ -39942,7 +39942,11 @@
     "estado_cfi": "E2",
     "zona_sr": 2.88866667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 2.903,
+    "pnl_pct": 0.242,
+    "duracao_min": 11.1,
+    "data_resultado": "2026-07-12T08:52:33.541097+00:00"
   },
   {
     "page_id": "39ba5230-de72-819f-9539-cbcde4c81d9a",
