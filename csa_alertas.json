@@ -59391,11 +59391,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01382,
-    "pnl_pct": 0.582,
-    "duracao_min": 81.3,
-    "data_resultado": "2026-07-12T18:28:56.352934+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.01381,
+    "pnl_pct": 0.546,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-12T19:07:52.577004+00:00"
   },
   {
     "page_id": "39ba5230-de72-81ef-9794-d6e0aca44dea",
