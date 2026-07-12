@@ -57651,11 +57651,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07407,
-    "pnl_pct": 0.804,
-    "duracao_min": 24.3,
-    "data_resultado": "2026-07-12T16:34:25.284169+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.07372,
+    "pnl_pct": 1.038,
+    "duracao_min": 121.4,
+    "data_resultado": "2026-07-12T18:11:30.614778+00:00"
   },
   {
     "page_id": "39ba5230-de72-8191-86d1-d76b0475ee6a",
