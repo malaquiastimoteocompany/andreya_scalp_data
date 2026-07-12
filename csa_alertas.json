@@ -65303,7 +65303,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.4152,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 6.38,
+    "pnl_pct": -1.024,
+    "duracao_min": 42.8,
+    "data_resultado": "2026-07-12T22:05:06.724480+00:00"
   },
   {
     "page_id": "39ba5230-de72-8150-8a29-dd5464273699",
