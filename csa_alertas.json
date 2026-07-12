@@ -55363,7 +55363,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.30935,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.3099,
+    "pnl_pct": 0.617,
+    "duracao_min": 27.9,
+    "data_resultado": "2026-07-12T15:15:38.396219+00:00"
   },
   {
     "page_id": "39ba5230-de72-8105-91a3-faac807c78ef",
