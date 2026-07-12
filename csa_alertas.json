@@ -47559,7 +47559,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02201,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.02198,
+    "pnl_pct": 0.498,
+    "duracao_min": 31.7,
+    "data_resultado": "2026-07-12T11:11:47.305250+00:00"
   },
   {
     "page_id": "39ba5230-de72-81d7-b144-e3b39b5fe3ca",
