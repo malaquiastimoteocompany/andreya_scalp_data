@@ -56927,11 +56927,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.23256667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2349,
-    "pnl_pct": 0.643,
-    "duracao_min": 73.6,
-    "data_resultado": "2026-07-12T16:48:32.351908+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2334,
+    "pnl_pct": 0.321,
+    "duracao_min": 113.1,
+    "data_resultado": "2026-07-12T17:28:03.901200+00:00"
   },
   {
     "page_id": "39ba5230-de72-814c-a0e2-f85ddd002df9",
