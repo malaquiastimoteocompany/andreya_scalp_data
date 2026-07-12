@@ -56994,5 +56994,31 @@
     "zona_sr": 0.30935,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-8155-90c5-febbcdb6ea6d",
+    "token": "FILECOIN",
+    "direccao": "SHORT",
+    "preco_alerta": 0.7754,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00542857,
+    "tp1": 0.773228572,
+    "tp2": 0.76997143,
+    "sl": 0.783542855,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=0/1 | cfi=1/1",
+    "volume_24h": 211345937.0,
+    "spread_pct": 0.0001289573795860326,
+    "oi_usd": 3010709.8991280003,
+    "data_alerta": "2026-07-12T15:52:13.520633+00:00",
+    "rsi_1h": 38.31,
+    "funding_rate": 0.0053,
+    "estado_cfi": "E2",
+    "zona_sr": 0.77646667,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
