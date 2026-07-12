@@ -52321,7 +52321,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004517,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.004482,
+    "pnl_pct": 0.289,
+    "duracao_min": 18.3,
+    "data_resultado": "2026-07-12T13:43:44.701994+00:00"
   },
   {
     "page_id": "39ba5230-de72-8131-b73b-f04da85720c2",
