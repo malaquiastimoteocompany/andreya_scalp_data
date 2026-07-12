@@ -56189,7 +56189,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.66866667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 3.675,
+    "pnl_pct": 0.547,
+    "duracao_min": 4.6,
+    "data_resultado": "2026-07-12T15:14:20.864032+00:00"
   },
   {
     "page_id": "39ba5230-de72-816b-84ca-c7426a219f28",
