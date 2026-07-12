@@ -66907,11 +66907,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00485,
-    "pnl_pct": 0.269,
-    "duracao_min": 3.5,
-    "data_resultado": "2026-07-12T22:11:03.913762+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004835,
+    "pnl_pct": 0.114,
+    "duracao_min": 42.0,
+    "data_resultado": "2026-07-12T22:49:37.670288+00:00"
   },
   {
     "page_id": "39ba5230-de72-81b0-897b-f098191afea1",
