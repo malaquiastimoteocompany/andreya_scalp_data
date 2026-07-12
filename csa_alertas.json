@@ -65923,7 +65923,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.16793333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.1677,
+    "pnl_pct": -0.593,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-12T23:36:19.412850+00:00"
   },
   {
     "page_id": "39ba5230-de72-818c-a901-eff0073afaa2",
