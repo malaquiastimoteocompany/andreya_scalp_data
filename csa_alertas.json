@@ -45421,5 +45421,28 @@
     "zona_sr": 0.0048915,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-81a0-b527-e786831cb4fa",
+    "token": "XPL",
+    "direccao": "SHORT",
+    "preco_alerta": 0.09183,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00128643,
+    "tp1": 0.09131542799999999,
+    "tp2": 0.09054356999999999,
+    "sl": 0.09375964499999999,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "data_alerta": "2026-07-12T10:30:27.047301+00:00",
+    "rsi_1h": 50.08,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.09217,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
