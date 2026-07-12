@@ -53867,11 +53867,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.2445,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.252,
-    "pnl_pct": 0.401,
-    "duracao_min": 33.7,
-    "data_resultado": "2026-07-12T14:47:26.536373+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.258,
+    "pnl_pct": 0.535,
+    "duracao_min": 40.9,
+    "data_resultado": "2026-07-12T14:54:36.459851+00:00"
   },
   {
     "page_id": "39ba5230-de72-81b9-bebc-c78e35d7bfcf",
