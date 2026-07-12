@@ -62241,11 +62241,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01272667,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01282,
-    "pnl_pct": 0.392,
-    "duracao_min": 55.0,
-    "data_resultado": "2026-07-12T19:52:19.086403+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.01281,
+    "pnl_pct": 0.352,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-12T20:58:14.530167+00:00"
   },
   {
     "page_id": "39ba5230-de72-8158-b397-e867f5420e16",
