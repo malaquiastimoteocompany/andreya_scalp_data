@@ -61113,7 +61113,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.12,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 3.129,
+    "pnl_pct": 0.256,
+    "duracao_min": 38.6,
+    "data_resultado": "2026-07-12T19:03:34.163684+00:00"
   },
   {
     "page_id": "39ba5230-de72-81d8-9887-e67b08f1dd4c",
