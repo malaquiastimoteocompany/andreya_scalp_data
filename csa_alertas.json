@@ -68397,11 +68397,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0594,
-    "pnl_pct": 0.851,
-    "duracao_min": 11.7,
-    "data_resultado": "2026-07-12T23:27:07.831199+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.05919,
+    "pnl_pct": 1.027,
+    "duracao_min": 17.0,
+    "data_resultado": "2026-07-12T23:32:27.874584+00:00"
   },
   {
     "page_id": "39ba5230-de72-8168-8d02-d46627c91e79",
