@@ -67113,11 +67113,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00371867,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.003711,
-    "pnl_pct": 0.429,
-    "duracao_min": 11.3,
-    "data_resultado": "2026-07-12T22:21:17.605071+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.003728,
+    "pnl_pct": 0.201,
+    "duracao_min": 46.5,
+    "data_resultado": "2026-07-12T22:56:28.038108+00:00"
   },
   {
     "page_id": "39ba5230-de72-8118-b9be-fd51b3517cf4",
