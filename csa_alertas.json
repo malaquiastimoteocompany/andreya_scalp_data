@@ -60591,11 +60591,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06373833,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06396,
-    "pnl_pct": 0.298,
-    "duracao_min": 62.0,
-    "data_resultado": "2026-07-12T19:09:25.009312+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.06387,
+    "pnl_pct": 0.227,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-12T20:07:54.070852+00:00"
   },
   {
     "page_id": "39ba5230-de72-81a2-a855-e3383a2f242e",
