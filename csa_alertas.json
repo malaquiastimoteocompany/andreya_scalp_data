@@ -51469,11 +51469,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07232,
-    "pnl_pct": 0.755,
-    "duracao_min": 8.9,
-    "data_resultado": "2026-07-12T12:39:20.101668+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.07338,
+    "pnl_pct": 0.027,
+    "duracao_min": 15.3,
+    "data_resultado": "2026-07-12T12:45:47.100924+00:00"
   },
   {
     "page_id": "39ba5230-de72-8111-aef2-c4ece975cbea",
