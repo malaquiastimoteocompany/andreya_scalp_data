@@ -68361,11 +68361,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07256,
-    "pnl_pct": 0.235,
-    "duracao_min": 9.2,
-    "data_resultado": "2026-07-12T23:24:27.583844+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.07236,
+    "pnl_pct": 0.097,
+    "duracao_min": 22.8,
+    "data_resultado": "2026-07-12T23:38:01.598281+00:00"
   },
   {
     "page_id": "39ba5230-de72-8153-87b1-c1f07c1b75b8",
