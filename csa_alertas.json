@@ -63323,11 +63323,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.23256667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.235,
-    "pnl_pct": 0.815,
-    "duracao_min": 6.2,
-    "data_resultado": "2026-07-12T20:18:50.196744+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.2329,
+    "pnl_pct": 0.365,
+    "duracao_min": 13.7,
+    "data_resultado": "2026-07-12T20:26:20.209705+00:00"
   },
   {
     "page_id": "39ba5230-de72-81e0-a053-e91023040d42",
