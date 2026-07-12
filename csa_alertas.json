@@ -54115,11 +54115,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08080667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08151,
-    "pnl_pct": 0.518,
-    "duracao_min": 33.2,
-    "data_resultado": "2026-07-12T14:47:31.691573+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.08155,
+    "pnl_pct": 0.543,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-12T16:14:45.627579+00:00"
   },
   {
     "page_id": "39ba5230-de72-81d7-be72-c39cae67ccd0",
