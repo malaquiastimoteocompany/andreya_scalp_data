@@ -48350,7 +48350,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.5895,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 3.577,
+    "pnl_pct": 0.722,
+    "duracao_min": 6.0,
+    "data_resultado": "2026-07-12T11:12:08.104286+00:00"
   },
   {
     "page_id": "39ba5230-de72-81aa-8605-cd49d441930c",
