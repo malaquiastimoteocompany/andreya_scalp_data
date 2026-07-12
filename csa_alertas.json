@@ -65707,7 +65707,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004899,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.004841,
+    "pnl_pct": -0.738,
+    "duracao_min": 30.4,
+    "data_resultado": "2026-07-12T22:05:15.143673+00:00"
   },
   {
     "page_id": "39ba5230-de72-8116-a0bd-fedf269bb3d0",
