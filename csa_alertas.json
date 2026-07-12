@@ -44651,5 +44651,23 @@
     "zona_sr": 3.4294,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-813c-935b-f9b953f45bbc",
+    "token": "RIVER",
+    "direccao": "LONG",
+    "preco_alerta": 3.299,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": false,
+    "data_alerta": "2026-07-12T10:24:17.048686+00:00",
+    "rsi_1h": 20.81,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
