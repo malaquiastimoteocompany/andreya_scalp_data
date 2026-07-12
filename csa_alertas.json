@@ -64923,7 +64923,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2295,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.2276,
+    "pnl_pct": -0.698,
+    "duracao_min": 40.2,
+    "data_resultado": "2026-07-12T21:50:20.263703+00:00"
   },
   {
     "page_id": "39ba5230-de72-811e-86ee-c550e8578c48",
