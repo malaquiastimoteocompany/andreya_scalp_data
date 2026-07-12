@@ -64513,11 +64513,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.867e-05,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 3.887e-05,
-    "pnl_pct": 0.413,
-    "duracao_min": 6.7,
-    "data_resultado": "2026-07-12T21:04:05.715077+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 3.867e-05,
+    "pnl_pct": 0.155,
+    "duracao_min": 24.5,
+    "data_resultado": "2026-07-12T21:21:55.283494+00:00"
   },
   {
     "page_id": "39ba5230-de72-8196-8ea4-c411d68a7dbe",
