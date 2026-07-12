@@ -46843,7 +46843,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.16995,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.1678,
+    "pnl_pct": 0.827,
+    "duracao_min": 19.0,
+    "data_resultado": "2026-07-12T10:57:18.489869+00:00"
   },
   {
     "page_id": "39ba5230-de72-81dd-b624-c612ca117a51",
