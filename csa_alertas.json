@@ -63051,11 +63051,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.093895,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.09336,
-    "pnl_pct": 0.586,
-    "duracao_min": 28.9,
-    "data_resultado": "2026-07-12T20:26:07.105380+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.09226,
+    "pnl_pct": 1.171,
+    "duracao_min": 95.7,
+    "data_resultado": "2026-07-12T21:32:58.475616+00:00"
   },
   {
     "page_id": "39ba5230-de72-819b-9ace-e7b87e2416a1",
