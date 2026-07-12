@@ -58745,11 +58745,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.68465,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 2.6636,
-    "pnl_pct": 1.081,
-    "duracao_min": 9.4,
-    "data_resultado": "2026-07-12T16:54:22.995938+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.6317,
+    "pnl_pct": 1.673,
+    "duracao_min": 44.7,
+    "data_resultado": "2026-07-12T17:29:36.368433+00:00"
   },
   {
     "page_id": "39ba5230-de72-81b1-886d-d9ff026d2bc1",
