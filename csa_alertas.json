@@ -41035,5 +41035,22 @@
     "zona_sr": 0.043446,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-8105-9220-d8158b9457a7",
+    "token": "CVC",
+    "direccao": "SHORT",
+    "preco_alerta": 0.02029,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-12T08:52:24.288054+00:00",
+    "rsi_1h": 37.83,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.020265,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
