@@ -41489,7 +41489,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.78866667,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.7889,
+    "pnl_pct": 0.395,
+    "duracao_min": 25.6,
+    "data_resultado": "2026-07-12T09:44:43.343900+00:00"
   },
   {
     "page_id": "39ba5230-de72-8141-9f65-dcdd7850a869",
