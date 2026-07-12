@@ -55791,11 +55791,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1419,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1409,
-    "pnl_pct": 0.844,
-    "duracao_min": 79.2,
-    "data_resultado": "2026-07-12T16:16:56.087370+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.1404,
+    "pnl_pct": 1.02,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-12T16:58:19.720723+00:00"
   },
   {
     "page_id": "39ba5230-de72-8132-b4e3-f5fc8e1db28b",
