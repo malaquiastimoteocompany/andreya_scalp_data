@@ -61897,11 +61897,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04444,
-    "pnl_pct": 0.715,
-    "duracao_min": 8.3,
-    "data_resultado": "2026-07-12T19:00:44.407706+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04477,
+    "pnl_pct": 0.346,
+    "duracao_min": 37.8,
+    "data_resultado": "2026-07-12T19:30:16.070554+00:00"
   },
   {
     "page_id": "39ba5230-de72-816d-9eb8-d9db3ad0aaa3",
