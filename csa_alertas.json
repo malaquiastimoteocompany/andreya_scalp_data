@@ -67309,11 +67309,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00144,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.001455,
-    "pnl_pct": 0.692,
-    "duracao_min": 10.9,
-    "data_resultado": "2026-07-12T22:33:27.040734+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.001443,
+    "pnl_pct": 0.277,
+    "duracao_min": 18.8,
+    "data_resultado": "2026-07-12T22:41:23.720706+00:00"
   },
   {
     "page_id": "39ba5230-de72-8104-9edf-cb853e16446c",
