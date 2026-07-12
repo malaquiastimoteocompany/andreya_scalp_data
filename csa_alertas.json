@@ -61783,11 +61783,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.206975,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2064,
-    "pnl_pct": 0.338,
-    "duracao_min": 7.7,
-    "data_resultado": "2026-07-12T18:57:31.145878+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.2072,
+    "pnl_pct": 0.145,
+    "duracao_min": 15.5,
+    "data_resultado": "2026-07-12T19:05:19.681277+00:00"
   },
   {
     "page_id": "39ba5230-de72-8130-8f6a-f9650c8d1688",
