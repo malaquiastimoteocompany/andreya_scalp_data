@@ -53989,7 +53989,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02693714,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.02703,
+    "pnl_pct": 0.26,
+    "duracao_min": 22.8,
+    "data_resultado": "2026-07-12T14:36:53.116342+00:00"
   },
   {
     "page_id": "39ba5230-de72-8163-ad2b-e39ed35f46b1",
