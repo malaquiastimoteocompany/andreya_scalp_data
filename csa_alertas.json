@@ -66779,7 +66779,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.007894,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.00786,
+    "pnl_pct": 0.432,
+    "duracao_min": 35.5,
+    "data_resultado": "2026-07-12T22:41:16.940425+00:00"
   },
   {
     "page_id": "39ba5230-de72-8172-a886-c780e3c093f9",
