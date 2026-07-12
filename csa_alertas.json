@@ -56765,11 +56765,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07687,
-    "pnl_pct": 2.449,
-    "duracao_min": 51.7,
-    "data_resultado": "2026-07-12T16:21:33.270617+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.07613,
+    "pnl_pct": 2.919,
+    "duracao_min": 53.1,
+    "data_resultado": "2026-07-12T16:22:58.643309+00:00"
   },
   {
     "page_id": "39ba5230-de72-8109-adbc-f727ed434b5e",
