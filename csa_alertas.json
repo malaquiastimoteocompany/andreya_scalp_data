@@ -41490,5 +41490,22 @@
     "zona_sr": 0.78866667,
     "toques_sr": 6,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-8141-9f65-dcdd7850a869",
+    "token": "NGAS",
+    "direccao": "SHORT",
+    "preco_alerta": 2.901,
+    "score": 8,
+    "setup": "A",
+    "prioritario": true,
+    "enviado": false,
+    "data_alerta": "2026-07-12T09:19:10.610559+00:00",
+    "rsi_1h": 48.63,
+    "funding_rate": 0.007,
+    "estado_cfi": "E2",
+    "zona_sr": 2.908,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
