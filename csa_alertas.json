@@ -59061,11 +59061,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.2445,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 2.25,
-    "pnl_pct": 0.312,
-    "duracao_min": 12.9,
-    "data_resultado": "2026-07-12T17:10:17.524990+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 2.257,
+    "pnl_pct": 0.468,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-12T18:58:36.906556+00:00"
   },
   {
     "page_id": "39ba5230-de72-8186-9668-d073d5590ec7",
