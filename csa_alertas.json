@@ -63739,7 +63739,11 @@
     "estado_cfi": "E1",
     "zona_sr": 8.104,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 8.047,
+    "pnl_pct": 0.236,
+    "duracao_min": 70.8,
+    "data_resultado": "2026-07-12T21:33:19.722025+00:00"
   },
   {
     "page_id": "39ba5230-de72-816d-9114-d8f0f26af688",
