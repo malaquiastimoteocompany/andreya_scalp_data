@@ -62669,7 +62669,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.6254,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 2.6484,
+    "pnl_pct": 0.776,
+    "duracao_min": 3.1,
+    "data_resultado": "2026-07-12T19:45:28.856382+00:00"
   },
   {
     "page_id": "39ba5230-de72-8154-9d48-f9bf4435ad1d",
