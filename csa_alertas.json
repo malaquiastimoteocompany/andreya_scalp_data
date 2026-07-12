@@ -58141,11 +58141,11 @@
     "estado_cfi": "E1",
     "zona_sr": 35.47666667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 35.3,
-    "pnl_pct": 0.395,
-    "duracao_min": 8.8,
-    "data_resultado": "2026-07-12T16:31:27.966290+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 35.1,
+    "pnl_pct": 0.677,
+    "duracao_min": 12.1,
+    "data_resultado": "2026-07-12T16:34:45.917933+00:00"
   },
   {
     "page_id": "39ba5230-de72-816c-acf7-fad88fe5e8b8",
