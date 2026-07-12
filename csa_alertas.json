@@ -64683,7 +64683,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.10133333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.1004,
+    "pnl_pct": -1.375,
+    "duracao_min": 64.2,
+    "data_resultado": "2026-07-12T22:06:37.933301+00:00"
   },
   {
     "page_id": "39ba5230-de72-8140-8151-c48400db6974",
