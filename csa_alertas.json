@@ -57183,10 +57183,10 @@
     "estado_cfi": "E1",
     "zona_sr": 0.016595,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01671,
-    "pnl_pct": 0.663,
-    "duracao_min": 0.7,
-    "data_resultado": "2026-07-12T16:03:14.156630+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.01678,
+    "pnl_pct": 0.873,
+    "duracao_min": 2.2,
+    "data_resultado": "2026-07-12T16:04:43.170837+00:00"
   }
 ]
