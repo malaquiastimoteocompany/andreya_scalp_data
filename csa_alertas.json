@@ -60141,11 +60141,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.42225,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 6.435,
-    "pnl_pct": 0.39,
-    "duracao_min": 35.8,
-    "data_resultado": "2026-07-12T18:33:11.852133+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 6.47,
+    "pnl_pct": 0.663,
+    "duracao_min": 55.7,
+    "data_resultado": "2026-07-12T18:53:02.910417+00:00"
   },
   {
     "page_id": "39ba5230-de72-8176-9499-f29495a02684",
