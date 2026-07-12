@@ -60885,11 +60885,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.021035,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02114,
-    "pnl_pct": 0.285,
-    "duracao_min": 49.0,
-    "data_resultado": "2026-07-12T19:06:34.659752+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.02108,
+    "pnl_pct": 0.142,
+    "duracao_min": 76.9,
+    "data_resultado": "2026-07-12T19:34:33.218290+00:00"
   },
   {
     "page_id": "39ba5230-de72-81e1-8fb5-d6ef79745666",
