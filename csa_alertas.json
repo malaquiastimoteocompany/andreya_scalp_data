@@ -58933,7 +58933,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07338857,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.07335,
+    "pnl_pct": 0.272,
+    "duracao_min": 63.0,
+    "data_resultado": "2026-07-12T17:55:31.907419+00:00"
   },
   {
     "page_id": "39ba5230-de72-8150-9f73-ec8577b46269",
