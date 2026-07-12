@@ -61361,11 +61361,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04524,
-    "pnl_pct": 0.593,
-    "duracao_min": 4.0,
-    "data_resultado": "2026-07-12T18:39:00.859235+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.04507,
+    "pnl_pct": 0.78,
+    "duracao_min": 5.4,
+    "data_resultado": "2026-07-12T18:40:21.064539+00:00"
   },
   {
     "page_id": "39ba5230-de72-81fa-a1d6-c906359ef2d2",
