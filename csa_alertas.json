@@ -40674,5 +40674,22 @@
     "zona_sr": 0.0043875,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-81fd-af73-f364f72788ac",
+    "token": "DYM",
+    "direccao": "SHORT",
+    "preco_alerta": 0.01572,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-12T08:43:51.599978+00:00",
+    "rsi_1h": 44.77,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.01574571,
+    "toques_sr": 7,
+    "resultado": "Pendente"
   }
 ]
