@@ -42391,5 +42391,22 @@
     "zona_sr": 0.0023655,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-81a5-a2b9-d2c9ec3c23c3",
+    "token": "GUN",
+    "direccao": "SHORT",
+    "preco_alerta": 0.004056,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-12T09:22:41.345550+00:00",
+    "rsi_1h": 46.0,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00404967,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
