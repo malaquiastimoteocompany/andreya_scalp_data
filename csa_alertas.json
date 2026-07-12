@@ -62837,11 +62837,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1509,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1502,
-    "pnl_pct": 0.464,
-    "duracao_min": 47.6,
-    "data_resultado": "2026-07-12T20:27:38.636916+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1491,
+    "pnl_pct": 0.828,
+    "duracao_min": 108.5,
+    "data_resultado": "2026-07-12T21:28:32.842836+00:00"
   },
   {
     "page_id": "39ba5230-de72-81da-8a89-e0d4803d0d99",
