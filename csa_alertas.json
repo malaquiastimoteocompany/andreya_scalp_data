@@ -60323,7 +60323,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00765367,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.007592,
+    "pnl_pct": 0.615,
+    "duracao_min": 46.5,
+    "data_resultado": "2026-07-12T18:44:36.742407+00:00"
   },
   {
     "page_id": "39ba5230-de72-81eb-bfa3-e9a4ede17199",
