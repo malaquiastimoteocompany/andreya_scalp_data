@@ -54813,11 +54813,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 3.33,
-    "pnl_pct": 0.695,
-    "duracao_min": 6.7,
-    "data_resultado": "2026-07-12T14:23:10.438496+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.282,
+    "pnl_pct": -0.03,
+    "duracao_min": 107.9,
+    "data_resultado": "2026-07-12T16:04:21.730648+00:00"
   },
   {
     "page_id": "39ba5230-de72-81be-95cf-ff9c3fb9a960",
