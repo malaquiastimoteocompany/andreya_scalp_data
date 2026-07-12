@@ -42467,5 +42467,22 @@
     "zona_sr": 0.10125,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-81f8-968c-c8dc6a40a4eb",
+    "token": "ZEC",
+    "direccao": "SHORT",
+    "preco_alerta": 519.42,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-12T09:23:12.816992+00:00",
+    "rsi_1h": 58.02,
+    "funding_rate": 0.0086,
+    "estado_cfi": "E1",
+    "zona_sr": 517.66,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
