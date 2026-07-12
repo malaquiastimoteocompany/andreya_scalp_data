@@ -44345,5 +44345,23 @@
     "zona_sr": 0.0011845,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-818a-a490-fb1be3ed8125",
+    "token": "GALA",
+    "direccao": "SHORT",
+    "preco_alerta": 0.0021,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "data_alerta": "2026-07-12T10:22:55.749289+00:00",
+    "rsi_1h": 43.38,
+    "funding_rate": -0.0074,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00210514,
+    "toques_sr": 7,
+    "resultado": "Pendente"
   }
 ]
