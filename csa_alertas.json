@@ -56435,11 +56435,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1892825,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.18932,
-    "pnl_pct": 0.323,
-    "duracao_min": 33.5,
-    "data_resultado": "2026-07-12T15:50:59.394081+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.18993,
+    "pnl_pct": 0.485,
+    "duracao_min": 43.0,
+    "data_resultado": "2026-07-12T16:00:26.561979+00:00"
   },
   {
     "page_id": "39ba5230-de72-81be-80ed-d4353ae9fcc6",
