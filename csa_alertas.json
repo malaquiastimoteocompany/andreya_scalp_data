@@ -52779,7 +52779,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0581225,
     "toques_sr": 12,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.05818,
+    "pnl_pct": 0.345,
+    "duracao_min": 2.7,
+    "data_resultado": "2026-07-12T13:46:36.166980+00:00"
   },
   {
     "page_id": "39ba5230-de72-8153-afdc-e4bde21ba71c",
