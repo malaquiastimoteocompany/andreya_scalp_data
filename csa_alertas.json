@@ -51851,11 +51851,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04938,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04955,
-    "pnl_pct": 0.446,
-    "duracao_min": 26.3,
-    "data_resultado": "2026-07-12T13:11:44.299316+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0493,
+    "pnl_pct": 0.193,
+    "duracao_min": 59.6,
+    "data_resultado": "2026-07-12T13:44:59.666041+00:00"
   },
   {
     "page_id": "39ba5230-de72-813b-9120-e13003d7e547",
