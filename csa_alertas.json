@@ -57801,11 +57801,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.10305714,
     "toques_sr": 7,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.0985,
-    "pnl_pct": 0.2,
-    "duracao_min": 65.1,
-    "data_resultado": "2026-07-12T17:22:36.524608+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.0979,
+    "pnl_pct": 0.227,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-12T18:18:39.202311+00:00"
   },
   {
     "page_id": "39ba5230-de72-8108-b34a-cbc690702845",
