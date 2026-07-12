@@ -57823,11 +57823,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.7408,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.7407,
-    "pnl_pct": 0.336,
-    "duracao_min": 63.5,
-    "data_resultado": "2026-07-12T17:21:03.453123+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.7369,
+    "pnl_pct": 0.592,
+    "duracao_min": 112.5,
+    "data_resultado": "2026-07-12T18:10:00.333907+00:00"
   },
   {
     "page_id": "39ba5230-de72-81fe-8402-e4c5770a620e",
