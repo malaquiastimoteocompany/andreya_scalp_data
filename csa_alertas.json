@@ -65359,11 +65359,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01708,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01709,
-    "pnl_pct": 0.352,
-    "duracao_min": 17.1,
-    "data_resultado": "2026-07-12T21:42:02.511674+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.01702,
+    "pnl_pct": 0.147,
+    "duracao_min": 27.0,
+    "data_resultado": "2026-07-12T21:51:56.382811+00:00"
   },
   {
     "page_id": "39ba5230-de72-81c8-aee4-c1f3aa692d23",
