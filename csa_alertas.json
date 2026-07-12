@@ -50439,7 +50439,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07168,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.07382,
+    "pnl_pct": -2.471,
+    "duracao_min": 23.6,
+    "data_resultado": "2026-07-12T12:04:54.048862+00:00"
   },
   {
     "page_id": "39ba5230-de72-8168-acc7-fc9f8dd62936",
