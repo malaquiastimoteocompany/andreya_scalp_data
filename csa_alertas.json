@@ -54241,11 +54241,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01395,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01406,
-    "pnl_pct": 0.5,
-    "duracao_min": 8.3,
-    "data_resultado": "2026-07-12T14:23:03.073623+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01398,
+    "pnl_pct": 0.214,
+    "duracao_min": 57.8,
+    "data_resultado": "2026-07-12T15:12:29.681600+00:00"
   },
   {
     "page_id": "39ba5230-de72-8196-8946-d8b516ac9731",
