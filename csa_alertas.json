@@ -41234,5 +41234,22 @@
     "zona_sr": 0.0036595,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-818a-a4d2-cca007be1c10",
+    "token": "SAGA",
+    "direccao": "SHORT",
+    "preco_alerta": 0.0129,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-12T09:02:39.805254+00:00",
+    "rsi_1h": 45.59,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.01292833,
+    "toques_sr": 6,
+    "resultado": "Pendente"
   }
 ]
