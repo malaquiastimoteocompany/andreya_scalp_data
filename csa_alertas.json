@@ -55423,7 +55423,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.545375,
     "toques_sr": 8,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 3.593,
+    "pnl_pct": -1.756,
+    "duracao_min": 36.9,
+    "data_resultado": "2026-07-12T15:24:56.313915+00:00"
   },
   {
     "page_id": "39ba5230-de72-81bd-9bc0-e5aebbbe69fb",
