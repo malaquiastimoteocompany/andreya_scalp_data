@@ -60643,7 +60643,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.7376,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.739,
+    "pnl_pct": 0.312,
+    "duracao_min": 50.9,
+    "data_resultado": "2026-07-12T19:03:16.318595+00:00"
   },
   {
     "page_id": "39ba5230-de72-81b3-bfcf-e0ea10e71c73",
