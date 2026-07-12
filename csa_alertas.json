@@ -65045,11 +65045,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0030735,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.003018,
-    "pnl_pct": 2.172,
-    "duracao_min": 66.9,
-    "data_resultado": "2026-07-12T22:19:16.057709+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.002961,
+    "pnl_pct": 3.096,
+    "duracao_min": 91.5,
+    "data_resultado": "2026-07-12T22:43:54.089393+00:00"
   },
   {
     "page_id": "39ba5230-de72-81da-a155-fb5768565b13",
