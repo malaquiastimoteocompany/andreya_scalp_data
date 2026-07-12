@@ -59191,11 +59191,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.9005,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.892,
-    "pnl_pct": 0.473,
-    "duracao_min": 64.1,
-    "data_resultado": "2026-07-12T18:04:22.733446+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.901,
+    "pnl_pct": 0.237,
+    "duracao_min": 101.3,
+    "data_resultado": "2026-07-12T18:41:33.047805+00:00"
   },
   {
     "page_id": "39ba5230-de72-8105-b31a-e586d5a4f51d",
