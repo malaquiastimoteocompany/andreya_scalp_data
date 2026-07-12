@@ -64573,11 +64573,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 537.05,
-    "pnl_pct": 0.622,
-    "duracao_min": 25.3,
-    "data_resultado": "2026-07-12T21:20:13.830512+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 535.27,
+    "pnl_pct": 0.786,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-12T22:56:16.045704+00:00"
   },
   {
     "page_id": "39ba5230-de72-8121-97a3-dc3ecbe29abe",
