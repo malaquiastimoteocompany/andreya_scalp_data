@@ -43390,5 +43390,22 @@
     "zona_sr": 0.16793333,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-8116-8963-d59eb07e7f14",
+    "token": "TOWNS",
+    "direccao": "LONG",
+    "preco_alerta": 0.001965,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-12T10:15:46.438159+00:00",
+    "rsi_1h": 43.9,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00197,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
