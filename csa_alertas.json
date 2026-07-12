@@ -66159,7 +66159,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.004391,
+    "pnl_pct": -0.114,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-12T23:45:51.558610+00:00"
   },
   {
     "page_id": "39ba5230-de72-81d1-9951-f7bc77dd6280",
