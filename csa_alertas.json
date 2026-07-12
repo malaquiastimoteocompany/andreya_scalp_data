@@ -51819,11 +51819,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07256,
-    "pnl_pct": 1.037,
-    "duracao_min": 9.4,
-    "data_resultado": "2026-07-12T12:57:16.412847+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.07195,
+    "pnl_pct": 1.453,
+    "duracao_min": 27.6,
+    "data_resultado": "2026-07-12T13:15:31.952233+00:00"
   },
   {
     "page_id": "39ba5230-de72-814c-a74f-f90dd8a3d7a5",
