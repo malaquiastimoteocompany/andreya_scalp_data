@@ -42640,11 +42640,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0211775,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02139,
-    "pnl_pct": 0.564,
-    "duracao_min": 17.0,
-    "data_resultado": "2026-07-12T09:40:48.028937+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.0216,
+    "pnl_pct": 1.058,
+    "duracao_min": 28.2,
+    "data_resultado": "2026-07-12T09:52:00.896723+00:00"
   },
   {
     "page_id": "39ba5230-de72-81d1-82e2-f5b1d759afe7",
