@@ -41544,11 +41544,11 @@
     "estado_cfi": "E1",
     "zona_sr": 67.0025,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 67.192,
-    "pnl_pct": 0.48,
-    "duracao_min": 21.0,
-    "data_resultado": "2026-07-12T09:40:24.708813+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 66.793,
+    "pnl_pct": 0.182,
+    "duracao_min": 43.5,
+    "data_resultado": "2026-07-12T10:02:52.303414+00:00"
   },
   {
     "page_id": "39ba5230-de72-817f-80cd-ca07f673cf4d",
