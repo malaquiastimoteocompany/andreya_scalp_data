@@ -57381,11 +57381,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 3.565,
-    "pnl_pct": 0.613,
-    "duracao_min": 9.6,
-    "data_resultado": "2026-07-12T16:17:15.299868+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 3.545,
+    "pnl_pct": 0.892,
+    "duracao_min": 26.7,
+    "data_resultado": "2026-07-12T16:34:20.927288+00:00"
   },
   {
     "page_id": "39ba5230-de72-8105-aaa2-f64b4b0094c8",
