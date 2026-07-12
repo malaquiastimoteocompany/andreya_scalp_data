@@ -46207,5 +46207,28 @@
     "zona_sr": 0.004517,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-81b3-92ce-c60a53b9ff25",
+    "token": "HMSTR",
+    "direccao": "SHORT",
+    "preco_alerta": 0.0002046,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 4.27e-06,
+    "tp1": 0.000202892,
+    "tp2": 0.00020033,
+    "sl": 0.000211005,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "data_alerta": "2026-07-12T10:33:18.500996+00:00",
+    "rsi_1h": 46.55,
+    "funding_rate": 0.0015,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00020545,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
