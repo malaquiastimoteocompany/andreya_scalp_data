@@ -51449,11 +51449,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.082195,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08147,
-    "pnl_pct": 0.537,
-    "duracao_min": 21.2,
-    "data_resultado": "2026-07-12T12:31:30.811611+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.08111,
+    "pnl_pct": 0.757,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-12T14:11:23.670481+00:00"
   },
   {
     "page_id": "39ba5230-de72-81c3-a1b6-cddd3933dbe1",
