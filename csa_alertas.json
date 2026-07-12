@@ -46840,5 +46840,28 @@
     "zona_sr": 0.16995,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-81dd-b624-c612ca117a51",
+    "token": "HNT",
+    "direccao": "LONG",
+    "preco_alerta": 0.2199,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00242857,
+    "tp1": 0.220871428,
+    "tp2": 0.22232857,
+    "sl": 0.216257145,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "data_alerta": "2026-07-12T10:38:22.152893+00:00",
+    "rsi_1h": 44.05,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.22062,
+    "toques_sr": 5,
+    "resultado": "Pendente"
   }
 ]
