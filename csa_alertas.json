@@ -62539,11 +62539,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0171,
-    "pnl_pct": 7.015,
-    "duracao_min": 36.7,
-    "data_resultado": "2026-07-12T20:04:03.622506+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01708,
+    "pnl_pct": 7.069,
+    "duracao_min": 38.0,
+    "data_resultado": "2026-07-12T20:05:25.911940+00:00"
   },
   {
     "page_id": "39ba5230-de72-816f-a4c3-f3b4732edf37",
