@@ -57531,11 +57531,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04874667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04916,
-    "pnl_pct": 0.47,
-    "duracao_min": 38.0,
-    "data_resultado": "2026-07-12T16:45:48.156661+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04912,
+    "pnl_pct": 0.429,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-12T18:08:35.495910+00:00"
   },
   {
     "page_id": "39ba5230-de72-8177-850a-f20f573a5078",
