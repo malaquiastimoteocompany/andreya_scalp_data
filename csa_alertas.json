@@ -54603,11 +54603,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.87466667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.887,
-    "pnl_pct": 0.426,
-    "duracao_min": 30.4,
-    "data_resultado": "2026-07-12T14:46:09.571879+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.897,
+    "pnl_pct": 0.692,
+    "duracao_min": 40.5,
+    "data_resultado": "2026-07-12T14:56:16.659653+00:00"
   },
   {
     "page_id": "39ba5230-de72-8194-9078-c06626f376bc",
