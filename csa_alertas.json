@@ -42603,5 +42603,22 @@
     "zona_sr": 0.002269,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-81a3-9885-d40099d2fe37",
+    "token": "PENGU",
+    "direccao": "LONG",
+    "preco_alerta": 0.006028,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-12T09:25:44.820972+00:00",
+    "rsi_1h": 31.86,
+    "funding_rate": -0.0138,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0060015,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
