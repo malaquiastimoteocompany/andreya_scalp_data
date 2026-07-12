@@ -42043,11 +42043,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1319,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1312,
-    "pnl_pct": 0.455,
-    "duracao_min": 7.2,
-    "data_resultado": "2026-07-12T09:28:12.504541+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.132,
+    "pnl_pct": 0.152,
+    "duracao_min": 28.1,
+    "data_resultado": "2026-07-12T09:49:08.781856+00:00"
   },
   {
     "page_id": "39ba5230-de72-811c-9c83-c6838eb5681c",
