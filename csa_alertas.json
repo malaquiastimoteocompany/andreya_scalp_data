@@ -40249,5 +40249,22 @@
     "zona_sr": 0.22062,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-81da-8906-c627a287d8ad",
+    "token": "BSB",
+    "direccao": "SHORT",
+    "preco_alerta": 0.1433,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-12T08:42:27.857327+00:00",
+    "rsi_1h": 45.58,
+    "funding_rate": 0.0152,
+    "estado_cfi": "E1",
+    "zona_sr": 0.143,
+    "toques_sr": 5,
+    "resultado": "Pendente"
   }
 ]
