@@ -57111,11 +57111,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3122,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.308,
-    "pnl_pct": 1.44,
-    "duracao_min": 15.2,
-    "data_resultado": "2026-07-12T15:57:39.296181+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.307,
+    "pnl_pct": 1.6,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-12T17:43:36.375891+00:00"
   },
   {
     "page_id": "39ba5230-de72-81e4-938f-dcd33b00f82f",
