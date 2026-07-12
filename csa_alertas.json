@@ -57677,11 +57677,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2174,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2187,
-    "pnl_pct": 0.367,
-    "duracao_min": 62.7,
-    "data_resultado": "2026-07-12T17:13:02.261137+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2179,
+    "pnl_pct": 0.184,
+    "duracao_min": 116.8,
+    "data_resultado": "2026-07-12T18:07:05.284200+00:00"
   },
   {
     "page_id": "39ba5230-de72-811d-b2f8-f61bbd34cb6e",
