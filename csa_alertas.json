@@ -59131,11 +59131,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03031,
     "toques_sr": 8,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03002,
-    "pnl_pct": 0.464,
-    "duracao_min": 55.7,
-    "data_resultado": "2026-07-12T17:55:36.196880+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.03016,
+    "pnl_pct": 0.232,
+    "duracao_min": 101.5,
+    "data_resultado": "2026-07-12T18:41:26.921876+00:00"
   },
   {
     "page_id": "39ba5230-de72-814f-a06f-cf9d11dfdefc",
