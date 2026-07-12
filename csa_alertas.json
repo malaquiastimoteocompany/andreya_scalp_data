@@ -65863,7 +65863,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01741,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.01739,
+    "pnl_pct": -0.458,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-12T23:36:16.263148+00:00"
   },
   {
     "page_id": "39ba5230-de72-8171-9bf5-f982939c4477",
