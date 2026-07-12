@@ -49923,7 +49923,11 @@
     "estado_cfi": "E1",
     "zona_sr": 34.53333333,
     "toques_sr": 9,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 34.68,
+    "pnl_pct": -0.522,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-12T13:40:05.484878+00:00"
   },
   {
     "page_id": "39ba5230-de72-8167-b021-fb44930f38fa",
