@@ -57177,11 +57177,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.30935,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3096,
-    "pnl_pct": 0.519,
-    "duracao_min": 37.1,
-    "data_resultado": "2026-07-12T16:24:35.343435+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.308,
+    "pnl_pct": 0.26,
+    "duracao_min": 95.0,
+    "data_resultado": "2026-07-12T17:22:28.988444+00:00"
   },
   {
     "page_id": "39ba5230-de72-8155-90c5-febbcdb6ea6d",
