@@ -61491,11 +61491,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.673,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.682,
-    "pnl_pct": 0.464,
-    "duracao_min": 92.6,
-    "data_resultado": "2026-07-12T20:02:20.093654+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 3.694,
+    "pnl_pct": 0.628,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-12T20:30:13.609399+00:00"
   },
   {
     "page_id": "39ba5230-de72-81c5-9ac0-fbc6dca03ccd",
