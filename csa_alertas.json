@@ -60861,11 +60861,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08181333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08104,
-    "pnl_pct": 0.479,
-    "duracao_min": 119.0,
-    "data_resultado": "2026-07-12T20:13:55.433129+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.08101,
+    "pnl_pct": 0.497,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-12T20:15:37.650581+00:00"
   },
   {
     "page_id": "39ba5230-de72-8146-8d82-c4bac20046ff",
