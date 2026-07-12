@@ -47943,7 +47943,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00239,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.002377,
+    "pnl_pct": 0.461,
+    "duracao_min": 30.1,
+    "data_resultado": "2026-07-12T11:11:53.570554+00:00"
   },
   {
     "page_id": "39ba5230-de72-81a2-8b5a-e7a634861b0e",
