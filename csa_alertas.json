@@ -56143,7 +56143,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.09311667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.09209,
+    "pnl_pct": 0.637,
+    "duracao_min": 26.9,
+    "data_resultado": "2026-07-12T15:34:29.893863+00:00"
   },
   {
     "page_id": "39ba5230-de72-811e-a8b2-e5ca7398a1a8",
