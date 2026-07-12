@@ -59931,11 +59931,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02505667,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02517,
-    "pnl_pct": 0.279,
-    "duracao_min": 108.0,
-    "data_resultado": "2026-07-12T19:23:02.356992+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.02515,
+    "pnl_pct": 0.239,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-12T19:35:58.665999+00:00"
   },
   {
     "page_id": "39ba5230-de72-8109-9414-f642353b660e",
