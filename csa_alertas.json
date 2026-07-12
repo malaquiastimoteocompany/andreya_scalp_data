@@ -40729,5 +40729,22 @@
     "zona_sr": 0.0077295,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-8114-8d89-d5421cc4fccd",
+    "token": "ROSE",
+    "direccao": "SHORT",
+    "preco_alerta": 0.0058,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-12T08:44:12.441123+00:00",
+    "rsi_1h": 41.86,
+    "funding_rate": 0.0062,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00579171,
+    "toques_sr": 7,
+    "resultado": "Pendente"
   }
 ]
