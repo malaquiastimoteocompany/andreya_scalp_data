@@ -43339,5 +43339,22 @@
     "zona_sr": 0.61752,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-81f8-9297-d9bb8fb2ac09",
+    "token": "JASMY",
+    "direccao": "SHORT",
+    "preco_alerta": 0.004495,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-12T10:10:42.702292+00:00",
+    "rsi_1h": 55.61,
+    "funding_rate": -0.0091,
+    "estado_cfi": "E1",
+    "zona_sr": 0.004517,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
