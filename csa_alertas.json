@@ -67355,11 +67355,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01694,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01694,
-    "pnl_pct": 0.355,
-    "duracao_min": 79.5,
-    "data_resultado": "2026-07-12T23:41:59.317066+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01688,
+    "pnl_pct": 0.178,
+    "duracao_min": 86.1,
+    "data_resultado": "2026-07-12T23:48:36.836954+00:00"
   },
   {
     "page_id": "39ba5230-de72-8187-82ed-e0caae6788e5",
