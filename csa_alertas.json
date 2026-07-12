@@ -39909,5 +39909,22 @@
     "zona_sr": 0.05864,
     "toques_sr": 7,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-8114-81b5-c6b9486a28fe",
+    "token": "FILECOIN",
+    "direccao": "SHORT",
+    "preco_alerta": 0.7855,
+    "score": 8,
+    "setup": "A",
+    "prioritario": true,
+    "enviado": false,
+    "data_alerta": "2026-07-12T08:41:19.306886+00:00",
+    "rsi_1h": 48.71,
+    "funding_rate": 0.0012,
+    "estado_cfi": "E2",
+    "zona_sr": 0.78254,
+    "toques_sr": 5,
+    "resultado": "Pendente"
   }
 ]
