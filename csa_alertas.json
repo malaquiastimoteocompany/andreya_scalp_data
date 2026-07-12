@@ -57817,11 +57817,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02693375,
     "toques_sr": 8,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02709,
-    "pnl_pct": 0.445,
-    "duracao_min": 44.0,
-    "data_resultado": "2026-07-12T17:01:37.502132+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.02713,
+    "pnl_pct": 0.519,
+    "duracao_min": 77.4,
+    "data_resultado": "2026-07-12T17:35:01.549763+00:00"
   },
   {
     "page_id": "39ba5230-de72-81ac-b433-f6474a68321b",
