@@ -55071,11 +55071,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.003144,
-    "pnl_pct": 1.946,
-    "duracao_min": 55.0,
-    "data_resultado": "2026-07-12T15:12:37.829726+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.003076,
+    "pnl_pct": 0.843,
+    "duracao_min": 119.1,
+    "data_resultado": "2026-07-12T16:16:45.423838+00:00"
   },
   {
     "page_id": "39ba5230-de72-81d4-ac84-dabc2d20ca14",
