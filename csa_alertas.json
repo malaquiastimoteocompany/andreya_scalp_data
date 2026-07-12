@@ -56061,11 +56061,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0058025,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.005803,
-    "pnl_pct": 0.294,
-    "duracao_min": 4.2,
-    "data_resultado": "2026-07-12T15:07:28.614180+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.005786,
+    "pnl_pct": 0.147,
+    "duracao_min": 38.2,
+    "data_resultado": "2026-07-12T15:41:29.637721+00:00"
   },
   {
     "page_id": "39ba5230-de72-81bd-b215-f6f282987c29",
