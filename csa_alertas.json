@@ -42408,5 +42408,22 @@
     "zona_sr": 0.00404967,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-814e-a11a-d4d9e76c6e50",
+    "token": "HMSTR",
+    "direccao": "SHORT",
+    "preco_alerta": 0.0002062,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-12T09:22:46.872027+00:00",
+    "rsi_1h": 47.57,
+    "funding_rate": 0.0014,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00020545,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
