@@ -58581,11 +58581,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 540.17,
-    "pnl_pct": 0.853,
-    "duracao_min": 113.7,
-    "data_resultado": "2026-07-12T18:26:03.781016+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 542.01,
+    "pnl_pct": 0.685,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-12T18:32:58.365439+00:00"
   },
   {
     "page_id": "39ba5230-de72-817a-9ad7-dee1c80e68b0",
