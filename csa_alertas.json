@@ -43229,5 +43229,22 @@
     "zona_sr": 3.4294,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-81cc-b446-f1bb8203dfa1",
+    "token": "IOTX",
+    "direccao": "LONG",
+    "preco_alerta": 0.00254,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-12T10:03:13.574562+00:00",
+    "rsi_1h": 48.2,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.002541,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
