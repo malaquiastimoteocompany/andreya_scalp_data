@@ -64321,11 +64321,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0014655,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001454,
-    "pnl_pct": 0.547,
-    "duracao_min": 80.4,
-    "data_resultado": "2026-07-12T22:02:54.206382+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.001443,
+    "pnl_pct": 0.923,
+    "duracao_min": 98.4,
+    "data_resultado": "2026-07-12T22:20:53.834411+00:00"
   },
   {
     "page_id": "39ba5230-de72-81a5-adc9-e5d3db5fedc8",
