@@ -61653,11 +61653,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.53733333,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.509,
-    "pnl_pct": 0.623,
-    "duracao_min": 53.2,
-    "data_resultado": "2026-07-12T19:33:17.486371+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.537,
+    "pnl_pct": 0.227,
+    "duracao_min": 75.1,
+    "data_resultado": "2026-07-12T19:55:13.683723+00:00"
   },
   {
     "page_id": "39ba5230-de72-8128-bcfd-ff84718086a8",
