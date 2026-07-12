@@ -54877,11 +54877,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0041415,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004167,
-    "pnl_pct": 0.676,
-    "duracao_min": 13.7,
-    "data_resultado": "2026-07-12T14:30:38.786105+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.004139,
+    "pnl_pct": 0.338,
+    "duracao_min": 29.3,
+    "data_resultado": "2026-07-12T14:46:19.615456+00:00"
   },
   {
     "page_id": "39ba5230-de72-81a6-8598-f831478411d3",
