@@ -46138,5 +46138,28 @@
     "zona_sr": 0.042795,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-81f8-910f-c67972e0885d",
+    "token": "OGN",
+    "direccao": "LONG",
+    "preco_alerta": 0.01675,
+    "score": 6,
+    "setup": "C",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00015,
+    "tp1": 0.016810000000000002,
+    "tp2": 0.016900000000000002,
+    "sl": 0.016525,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "data_alerta": "2026-07-12T10:32:56.495074+00:00",
+    "rsi_1h": 48.14,
+    "funding_rate": -0.0141,
+    "estado_cfi": "E1",
+    "zona_sr": 0.016765,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
