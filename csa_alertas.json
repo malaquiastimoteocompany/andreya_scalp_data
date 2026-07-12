@@ -66238,5 +66238,31 @@
     "zona_sr": 0.7691,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-8119-9c3f-c7f49297133e",
+    "token": "TLM",
+    "direccao": "LONG",
+    "preco_alerta": 0.0019,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 9.271e-05,
+    "tp1": 0.001937084,
+    "tp2": 0.00199271,
+    "sl": 0.001760935,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 1095227424.0,
+    "spread_pct": 0.0005270092226613523,
+    "oi_usd": 508934.019552,
+    "data_alerta": "2026-07-12T22:02:20.614867+00:00",
+    "rsi_1h": 47.24,
+    "funding_rate": -0.4628,
+    "estado_cfi": "E1",
+    "zona_sr": 0.001893,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
