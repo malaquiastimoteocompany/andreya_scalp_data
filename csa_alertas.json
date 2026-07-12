@@ -61433,7 +61433,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0025955,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.002598,
+    "pnl_pct": 0.425,
+    "duracao_min": 81.2,
+    "data_resultado": "2026-07-12T19:53:45.541568+00:00"
   },
   {
     "page_id": "39ba5230-de72-81b9-ab44-cac0d6c88f6c",
