@@ -62207,11 +62207,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07338857,
     "toques_sr": 7,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07316,
-    "pnl_pct": 0.259,
-    "duracao_min": 99.5,
-    "data_resultado": "2026-07-12T20:34:36.709320+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.07312,
+    "pnl_pct": 0.286,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-12T20:55:27.362537+00:00"
   },
   {
     "page_id": "39ba5230-de72-8153-a12e-ec9bfcd81ea4",
