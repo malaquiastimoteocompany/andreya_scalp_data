@@ -42255,5 +42255,22 @@
     "zona_sr": 0.0043875,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-8172-a1db-c7f9ae4a16f7",
+    "token": "YGG",
+    "direccao": "SHORT",
+    "preco_alerta": 0.02201,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-12T09:22:04.248421+00:00",
+    "rsi_1h": 46.22,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.02201,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
