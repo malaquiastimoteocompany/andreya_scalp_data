@@ -51259,11 +51259,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07386,
-    "pnl_pct": 0.859,
-    "duracao_min": 4.5,
-    "data_resultado": "2026-07-12T12:12:34.412626+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.07272,
+    "pnl_pct": 1.624,
+    "duracao_min": 18.4,
+    "data_resultado": "2026-07-12T12:26:29.726331+00:00"
   },
   {
     "page_id": "39ba5230-de72-81eb-a92e-fa2d24d9ee82",
