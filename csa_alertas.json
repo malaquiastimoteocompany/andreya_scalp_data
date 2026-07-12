@@ -65067,11 +65067,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.007894,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.007952,
-    "pnl_pct": 0.645,
-    "duracao_min": 27.6,
-    "data_resultado": "2026-07-12T21:40:27.778753+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.007897,
+    "pnl_pct": 0.297,
+    "duracao_min": 50.6,
+    "data_resultado": "2026-07-12T22:03:23.280502+00:00"
   },
   {
     "page_id": "39ba5230-de72-8142-9031-e43a71be6aad",
