@@ -63787,11 +63787,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.22746667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2289,
-    "pnl_pct": 0.263,
-    "duracao_min": 33.7,
-    "data_resultado": "2026-07-12T21:01:14.726609+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2294,
+    "pnl_pct": 0.372,
+    "duracao_min": 39.5,
+    "data_resultado": "2026-07-12T21:07:03.039630+00:00"
   },
   {
     "page_id": "39ba5230-de72-81fd-8a8a-eb2ac489d47e",
