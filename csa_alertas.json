@@ -66599,11 +66599,11 @@
     "estado_cfi": "E1",
     "zona_sr": 44.1525,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 44.13,
-    "pnl_pct": 0.204,
-    "duracao_min": 2.2,
-    "data_resultado": "2026-07-12T22:05:23.566039+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 43.99,
+    "pnl_pct": 0.362,
+    "duracao_min": 93.2,
+    "data_resultado": "2026-07-12T23:36:24.946183+00:00"
   },
   {
     "page_id": "39ba5230-de72-8166-acc1-c89741c970c6",
