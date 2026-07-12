@@ -67521,11 +67521,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00235,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002367,
-    "pnl_pct": 0.339,
-    "duracao_min": 5.5,
-    "data_resultado": "2026-07-12T22:30:46.506585+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.002359,
+    "pnl_pct": 0.17,
+    "duracao_min": 17.6,
+    "data_resultado": "2026-07-12T22:42:48.161080+00:00"
   },
   {
     "page_id": "39ba5230-de72-815c-8c31-e1b756d66c88",
