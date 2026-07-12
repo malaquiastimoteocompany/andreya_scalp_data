@@ -66537,11 +66537,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1874425,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.18585,
-    "pnl_pct": 0.434,
-    "duracao_min": 4.1,
-    "data_resultado": "2026-07-12T22:07:06.321362+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.18671,
+    "pnl_pct": 0.204,
+    "duracao_min": 56.1,
+    "data_resultado": "2026-07-12T22:59:10.509978+00:00"
   },
   {
     "page_id": "39ba5230-de72-8194-97e1-cf1f3762dda9",
