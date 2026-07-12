@@ -44669,5 +44669,23 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-8149-888b-f70d42633fd4",
+    "token": "LDO",
+    "direccao": "LONG",
+    "preco_alerta": 0.3082,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "data_alerta": "2026-07-12T10:24:20.564399+00:00",
+    "rsi_1h": 47.7,
+    "funding_rate": 0.0057,
+    "estado_cfi": "E1",
+    "zona_sr": 0.30935,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
