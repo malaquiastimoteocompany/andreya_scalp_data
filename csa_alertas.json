@@ -65161,6 +65161,10 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1874425,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.1875,
+    "pnl_pct": 0.451,
+    "duracao_min": 2.0,
+    "data_resultado": "2026-07-12T21:22:09.184645+00:00"
   }
 ]
