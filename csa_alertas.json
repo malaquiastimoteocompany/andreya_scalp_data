@@ -60831,11 +60831,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.001238,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001241,
-    "pnl_pct": 0.323,
-    "duracao_min": 42.5,
-    "data_resultado": "2026-07-12T18:57:18.725259+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.001243,
+    "pnl_pct": 0.404,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-12T20:15:34.091735+00:00"
   },
   {
     "page_id": "39ba5230-de72-8151-908c-f839aaf2bc9d",
