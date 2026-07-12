@@ -67225,11 +67225,11 @@
     "estado_cfi": "E1",
     "zona_sr": 34.537,
     "toques_sr": 10,
-    "resultado": "TP Tardio",
-    "preco_saida": 34.24,
-    "pnl_pct": 0.407,
-    "duracao_min": 36.9,
-    "data_resultado": "2026-07-12T22:47:02.843174+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 34.42,
+    "pnl_pct": 0.145,
+    "duracao_min": 102.6,
+    "data_resultado": "2026-07-12T23:52:44.982038+00:00"
   },
   {
     "page_id": "39ba5230-de72-816f-8f8b-f8b6c91618a6",
