@@ -60981,11 +60981,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0673475,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06761,
-    "pnl_pct": 0.267,
-    "duracao_min": 39.2,
-    "data_resultado": "2026-07-12T18:59:00.280439+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.06764,
+    "pnl_pct": 0.289,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-12T20:19:54.288676+00:00"
   },
   {
     "page_id": "39ba5230-de72-819a-9515-e823512603b9",
