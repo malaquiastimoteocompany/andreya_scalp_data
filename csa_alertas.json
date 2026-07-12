@@ -61161,11 +61161,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.048765,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04918,
-    "pnl_pct": 0.367,
-    "duracao_min": 20.5,
-    "data_resultado": "2026-07-12T18:43:16.513876+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04914,
+    "pnl_pct": 0.327,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-12T20:22:59.895889+00:00"
   },
   {
     "page_id": "39ba5230-de72-812d-b379-ebfae24005bf",
