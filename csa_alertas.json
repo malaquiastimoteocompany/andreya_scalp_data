@@ -59868,5 +59868,31 @@
     "pnl_pct": 0.377,
     "duracao_min": 6.0,
     "data_resultado": "2026-07-12T17:53:28.664766+00:00"
+  },
+  {
+    "page_id": "39ba5230-de72-8183-8e7e-ec313a9ba325",
+    "token": "ARB",
+    "direccao": "SHORT",
+    "preco_alerta": 0.09355,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.001555,
+    "tp1": 0.092928,
+    "tp2": 0.091995,
+    "sl": 0.0958825,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 299477067.0,
+    "spread_pct": 0.00010690042225662648,
+    "oi_usd": 5544506.53422,
+    "data_alerta": "2026-07-12T17:54:42.942920+00:00",
+    "rsi_1h": 40.54,
+    "funding_rate": 0.0076,
+    "estado_cfi": "E1",
+    "zona_sr": 0.093895,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
