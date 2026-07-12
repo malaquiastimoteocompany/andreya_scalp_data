@@ -59923,11 +59923,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04498,
-    "pnl_pct": 0.377,
-    "duracao_min": 6.0,
-    "data_resultado": "2026-07-12T17:53:28.664766+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.04516,
+    "pnl_pct": 0.177,
+    "duracao_min": 20.0,
+    "data_resultado": "2026-07-12T18:07:24.556843+00:00"
   },
   {
     "page_id": "39ba5230-de72-8183-8e7e-ec313a9ba325",
