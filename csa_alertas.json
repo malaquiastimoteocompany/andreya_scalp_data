@@ -59851,11 +59851,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.4238,
-    "pnl_pct": 0.819,
-    "duracao_min": 21.3,
-    "data_resultado": "2026-07-12T17:56:02.196452+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.4281,
+    "pnl_pct": 0.316,
+    "duracao_min": 98.7,
+    "data_resultado": "2026-07-12T19:13:29.878963+00:00"
   },
   {
     "page_id": "39ba5230-de72-8181-b53a-e0fc127b2bd5",
