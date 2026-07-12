@@ -54555,11 +54555,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.091335,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.09205,
-    "pnl_pct": 0.568,
-    "duracao_min": 8.8,
-    "data_resultado": "2026-07-12T14:24:23.925391+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.09268,
+    "pnl_pct": 0.912,
+    "duracao_min": 50.1,
+    "data_resultado": "2026-07-12T15:05:45.712073+00:00"
   },
   {
     "page_id": "39ba5230-de72-81d4-af5f-fadb2945293c",
