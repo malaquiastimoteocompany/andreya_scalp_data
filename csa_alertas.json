@@ -59929,11 +59929,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.027184,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02704,
-    "pnl_pct": 0.295,
-    "duracao_min": 43.3,
-    "data_resultado": "2026-07-12T18:20:31.893441+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.02712,
+    "pnl_pct": 0.147,
+    "duracao_min": 83.2,
+    "data_resultado": "2026-07-12T19:00:27.318019+00:00"
   },
   {
     "page_id": "39ba5230-de72-81cf-b82e-f51e80207688",
