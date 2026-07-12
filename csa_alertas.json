@@ -59519,11 +59519,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.30935,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3095,
-    "pnl_pct": 0.52,
-    "duracao_min": 10.9,
-    "data_resultado": "2026-07-12T17:38:21.870833+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.3075,
+    "pnl_pct": 0.195,
+    "duracao_min": 28.5,
+    "data_resultado": "2026-07-12T17:55:55.058212+00:00"
   },
   {
     "page_id": "39ba5230-de72-816f-bca9-f36ac4dbe604",
