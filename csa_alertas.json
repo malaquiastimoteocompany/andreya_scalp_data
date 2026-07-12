@@ -46590,7 +46590,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.55566667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 1.564,
+    "pnl_pct": 0.321,
+    "duracao_min": 25.1,
+    "data_resultado": "2026-07-12T11:01:15.057503+00:00"
   },
   {
     "page_id": "39ba5230-de72-8107-a8de-f0dcbaf6150e",
