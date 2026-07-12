@@ -40181,5 +40181,22 @@
     "zona_sr": 0.62403333,
     "toques_sr": 12,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-810a-8219-d2ea1af332c2",
+    "token": "UMA",
+    "direccao": "SHORT",
+    "preco_alerta": 0.3809,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-12T08:42:14.647393+00:00",
+    "rsi_1h": 43.78,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.37966667,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
