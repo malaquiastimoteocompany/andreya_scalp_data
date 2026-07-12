@@ -42221,5 +42221,22 @@
     "zona_sr": 0.01662143,
     "toques_sr": 7,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-8172-85d6-e5a04e8bec90",
+    "token": "CORE",
+    "direccao": "LONG",
+    "preco_alerta": 0.02509,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "data_alerta": "2026-07-12T09:21:50.489449+00:00",
+    "rsi_1h": 38.96,
+    "funding_rate": 0.0034,
+    "estado_cfi": "E1",
+    "zona_sr": 0.025062,
+    "toques_sr": 5,
+    "resultado": "Pendente"
   }
 ]
