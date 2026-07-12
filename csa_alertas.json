@@ -56230,5 +56230,31 @@
     "zona_sr": 0.37706,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ba5230-de72-817a-b12a-f41916b361a8",
+    "token": "RLS",
+    "direccao": "SHORT",
+    "preco_alerta": 0.002251,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 2.486e-05,
+    "tp1": 0.002241056,
+    "tp2": 0.00222614,
+    "sl": 0.00228829,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 8778508.0,
+    "spread_pct": 0.0008865248226949608,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-12T15:12:24.227635+00:00",
+    "rsi_1h": 40.49,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0022526,
+    "toques_sr": 5,
+    "resultado": "Pendente"
   }
 ]
