@@ -66687,11 +66687,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.61971429,
     "toques_sr": 7,
-    "resultado": "TP Hit",
-    "preco_saida": 0.6219,
-    "pnl_pct": 0.193,
-    "duracao_min": 5.6,
-    "data_resultado": "2026-07-12T22:10:59.478024+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.6206,
+    "pnl_pct": 0.089,
+    "duracao_min": 14.3,
+    "data_resultado": "2026-07-12T22:19:39.410768+00:00"
   },
   {
     "page_id": "39ba5230-de72-8159-8534-fc5c3e4120b5",
