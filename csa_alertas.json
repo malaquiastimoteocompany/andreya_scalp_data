@@ -50605,11 +50605,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05780667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05833,
-    "pnl_pct": 1.18,
-    "duracao_min": 66.5,
-    "data_resultado": "2026-07-12T12:48:13.114632+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.05851,
+    "pnl_pct": 1.336,
+    "duracao_min": 99.0,
+    "data_resultado": "2026-07-12T13:20:42.234212+00:00"
   },
   {
     "page_id": "39ba5230-de72-81cf-83ea-dc7cf64ec556",
