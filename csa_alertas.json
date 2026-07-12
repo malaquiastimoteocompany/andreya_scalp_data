@@ -61641,11 +61641,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.30935,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3117,
-    "pnl_pct": 0.841,
-    "duracao_min": 98.3,
-    "data_resultado": "2026-07-12T20:15:52.509190+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3091,
+    "pnl_pct": 0.421,
+    "duracao_min": 116.9,
+    "data_resultado": "2026-07-12T20:34:28.346283+00:00"
   },
   {
     "page_id": "39ba5230-de72-8178-bb23-ebbc94361085",
