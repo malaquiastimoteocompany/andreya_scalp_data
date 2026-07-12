@@ -42812,11 +42812,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00197,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.001975,
-    "pnl_pct": 0.56,
-    "duracao_min": 14.7,
-    "data_resultado": "2026-07-12T09:40:52.113331+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.001962,
+    "pnl_pct": 0.229,
+    "duracao_min": 42.6,
+    "data_resultado": "2026-07-12T10:08:48.806293+00:00"
   },
   {
     "page_id": "39ba5230-de72-81f4-af5e-d1df3af74d13",
