@@ -56625,11 +56625,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 3.561,
-    "pnl_pct": 0.531,
-    "duracao_min": 23.6,
-    "data_resultado": "2026-07-12T15:51:03.529983+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.58,
+    "pnl_pct": 0.265,
+    "duracao_min": 37.1,
+    "data_resultado": "2026-07-12T16:04:35.485948+00:00"
   },
   {
     "page_id": "39ba5230-de72-810c-ae3a-c3f28d02e706",
