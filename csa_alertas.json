@@ -57465,11 +57465,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 544.3,
-    "pnl_pct": 1.226,
-    "duracao_min": 0.5,
-    "data_resultado": "2026-07-12T16:10:33.223469+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 546.17,
+    "pnl_pct": 1.399,
+    "duracao_min": 8.9,
+    "data_resultado": "2026-07-12T16:18:55.443382+00:00"
   },
   {
     "page_id": "39ba5230-de72-8131-baeb-d3ebb0172654",
