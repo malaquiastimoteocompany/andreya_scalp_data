@@ -53353,7 +53353,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 2.6057,
+    "pnl_pct": 1.213,
+    "duracao_min": 14.0,
+    "data_resultado": "2026-07-12T14:11:47.114730+00:00"
   },
   {
     "page_id": "39ba5230-de72-8109-9385-f5323b35a00f",
