@@ -62321,11 +62321,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0020685,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.00207,
-    "pnl_pct": 0.291,
-    "duracao_min": 56.0,
-    "data_resultado": "2026-07-12T19:58:15.989304+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.002064,
+    "pnl_pct": 0.145,
+    "duracao_min": 97.9,
+    "data_resultado": "2026-07-12T20:40:10.485157+00:00"
   },
   {
     "page_id": "39ba5230-de72-810b-990e-ddf65e5e5cf2",
