@@ -61981,7 +61981,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.01767,
+    "pnl_pct": 1.34,
+    "duracao_min": 13.2,
+    "data_resultado": "2026-07-12T19:08:13.212866+00:00"
   },
   {
     "page_id": "39ba5230-de72-81ba-9467-ce46b9cd6796",
