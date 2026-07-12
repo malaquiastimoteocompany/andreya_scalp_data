@@ -63273,11 +63273,11 @@
     "estado_cfi": "E1",
     "zona_sr": 44.77666667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 44.54,
-    "pnl_pct": 0.179,
-    "duracao_min": 11.8,
-    "data_resultado": "2026-07-12T20:14:29.821662+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 44.63,
+    "pnl_pct": 0.078,
+    "duracao_min": 59.9,
+    "data_resultado": "2026-07-12T21:02:33.522560+00:00"
   },
   {
     "page_id": "39ba5230-de72-81c9-a4e1-ddfca589607c",
