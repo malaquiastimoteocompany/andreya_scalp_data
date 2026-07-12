@@ -59153,7 +59153,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.5905,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 1.579,
+    "pnl_pct": 0.379,
+    "duracao_min": 53.2,
+    "data_resultado": "2026-07-12T17:55:39.174876+00:00"
   },
   {
     "page_id": "39ba5230-de72-81b3-937f-e5d63350e3f7",
