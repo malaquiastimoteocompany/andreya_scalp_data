@@ -55879,7 +55879,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0581225,
     "toques_sr": 12,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.05823,
+    "pnl_pct": 0.31,
+    "duracao_min": 1.9,
+    "data_resultado": "2026-07-12T15:04:36.192139+00:00"
   },
   {
     "page_id": "39ba5230-de72-81bc-8084-c34276a396e2",
