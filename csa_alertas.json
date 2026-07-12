@@ -50119,11 +50119,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.47166667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 3.482,
-    "pnl_pct": 0.578,
-    "duracao_min": 20.7,
-    "data_resultado": "2026-07-12T12:01:08.597486+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.518,
+    "pnl_pct": 1.098,
+    "duracao_min": 60.0,
+    "data_resultado": "2026-07-12T12:40:27.964047+00:00"
   },
   {
     "page_id": "39ba5230-de72-81b7-b255-c934cf3f40a4",
