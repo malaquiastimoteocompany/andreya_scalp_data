@@ -53699,11 +53699,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.78254,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.7749,
-    "pnl_pct": 0.628,
-    "duracao_min": 85.2,
-    "data_resultado": "2026-07-12T15:38:29.951795+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.7747,
+    "pnl_pct": 0.641,
+    "duracao_min": 96.1,
+    "data_resultado": "2026-07-12T15:49:24.390442+00:00"
   },
   {
     "page_id": "39ba5230-de72-81e4-93a9-e0f170c43896",
