@@ -51003,7 +51003,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.064004,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.06401,
+    "pnl_pct": 0.016,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-12T13:48:58.105910+00:00"
   },
   {
     "page_id": "39ba5230-de72-810f-8796-eb3b8dcabe27",
