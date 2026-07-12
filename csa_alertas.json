@@ -59445,11 +59445,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0283625,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02853,
-    "pnl_pct": 0.352,
-    "duracao_min": 14.2,
-    "data_resultado": "2026-07-12T17:36:41.634237+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.0287,
+    "pnl_pct": 0.651,
+    "duracao_min": 39.0,
+    "data_resultado": "2026-07-12T18:01:30.563064+00:00"
   },
   {
     "page_id": "39ba5230-de72-8116-80ac-dca3cce209b0",
