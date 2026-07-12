@@ -60397,11 +60397,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.30935,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3098,
-    "pnl_pct": 0.487,
-    "duracao_min": 2.1,
-    "data_resultado": "2026-07-12T18:04:34.850712+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3083,
+    "pnl_pct": 0.243,
+    "duracao_min": 32.2,
+    "data_resultado": "2026-07-12T18:34:39.374520+00:00"
   },
   {
     "page_id": "39ba5230-de72-813a-8b67-d54c70e30f90",
