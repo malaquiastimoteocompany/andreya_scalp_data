@@ -70833,7 +70833,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03030857,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.03014,
+    "pnl_pct": 0.594,
+    "duracao_min": 10.3,
+    "data_resultado": "2026-07-13T00:38:08.213045+00:00"
   },
   {
     "page_id": "39ca5230-de72-81c2-8119-d5378c5e9b55",
