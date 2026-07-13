@@ -74653,7 +74653,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0795675,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.07872,
+    "pnl_pct": 0.794,
+    "duracao_min": 48.3,
+    "data_resultado": "2026-07-13T03:08:16.275965+00:00"
   },
   {
     "page_id": "39ca5230-de72-810f-9022-eddfa52f031c",
