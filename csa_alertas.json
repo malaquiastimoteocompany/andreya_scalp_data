@@ -91635,7 +91635,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.09321,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.09233,
+    "pnl_pct": 0.88,
+    "duracao_min": 26.8,
+    "data_resultado": "2026-07-13T16:21:45.301634+00:00"
   },
   {
     "page_id": "39ca5230-de72-819f-8c0c-d1d302a37f71",
