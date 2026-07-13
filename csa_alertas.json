@@ -77387,11 +77387,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2982,
-    "pnl_pct": 0.845,
-    "duracao_min": 9.1,
-    "data_resultado": "2026-07-13T04:16:54.840676+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.3006,
+    "pnl_pct": 1.251,
+    "duracao_min": 55.0,
+    "data_resultado": "2026-07-13T05:02:46.366487+00:00"
   },
   {
     "page_id": "39ca5230-de72-81a7-8b4b-f16d42ba30a4",
