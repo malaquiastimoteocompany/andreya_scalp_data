@@ -89223,7 +89223,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02643,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.02642,
+    "pnl_pct": 0.456,
+    "duracao_min": 27.5,
+    "data_resultado": "2026-07-13T14:35:12.816296+00:00"
   },
   {
     "page_id": "39ca5230-de72-81a9-9170-de857414f164",
