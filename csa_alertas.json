@@ -82463,11 +82463,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.23985,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2409,
-    "pnl_pct": 0.795,
-    "duracao_min": 65.9,
-    "data_resultado": "2026-07-13T09:13:41.562698+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.2411,
+    "pnl_pct": 0.837,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-13T10:07:50.136254+00:00"
   },
   {
     "page_id": "39ca5230-de72-8170-bdd4-ccf11c4099a0",
