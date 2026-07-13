@@ -79435,11 +79435,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03006,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03008,
-    "pnl_pct": 0.468,
-    "duracao_min": 21.1,
-    "data_resultado": "2026-07-13T05:58:51.403936+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.02994,
+    "pnl_pct": 0.234,
+    "duracao_min": 41.3,
+    "data_resultado": "2026-07-13T06:19:03.067124+00:00"
   },
   {
     "page_id": "39ca5230-de72-814e-9cc3-fe44cadb1b51",
