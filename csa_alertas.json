@@ -88953,11 +88953,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0020265,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002026,
-    "pnl_pct": 0.446,
-    "duracao_min": 13.0,
-    "data_resultado": "2026-07-13T14:08:06.891928+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.00204,
+    "pnl_pct": 0.793,
+    "duracao_min": 31.7,
+    "data_resultado": "2026-07-13T14:26:44.016025+00:00"
   },
   {
     "page_id": "39ca5230-de72-8176-86bd-d9fabb665409",
