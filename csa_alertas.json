@@ -96473,7 +96473,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.02893,
+    "pnl_pct": 0.417,
+    "duracao_min": 53.9,
+    "data_resultado": "2026-07-13T19:59:02.265810+00:00"
   },
   {
     "page_id": "39ca5230-de72-8165-96b8-c751b3594b04",
