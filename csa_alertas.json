@@ -98923,11 +98923,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.23556667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2343,
-    "pnl_pct": 1.014,
-    "duracao_min": 33.0,
-    "data_resultado": "2026-07-13T21:38:13.528823+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.237,
+    "pnl_pct": 0.444,
+    "duracao_min": 60.6,
+    "data_resultado": "2026-07-13T22:05:48.710672+00:00"
   },
   {
     "page_id": "39ca5230-de72-8127-97a3-c5a5d10f090c",
