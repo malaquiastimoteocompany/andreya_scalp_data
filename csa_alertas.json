@@ -88071,11 +88071,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01723,
-    "pnl_pct": 0.408,
-    "duracao_min": 50.5,
-    "data_resultado": "2026-07-13T14:00:30.973430+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01731,
+    "pnl_pct": 0.641,
+    "duracao_min": 90.9,
+    "data_resultado": "2026-07-13T14:40:55.746246+00:00"
   },
   {
     "page_id": "39ca5230-de72-8139-8f7e-ef89f295dcd3",
