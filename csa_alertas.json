@@ -102202,5 +102202,31 @@
     "zona_sr": 6.4175,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ca5230-de72-814d-a610-ee9b7b84c06a",
+    "token": "GALA",
+    "direccao": "LONG",
+    "preco_alerta": 0.002024,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 2.186e-05,
+    "tp1": 0.0020327440000000004,
+    "tp2": 0.00204586,
+    "sl": 0.00199121,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 109130247.0,
+    "spread_pct": 0.0004939491232401575,
+    "oi_usd": 1723803.4237499998,
+    "data_alerta": "2026-07-13T23:47:26.692218+00:00",
+    "rsi_1h": 47.32,
+    "funding_rate": -0.0127,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0020265,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
