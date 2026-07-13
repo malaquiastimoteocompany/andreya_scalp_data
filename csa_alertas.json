@@ -77633,7 +77633,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.034555,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.03395,
+    "pnl_pct": -1.537,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-13T06:16:10.732615+00:00"
   },
   {
     "page_id": "39ca5230-de72-811d-855c-c3f5bbd17969",
