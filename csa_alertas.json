@@ -88399,7 +88399,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.24725,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.2434,
+    "pnl_pct": 1.218,
+    "duracao_min": 15.5,
+    "data_resultado": "2026-07-13T13:43:09.510228+00:00"
   },
   {
     "page_id": "39ca5230-de72-813c-b656-f7f31c91e22a",
