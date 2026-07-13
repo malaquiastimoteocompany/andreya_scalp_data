@@ -71897,11 +71897,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.147955,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.14716,
-    "pnl_pct": 0.702,
-    "duracao_min": 25.7,
-    "data_resultado": "2026-07-13T01:11:41.415149+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.14596,
+    "pnl_pct": 1.107,
+    "duracao_min": 69.8,
+    "data_resultado": "2026-07-13T01:55:47.099306+00:00"
   },
   {
     "page_id": "39ca5230-de72-816a-a36a-c9f67741c178",
