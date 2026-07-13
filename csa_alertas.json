@@ -99359,11 +99359,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05728,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05766,
-    "pnl_pct": 0.296,
-    "duracao_min": 106.0,
-    "data_resultado": "2026-07-13T23:08:28.292661+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.05778,
+    "pnl_pct": 0.4,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-13T23:23:49.508538+00:00"
   },
   {
     "page_id": "39ca5230-de72-8184-8767-f883584023ae",
