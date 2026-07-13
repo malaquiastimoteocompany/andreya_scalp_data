@@ -91951,7 +91951,11 @@
     "estado_cfi": "E1",
     "zona_sr": 510.585,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 509.27,
+    "pnl_pct": 0.617,
+    "duracao_min": 13.9,
+    "data_resultado": "2026-07-13T16:18:48.833559+00:00"
   },
   {
     "page_id": "39ca5230-de72-8198-aa45-cace7835c660",
