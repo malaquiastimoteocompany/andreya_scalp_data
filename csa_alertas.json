@@ -79303,11 +79303,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.23256667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2339,
-    "pnl_pct": 0.95,
-    "duracao_min": 2.5,
-    "data_resultado": "2026-07-13T05:35:19.053494+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.2368,
+    "pnl_pct": 1.575,
+    "duracao_min": 28.7,
+    "data_resultado": "2026-07-13T06:01:29.673953+00:00"
   },
   {
     "page_id": "39ca5230-de72-81b3-b024-e60a03719e42",
