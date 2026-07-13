@@ -95819,7 +95819,11 @@
     "estado_cfi": "E2",
     "zona_sr": 420.835,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 412.49,
+    "pnl_pct": -2.124,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-13T20:23:12.645322+00:00"
   },
   {
     "page_id": "39ca5230-de72-81e2-ab8b-fecc3522f0f0",
