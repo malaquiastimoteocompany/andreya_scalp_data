@@ -83949,7 +83949,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1701,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.1691,
+    "pnl_pct": 0.529,
+    "duracao_min": 89.3,
+    "data_resultado": "2026-07-13T11:16:55.658420+00:00"
   },
   {
     "page_id": "39ca5230-de72-81c3-bb71-d899a84a86ca",
