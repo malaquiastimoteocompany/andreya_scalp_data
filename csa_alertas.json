@@ -80115,11 +80115,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004525,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004562,
-    "pnl_pct": 0.84,
-    "duracao_min": 28.7,
-    "data_resultado": "2026-07-13T06:41:02.762865+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.00465,
+    "pnl_pct": 1.813,
+    "duracao_min": 32.7,
+    "data_resultado": "2026-07-13T06:45:05.285834+00:00"
   },
   {
     "page_id": "39ca5230-de72-81f5-b90c-f0639618d37b",
