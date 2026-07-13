@@ -70152,5 +70152,31 @@
     "zona_sr": 0.40406,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ca5230-de72-8143-bd8d-fca3f8b92f7e",
+    "token": "DASH",
+    "direccao": "SHORT",
+    "preco_alerta": 35.03,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.32857143,
+    "tp1": 34.898571428000004,
+    "tp2": 34.701428570000004,
+    "sl": 35.522857145,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 9285292.0,
+    "spread_pct": 0.00028534741047219316,
+    "oi_usd": 2660170.734,
+    "data_alerta": "2026-07-13T00:15:53.733380+00:00",
+    "rsi_1h": 59.19,
+    "funding_rate": 0.0079,
+    "estado_cfi": "E1",
+    "zona_sr": 34.85666667,
+    "toques_sr": 6,
+    "resultado": "Pendente"
   }
 ]
