@@ -81023,7 +81023,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 2.4188,
+    "pnl_pct": 0.203,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-13T09:05:23.537041+00:00"
   },
   {
     "page_id": "39ca5230-de72-810f-8263-d5f3bb80d8fc",
