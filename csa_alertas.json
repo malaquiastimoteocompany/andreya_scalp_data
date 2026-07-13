@@ -87281,11 +87281,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.005594,
-    "pnl_pct": 0.431,
-    "duracao_min": 109.3,
-    "data_resultado": "2026-07-13T14:11:53.674035+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.005589,
+    "pnl_pct": 0.386,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-13T14:23:07.640304+00:00"
   },
   {
     "page_id": "39ca5230-de72-81e3-b90f-e2616155b8e6",
