@@ -89917,11 +89917,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0048415,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004804,
-    "pnl_pct": 0.353,
-    "duracao_min": 82.1,
-    "data_resultado": "2026-07-13T15:52:03.809791+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.004786,
+    "pnl_pct": 0.539,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-13T16:30:17.395661+00:00"
   },
   {
     "page_id": "39ca5230-de72-81b3-8b84-cb5d5874ebee",
