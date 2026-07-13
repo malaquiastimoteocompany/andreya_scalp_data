@@ -94389,7 +94389,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.53433333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 3.505,
+    "pnl_pct": 0.596,
+    "duracao_min": 34.5,
+    "data_resultado": "2026-07-13T18:11:54.187062+00:00"
   },
   {
     "page_id": "39ca5230-de72-81e6-bad3-d873a7e5db00",
