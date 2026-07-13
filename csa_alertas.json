@@ -71279,11 +71279,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04387,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04346,
-    "pnl_pct": 0.64,
-    "duracao_min": 41.2,
-    "data_resultado": "2026-07-13T01:19:16.141229+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.04306,
+    "pnl_pct": 1.097,
+    "duracao_min": 76.1,
+    "data_resultado": "2026-07-13T01:54:12.857199+00:00"
   },
   {
     "page_id": "39ca5230-de72-8101-9a5b-c1776be2d2f6",
