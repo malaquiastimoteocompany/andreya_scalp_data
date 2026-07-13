@@ -80063,11 +80063,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.010805,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01082,
-    "pnl_pct": 0.464,
-    "duracao_min": 29.8,
-    "data_resultado": "2026-07-13T06:29:51.626465+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.01079,
+    "pnl_pct": 0.325,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-13T08:00:59.513448+00:00"
   },
   {
     "page_id": "39ca5230-de72-8157-b6b7-ce2cc6f57150",
