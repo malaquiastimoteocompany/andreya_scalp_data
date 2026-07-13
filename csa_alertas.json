@@ -95439,11 +95439,11 @@
     "estado_cfi": "E1",
     "zona_sr": 7.8616,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 7.85,
-    "pnl_pct": 0.319,
-    "duracao_min": 42.7,
-    "data_resultado": "2026-07-13T18:50:22.501970+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 7.888,
+    "pnl_pct": 0.562,
+    "duracao_min": 97.1,
+    "data_resultado": "2026-07-13T19:44:46.830195+00:00"
   },
   {
     "page_id": "39ca5230-de72-819c-bf46-e87a2d4b8eaf",
