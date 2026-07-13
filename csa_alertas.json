@@ -85275,11 +85275,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1266,
-    "pnl_pct": 2.179,
-    "duracao_min": 117.3,
-    "data_resultado": "2026-07-13T12:42:11.476197+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.1258,
+    "pnl_pct": 1.856,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-13T12:44:57.399824+00:00"
   },
   {
     "page_id": "39ca5230-de72-81f1-8b9b-ea62210c21c0",
