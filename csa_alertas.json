@@ -72969,11 +72969,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 478.39,
-    "pnl_pct": 1.118,
-    "duracao_min": 10.1,
-    "data_resultado": "2026-07-13T01:34:55.388996+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 490.07,
+    "pnl_pct": -0.089,
+    "duracao_min": 12.8,
+    "data_resultado": "2026-07-13T01:37:39.435382+00:00"
   },
   {
     "page_id": "39ca5230-de72-8112-b53e-eee6e9e041d6",
