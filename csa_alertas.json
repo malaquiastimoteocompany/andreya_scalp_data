@@ -85989,11 +85989,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.53033333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.519,
-    "pnl_pct": 0.565,
-    "duracao_min": 67.0,
-    "data_resultado": "2026-07-13T12:29:46.391645+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.546,
+    "pnl_pct": 0.184,
+    "duracao_min": 87.0,
+    "data_resultado": "2026-07-13T12:49:46.958460+00:00"
   },
   {
     "page_id": "39ca5230-de72-817c-b37c-d06d933cde2d",
