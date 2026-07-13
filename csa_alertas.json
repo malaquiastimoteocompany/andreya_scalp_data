@@ -93979,11 +93979,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02551,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02517,
-    "pnl_pct": 1.061,
-    "duracao_min": 28.8,
-    "data_resultado": "2026-07-13T17:38:50.962203+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.02512,
+    "pnl_pct": 1.16,
+    "duracao_min": 42.9,
+    "data_resultado": "2026-07-13T17:52:57.970630+00:00"
   },
   {
     "page_id": "39ca5230-de72-81fc-b5f5-c1511afefccc",
