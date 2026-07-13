@@ -79481,11 +79481,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0014975,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.001507,
-    "pnl_pct": 0.938,
-    "duracao_min": 23.3,
-    "data_resultado": "2026-07-13T05:58:40.894178+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.001492,
+    "pnl_pct": 0.435,
+    "duracao_min": 103.3,
+    "data_resultado": "2026-07-13T07:18:41.053824+00:00"
   },
   {
     "page_id": "39ca5230-de72-81ba-b897-d1140ed2018b",
