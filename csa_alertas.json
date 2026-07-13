@@ -98189,7 +98189,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 4.119e-06,
+    "pnl_pct": -0.121,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-13T22:23:35.650887+00:00"
   },
   {
     "page_id": "39ca5230-de72-81ee-8735-ec0dfe92ca01",
