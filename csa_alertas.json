@@ -78713,11 +78713,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.067294,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
+    "resultado": "Falhado",
     "preco_saida": 0.06755,
     "pnl_pct": 0.342,
-    "duracao_min": 103.7,
-    "data_resultado": "2026-07-13T07:03:42.069363+00:00"
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-13T07:20:12.814551+00:00"
   },
   {
     "page_id": "39ca5230-de72-819f-9a06-cd3a2f870397",
