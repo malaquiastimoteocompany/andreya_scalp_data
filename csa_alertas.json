@@ -89037,11 +89037,11 @@
     "estado_cfi": "E1",
     "zona_sr": 205.36,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 206.3,
-    "pnl_pct": 0.551,
-    "duracao_min": 17.1,
-    "data_resultado": "2026-07-13T14:12:22.766346+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 207.43,
+    "pnl_pct": 0.826,
+    "duracao_min": 44.3,
+    "data_resultado": "2026-07-13T14:39:33.745597+00:00"
   },
   {
     "page_id": "39ca5230-de72-812d-8c96-c7736bd5775f",
