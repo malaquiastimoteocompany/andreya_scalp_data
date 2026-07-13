@@ -88639,11 +88639,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00240233,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002422,
-    "pnl_pct": 0.498,
-    "duracao_min": 23.5,
-    "data_resultado": "2026-07-13T14:03:40.729842+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.002441,
+    "pnl_pct": 0.892,
+    "duracao_min": 46.4,
+    "data_resultado": "2026-07-13T14:26:35.349821+00:00"
   },
   {
     "page_id": "39ca5230-de72-81e4-be6d-c1cc190fbd3c",
