@@ -78683,11 +78683,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.73028,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.7278,
-    "pnl_pct": 0.587,
-    "duracao_min": 10.7,
-    "data_resultado": "2026-07-13T05:30:49.589203+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.7322,
+    "pnl_pct": 0.287,
+    "duracao_min": 30.7,
+    "data_resultado": "2026-07-13T05:50:46.267978+00:00"
   },
   {
     "page_id": "39ca5230-de72-8113-b4ea-d1fd8d6df07f",
