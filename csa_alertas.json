@@ -74683,7 +74683,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.043715,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.04316,
+    "pnl_pct": 1.73,
+    "duracao_min": 48.2,
+    "data_resultado": "2026-07-13T03:08:19.611516+00:00"
   },
   {
     "page_id": "39ca5230-de72-8131-8b84-d9c9478f1421",
