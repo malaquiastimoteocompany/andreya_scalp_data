@@ -88495,11 +88495,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.545,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.543,
-    "pnl_pct": 0.325,
-    "duracao_min": 61.2,
-    "data_resultado": "2026-07-13T14:26:23.814092+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.551,
+    "pnl_pct": 0.585,
+    "duracao_min": 113.9,
+    "data_resultado": "2026-07-13T15:19:02.649115+00:00"
   },
   {
     "page_id": "39ca5230-de72-81a4-ab22-d59925b6e886",
