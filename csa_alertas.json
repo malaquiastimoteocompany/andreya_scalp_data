@@ -79553,11 +79553,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.546,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 6.487,
-    "pnl_pct": 0.476,
-    "duracao_min": 16.1,
-    "data_resultado": "2026-07-13T05:56:00.801653+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 6.492,
+    "pnl_pct": 0.437,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-13T07:40:29.010270+00:00"
   },
   {
     "page_id": "39ca5230-de72-81a6-b9c6-c93a48b9131f",
