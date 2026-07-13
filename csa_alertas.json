@@ -86333,7 +86333,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.02257,
+    "pnl_pct": 5.327,
+    "duracao_min": 6.0,
+    "data_resultado": "2026-07-13T12:00:57.132668+00:00"
   },
   {
     "page_id": "39ca5230-de72-81c9-b8d0-c20317c5f7ef",
