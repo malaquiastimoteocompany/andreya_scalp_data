@@ -94739,7 +94739,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 2.3239,
+    "pnl_pct": -1.675,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-13T19:43:13.230219+00:00"
   },
   {
     "page_id": "39ca5230-de72-8195-9344-fa0b607f8fd6",
