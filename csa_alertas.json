@@ -89962,5 +89962,31 @@
     "zona_sr": 7.9445,
     "toques_sr": 6,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ca5230-de72-8104-b136-e91808f0c673",
+    "token": "FHE",
+    "direccao": "SHORT",
+    "preco_alerta": 0.01971,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00063929,
+    "tp1": 0.019454284,
+    "tp2": 0.019070709999999998,
+    "sl": 0.020668935,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 9114491.0,
+    "spread_pct": 0.0005072279989856994,
+    "oi_usd": 500702.19659999997,
+    "data_alerta": "2026-07-13T14:35:16.694920+00:00",
+    "rsi_1h": 42.91,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.01976,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
