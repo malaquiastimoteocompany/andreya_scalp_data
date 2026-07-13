@@ -83119,7 +83119,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0060145,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.00596,
+    "pnl_pct": -0.418,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-13T10:53:22.266598+00:00"
   },
   {
     "page_id": "39ca5230-de72-8158-8b9f-d3393db7a8e5",
