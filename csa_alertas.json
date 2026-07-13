@@ -68809,11 +68809,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01741,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01743,
-    "pnl_pct": 0.23,
-    "duracao_min": 20.9,
-    "data_resultado": "2026-07-12T23:58:25.684219+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.01749,
+    "pnl_pct": 0.403,
+    "duracao_min": 29.5,
+    "data_resultado": "2026-07-13T00:07:03.181205+00:00"
   },
   {
     "page_id": "39ba5230-de72-8152-8d15-fd1fd1b9b81a",
