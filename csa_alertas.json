@@ -83719,11 +83719,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.387985,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.39136,
-    "pnl_pct": 1.328,
-    "duracao_min": 64.7,
-    "data_resultado": "2026-07-13T10:34:46.567516+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.384,
+    "pnl_pct": 0.375,
+    "duracao_min": 76.3,
+    "data_resultado": "2026-07-13T10:46:27.815147+00:00"
   },
   {
     "page_id": "39ca5230-de72-81ef-b326-e1dc5469c4bc",
