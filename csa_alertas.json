@@ -85005,11 +85005,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0599,
-    "pnl_pct": 0.844,
-    "duracao_min": 24.0,
-    "data_resultado": "2026-07-13T10:46:49.200337+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.05955,
+    "pnl_pct": 1.134,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-13T12:24:00.628119+00:00"
   },
   {
     "page_id": "39ca5230-de72-8188-a0ff-dacbb0485c88",
