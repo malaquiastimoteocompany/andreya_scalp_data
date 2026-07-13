@@ -80279,7 +80279,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3139,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.3089,
+    "pnl_pct": 1.791,
+    "duracao_min": 25.2,
+    "data_resultado": "2026-07-13T06:47:50.306012+00:00"
   },
   {
     "page_id": "39ca5230-de72-816d-91d2-d24025467b6e",
