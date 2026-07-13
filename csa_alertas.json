@@ -78923,11 +78923,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.52,
-    "pnl_pct": 0.629,
-    "duracao_min": 108.8,
-    "data_resultado": "2026-07-13T07:13:43.508997+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 3.524,
+    "pnl_pct": 0.686,
+    "duracao_min": 121.4,
+    "data_resultado": "2026-07-13T07:26:15.035588+00:00"
   },
   {
     "page_id": "39ca5230-de72-81d4-83f9-e1c926b5a6fa",
