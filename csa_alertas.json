@@ -78443,7 +78443,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.543,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 1.543,
+    "pnl_pct": -0.065,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-13T07:13:37.233947+00:00"
   },
   {
     "page_id": "39ca5230-de72-8131-a5ea-ef5e0d854d67",
