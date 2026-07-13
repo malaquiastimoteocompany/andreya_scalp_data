@@ -101493,11 +101493,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 56.17,
-    "pnl_pct": 0.844,
-    "duracao_min": 6.3,
-    "data_resultado": "2026-07-13T23:16:41.645650+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 55.56,
+    "pnl_pct": 0.296,
+    "duracao_min": 27.5,
+    "data_resultado": "2026-07-13T23:37:54.301087+00:00"
   },
   {
     "page_id": "39ca5230-de72-81f3-9c62-e9c21c262029",
