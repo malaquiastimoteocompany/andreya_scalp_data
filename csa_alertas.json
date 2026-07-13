@@ -70573,7 +70573,11 @@
     "estado_cfi": "E1",
     "zona_sr": 4.26e-06,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 4.233e-06,
+    "pnl_pct": -1.121,
+    "duracao_min": 23.3,
+    "data_resultado": "2026-07-13T00:43:17.134661+00:00"
   },
   {
     "page_id": "39ca5230-de72-81e8-acd3-fb549af6fd2f",
