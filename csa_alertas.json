@@ -79943,11 +79943,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.9022,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.906,
-    "pnl_pct": 0.634,
-    "duracao_min": 89.5,
-    "data_resultado": "2026-07-13T07:17:12.553762+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.911,
+    "pnl_pct": 0.766,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-13T07:47:55.007110+00:00"
   },
   {
     "page_id": "39ca5230-de72-813a-9c0f-f6ec61c7a3c3",
