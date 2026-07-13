@@ -76523,7 +76523,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0588525,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.059,
+    "pnl_pct": 0.289,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-13T05:28:37.018267+00:00"
   },
   {
     "page_id": "39ca5230-de72-81ad-aba6-f10727224f79",
