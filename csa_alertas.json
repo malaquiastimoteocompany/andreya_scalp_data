@@ -90127,7 +90127,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01976,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.01945,
+    "pnl_pct": 1.319,
+    "duracao_min": 115.2,
+    "data_resultado": "2026-07-13T16:30:35.192549+00:00"
   },
   {
     "page_id": "39ca5230-de72-81f7-91bb-e5962cb11fd9",
