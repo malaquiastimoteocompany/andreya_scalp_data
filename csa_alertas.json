@@ -86169,11 +86169,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.53433333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 3.504,
-    "pnl_pct": 0.652,
-    "duracao_min": 24.3,
-    "data_resultado": "2026-07-13T11:56:43.117663+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.472,
+    "pnl_pct": 1.106,
+    "duracao_min": 93.5,
+    "data_resultado": "2026-07-13T13:05:52.860099+00:00"
   },
   {
     "page_id": "39ca5230-de72-819e-9f9d-cfd7f0238d88",
