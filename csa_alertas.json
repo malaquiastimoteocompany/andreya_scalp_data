@@ -84116,5 +84116,31 @@
     "zona_sr": 0.2257,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ca5230-de72-81fe-83c4-c0f15325d949",
+    "token": "ARX",
+    "direccao": "LONG",
+    "preco_alerta": 0.1783,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00427857,
+    "tp1": 0.18001142799999997,
+    "tp2": 0.18257857,
+    "sl": 0.171882145,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 5300139.0,
+    "spread_pct": 0.0005606952621251288,
+    "oi_usd": 634748.8332,
+    "data_alerta": "2026-07-13T09:58:01.526291+00:00",
+    "rsi_1h": 55.51,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.1779,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
