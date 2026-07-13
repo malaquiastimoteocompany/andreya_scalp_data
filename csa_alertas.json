@@ -77308,5 +77308,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ca5230-de72-81a7-8b4b-f16d42ba30a4",
+    "token": "BSB",
+    "direccao": "LONG",
+    "preco_alerta": 0.1235,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00387857,
+    "tp1": 0.125051428,
+    "tp2": 0.12737857,
+    "sl": 0.117682145,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 12597654.0,
+    "spread_pct": 0.0008087343307723644,
+    "oi_usd": 1098382.8168,
+    "data_alerta": "2026-07-13T04:07:48.943220+00:00",
+    "rsi_1h": 23.34,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
