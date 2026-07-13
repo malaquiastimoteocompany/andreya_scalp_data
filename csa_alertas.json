@@ -97099,11 +97099,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.5025,
-    "pnl_pct": 1.871,
-    "duracao_min": 41.6,
-    "data_resultado": "2026-07-13T20:19:00.136044+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.49121,
+    "pnl_pct": 2.973,
+    "duracao_min": 44.6,
+    "data_resultado": "2026-07-13T20:22:01.421757+00:00"
   },
   {
     "page_id": "39ca5230-de72-811d-ac64-c4781a73a500",
