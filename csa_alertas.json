@@ -97203,11 +97203,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.7547,
-    "pnl_pct": 0.306,
-    "duracao_min": 15.3,
-    "data_resultado": "2026-07-13T19:57:46.519629+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.7522,
+    "pnl_pct": 0.14,
+    "duracao_min": 28.3,
+    "data_resultado": "2026-07-13T20:10:44.265549+00:00"
   },
   {
     "page_id": "39ca5230-de72-8120-bd6d-e2ae6ef6c4f3",
