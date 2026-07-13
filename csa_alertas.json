@@ -71853,7 +71853,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.017586,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.01751,
+    "pnl_pct": 0.285,
+    "duracao_min": 6.1,
+    "data_resultado": "2026-07-13T00:53:39.296468+00:00"
   },
   {
     "page_id": "39ca5230-de72-81a3-b5da-e076e1b3c8a2",
