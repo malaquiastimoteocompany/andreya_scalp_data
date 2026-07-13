@@ -96407,7 +96407,11 @@
     "estado_cfi": "E1",
     "zona_sr": 94.46,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 94.64,
+    "pnl_pct": 0.435,
+    "duracao_min": 29.8,
+    "data_resultado": "2026-07-13T19:34:52.986498+00:00"
   },
   {
     "page_id": "39ca5230-de72-81d7-a1dc-d04da1eaf647",
