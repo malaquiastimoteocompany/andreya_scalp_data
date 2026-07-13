@@ -95579,7 +95579,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.917,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 1.909,
+    "pnl_pct": -0.313,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-13T20:13:09.586195+00:00"
   },
   {
     "page_id": "39ca5230-de72-818f-b536-fc83d6ed5b9a",
