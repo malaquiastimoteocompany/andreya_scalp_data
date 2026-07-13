@@ -84239,7 +84239,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05772667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.05773,
+    "pnl_pct": 0.278,
+    "duracao_min": 29.2,
+    "data_resultado": "2026-07-13T10:29:09.870631+00:00"
   },
   {
     "page_id": "39ca5230-de72-81c7-9060-dc7c12859bc5",
