@@ -80273,11 +80273,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 207.0,
-    "pnl_pct": 0.412,
-    "duracao_min": 70.8,
-    "data_resultado": "2026-07-13T07:23:21.247903+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 207.71,
+    "pnl_pct": 0.585,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-13T08:13:31.365895+00:00"
   },
   {
     "page_id": "39ca5230-de72-8187-b4c2-c46361dd4634",
