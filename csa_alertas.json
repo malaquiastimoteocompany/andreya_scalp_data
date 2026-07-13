@@ -75773,11 +75773,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.53433333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 3.509,
-    "pnl_pct": 0.707,
-    "duracao_min": 23.9,
-    "data_resultado": "2026-07-13T03:33:47.576235+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 3.51,
+    "pnl_pct": 0.693,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-13T05:10:15.077620+00:00"
   },
   {
     "page_id": "39ca5230-de72-81f0-953e-c432549f9061",
