@@ -70043,11 +70043,11 @@
     "estado_cfi": "E1",
     "zona_sr": 8.10266667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 8.083,
-    "pnl_pct": 0.333,
-    "duracao_min": 19.6,
-    "data_resultado": "2026-07-13T00:34:52.444740+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 8.033,
+    "pnl_pct": 0.641,
+    "duracao_min": 24.5,
+    "data_resultado": "2026-07-13T00:39:45.885425+00:00"
   },
   {
     "page_id": "39ca5230-de72-8103-8da4-c7a5c36ed6da",
