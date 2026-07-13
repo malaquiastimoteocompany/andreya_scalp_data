@@ -79973,7 +79973,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.73028,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.7317,
+    "pnl_pct": -0.027,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-13T07:53:07.972388+00:00"
   },
   {
     "page_id": "39ca5230-de72-81f1-a429-c12cff6b88df",
