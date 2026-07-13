@@ -93009,11 +93009,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 163.0,
-    "pnl_pct": 1.415,
-    "duracao_min": 76.6,
-    "data_resultado": "2026-07-13T17:51:27.363848+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 165.69,
+    "pnl_pct": 0.602,
+    "duracao_min": 87.1,
+    "data_resultado": "2026-07-13T18:01:58.385950+00:00"
   },
   {
     "page_id": "39ca5230-de72-81fa-97eb-cf36e750574e",
