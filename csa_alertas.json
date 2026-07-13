@@ -84335,11 +84335,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.5954,
-    "pnl_pct": 2.233,
-    "duracao_min": 3.7,
-    "data_resultado": "2026-07-13T10:06:41.068517+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.6116,
+    "pnl_pct": 0.903,
+    "duracao_min": 19.2,
+    "data_resultado": "2026-07-13T10:22:13.262383+00:00"
   },
   {
     "page_id": "39ca5230-de72-818a-a265-dce48a11c1e3",
