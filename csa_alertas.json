@@ -68563,7 +68563,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0577475,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.05767,
+    "pnl_pct": 0.191,
+    "duracao_min": 44.3,
+    "data_resultado": "2026-07-13T00:06:48.121845+00:00"
   },
   {
     "page_id": "39ba5230-de72-812a-adde-f7fe067a7ef0",
