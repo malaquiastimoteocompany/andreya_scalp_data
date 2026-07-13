@@ -69313,11 +69313,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0014706,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.001487,
-    "pnl_pct": 0.95,
-    "duracao_min": 2.5,
-    "data_resultado": "2026-07-13T00:07:37.820176+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.001497,
+    "pnl_pct": 1.29,
+    "duracao_min": 4.1,
+    "data_resultado": "2026-07-13T00:09:13.638693+00:00"
   },
   {
     "page_id": "39ca5230-de72-8171-95c9-cef7caa17f18",
