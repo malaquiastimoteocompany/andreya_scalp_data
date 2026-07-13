@@ -83361,11 +83361,11 @@
     "estado_cfi": "E1",
     "zona_sr": 517.66,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 516.03,
-    "pnl_pct": 0.767,
-    "duracao_min": 7.2,
-    "data_resultado": "2026-07-13T09:19:43.787551+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 513.27,
+    "pnl_pct": 1.033,
+    "duracao_min": 90.6,
+    "data_resultado": "2026-07-13T10:43:08.555468+00:00"
   },
   {
     "page_id": "39ca5230-de72-8156-bab8-fbd9b5abc00e",
