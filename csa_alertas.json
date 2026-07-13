@@ -71256,5 +71256,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ca5230-de72-8171-90dd-fa7a138c809a",
+    "token": "THETA",
+    "direccao": "LONG",
+    "preco_alerta": 0.1484,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.002,
+    "tp1": 0.1492,
+    "tp2": 0.1504,
+    "sl": 0.1454,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 7120966.0,
+    "spread_pct": 0.0006736274840012731,
+    "oi_usd": 875514.72,
+    "data_alerta": "2026-07-13T00:40:38.438517+00:00",
+    "rsi_1h": 47.58,
+    "funding_rate": 0.0015,
+    "estado_cfi": "E1",
+    "zona_sr": 0.14766667,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
