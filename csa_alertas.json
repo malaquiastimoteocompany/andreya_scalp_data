@@ -67329,11 +67329,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04801,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04803,
-    "pnl_pct": 0.209,
-    "duracao_min": 111.0,
-    "data_resultado": "2026-07-13T00:03:25.371150+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.04823,
+    "pnl_pct": 0.417,
+    "duracao_min": 118.0,
+    "data_resultado": "2026-07-13T00:10:25.619030+00:00"
   },
   {
     "page_id": "39ba5230-de72-8174-84ee-de80c7460353",
