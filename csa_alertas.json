@@ -97857,11 +97857,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.71e-06,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.6878e-06,
-    "pnl_pct": 0.544,
-    "duracao_min": 38.7,
-    "data_resultado": "2026-07-13T20:48:58.617517+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.6703e-06,
+    "pnl_pct": 0.868,
+    "duracao_min": 89.5,
+    "data_resultado": "2026-07-13T21:39:46.880131+00:00"
   },
   {
     "page_id": "39ca5230-de72-81ef-8531-f133ed41f36e",
