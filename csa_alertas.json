@@ -73579,11 +73579,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.024579,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.024097,
-    "pnl_pct": 1.997,
-    "duracao_min": 18.2,
-    "data_resultado": "2026-07-13T02:01:04.831831+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.023479,
+    "pnl_pct": 3.254,
+    "duracao_min": 89.2,
+    "data_resultado": "2026-07-13T03:12:04.427596+00:00"
   },
   {
     "page_id": "39ca5230-de72-81f5-9957-c89872d66536",
