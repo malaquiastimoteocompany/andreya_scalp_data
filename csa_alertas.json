@@ -71651,11 +71651,11 @@
     "estado_cfi": "E1",
     "zona_sr": 44.1525,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 43.84,
-    "pnl_pct": 0.25,
-    "duracao_min": 77.5,
-    "data_resultado": "2026-07-13T02:00:49.667166+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 44.0,
+    "pnl_pct": 0.068,
+    "duracao_min": 92.5,
+    "data_resultado": "2026-07-13T02:15:48.687040+00:00"
   },
   {
     "page_id": "39ca5230-de72-817b-8500-d41ea8eb6280",
