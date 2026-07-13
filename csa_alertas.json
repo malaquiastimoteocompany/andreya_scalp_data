@@ -93709,11 +93709,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.14294,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.14317,
-    "pnl_pct": 0.505,
-    "duracao_min": 6.6,
-    "data_resultado": "2026-07-13T17:09:23.176353+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.14235,
+    "pnl_pct": 0.218,
+    "duracao_min": 18.0,
+    "data_resultado": "2026-07-13T17:20:47.319120+00:00"
   },
   {
     "page_id": "39ca5230-de72-81e4-86a2-eb5d42e9925b",
