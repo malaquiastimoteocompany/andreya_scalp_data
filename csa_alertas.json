@@ -67583,11 +67583,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.61971429,
     "toques_sr": 7,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.6218,
-    "pnl_pct": 0.161,
-    "duracao_min": 66.7,
-    "data_resultado": "2026-07-12T23:29:38.189345+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.6231,
+    "pnl_pct": 0.266,
+    "duracao_min": 105.9,
+    "data_resultado": "2026-07-13T00:08:50.246139+00:00"
   },
   {
     "page_id": "39ba5230-de72-8167-8ef9-f4cf1c874aba",
