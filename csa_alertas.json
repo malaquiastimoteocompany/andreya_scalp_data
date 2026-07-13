@@ -94619,11 +94619,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.078495,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07866,
-    "pnl_pct": 0.563,
-    "duracao_min": 116.0,
-    "data_resultado": "2026-07-13T19:36:06.474705+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.07856,
+    "pnl_pct": 0.499,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-13T19:40:26.636476+00:00"
   },
   {
     "page_id": "39ca5230-de72-8118-885e-ddf4490376d7",
