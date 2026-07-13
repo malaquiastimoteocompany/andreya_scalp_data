@@ -97019,7 +97019,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.3787,
+    "pnl_pct": -1.329,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-13T21:25:47.968432+00:00"
   },
   {
     "page_id": "39ca5230-de72-815a-ba33-ebd9b4d4756c",
