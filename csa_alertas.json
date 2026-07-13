@@ -90293,11 +90293,11 @@
     "estado_cfi": "E1",
     "zona_sr": 510.585,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 509.36,
-    "pnl_pct": 0.681,
-    "duracao_min": 52.9,
-    "data_resultado": "2026-07-13T15:35:35.459453+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 512.93,
+    "pnl_pct": 0.332,
+    "duracao_min": 81.4,
+    "data_resultado": "2026-07-13T16:04:08.895701+00:00"
   },
   {
     "page_id": "39ca5230-de72-81e1-bcd4-ead7eb9e5b9b",
