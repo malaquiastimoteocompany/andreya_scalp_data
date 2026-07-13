@@ -77123,7 +77123,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.062712,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.06298,
+    "pnl_pct": -0.367,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-13T05:43:40.978195+00:00"
   },
   {
     "page_id": "39ca5230-de72-814f-b217-d8c61054ed66",
