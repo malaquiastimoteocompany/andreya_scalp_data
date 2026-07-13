@@ -80120,5 +80120,31 @@
     "zona_sr": 0.04216,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ca5230-de72-81d1-9f5d-f63c066ab27f",
+    "token": "XEC",
+    "direccao": "SHORT",
+    "preco_alerta": 7.003e-06,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 2.3e-07,
+    "tp1": 6.9109999999999996e-06,
+    "tp2": 6.772999999999999e-06,
+    "sl": 7.348e-06,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 18381744.0,
+    "spread_pct": 0.000714438808316182,
+    "oi_usd": 1786102.3525500002,
+    "data_alerta": "2026-07-13T06:12:46.303822+00:00",
+    "rsi_1h": 93.76,
+    "funding_rate": -2.0,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
