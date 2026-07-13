@@ -82939,11 +82939,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0044745,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004442,
-    "pnl_pct": 0.604,
-    "duracao_min": 35.8,
-    "data_resultado": "2026-07-13T09:18:12.995339+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.004432,
+    "pnl_pct": 0.716,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-13T10:43:01.246268+00:00"
   },
   {
     "page_id": "39ca5230-de72-8115-b347-f4cbed2f2065",
