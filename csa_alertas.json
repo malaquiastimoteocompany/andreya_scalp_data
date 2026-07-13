@@ -89689,7 +89689,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 33.58,
+    "pnl_pct": 0.871,
+    "duracao_min": 8.7,
+    "data_resultado": "2026-07-13T14:33:49.274809+00:00"
   },
   {
     "page_id": "39ca5230-de72-81ca-80fb-feda06f4947c",
