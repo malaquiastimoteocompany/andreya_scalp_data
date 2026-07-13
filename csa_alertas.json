@@ -96599,11 +96599,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0048135,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004723,
-    "pnl_pct": 1.419,
-    "duracao_min": 39.0,
-    "data_resultado": "2026-07-13T19:46:32.719918+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.004742,
+    "pnl_pct": 1.221,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-13T21:07:40.528476+00:00"
   },
   {
     "page_id": "39ca5230-de72-81c2-9727-c8db2421a714",
