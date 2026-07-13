@@ -68963,7 +68963,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01694,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.01694,
+    "pnl_pct": 0.415,
+    "duracao_min": 14.5,
+    "data_resultado": "2026-07-13T00:04:23.771659+00:00"
   },
   {
     "page_id": "39ba5230-de72-81cc-9b2f-e08c0d9d113d",
