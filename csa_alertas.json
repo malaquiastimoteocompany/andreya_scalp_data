@@ -98488,5 +98488,31 @@
     "zona_sr": 0.00354371,
     "toques_sr": 7,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ca5230-de72-8182-8b15-e10c2bd8f282",
+    "token": "TIA",
+    "direccao": "LONG",
+    "preco_alerta": 0.3978,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00686429,
+    "tp1": 0.400545716,
+    "tp2": 0.40466429,
+    "sl": 0.387503565,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 26079525.0,
+    "spread_pct": 0.0002514774299006387,
+    "oi_usd": 3603806.274,
+    "data_alerta": "2026-07-13T20:47:47.874364+00:00",
+    "rsi_1h": 42.84,
+    "funding_rate": -0.0014,
+    "estado_cfi": "E1",
+    "zona_sr": 0.39945,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
