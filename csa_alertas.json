@@ -92463,11 +92463,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.078495,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07893,
-    "pnl_pct": 0.535,
-    "duracao_min": 23.1,
-    "data_resultado": "2026-07-13T16:43:46.361129+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07849,
+    "pnl_pct": 0.255,
+    "duracao_min": 74.4,
+    "data_resultado": "2026-07-13T17:35:04.188839+00:00"
   },
   {
     "page_id": "39ca5230-de72-817f-bed9-c922baea80b3",
