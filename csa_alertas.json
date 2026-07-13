@@ -92311,11 +92311,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.75235,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.757,
-    "pnl_pct": 0.732,
-    "duracao_min": 23.8,
-    "data_resultado": "2026-07-13T16:43:41.600045+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.7502,
+    "pnl_pct": 0.279,
+    "duracao_min": 78.3,
+    "data_resultado": "2026-07-13T17:38:10.490090+00:00"
   },
   {
     "page_id": "39ca5230-de72-81cc-8895-f6ca7bb10e34",
