@@ -76553,7 +76553,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.016775,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.0167,
+    "pnl_pct": -0.06,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-13T05:30:17.069813+00:00"
   },
   {
     "page_id": "39ca5230-de72-817c-bd98-fac432e1821a",
