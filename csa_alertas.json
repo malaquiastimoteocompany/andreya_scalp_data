@@ -98233,11 +98233,11 @@
     "estado_cfi": "E1",
     "zona_sr": 495.98,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 493.2,
-    "pnl_pct": 0.916,
-    "duracao_min": 24.3,
-    "data_resultado": "2026-07-13T20:51:53.311009+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 497.84,
+    "pnl_pct": 0.45,
+    "duracao_min": 65.1,
+    "data_resultado": "2026-07-13T21:32:39.851836+00:00"
   },
   {
     "page_id": "39ca5230-de72-81e3-8e0a-dde9540a2411",
