@@ -89767,11 +89767,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.23315,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2315,
-    "pnl_pct": 0.729,
-    "duracao_min": 9.3,
-    "data_resultado": "2026-07-13T14:29:47.174061+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.2299,
+    "pnl_pct": 1.072,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-13T16:21:32.877023+00:00"
   },
   {
     "page_id": "39ca5230-de72-8151-8c95-f2803345cf92",
