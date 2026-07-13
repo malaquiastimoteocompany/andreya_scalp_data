@@ -70301,7 +70301,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2355,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.2337,
+    "pnl_pct": 0.68,
+    "duracao_min": 23.7,
+    "data_resultado": "2026-07-13T00:39:53.545227+00:00"
   },
   {
     "page_id": "39ca5230-de72-81e4-99ed-ff2cc018a281",
