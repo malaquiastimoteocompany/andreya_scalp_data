@@ -79679,11 +79679,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.10133333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.102,
-    "pnl_pct": 0.592,
-    "duracao_min": 39.6,
-    "data_resultado": "2026-07-13T06:24:26.705219+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1011,
+    "pnl_pct": 0.148,
+    "duracao_min": 70.9,
+    "data_resultado": "2026-07-13T06:55:45.859525+00:00"
   },
   {
     "page_id": "39ca5230-de72-818d-960a-e3d95aa3c17c",
