@@ -97589,7 +97589,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 165.09,
+    "pnl_pct": -0.542,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-13T22:02:31.556470+00:00"
   },
   {
     "page_id": "39ca5230-de72-81f8-8da0-cc6140554c21",
