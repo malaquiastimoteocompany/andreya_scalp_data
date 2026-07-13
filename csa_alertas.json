@@ -81079,7 +81079,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.5415,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 1.554,
+    "pnl_pct": 0.388,
+    "duracao_min": 104.2,
+    "data_resultado": "2026-07-13T08:52:00.822934+00:00"
   },
   {
     "page_id": "39ca5230-de72-81f9-bad2-c381cf3db128",
