@@ -92137,7 +92137,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3118,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "BE Hit",
+    "preco_saida": 0.3113,
+    "pnl_pct": 0.305,
+    "duracao_min": 14.1,
+    "data_resultado": "2026-07-13T16:29:09.002461+00:00"
   },
   {
     "page_id": "39ca5230-de72-8162-abf6-e0c43cee775c",
