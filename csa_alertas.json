@@ -76964,5 +76964,31 @@
     "zona_sr": 0.062712,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ca5230-de72-814f-b217-d8c61054ed66",
+    "token": "REZ",
+    "direccao": "LONG",
+    "preco_alerta": 0.002446,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 3.057e-05,
+    "tp1": 0.002458228,
+    "tp2": 0.00247657,
+    "sl": 0.002400145,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 7071147.0,
+    "spread_pct": 0.00040874718986312397,
+    "oi_usd": 1163269.90905,
+    "data_alerta": "2026-07-13T03:42:50.597949+00:00",
+    "rsi_1h": 20.14,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
