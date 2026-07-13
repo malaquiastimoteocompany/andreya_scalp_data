@@ -78053,11 +78053,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 65.403,
-    "pnl_pct": 0.45,
-    "duracao_min": 5.2,
-    "data_resultado": "2026-07-13T05:07:42.106921+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 65.073,
+    "pnl_pct": 0.197,
+    "duracao_min": 26.4,
+    "data_resultado": "2026-07-13T05:28:55.733568+00:00"
   },
   {
     "page_id": "39ca5230-de72-81e8-87b9-f1e902090651",
