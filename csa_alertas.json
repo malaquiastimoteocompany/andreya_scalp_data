@@ -88269,11 +88269,11 @@
     "estado_cfi": "E1",
     "zona_sr": 205.36,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 205.75,
-    "pnl_pct": 0.395,
-    "duracao_min": 9.6,
-    "data_resultado": "2026-07-13T13:32:09.980040+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 204.88,
+    "pnl_pct": 0.183,
+    "duracao_min": 29.9,
+    "data_resultado": "2026-07-13T13:52:26.776457+00:00"
   },
   {
     "page_id": "39ca5230-de72-8199-8bc1-ed7d6cca8aaf",
