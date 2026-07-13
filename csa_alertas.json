@@ -76861,11 +76861,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.7595,
-    "pnl_pct": 0.45,
-    "duracao_min": 12.0,
-    "data_resultado": "2026-07-13T03:49:26.189238+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.7641,
+    "pnl_pct": 0.754,
+    "duracao_min": 88.4,
+    "data_resultado": "2026-07-13T05:05:54.802822+00:00"
   },
   {
     "page_id": "39ca5230-de72-8168-96e0-cdd05eaa129e",
