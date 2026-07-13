@@ -67763,7 +67763,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 2.234,
+    "pnl_pct": 0.495,
+    "duracao_min": 93.2,
+    "data_resultado": "2026-07-13T00:10:31.889195+00:00"
   },
   {
     "page_id": "39ba5230-de72-8163-a2e3-fa9f173be277",
