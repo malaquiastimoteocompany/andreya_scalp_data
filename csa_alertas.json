@@ -86915,11 +86915,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.6048,
-    "pnl_pct": 3.046,
-    "duracao_min": 41.5,
-    "data_resultado": "2026-07-13T12:46:56.943751+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.594,
+    "pnl_pct": 3.912,
+    "duracao_min": 48.5,
+    "data_resultado": "2026-07-13T12:53:57.708093+00:00"
   },
   {
     "page_id": "39ca5230-de72-8132-9196-c044d52ec865",
