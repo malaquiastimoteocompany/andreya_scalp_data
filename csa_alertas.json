@@ -68625,11 +68625,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1015,
-    "pnl_pct": 1.196,
-    "duracao_min": 46.9,
-    "data_resultado": "2026-07-13T00:11:43.592720+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1016,
+    "pnl_pct": 1.246,
+    "duracao_min": 49.5,
+    "data_resultado": "2026-07-13T00:14:16.018051+00:00"
   },
   {
     "page_id": "39ba5230-de72-81b5-8cc9-ef4a83f8ae54",
