@@ -77051,11 +77051,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 2.188,
-    "pnl_pct": 0.413,
-    "duracao_min": 29.8,
-    "data_resultado": "2026-07-13T04:09:44.419925+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.176,
+    "pnl_pct": 0.138,
+    "duracao_min": 108.7,
+    "data_resultado": "2026-07-13T05:28:42.444049+00:00"
   },
   {
     "page_id": "39ca5230-de72-81d0-977e-e889b7b6f4f8",
