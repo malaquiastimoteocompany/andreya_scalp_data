@@ -78563,11 +78563,11 @@
     "estado_cfi": "E1",
     "zona_sr": 43.65,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 43.78,
-    "pnl_pct": 0.321,
-    "duracao_min": 27.1,
-    "data_resultado": "2026-07-13T05:42:26.131398+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 43.89,
+    "pnl_pct": 0.447,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-13T07:15:19.684660+00:00"
   },
   {
     "page_id": "39ca5230-de72-81e1-ad0c-fe35b665908c",
