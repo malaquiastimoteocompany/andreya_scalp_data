@@ -90279,11 +90279,11 @@
     "estado_cfi": "E1",
     "zona_sr": 208.1725,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 205.94,
-    "pnl_pct": 0.603,
-    "duracao_min": 66.9,
-    "data_resultado": "2026-07-13T15:49:29.788653+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 204.93,
+    "pnl_pct": 0.847,
+    "duracao_min": 95.7,
+    "data_resultado": "2026-07-13T16:18:20.171112+00:00"
   },
   {
     "page_id": "39ca5230-de72-8121-a433-de7589d0fc77",
