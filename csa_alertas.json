@@ -78277,11 +78277,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04763,
-    "pnl_pct": 0.358,
-    "duracao_min": 5.5,
-    "data_resultado": "2026-07-13T05:13:05.286459+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.04744,
+    "pnl_pct": 0.158,
+    "duracao_min": 17.1,
+    "data_resultado": "2026-07-13T05:24:41.012694+00:00"
   },
   {
     "page_id": "39ca5230-de72-815f-aa04-c6c06885e153",
