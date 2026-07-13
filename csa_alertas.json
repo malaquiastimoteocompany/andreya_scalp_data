@@ -72511,11 +72511,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0014975,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001502,
-    "pnl_pct": 0.67,
-    "duracao_min": 111.2,
-    "data_resultado": "2026-07-13T02:56:12.086469+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.001494,
+    "pnl_pct": 0.402,
+    "duracao_min": 121.9,
+    "data_resultado": "2026-07-13T03:06:57.746713+00:00"
   },
   {
     "page_id": "39ca5230-de72-81b2-b462-c9646a89ca7f",
