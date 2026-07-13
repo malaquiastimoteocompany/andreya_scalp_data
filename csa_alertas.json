@@ -85535,11 +85535,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.38855,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.39327,
-    "pnl_pct": 1.62,
-    "duracao_min": 8.0,
-    "data_resultado": "2026-07-13T11:12:55.469739+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.39526,
+    "pnl_pct": 1.877,
+    "duracao_min": 39.6,
+    "data_resultado": "2026-07-13T11:44:36.365090+00:00"
   },
   {
     "page_id": "39ca5230-de72-8191-9a1b-ed1e7f10b99a",
