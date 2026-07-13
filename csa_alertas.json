@@ -76339,11 +76339,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004774,
-    "pnl_pct": 0.315,
-    "duracao_min": 4.5,
-    "data_resultado": "2026-07-13T03:27:07.037321+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.004743,
+    "pnl_pct": -0.011,
+    "duracao_min": 11.7,
+    "data_resultado": "2026-07-13T03:34:15.733610+00:00"
   },
   {
     "page_id": "39ca5230-de72-81d6-b023-ce445fac5974",
