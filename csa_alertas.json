@@ -78233,7 +78233,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 428.12,
+    "pnl_pct": -2.746,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-13T07:05:05.622196+00:00"
   },
   {
     "page_id": "39ca5230-de72-81b9-8dfc-c21a1df710e1",
