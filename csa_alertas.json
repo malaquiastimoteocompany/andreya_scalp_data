@@ -94497,11 +94497,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.537,
-    "pnl_pct": 0.261,
-    "duracao_min": 76.7,
-    "data_resultado": "2026-07-13T18:54:29.070720+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.533,
+    "pnl_pct": 0.13,
+    "duracao_min": 80.7,
+    "data_resultado": "2026-07-13T18:58:29.238398+00:00"
   },
   {
     "page_id": "39ca5230-de72-8110-b3e2-fb11ed634849",
