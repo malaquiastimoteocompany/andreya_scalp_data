@@ -71633,11 +71633,11 @@
     "estado_cfi": "E1",
     "zona_sr": 34.537,
     "toques_sr": 10,
-    "resultado": "TP Tardio",
-    "preco_saida": 34.43,
-    "pnl_pct": 0.491,
-    "duracao_min": 77.5,
-    "data_resultado": "2026-07-13T02:00:46.449940+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 34.63,
+    "pnl_pct": 0.202,
+    "duracao_min": 105.7,
+    "data_resultado": "2026-07-13T02:28:58.261207+00:00"
   },
   {
     "page_id": "39ca5230-de72-817e-9aa8-c0e130693c7b",
