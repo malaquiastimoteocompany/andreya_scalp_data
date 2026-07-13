@@ -76939,7 +76939,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 2.188,
+    "pnl_pct": 0.413,
+    "duracao_min": 29.8,
+    "data_resultado": "2026-07-13T04:09:44.419925+00:00"
   },
   {
     "page_id": "39ca5230-de72-81d0-977e-e889b7b6f4f8",
