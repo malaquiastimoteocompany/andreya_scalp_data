@@ -71133,7 +71133,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 504.39,
+    "pnl_pct": -3.742,
+    "duracao_min": 16.1,
+    "data_resultado": "2026-07-13T00:53:25.979041+00:00"
   },
   {
     "page_id": "39ca5230-de72-8182-ab2a-fe661022ea1b",
