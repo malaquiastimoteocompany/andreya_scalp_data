@@ -87365,11 +87365,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02577,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02553,
-    "pnl_pct": 0.545,
-    "duracao_min": 12.1,
-    "data_resultado": "2026-07-13T12:39:40.612656+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.02536,
+    "pnl_pct": 0.877,
+    "duracao_min": 53.8,
+    "data_resultado": "2026-07-13T13:21:21.203526+00:00"
   },
   {
     "page_id": "39ca5230-de72-81ba-8287-e4e74cdaed11",
