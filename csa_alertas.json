@@ -71673,7 +71673,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01694,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.01695,
+    "pnl_pct": 0.415,
+    "duracao_min": 1.2,
+    "data_resultado": "2026-07-13T00:46:32.953881+00:00"
   },
   {
     "page_id": "39ca5230-de72-8187-8aef-ec2e6060f509",
