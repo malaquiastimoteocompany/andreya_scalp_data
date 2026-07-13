@@ -72117,11 +72117,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00376425,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.003737,
-    "pnl_pct": 0.347,
-    "duracao_min": 12.7,
-    "data_resultado": "2026-07-13T01:05:16.234432+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.003719,
+    "pnl_pct": 0.587,
+    "duracao_min": 42.0,
+    "data_resultado": "2026-07-13T01:34:33.098143+00:00"
   },
   {
     "page_id": "39ca5230-de72-812d-8a2e-db6ae2d6fa2d",
