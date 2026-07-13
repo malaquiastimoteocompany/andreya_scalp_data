@@ -96501,11 +96501,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02893,
-    "pnl_pct": 0.417,
-    "duracao_min": 53.9,
-    "data_resultado": "2026-07-13T19:59:02.265810+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.02879,
+    "pnl_pct": 0.174,
+    "duracao_min": 65.4,
+    "data_resultado": "2026-07-13T20:10:32.105024+00:00"
   },
   {
     "page_id": "39ca5230-de72-8165-96b8-c751b3594b04",
