@@ -83969,11 +83969,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.91825,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.925,
-    "pnl_pct": 0.575,
-    "duracao_min": 48.7,
-    "data_resultado": "2026-07-13T10:38:47.305747+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.912,
+    "pnl_pct": 0.235,
+    "duracao_min": 56.5,
+    "data_resultado": "2026-07-13T10:46:35.999433+00:00"
   },
   {
     "page_id": "39ca5230-de72-8191-aca8-fc6e17d3ce40",
