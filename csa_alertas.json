@@ -91814,5 +91814,31 @@
     "zona_sr": 0.7299,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ca5230-de72-8180-8fbf-ce83219866b6",
+    "token": "EIGEN",
+    "direccao": "SHORT",
+    "preco_alerta": 0.2466,
+    "score": 8,
+    "setup": "B",
+    "prioritario": true,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00460714,
+    "tp1": 0.244757144,
+    "tp2": 0.24199286,
+    "sl": 0.25351071000000003,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 14628561.0,
+    "spread_pct": 0.00040559724193882276,
+    "oi_usd": 3072622.9782000002,
+    "data_alerta": "2026-07-13T16:02:40.989002+00:00",
+    "rsi_1h": 63.67,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.24725,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
