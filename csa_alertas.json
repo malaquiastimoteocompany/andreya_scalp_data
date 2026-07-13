@@ -79673,7 +79673,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02513333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.02514,
+    "pnl_pct": 0.439,
+    "duracao_min": 29.9,
+    "data_resultado": "2026-07-13T06:15:02.761618+00:00"
   },
   {
     "page_id": "39ca5230-de72-81f7-bf68-c783fbba8c7c",
