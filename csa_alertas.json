@@ -69779,7 +69779,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02541833,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.02584,
+    "pnl_pct": -1.333,
+    "duracao_min": 3.9,
+    "data_resultado": "2026-07-13T00:14:45.145296+00:00"
   },
   {
     "page_id": "39ca5230-de72-811a-adf4-c5c667c48ae1",
