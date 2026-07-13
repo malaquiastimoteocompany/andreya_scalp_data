@@ -99267,11 +99267,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04218,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0424,
-    "pnl_pct": 0.45,
-    "duracao_min": 56.9,
-    "data_resultado": "2026-07-13T22:16:59.203527+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04221,
+    "pnl_pct": 0.225,
+    "duracao_min": 100.1,
+    "data_resultado": "2026-07-13T23:00:06.127699+00:00"
   },
   {
     "page_id": "39ca5230-de72-81c0-9a9d-c74add790065",
