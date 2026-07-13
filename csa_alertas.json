@@ -73401,11 +73401,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.54125,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 3.503,
-    "pnl_pct": 0.652,
-    "duracao_min": 16.2,
-    "data_resultado": "2026-07-13T01:56:16.640721+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 3.53,
+    "pnl_pct": 0.269,
+    "duracao_min": 23.9,
+    "data_resultado": "2026-07-13T02:04:03.313947+00:00"
   },
   {
     "page_id": "39ca5230-de72-8165-9aaa-ee3eda683532",
