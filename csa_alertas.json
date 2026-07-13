@@ -73335,11 +73335,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.58466667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 3.57,
-    "pnl_pct": 0.778,
-    "duracao_min": 23.9,
-    "data_resultado": "2026-07-13T01:56:12.100241+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.542,
+    "pnl_pct": 1.167,
+    "duracao_min": 94.8,
+    "data_resultado": "2026-07-13T03:07:07.813845+00:00"
   },
   {
     "page_id": "39ca5230-de72-8122-85a5-cf3bd1b6cf95",
