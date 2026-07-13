@@ -85926,5 +85926,31 @@
     "zona_sr": 0.24725,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ca5230-de72-81ab-82ac-cf2b0f31f2a7",
+    "token": "ETHFI",
+    "direccao": "LONG",
+    "preco_alerta": 0.4104,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00571429,
+    "tp1": 0.412685716,
+    "tp2": 0.41611429,
+    "sl": 0.40182856499999997,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 5576579.0,
+    "spread_pct": 0.00024363503471796564,
+    "oi_usd": 2347208.4498,
+    "data_alerta": "2026-07-13T11:27:40.429717+00:00",
+    "rsi_1h": 41.58,
+    "funding_rate": 0.002,
+    "estado_cfi": "E1",
+    "zona_sr": 0.40983333,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
