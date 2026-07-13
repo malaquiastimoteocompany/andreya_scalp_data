@@ -97229,11 +97229,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0043512,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004321,
-    "pnl_pct": 0.621,
-    "duracao_min": 37.2,
-    "data_resultado": "2026-07-13T20:14:41.434113+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.004293,
+    "pnl_pct": 0.943,
+    "duracao_min": 116.4,
+    "data_resultado": "2026-07-13T21:33:52.568168+00:00"
   },
   {
     "page_id": "39ca5230-de72-8160-9fed-fa13478b4257",
