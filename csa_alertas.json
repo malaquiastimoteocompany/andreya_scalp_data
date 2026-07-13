@@ -86415,11 +86415,11 @@
     "estado_cfi": "E1",
     "zona_sr": 7.9445,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 7.909,
-    "pnl_pct": 0.365,
-    "duracao_min": 43.7,
-    "data_resultado": "2026-07-13T12:31:14.090937+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 7.887,
+    "pnl_pct": 0.504,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-13T13:48:10.933682+00:00"
   },
   {
     "page_id": "39ca5230-de72-8112-ad59-f085c85fe393",
