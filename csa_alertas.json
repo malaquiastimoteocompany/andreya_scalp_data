@@ -90277,7 +90277,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.40891667,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.4073,
+    "pnl_pct": -0.828,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-13T16:40:43.055648+00:00"
   },
   {
     "page_id": "39ca5230-de72-81db-b141-e0c458dacb53",
