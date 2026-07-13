@@ -95949,11 +95949,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0043512,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004322,
-    "pnl_pct": 0.529,
-    "duracao_min": 49.0,
-    "data_resultado": "2026-07-13T19:28:58.203620+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004348,
+    "pnl_pct": 0.23,
+    "duracao_min": 54.6,
+    "data_resultado": "2026-07-13T19:34:38.184375+00:00"
   },
   {
     "page_id": "39ca5230-de72-8185-86e6-f39765f6dbcc",
