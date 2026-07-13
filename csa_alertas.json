@@ -82871,11 +82871,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.40405,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.4061,
-    "pnl_pct": 0.794,
-    "duracao_min": 6.2,
-    "data_resultado": "2026-07-13T08:43:56.711502+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.411,
+    "pnl_pct": 1.402,
+    "duracao_min": 105.8,
+    "data_resultado": "2026-07-13T10:23:28.074499+00:00"
   },
   {
     "page_id": "39ca5230-de72-8190-9cad-d5710c6887dc",
