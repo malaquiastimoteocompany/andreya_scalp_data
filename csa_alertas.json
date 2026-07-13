@@ -91491,11 +91491,11 @@
     "estado_cfi": "E2",
     "zona_sr": 2.8615,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.876,
-    "pnl_pct": 0.454,
-    "duracao_min": 42.1,
-    "data_resultado": "2026-07-13T16:16:57.489918+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.883,
+    "pnl_pct": 0.576,
+    "duracao_min": 94.2,
+    "data_resultado": "2026-07-13T17:09:04.931972+00:00"
   },
   {
     "page_id": "39ca5230-de72-81c1-b9c7-ce850ba087d8",
