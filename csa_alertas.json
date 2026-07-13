@@ -94225,7 +94225,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07071,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.06998,
+    "pnl_pct": -1.06,
+    "duracao_min": 25.5,
+    "data_resultado": "2026-07-13T17:55:41.371927+00:00"
   },
   {
     "page_id": "39ca5230-de72-818b-9f58-eca8709a0176",
