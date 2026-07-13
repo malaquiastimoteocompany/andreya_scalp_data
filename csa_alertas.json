@@ -77723,7 +77723,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01695333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.01701,
+    "pnl_pct": -0.473,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-13T06:28:11.092659+00:00"
   },
   {
     "page_id": "39ca5230-de72-81c3-922a-f7a50609b70c",
