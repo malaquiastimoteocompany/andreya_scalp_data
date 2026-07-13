@@ -84927,11 +84927,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.40891667,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.4146,
-    "pnl_pct": 0.925,
-    "duracao_min": 14.0,
-    "data_resultado": "2026-07-13T10:38:57.217730+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.4106,
+    "pnl_pct": 0.438,
+    "duracao_min": 39.5,
+    "data_resultado": "2026-07-13T11:04:26.408081+00:00"
   },
   {
     "page_id": "39ca5230-de72-81fb-bbb4-c57eace7584b",
