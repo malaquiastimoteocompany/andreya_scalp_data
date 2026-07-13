@@ -93013,11 +93013,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01657,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01662,
-    "pnl_pct": 0.362,
-    "duracao_min": 7.8,
-    "data_resultado": "2026-07-13T16:45:24.782379+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.01655,
+    "pnl_pct": 0.151,
+    "duracao_min": 13.7,
+    "data_resultado": "2026-07-13T16:51:20.990394+00:00"
   },
   {
     "page_id": "39ca5230-de72-818e-9507-e230509f6701",
