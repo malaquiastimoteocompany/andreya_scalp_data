@@ -99509,7 +99509,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.391,
+    "pnl_pct": 0.437,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-13T23:28:21.568192+00:00"
   },
   {
     "page_id": "39ca5230-de72-8136-9c59-c8f0df3b6ca9",
