@@ -71939,7 +71939,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.62550833,
     "toques_sr": 12,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.6219,
+    "pnl_pct": 0.273,
+    "duracao_min": 24.0,
+    "data_resultado": "2026-07-13T01:11:45.067619+00:00"
   },
   {
     "page_id": "39ca5230-de72-8161-9c61-f8f2fe72d3e8",
