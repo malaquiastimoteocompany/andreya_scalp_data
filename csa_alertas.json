@@ -82133,7 +82133,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.09009,
+    "pnl_pct": -0.457,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-13T09:52:37.696146+00:00"
   },
   {
     "page_id": "39ca5230-de72-8171-8010-e6f4c46ca654",
