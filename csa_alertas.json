@@ -77347,11 +77347,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.5982,
-    "pnl_pct": 0.538,
-    "duracao_min": 28.2,
-    "data_resultado": "2026-07-13T04:30:51.612662+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.6016,
+    "pnl_pct": 0.824,
+    "duracao_min": 95.6,
+    "data_resultado": "2026-07-13T05:38:11.400416+00:00"
   },
   {
     "page_id": "39ca5230-de72-8140-8092-cb00414b4121",
