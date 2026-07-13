@@ -82169,7 +82169,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0014975,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.001508,
+    "pnl_pct": 0.802,
+    "duracao_min": 16.0,
+    "data_resultado": "2026-07-13T08:18:31.123390+00:00"
   },
   {
     "page_id": "39ca5230-de72-8161-b437-ea1c3116abbd",
