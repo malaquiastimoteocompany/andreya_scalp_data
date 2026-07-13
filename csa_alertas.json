@@ -77221,11 +77221,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.61742,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.6198,
-    "pnl_pct": 0.21,
-    "duracao_min": 28.9,
-    "data_resultado": "2026-07-13T04:16:42.949665+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.6212,
+    "pnl_pct": 0.323,
+    "duracao_min": 85.1,
+    "data_resultado": "2026-07-13T05:12:54.208067+00:00"
   },
   {
     "page_id": "39ca5230-de72-8179-9166-f8ca7002a8b7",
