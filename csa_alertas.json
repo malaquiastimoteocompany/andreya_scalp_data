@@ -84255,11 +84255,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.7299,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.7304,
-    "pnl_pct": 0.341,
-    "duracao_min": 120.3,
-    "data_resultado": "2026-07-13T11:57:51.987136+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.7306,
+    "pnl_pct": 0.327,
+    "duracao_min": 121.7,
+    "data_resultado": "2026-07-13T11:59:16.143543+00:00"
   },
   {
     "page_id": "39ca5230-de72-816e-a5f0-da7fb4d4a107",
