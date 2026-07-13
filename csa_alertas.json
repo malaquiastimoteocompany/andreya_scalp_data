@@ -79733,7 +79733,11 @@
     "estado_cfi": "E1",
     "zona_sr": 34.19,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 34.12,
+    "pnl_pct": 0.0,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-13T07:43:30.430093+00:00"
   },
   {
     "page_id": "39ca5230-de72-815d-8cd4-e0c97b3de635",
