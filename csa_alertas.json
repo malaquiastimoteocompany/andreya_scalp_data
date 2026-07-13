@@ -68441,11 +68441,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3992,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3998,
-    "pnl_pct": 0.553,
-    "duracao_min": 51.8,
-    "data_resultado": "2026-07-13T00:04:16.320181+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.4058,
+    "pnl_pct": 1.308,
+    "duracao_min": 59.1,
+    "data_resultado": "2026-07-13T00:11:34.424360+00:00"
   },
   {
     "page_id": "39ba5230-de72-8176-81ab-ea8e706db540",
