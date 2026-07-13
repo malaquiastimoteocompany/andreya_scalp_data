@@ -92975,11 +92975,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05984,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0592,
-    "pnl_pct": 0.654,
-    "duracao_min": 47.8,
-    "data_resultado": "2026-07-13T17:20:37.497037+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.05863,
+    "pnl_pct": 1.133,
+    "duracao_min": 85.6,
+    "data_resultado": "2026-07-13T17:58:25.158779+00:00"
   },
   {
     "page_id": "39ca5230-de72-81a1-9824-ff8f5359c55b",
