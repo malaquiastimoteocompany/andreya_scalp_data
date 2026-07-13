@@ -76067,11 +76067,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 206.52,
-    "pnl_pct": 0.423,
-    "duracao_min": 11.8,
-    "data_resultado": "2026-07-13T03:26:54.405980+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 205.05,
+    "pnl_pct": 0.066,
+    "duracao_min": 18.9,
+    "data_resultado": "2026-07-13T03:34:03.757660+00:00"
   },
   {
     "page_id": "39ca5230-de72-8111-b861-ebd883438451",
