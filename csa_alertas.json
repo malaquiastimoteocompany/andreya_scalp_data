@@ -97559,7 +97559,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.63227143,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.6281,
+    "pnl_pct": 0.349,
+    "duracao_min": 3.5,
+    "data_resultado": "2026-07-13T20:06:32.555908+00:00"
   },
   {
     "page_id": "39ca5230-de72-81fd-a822-cec997b77636",
