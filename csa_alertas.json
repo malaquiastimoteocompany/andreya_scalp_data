@@ -71819,11 +71819,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02995333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03015,
-    "pnl_pct": 0.433,
-    "duracao_min": 0.9,
-    "data_resultado": "2026-07-13T00:46:36.501817+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.02999,
+    "pnl_pct": 0.167,
+    "duracao_min": 25.9,
+    "data_resultado": "2026-07-13T01:11:37.198447+00:00"
   },
   {
     "page_id": "39ca5230-de72-8162-838d-ea6f2b8ef17d",
