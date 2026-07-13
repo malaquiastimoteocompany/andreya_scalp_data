@@ -82069,11 +82069,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.91825,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 1.93,
-    "pnl_pct": 0.889,
-    "duracao_min": 18.4,
-    "data_resultado": "2026-07-13T08:08:26.610127+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.913,
+    "pnl_pct": 0.444,
+    "duracao_min": 117.3,
+    "data_resultado": "2026-07-13T09:47:19.192188+00:00"
   },
   {
     "page_id": "39ca5230-de72-8179-9ea6-c85cdcca96b4",
