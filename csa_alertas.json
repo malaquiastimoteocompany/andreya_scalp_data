@@ -82253,7 +82253,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.18491333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.18366,
+    "pnl_pct": -0.228,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-13T09:58:11.254378+00:00"
   },
   {
     "page_id": "39ca5230-de72-8124-9299-f39eaa18954a",
