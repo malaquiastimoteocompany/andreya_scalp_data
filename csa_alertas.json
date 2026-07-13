@@ -72891,11 +72891,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1874425,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.18619,
-    "pnl_pct": 0.47,
-    "duracao_min": 4.6,
-    "data_resultado": "2026-07-13T01:22:18.890922+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.18505,
+    "pnl_pct": 0.775,
+    "duracao_min": 36.7,
+    "data_resultado": "2026-07-13T01:54:24.985785+00:00"
   },
   {
     "page_id": "39ca5230-de72-81c2-98d1-f134e48741a4",
