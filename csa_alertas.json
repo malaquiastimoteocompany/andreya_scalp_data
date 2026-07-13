@@ -68189,11 +68189,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.4152,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 6.408,
-    "pnl_pct": 0.297,
-    "duracao_min": 58.1,
-    "data_resultado": "2026-07-12T23:52:56.317810+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 6.446,
+    "pnl_pct": 0.595,
+    "duracao_min": 71.5,
+    "data_resultado": "2026-07-13T00:06:23.173972+00:00"
   },
   {
     "page_id": "39ba5230-de72-8152-a747-f81166331739",
