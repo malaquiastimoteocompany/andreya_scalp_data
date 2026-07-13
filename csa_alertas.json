@@ -72931,11 +72931,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.016934,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01741,
-    "pnl_pct": 2.472,
-    "duracao_min": 61.5,
-    "data_resultado": "2026-07-13T02:18:57.370348+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.01712,
+    "pnl_pct": 1.619,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-13T03:18:19.752890+00:00"
   },
   {
     "page_id": "39ca5230-de72-8143-83ca-ca5f9ab1f9b7",
