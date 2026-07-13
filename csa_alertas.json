@@ -83165,11 +83165,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07127,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07101,
-    "pnl_pct": 0.616,
-    "duracao_min": 19.7,
-    "data_resultado": "2026-07-13T09:19:38.552793+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07155,
+    "pnl_pct": 0.238,
+    "duracao_min": 76.4,
+    "data_resultado": "2026-07-13T10:16:22.104449+00:00"
   },
   {
     "page_id": "39ca5230-de72-81f1-b29f-f472821a478a",
