@@ -68387,11 +68387,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02535,
-    "pnl_pct": 0.317,
-    "duracao_min": 59.2,
-    "data_resultado": "2026-07-13T00:04:12.870105+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.02545,
+    "pnl_pct": 0.514,
+    "duracao_min": 61.8,
+    "data_resultado": "2026-07-13T00:06:43.800216+00:00"
   },
   {
     "page_id": "39ba5230-de72-81a4-933f-e5c0644badc3",
