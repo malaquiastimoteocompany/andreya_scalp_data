@@ -70213,7 +70213,11 @@
     "estado_cfi": "E1",
     "zona_sr": 34.85666667,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 34.89,
+    "pnl_pct": 0.4,
+    "duracao_min": 17.6,
+    "data_resultado": "2026-07-13T00:33:32.541250+00:00"
   },
   {
     "page_id": "39ca5230-de72-818c-b96d-d76d8ec5054b",
