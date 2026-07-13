@@ -71769,11 +71769,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3992,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.4009,
-    "pnl_pct": 0.577,
-    "duracao_min": 2.6,
-    "data_resultado": "2026-07-13T00:48:10.428934+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.3985,
+    "pnl_pct": 0.276,
+    "duracao_min": 19.6,
+    "data_resultado": "2026-07-13T01:05:10.720255+00:00"
   },
   {
     "page_id": "39ca5230-de72-8183-96f5-e73f58895a4c",
