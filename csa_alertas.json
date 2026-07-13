@@ -93453,7 +93453,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.40891667,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.4009,
+    "pnl_pct": -2.028,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-13T18:43:22.129406+00:00"
   },
   {
     "page_id": "39ca5230-de72-8176-bc44-e832a3114a64",
