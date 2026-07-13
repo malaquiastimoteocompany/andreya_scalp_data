@@ -78685,11 +78685,11 @@
     "estado_cfi": "E1",
     "zona_sr": 7.9445,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 7.91,
-    "pnl_pct": 0.503,
-    "duracao_min": 10.7,
-    "data_resultado": "2026-07-13T05:30:52.860019+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 7.954,
+    "pnl_pct": 0.226,
+    "duracao_min": 18.3,
+    "data_resultado": "2026-07-13T05:38:28.271860+00:00"
   },
   {
     "page_id": "39ca5230-de72-815d-9166-f6fe1a4c8702",
