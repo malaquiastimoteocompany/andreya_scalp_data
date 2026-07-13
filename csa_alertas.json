@@ -92793,7 +92793,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0047905,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.004755,
+    "pnl_pct": 0.627,
+    "duracao_min": 28.5,
+    "data_resultado": "2026-07-13T17:01:00.082073+00:00"
   },
   {
     "page_id": "39ca5230-de72-81fa-a811-d1dd3576d839",
