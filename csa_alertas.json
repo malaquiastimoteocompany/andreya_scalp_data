@@ -84903,11 +84903,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.46985714,
     "toques_sr": 7,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.503,
-    "pnl_pct": 0.545,
-    "duracao_min": 33.5,
-    "data_resultado": "2026-07-13T10:56:15.339611+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.53,
+    "pnl_pct": 0.933,
+    "duracao_min": 58.9,
+    "data_resultado": "2026-07-13T11:21:36.529566+00:00"
   },
   {
     "page_id": "39ca5230-de72-8170-ba94-d69e7b636d07",
