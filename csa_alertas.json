@@ -82959,7 +82959,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.31188,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.3136,
+    "pnl_pct": 0.998,
+    "duracao_min": 87.1,
+    "data_resultado": "2026-07-13T10:12:13.753934+00:00"
   },
   {
     "page_id": "39ca5230-de72-8139-b00c-f36062310588",
