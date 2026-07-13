@@ -87601,11 +87601,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 174.87,
-    "pnl_pct": 1.075,
-    "duracao_min": 11.6,
-    "data_resultado": "2026-07-13T12:51:26.158624+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 171.66,
+    "pnl_pct": 0.147,
+    "duracao_min": 54.9,
+    "data_resultado": "2026-07-13T13:34:48.554025+00:00"
   },
   {
     "page_id": "39ca5230-de72-81ee-8fba-cddebd38432c",
