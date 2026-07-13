@@ -97069,11 +97069,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.5455,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.542,
-    "pnl_pct": 0.26,
-    "duracao_min": 21.2,
-    "data_resultado": "2026-07-13T19:56:19.783444+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.537,
+    "pnl_pct": 0.098,
+    "duracao_min": 42.4,
+    "data_resultado": "2026-07-13T20:17:33.707884+00:00"
   },
   {
     "page_id": "39ca5230-de72-8138-a02b-f7e5afb26b88",
