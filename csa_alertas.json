@@ -79227,11 +79227,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0588525,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.05953,
-    "pnl_pct": 0.933,
-    "duracao_min": 3.0,
-    "data_resultado": "2026-07-13T05:33:35.915474+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.05894,
+    "pnl_pct": 0.432,
+    "duracao_min": 79.9,
+    "data_resultado": "2026-07-13T06:50:28.821406+00:00"
   },
   {
     "page_id": "39ca5230-de72-81a2-964c-c410cef47d3c",
