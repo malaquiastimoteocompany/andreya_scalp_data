@@ -76765,11 +76765,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04217,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04263,
-    "pnl_pct": 0.614,
-    "duracao_min": 34.3,
-    "data_resultado": "2026-07-13T04:09:39.024194+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04236,
+    "pnl_pct": 0.295,
+    "duracao_min": 65.0,
+    "data_resultado": "2026-07-13T04:40:23.449877+00:00"
   },
   {
     "page_id": "39ca5230-de72-81d2-bc89-e60b2fb6d194",
