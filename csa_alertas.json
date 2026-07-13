@@ -93281,11 +93281,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.72284,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.7186,
-    "pnl_pct": 0.567,
-    "duracao_min": 58.7,
-    "data_resultado": "2026-07-13T17:38:38.593043+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.7165,
+    "pnl_pct": 0.713,
+    "duracao_min": 74.3,
+    "data_resultado": "2026-07-13T17:54:13.426827+00:00"
   },
   {
     "page_id": "39ca5230-de72-8199-a0ca-d0b6fcab7b75",
