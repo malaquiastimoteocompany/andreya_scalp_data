@@ -81683,7 +81683,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.016775,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.0168,
+    "pnl_pct": -0.059,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-13T09:35:33.430631+00:00"
   },
   {
     "page_id": "39ca5230-de72-817f-bbcb-d2f681020272",
