@@ -96677,11 +96677,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.209,
-    "pnl_pct": 0.384,
-    "duracao_min": 34.2,
-    "data_resultado": "2026-07-13T19:49:24.682228+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2082,
+    "pnl_pct": 0.192,
+    "duracao_min": 63.7,
+    "data_resultado": "2026-07-13T20:18:53.837854+00:00"
   },
   {
     "page_id": "39ca5230-de72-8109-84b2-df073c6d56c9",
