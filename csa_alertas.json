@@ -97583,7 +97583,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0076465,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.007758,
+    "pnl_pct": 1.412,
+    "duracao_min": 79.0,
+    "data_resultado": "2026-07-13T21:21:28.085703+00:00"
   },
   {
     "page_id": "39ca5230-de72-812b-8f05-ecabb1c8880f",
