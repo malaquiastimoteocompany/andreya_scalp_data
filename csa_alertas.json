@@ -77003,11 +77003,11 @@
     "estado_cfi": "E1",
     "zona_sr": 33.88,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 33.96,
-    "pnl_pct": 0.473,
-    "duracao_min": 2.1,
-    "data_resultado": "2026-07-13T03:40:21.587448+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 34.09,
+    "pnl_pct": 0.666,
+    "duracao_min": 121.4,
+    "data_resultado": "2026-07-13T05:39:38.134558+00:00"
   },
   {
     "page_id": "39ca5230-de72-8126-a9b3-c22856ee057c",
