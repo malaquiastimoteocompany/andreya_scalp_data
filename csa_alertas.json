@@ -100711,11 +100711,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 402.73,
-    "pnl_pct": 1.845,
-    "duracao_min": 34.7,
-    "data_resultado": "2026-07-13T23:04:38.759466+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 411.41,
+    "pnl_pct": 0.787,
+    "duracao_min": 46.5,
+    "data_resultado": "2026-07-13T23:16:31.999084+00:00"
   },
   {
     "page_id": "39ca5230-de72-81ef-9ad6-fbebea9a160d",
