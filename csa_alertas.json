@@ -96433,11 +96433,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1171,
-    "pnl_pct": 0.515,
-    "duracao_min": 81.9,
-    "data_resultado": "2026-07-13T20:24:36.905327+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1162,
+    "pnl_pct": 0.129,
+    "duracao_min": 108.8,
+    "data_resultado": "2026-07-13T20:51:30.944421+00:00"
   },
   {
     "page_id": "39ca5230-de72-81b3-a6a1-f6d9a8e141e9",
