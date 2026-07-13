@@ -81143,11 +81143,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.543,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.552,
-    "pnl_pct": 0.518,
-    "duracao_min": 121.2,
-    "data_resultado": "2026-07-13T09:16:09.406055+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.55,
+    "pnl_pct": 0.453,
+    "duracao_min": 122.8,
+    "data_resultado": "2026-07-13T09:17:46.370058+00:00"
   },
   {
     "page_id": "39ca5230-de72-81bd-adaa-ed98fd3ce8b2",
