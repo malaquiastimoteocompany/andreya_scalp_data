@@ -94693,7 +94693,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0899,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.09077,
+    "pnl_pct": 0.732,
+    "duracao_min": 54.5,
+    "data_resultado": "2026-07-13T18:39:24.599953+00:00"
   },
   {
     "page_id": "39ca5230-de72-8140-b199-d17ba82c56b9",
