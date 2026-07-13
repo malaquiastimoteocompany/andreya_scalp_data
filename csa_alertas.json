@@ -88983,11 +88983,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.85,
-    "pnl_pct": 0.281,
-    "duracao_min": 70.7,
-    "data_resultado": "2026-07-13T15:05:37.614950+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.862,
+    "pnl_pct": 0.493,
+    "duracao_min": 99.0,
+    "data_resultado": "2026-07-13T15:33:57.179020+00:00"
   },
   {
     "page_id": "39ca5230-de72-8105-a4c0-c8ef18739e8e",
