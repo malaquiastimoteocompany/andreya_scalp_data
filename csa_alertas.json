@@ -99123,11 +99123,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.18074,
-    "pnl_pct": 0.467,
-    "duracao_min": 53.2,
-    "data_resultado": "2026-07-13T22:05:53.391978+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.17984,
+    "pnl_pct": 0.217,
+    "duracao_min": 81.3,
+    "data_resultado": "2026-07-13T22:34:00.793469+00:00"
   },
   {
     "page_id": "39ca5230-de72-812e-affe-db8a73b6ab9b",
