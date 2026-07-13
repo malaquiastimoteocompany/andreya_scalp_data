@@ -88485,11 +88485,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 168.75,
-    "pnl_pct": 1.592,
-    "duracao_min": 2.9,
-    "data_resultado": "2026-07-13T13:40:15.182580+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 166.49,
+    "pnl_pct": 2.251,
+    "duracao_min": 8.4,
+    "data_resultado": "2026-07-13T13:45:49.501768+00:00"
   },
   {
     "page_id": "39ca5230-de72-8113-8830-f77441a73e64",
