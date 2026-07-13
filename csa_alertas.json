@@ -82373,7 +82373,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.43,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 3.525,
+    "pnl_pct": -2.98,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-13T10:03:42.943633+00:00"
   },
   {
     "page_id": "39ca5230-de72-81fa-96a6-e63db5c555df",
