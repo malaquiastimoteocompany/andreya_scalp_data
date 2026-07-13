@@ -80163,11 +80163,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.002467,
-    "pnl_pct": 0.571,
-    "duracao_min": 64.3,
-    "data_resultado": "2026-07-13T07:09:32.429858+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.002486,
+    "pnl_pct": 0.958,
+    "duracao_min": 101.2,
+    "data_resultado": "2026-07-13T07:46:24.551363+00:00"
   },
   {
     "page_id": "39ca5230-de72-81f4-8d1c-df5a0000a1d5",
