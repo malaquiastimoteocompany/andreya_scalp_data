@@ -67119,11 +67119,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002545,
-    "pnl_pct": 0.513,
-    "duracao_min": 3.1,
-    "data_resultado": "2026-07-12T22:11:10.867233+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.002557,
+    "pnl_pct": 0.75,
+    "duracao_min": 117.8,
+    "data_resultado": "2026-07-13T00:05:57.277260+00:00"
   },
   {
     "page_id": "39ba5230-de72-8115-8d51-e9e9a06c096c",
