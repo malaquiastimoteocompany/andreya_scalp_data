@@ -86766,5 +86766,31 @@
     "zona_sr": 0.395695,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ca5230-de72-81e8-84be-d0af6e6952a7",
+    "token": "VELVET",
+    "direccao": "SHORT",
+    "preco_alerta": 0.6238,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.02927143,
+    "tp1": 0.612091428,
+    "tp2": 0.59452857,
+    "sl": 0.6677071450000001,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 6218251.0,
+    "spread_pct": 0.0004809619238476424,
+    "oi_usd": 3622299.072,
+    "data_alerta": "2026-07-13T12:05:23.662474+00:00",
+    "rsi_1h": 77.17,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
