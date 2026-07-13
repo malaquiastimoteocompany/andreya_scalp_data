@@ -89799,7 +89799,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.005633,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.005642,
+    "pnl_pct": 0.409,
+    "duracao_min": 12.0,
+    "data_resultado": "2026-07-13T14:39:45.947844+00:00"
   },
   {
     "page_id": "39ca5230-de72-8150-94af-cd4581a0b2f5",
