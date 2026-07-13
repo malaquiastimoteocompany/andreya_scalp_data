@@ -68249,7 +68249,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.002061,
+    "pnl_pct": -1.079,
+    "duracao_min": 69.3,
+    "data_resultado": "2026-07-13T00:06:39.254686+00:00"
   },
   {
     "page_id": "39ba5230-de72-8105-b1fa-cfa2c3cc109b",
