@@ -91221,11 +91221,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.4166,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.4137,
-    "pnl_pct": 0.886,
-    "duracao_min": 13.9,
-    "data_resultado": "2026-07-13T15:38:51.646005+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.4089,
+    "pnl_pct": 1.461,
+    "duracao_min": 35.1,
+    "data_resultado": "2026-07-13T16:00:06.819103+00:00"
   },
   {
     "page_id": "39ca5230-de72-813e-89ac-f8ae8ec410d1",
