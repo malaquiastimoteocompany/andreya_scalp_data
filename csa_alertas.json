@@ -70181,11 +70181,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01383,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01385,
-    "pnl_pct": 0.581,
-    "duracao_min": 48.0,
-    "data_resultado": "2026-07-13T01:03:34.235019+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01375,
+    "pnl_pct": 0.218,
+    "duracao_min": 55.1,
+    "data_resultado": "2026-07-13T01:10:38.607342+00:00"
   },
   {
     "page_id": "39ca5230-de72-8124-abad-d64b9e61df2c",
