@@ -73129,11 +73129,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.068,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 3.058,
-    "pnl_pct": 0.617,
-    "duracao_min": 21.2,
-    "data_resultado": "2026-07-13T01:49:02.141627+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.084,
+    "pnl_pct": 0.195,
+    "duracao_min": 36.1,
+    "data_resultado": "2026-07-13T02:03:57.174332+00:00"
   },
   {
     "page_id": "39ca5230-de72-8177-a16a-e9489da66a9e",
