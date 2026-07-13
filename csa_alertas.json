@@ -75161,11 +75161,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.05905,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.138,
-    "pnl_pct": 6.925,
-    "duracao_min": 53.5,
-    "data_resultado": "2026-07-13T03:35:52.591943+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.0555,
+    "pnl_pct": 3.049,
+    "duracao_min": 105.2,
+    "data_resultado": "2026-07-13T04:27:36.377525+00:00"
   },
   {
     "page_id": "39ca5230-de72-81fd-834e-e587b2433c76",
