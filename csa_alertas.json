@@ -83233,7 +83233,11 @@
     "estado_cfi": "E1",
     "zona_sr": 517.66,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 516.03,
+    "pnl_pct": 0.767,
+    "duracao_min": 7.2,
+    "data_resultado": "2026-07-13T09:19:43.787551+00:00"
   },
   {
     "page_id": "39ca5230-de72-8156-bab8-fbd9b5abc00e",
