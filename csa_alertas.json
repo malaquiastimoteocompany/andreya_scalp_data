@@ -78139,11 +78139,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02513333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02532,
-    "pnl_pct": 0.397,
-    "duracao_min": 17.6,
-    "data_resultado": "2026-07-13T05:20:34.145731+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.02522,
+    "pnl_pct": 0.198,
+    "duracao_min": 21.6,
+    "data_resultado": "2026-07-13T05:24:35.860645+00:00"
   },
   {
     "page_id": "39ca5230-de72-81c2-b56b-c2692c0c322f",
