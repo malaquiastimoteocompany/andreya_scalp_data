@@ -82621,11 +82621,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002039,
-    "pnl_pct": 0.443,
-    "duracao_min": 28.8,
-    "data_resultado": "2026-07-13T08:53:40.998739+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.00203,
+    "pnl_pct": 0.222,
+    "duracao_min": 51.7,
+    "data_resultado": "2026-07-13T09:16:33.647312+00:00"
   },
   {
     "page_id": "39ca5230-de72-8102-a120-e317ffd3536b",
