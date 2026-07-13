@@ -71065,11 +71065,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.6202,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 2.6566,
-    "pnl_pct": 0.892,
-    "duracao_min": 29.0,
-    "data_resultado": "2026-07-13T00:59:16.999891+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.6274,
+    "pnl_pct": 0.338,
+    "duracao_min": 48.9,
+    "data_resultado": "2026-07-13T01:19:12.399994+00:00"
   },
   {
     "page_id": "39ca5230-de72-8127-b799-c544c3c39f2b",
