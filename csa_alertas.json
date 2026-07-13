@@ -92469,7 +92469,11 @@
     "estado_cfi": "E1",
     "zona_sr": 204.445,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 202.0,
+    "pnl_pct": -1.396,
+    "duracao_min": 89.5,
+    "data_resultado": "2026-07-13T17:50:01.054033+00:00"
   },
   {
     "page_id": "39ca5230-de72-81c6-95b4-dd546c099dda",
