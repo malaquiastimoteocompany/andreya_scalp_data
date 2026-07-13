@@ -74191,11 +74191,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1848125,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.18289,
-    "pnl_pct": 0.555,
-    "duracao_min": 64.8,
-    "data_resultado": "2026-07-13T03:07:38.796673+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1818,
+    "pnl_pct": 0.851,
+    "duracao_min": 92.9,
+    "data_resultado": "2026-07-13T03:35:43.242329+00:00"
   },
   {
     "page_id": "39ca5230-de72-8122-8796-f9ee64e33bac",
