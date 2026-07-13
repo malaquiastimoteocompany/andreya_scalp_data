@@ -94663,7 +94663,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.68e-06,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 2.665e-06,
+    "pnl_pct": 0.593,
+    "duracao_min": 13.1,
+    "data_resultado": "2026-07-13T18:00:50.697293+00:00"
   },
   {
     "page_id": "39ca5230-de72-813d-b53e-c3b45efe9b70",
