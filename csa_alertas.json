@@ -70803,7 +70803,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00376425,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.003761,
+    "pnl_pct": 0.371,
+    "duracao_min": 10.3,
+    "data_resultado": "2026-07-13T00:38:02.707624+00:00"
   },
   {
     "page_id": "39ca5230-de72-818a-97a5-f73482dab1f0",
