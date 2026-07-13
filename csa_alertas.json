@@ -97547,11 +97547,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2175,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.215,
-    "pnl_pct": 0.967,
-    "duracao_min": 84.9,
-    "data_resultado": "2026-07-13T21:19:54.665385+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2129,
+    "pnl_pct": 1.451,
+    "duracao_min": 99.0,
+    "data_resultado": "2026-07-13T21:33:57.651157+00:00"
   },
   {
     "page_id": "39ca5230-de72-81ab-be43-c97db7526175",
