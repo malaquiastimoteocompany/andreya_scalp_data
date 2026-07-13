@@ -69009,11 +69009,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0078155,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.007751,
-    "pnl_pct": 1.261,
-    "duracao_min": 61.7,
-    "data_resultado": "2026-07-13T00:41:47.087574+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.007776,
+    "pnl_pct": 1.102,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-13T01:40:09.073533+00:00"
   },
   {
     "page_id": "39ba5230-de72-8153-acc6-ec6ddc940668",
