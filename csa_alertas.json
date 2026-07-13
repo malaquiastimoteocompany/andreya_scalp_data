@@ -70143,11 +70143,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00439517,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004387,
-    "pnl_pct": 0.431,
-    "duracao_min": 18.0,
-    "data_resultado": "2026-07-13T00:33:28.335400+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.004365,
+    "pnl_pct": 0.681,
+    "duracao_min": 27.3,
+    "data_resultado": "2026-07-13T00:42:45.181282+00:00"
   },
   {
     "page_id": "39ca5230-de72-81ab-b727-d184869864f6",
