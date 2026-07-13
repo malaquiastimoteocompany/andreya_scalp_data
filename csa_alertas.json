@@ -98293,11 +98293,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06765,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06821,
-    "pnl_pct": 0.932,
-    "duracao_min": 40.6,
-    "data_resultado": "2026-07-13T21:13:08.697871+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06744,
+    "pnl_pct": 0.363,
+    "duracao_min": 62.9,
+    "data_resultado": "2026-07-13T21:35:30.641363+00:00"
   },
   {
     "page_id": "39ca5230-de72-8155-8e8c-e49f91e6ded9",
