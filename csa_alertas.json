@@ -91803,7 +91803,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.2232,
+    "pnl_pct": 0.36,
+    "duracao_min": 43.2,
+    "data_resultado": "2026-07-13T16:40:53.863922+00:00"
   },
   {
     "page_id": "39ca5230-de72-81fe-ab9e-f055e8a943cb",
