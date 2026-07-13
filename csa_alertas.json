@@ -96147,11 +96147,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.007405,
-    "pnl_pct": 1.037,
-    "duracao_min": 81.1,
-    "data_resultado": "2026-07-13T20:06:16.884431+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.007328,
+    "pnl_pct": 0.512,
+    "duracao_min": 96.5,
+    "data_resultado": "2026-07-13T20:21:44.646289+00:00"
   },
   {
     "page_id": "39ca5230-de72-81d2-b06a-ea1cdc3514f3",
