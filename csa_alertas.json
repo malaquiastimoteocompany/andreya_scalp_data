@@ -71433,7 +71433,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.14766667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.1453,
+    "pnl_pct": -2.089,
+    "duracao_min": 78.7,
+    "data_resultado": "2026-07-13T01:59:21.804602+00:00"
   },
   {
     "page_id": "39ca5230-de72-81ec-b67d-d8db1eb43269",
