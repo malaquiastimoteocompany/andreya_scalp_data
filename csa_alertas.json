@@ -95457,7 +95457,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.064,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 3.061,
+    "pnl_pct": 0.52,
+    "duracao_min": 4.7,
+    "data_resultado": "2026-07-13T18:20:04.943876+00:00"
   },
   {
     "page_id": "39ca5230-de72-811d-bc9a-fce0161d67f5",
