@@ -68043,11 +68043,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004848,
-    "pnl_pct": 0.207,
-    "duracao_min": 2.8,
-    "data_resultado": "2026-07-12T22:55:12.806528+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004837,
+    "pnl_pct": 0.093,
+    "duracao_min": 68.7,
+    "data_resultado": "2026-07-13T00:01:05.356815+00:00"
   },
   {
     "page_id": "39ba5230-de72-81c9-b8ad-fd3daa59b382",
