@@ -97979,11 +97979,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.001993,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.00201,
-    "pnl_pct": 0.4,
-    "duracao_min": 118.9,
-    "data_resultado": "2026-07-13T22:13:55.531914+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.002011,
+    "pnl_pct": 0.425,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-13T22:15:19.633593+00:00"
   },
   {
     "page_id": "39ca5230-de72-81aa-9529-f141af11350d",
