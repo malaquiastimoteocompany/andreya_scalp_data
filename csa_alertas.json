@@ -93213,11 +93213,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0043875,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004355,
-    "pnl_pct": 0.593,
-    "duracao_min": 60.8,
-    "data_resultado": "2026-07-13T17:38:34.448237+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.004344,
+    "pnl_pct": 0.719,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-13T18:37:49.027894+00:00"
   },
   {
     "page_id": "39ca5230-de72-815d-93ad-cb7d3b9704ac",
