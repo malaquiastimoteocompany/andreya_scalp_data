@@ -97827,11 +97827,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.477,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 6.435,
-    "pnl_pct": 0.556,
-    "duracao_min": 39.0,
-    "data_resultado": "2026-07-13T20:48:54.875424+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 6.373,
+    "pnl_pct": 1.035,
+    "duracao_min": 89.8,
+    "data_resultado": "2026-07-13T21:39:43.625585+00:00"
   },
   {
     "page_id": "39ca5230-de72-8159-99db-daa0b0313547",
