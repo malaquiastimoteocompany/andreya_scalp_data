@@ -74067,11 +74067,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004828,
-    "pnl_pct": 0.27,
-    "duracao_min": 33.4,
-    "data_resultado": "2026-07-13T02:35:59.898099+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004813,
+    "pnl_pct": 0.114,
+    "duracao_min": 60.9,
+    "data_resultado": "2026-07-13T03:03:27.380739+00:00"
   },
   {
     "page_id": "39ca5230-de72-819b-9c2c-d1fc08d5b089",
