@@ -68907,11 +68907,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07175667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07125,
-    "pnl_pct": 0.835,
-    "duracao_min": 58.6,
-    "data_resultado": "2026-07-13T00:36:13.698045+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07194,
+    "pnl_pct": 0.355,
+    "duracao_min": 103.0,
+    "data_resultado": "2026-07-13T01:20:32.740826+00:00"
   },
   {
     "page_id": "39ba5230-de72-81bf-8df3-cef7e170e36b",
