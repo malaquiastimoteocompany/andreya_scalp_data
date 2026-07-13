@@ -88057,11 +88057,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0029605,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002973,
-    "pnl_pct": 0.78,
-    "duracao_min": 3.3,
-    "data_resultado": "2026-07-13T13:18:24.433441+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.00295,
+    "pnl_pct": 0.39,
+    "duracao_min": 4.7,
+    "data_resultado": "2026-07-13T13:19:47.180761+00:00"
   },
   {
     "page_id": "39ca5230-de72-811a-a2c1-d26b4d4dea07",
