@@ -99409,11 +99409,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.081645,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08163,
-    "pnl_pct": 0.488,
-    "duracao_min": 10.5,
-    "data_resultado": "2026-07-13T21:38:28.434072+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.08204,
+    "pnl_pct": 0.238,
+    "duracao_min": 22.7,
+    "data_resultado": "2026-07-13T21:50:37.080106+00:00"
   },
   {
     "page_id": "39ca5230-de72-8133-a12d-d820d1093ab1",
