@@ -69145,11 +69145,11 @@
     "estado_cfi": "E1",
     "zona_sr": 4.21e-06,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 4.255e-06,
-    "pnl_pct": 0.615,
-    "duracao_min": 4.8,
-    "data_resultado": "2026-07-13T00:07:20.221074+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 4.249e-06,
+    "pnl_pct": 0.544,
+    "duracao_min": 6.6,
+    "data_resultado": "2026-07-13T00:09:04.749926+00:00"
   },
   {
     "page_id": "39ca5230-de72-81b6-9295-db6747791766",
