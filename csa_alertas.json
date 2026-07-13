@@ -90097,11 +90097,11 @@
     "estado_cfi": "E1",
     "zona_sr": 7.9445,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 7.908,
-    "pnl_pct": 0.378,
-    "duracao_min": 104.9,
-    "data_resultado": "2026-07-13T16:19:54.970961+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 7.884,
+    "pnl_pct": 0.529,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-13T16:36:03.179149+00:00"
   },
   {
     "page_id": "39ca5230-de72-8104-b136-e91808f0c673",
