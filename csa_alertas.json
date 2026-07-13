@@ -99609,7 +99609,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.01704,
+    "pnl_pct": 0.294,
+    "duracao_min": 30.9,
+    "data_resultado": "2026-07-13T22:06:01.379441+00:00"
   },
   {
     "page_id": "39ca5230-de72-81c6-adaa-f232f1656896",
