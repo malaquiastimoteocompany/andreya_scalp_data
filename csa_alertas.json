@@ -78053,7 +78053,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.4545,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 2.4065,
+    "pnl_pct": -2.222,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-13T07:00:54.228776+00:00"
   },
   {
     "page_id": "39ca5230-de72-819c-a569-dca6ec28060a",
