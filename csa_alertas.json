@@ -75719,11 +75719,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 1.0699,
-    "pnl_pct": 0.298,
-    "duracao_min": 3.1,
-    "data_resultado": "2026-07-13T03:13:05.751202+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 1.074,
+    "pnl_pct": 0.107,
+    "duracao_min": 16.7,
+    "data_resultado": "2026-07-13T03:26:42.747132+00:00"
   },
   {
     "page_id": "39ca5230-de72-8100-9e30-d7316e48f0df",
