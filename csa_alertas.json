@@ -95789,11 +95789,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00354371,
     "toques_sr": 7,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.003553,
-    "pnl_pct": 0.396,
-    "duracao_min": 84.7,
-    "data_resultado": "2026-07-13T19:44:52.452471+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.003544,
+    "pnl_pct": 0.268,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-13T20:20:21.022429+00:00"
   },
   {
     "page_id": "39ca5230-de72-8178-8dc9-e95b75d9313d",
