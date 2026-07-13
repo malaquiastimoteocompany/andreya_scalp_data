@@ -82283,11 +82283,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08095,
     "toques_sr": 9,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08134,
-    "pnl_pct": 0.383,
-    "duracao_min": 49.5,
-    "data_resultado": "2026-07-13T08:49:29.491051+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.0812,
+    "pnl_pct": 0.296,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-13T10:00:58.841021+00:00"
   },
   {
     "page_id": "39ca5230-de72-81f6-957a-d93078cf793e",
