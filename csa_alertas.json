@@ -88153,11 +88153,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06658,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06707,
-    "pnl_pct": 0.329,
-    "duracao_min": 15.1,
-    "data_resultado": "2026-07-13T13:34:57.433065+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.06685,
+    "pnl_pct": 0.165,
+    "duracao_min": 21.7,
+    "data_resultado": "2026-07-13T13:41:35.560301+00:00"
   },
   {
     "page_id": "39ca5230-de72-81bd-a15e-fc99c0920ddd",
