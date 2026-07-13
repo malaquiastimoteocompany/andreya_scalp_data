@@ -98605,11 +98605,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.39945,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.4009,
-    "pnl_pct": 0.779,
-    "duracao_min": 14.8,
-    "data_resultado": "2026-07-13T21:02:39.262139+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3971,
+    "pnl_pct": 0.302,
+    "duracao_min": 35.5,
+    "data_resultado": "2026-07-13T21:23:19.348975+00:00"
   },
   {
     "page_id": "39ca5230-de72-8137-bad1-de0a074535a8",
