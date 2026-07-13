@@ -91073,7 +91073,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1264,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.1277,
+    "pnl_pct": 0.551,
+    "duracao_min": 9.6,
+    "data_resultado": "2026-07-13T15:25:08.729978+00:00"
   },
   {
     "page_id": "39ca5230-de72-81f7-9ae4-c934c94f40ec",
