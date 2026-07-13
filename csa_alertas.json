@@ -67381,11 +67381,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.835e-05,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.844e-05,
-    "pnl_pct": 0.418,
-    "duracao_min": 101.1,
-    "data_resultado": "2026-07-13T00:03:29.655822+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.858e-05,
+    "pnl_pct": 0.601,
+    "duracao_min": 103.7,
+    "data_resultado": "2026-07-13T00:06:05.454551+00:00"
   },
   {
     "page_id": "39ba5230-de72-8144-9694-cb341d72a18f",
