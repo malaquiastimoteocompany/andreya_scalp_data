@@ -84207,11 +84207,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2257,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2275,
-    "pnl_pct": 0.708,
-    "duracao_min": 10.3,
-    "data_resultado": "2026-07-13T10:08:16.091831+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2259,
+    "pnl_pct": 0.354,
+    "duracao_min": 45.5,
+    "data_resultado": "2026-07-13T10:43:23.011531+00:00"
   },
   {
     "page_id": "39ca5230-de72-81fe-83c4-c0f15325d949",
