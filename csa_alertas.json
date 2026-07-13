@@ -70283,7 +70283,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.74465,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.742,
+    "pnl_pct": 0.322,
+    "duracao_min": 12.0,
+    "data_resultado": "2026-07-13T00:29:24.112949+00:00"
   },
   {
     "page_id": "39ca5230-de72-812b-ba23-f71007a5b3a3",
