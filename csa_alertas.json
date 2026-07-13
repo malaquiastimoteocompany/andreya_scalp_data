@@ -82255,7 +82255,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02641,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.02647,
+    "pnl_pct": 0.379,
+    "duracao_min": 48.3,
+    "data_resultado": "2026-07-13T08:50:50.667017+00:00"
   },
   {
     "page_id": "39ca5230-de72-8133-a7ae-f89b82ac95bf",
