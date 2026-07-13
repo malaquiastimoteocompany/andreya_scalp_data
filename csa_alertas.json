@@ -98813,7 +98813,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.1182,
+    "pnl_pct": 0.853,
+    "duracao_min": 16.6,
+    "data_resultado": "2026-07-13T21:21:42.282788+00:00"
   },
   {
     "page_id": "39ca5230-de72-81c7-be01-ec0eb36880de",
