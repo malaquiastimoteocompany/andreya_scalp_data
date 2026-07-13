@@ -88033,11 +88033,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.4755,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.486,
-    "pnl_pct": 0.606,
-    "duracao_min": 54.6,
-    "data_resultado": "2026-07-13T14:02:00.504816+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.515,
+    "pnl_pct": 1.025,
+    "duracao_min": 86.1,
+    "data_resultado": "2026-07-13T14:33:31.590435+00:00"
   },
   {
     "page_id": "39ca5230-de72-81fe-b3f0-c0223cd6f681",
