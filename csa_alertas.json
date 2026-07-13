@@ -93439,11 +93439,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.078345,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07879,
-    "pnl_pct": 0.78,
-    "duracao_min": 25.1,
-    "data_resultado": "2026-07-13T17:07:55.456627+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07779,
+    "pnl_pct": 0.141,
+    "duracao_min": 75.7,
+    "data_resultado": "2026-07-13T17:58:30.559942+00:00"
   },
   {
     "page_id": "39ca5230-de72-8167-8d26-cb53caa0310a",
