@@ -77569,11 +77569,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 5.816e-06,
-    "pnl_pct": 1.223,
-    "duracao_min": 18.9,
-    "data_resultado": "2026-07-13T04:39:05.882720+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 5.89e-06,
+    "pnl_pct": 0.594,
+    "duracao_min": 33.9,
+    "data_resultado": "2026-07-13T04:54:03.902296+00:00"
   },
   {
     "page_id": "39ca5230-de72-81b6-a5fc-d9bed8ea2aa0",
