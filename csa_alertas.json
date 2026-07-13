@@ -92168,5 +92168,31 @@
     "zona_sr": 0.75235,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ca5230-de72-81cc-8895-f6ca7bb10e34",
+    "token": "EVAA",
+    "direccao": "SHORT",
+    "preco_alerta": 0.684,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.11097143,
+    "tp1": 0.639611428,
+    "tp2": 0.5730285700000001,
+    "sl": 0.850457145,
+    "componentes": "sr_zone=0/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 215067585.0,
+    "spread_pct": 0.000438372177979056,
+    "oi_usd": 844466.2746299999,
+    "data_alerta": "2026-07-13T16:20:01.607898+00:00",
+    "rsi_1h": 29.93,
+    "funding_rate": -0.0034,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
