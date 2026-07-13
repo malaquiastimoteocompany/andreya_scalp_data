@@ -91933,11 +91933,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.7299,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.7238,
-    "pnl_pct": 0.481,
-    "duracao_min": 17.6,
-    "data_resultado": "2026-07-13T16:20:12.084425+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.7218,
+    "pnl_pct": 0.619,
+    "duracao_min": 35.6,
+    "data_resultado": "2026-07-13T16:38:11.422501+00:00"
   },
   {
     "page_id": "39ca5230-de72-8180-8fbf-ce83219866b6",
