@@ -74149,11 +74149,11 @@
     "estado_cfi": "E1",
     "zona_sr": 4.21e-06,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 4.22e-06,
-    "pnl_pct": 0.285,
-    "duracao_min": 15.8,
-    "data_resultado": "2026-07-13T02:20:41.847503+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 4.206e-06,
+    "pnl_pct": 0.119,
+    "duracao_min": 58.6,
+    "data_resultado": "2026-07-13T03:03:31.908324+00:00"
   },
   {
     "page_id": "39ca5230-de72-8119-a911-eff03fe2ab58",
