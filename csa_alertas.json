@@ -84195,7 +84195,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 57.62,
+    "pnl_pct": 0.035,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-13T11:56:14.218736+00:00"
   },
   {
     "page_id": "39ca5230-de72-811c-85b3-cec9676315f6",
