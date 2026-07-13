@@ -74479,11 +74479,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.30358,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3028,
-    "pnl_pct": 0.721,
-    "duracao_min": 55.7,
-    "data_resultado": "2026-07-13T03:03:40.373527+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2976,
+    "pnl_pct": 1.574,
+    "duracao_min": 57.6,
+    "data_resultado": "2026-07-13T03:05:33.467872+00:00"
   },
   {
     "page_id": "39ca5230-de72-8168-814f-fa7f7980ce2c",
