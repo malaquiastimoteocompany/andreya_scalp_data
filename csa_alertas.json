@@ -86475,11 +86475,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.65435,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.6475,
-    "pnl_pct": 1.281,
-    "duracao_min": 37.1,
-    "data_resultado": "2026-07-13T12:29:55.594049+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.646,
+    "pnl_pct": 1.395,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-13T13:53:41.153706+00:00"
   },
   {
     "page_id": "39ca5230-de72-8175-9b02-c1430259b559",
