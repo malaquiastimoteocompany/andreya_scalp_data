@@ -81049,11 +81049,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 423.61,
-    "pnl_pct": 1.705,
-    "duracao_min": 34.7,
-    "data_resultado": "2026-07-13T07:42:13.493301+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 431.3,
+    "pnl_pct": 0.813,
+    "duracao_min": 96.1,
+    "data_resultado": "2026-07-13T08:43:35.677113+00:00"
   },
   {
     "page_id": "39ca5230-de72-81e6-bf1c-d86f44cc206e",
