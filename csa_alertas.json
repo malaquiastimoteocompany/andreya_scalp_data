@@ -66669,11 +66669,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.89766667,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.886,
-    "pnl_pct": 0.475,
-    "duracao_min": 91.7,
-    "data_resultado": "2026-07-12T23:34:58.250103+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.895,
+    "pnl_pct": 0.237,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-13T00:03:15.074418+00:00"
   },
   {
     "page_id": "39ba5230-de72-8139-a1ac-c0a870f8ab52",
