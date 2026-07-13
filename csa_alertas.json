@@ -90817,11 +90817,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 6.39e-06,
-    "pnl_pct": 2.784,
-    "duracao_min": 59.0,
-    "data_resultado": "2026-07-13T16:01:24.602502+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 6.404e-06,
+    "pnl_pct": 2.678,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-13T17:03:31.640712+00:00"
   },
   {
     "page_id": "39ca5230-de72-812b-91d8-ea49b7d5ac2b",
