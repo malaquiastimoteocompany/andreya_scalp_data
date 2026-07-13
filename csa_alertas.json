@@ -93597,11 +93597,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.93766667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 1.933,
-    "pnl_pct": 0.719,
-    "duracao_min": 25.2,
-    "data_resultado": "2026-07-13T17:17:46.178488+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.916,
+    "pnl_pct": 1.156,
+    "duracao_min": 79.2,
+    "data_resultado": "2026-07-13T18:11:46.742555+00:00"
   },
   {
     "page_id": "39ca5230-de72-819e-b5f4-fdf049a3fb9d",
