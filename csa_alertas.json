@@ -71148,5 +71148,31 @@
     "zona_sr": 0.04387,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ca5230-de72-8101-9a5b-c1776be2d2f6",
+    "token": "SUI",
+    "direccao": "LONG",
+    "preco_alerta": 0.7362,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00532143,
+    "tp1": 0.738328572,
+    "tp2": 0.7415214299999999,
+    "sl": 0.7282178549999999,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 69907822.0,
+    "spread_pct": 0.00013584188005160496,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-13T00:39:55.011459+00:00",
+    "rsi_1h": 45.55,
+    "funding_rate": 0.0042,
+    "estado_cfi": "E1",
+    "zona_sr": 0.73703333,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
