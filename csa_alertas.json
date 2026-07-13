@@ -96059,7 +96059,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.50291,
+    "pnl_pct": 1.458,
+    "duracao_min": 6.4,
+    "data_resultado": "2026-07-13T18:58:46.785677+00:00"
   },
   {
     "page_id": "39ca5230-de72-8191-aa65-e239d82e3b22",
