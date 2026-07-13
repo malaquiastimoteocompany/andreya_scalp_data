@@ -76283,11 +76283,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1432,
-    "pnl_pct": 0.703,
-    "duracao_min": 45.6,
-    "data_resultado": "2026-07-13T04:01:25.611603+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.1438,
+    "pnl_pct": 0.914,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-13T05:15:53.057095+00:00"
   },
   {
     "page_id": "39ca5230-de72-8198-9857-c952e7438c80",
