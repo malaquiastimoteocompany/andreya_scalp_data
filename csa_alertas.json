@@ -96231,11 +96231,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.6205,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.6249,
-    "pnl_pct": 0.337,
-    "duracao_min": 39.5,
-    "data_resultado": "2026-07-13T19:34:47.767308+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.6303,
+    "pnl_pct": 0.771,
+    "duracao_min": 66.8,
+    "data_resultado": "2026-07-13T20:02:01.577340+00:00"
   },
   {
     "page_id": "39ca5230-de72-81a8-ae44-e207924a1b39",
