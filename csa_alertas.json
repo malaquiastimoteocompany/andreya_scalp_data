@@ -97799,11 +97799,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 56.89,
-    "pnl_pct": 0.577,
-    "duracao_min": 12.5,
-    "data_resultado": "2026-07-13T20:17:41.187405+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 57.07,
+    "pnl_pct": 0.419,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-13T22:05:30.747272+00:00"
   },
   {
     "page_id": "39ca5230-de72-8114-8b39-c068da2c5585",
