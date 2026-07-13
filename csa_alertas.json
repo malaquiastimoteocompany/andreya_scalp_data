@@ -94133,7 +94133,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.04733,
+    "pnl_pct": 0.588,
+    "duracao_min": 11.2,
+    "data_resultado": "2026-07-13T17:38:56.797719+00:00"
   },
   {
     "page_id": "39ca5230-de72-815f-a1ec-e61f2071190f",
