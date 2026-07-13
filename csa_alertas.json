@@ -92703,11 +92703,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06650333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06674,
-    "pnl_pct": 0.285,
-    "duracao_min": 13.9,
-    "data_resultado": "2026-07-13T16:43:52.424302+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06655,
+    "pnl_pct": 0.143,
+    "duracao_min": 31.0,
+    "data_resultado": "2026-07-13T17:00:56.446916+00:00"
   },
   {
     "page_id": "39ca5230-de72-81dd-adf6-e50d0b2ec005",
