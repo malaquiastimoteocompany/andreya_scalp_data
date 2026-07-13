@@ -90699,7 +90699,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.2135,
+    "pnl_pct": 0.605,
+    "duracao_min": 1.9,
+    "data_resultado": "2026-07-13T15:04:26.764161+00:00"
   },
   {
     "page_id": "39ca5230-de72-8187-92ee-f7c284a40fa8",
