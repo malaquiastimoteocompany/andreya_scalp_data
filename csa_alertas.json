@@ -73453,11 +73453,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.09321,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.09289,
-    "pnl_pct": 0.589,
-    "duracao_min": 5.2,
-    "data_resultado": "2026-07-13T01:47:36.850727+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.0922,
+    "pnl_pct": 0.958,
+    "duracao_min": 18.6,
+    "data_resultado": "2026-07-13T02:01:01.790593+00:00"
   },
   {
     "page_id": "39ca5230-de72-81f9-86e4-ead2307e7479",
