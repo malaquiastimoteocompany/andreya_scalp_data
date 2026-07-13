@@ -95249,7 +95249,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 2.17,
+    "pnl_pct": 0.092,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-13T20:06:01.321265+00:00"
   },
   {
     "page_id": "39ca5230-de72-811a-9710-c6625eb61539",
