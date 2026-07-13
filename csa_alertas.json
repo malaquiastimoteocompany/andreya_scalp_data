@@ -68139,7 +68139,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.03404,
+    "pnl_pct": 2.284,
+    "duracao_min": 71.5,
+    "data_resultado": "2026-07-13T00:04:07.338545+00:00"
   },
   {
     "page_id": "39ba5230-de72-81d8-9321-d799f85a0073",
