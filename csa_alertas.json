@@ -91619,11 +91619,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 168.44,
-    "pnl_pct": 1.497,
-    "duracao_min": 27.1,
-    "data_resultado": "2026-07-13T16:17:02.225430+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 165.85,
+    "pnl_pct": 2.254,
+    "duracao_min": 42.4,
+    "data_resultado": "2026-07-13T16:32:17.902629+00:00"
   },
   {
     "page_id": "39ca5230-de72-812d-86c5-eaaf5328c7ca",
