@@ -98459,7 +98459,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0054965,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.005482,
+    "pnl_pct": -0.76,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-13T22:37:53.011858+00:00"
   },
   {
     "page_id": "39ca5230-de72-8122-afb1-edbbb9908a61",
