@@ -99459,7 +99459,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.31473333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.312,
+    "pnl_pct": 0.7,
+    "duracao_min": 5.9,
+    "data_resultado": "2026-07-13T21:38:32.122909+00:00"
   },
   {
     "page_id": "39ca5230-de72-817f-b8f1-d63d484eff2b",
