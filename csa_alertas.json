@@ -67059,7 +67059,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.01704,
+    "pnl_pct": 0.412,
+    "duracao_min": 118.1,
+    "data_resultado": "2026-07-13T00:05:53.099529+00:00"
   },
   {
     "page_id": "39ba5230-de72-8145-beca-f8fe2bb75910",
