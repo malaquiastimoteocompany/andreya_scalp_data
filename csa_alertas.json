@@ -96269,11 +96269,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.29e-06,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 6.449e-06,
-    "pnl_pct": 2.398,
-    "duracao_min": 91.0,
-    "data_resultado": "2026-07-13T20:25:56.687868+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 6.488e-06,
+    "pnl_pct": 2.707,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-13T20:55:41.485704+00:00"
   },
   {
     "page_id": "39ca5230-de72-81af-a94f-d0d5d819651a",
