@@ -73981,11 +73981,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05780667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05843,
-    "pnl_pct": 0.898,
-    "duracao_min": 32.7,
-    "data_resultado": "2026-07-13T02:33:19.674019+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.0588,
+    "pnl_pct": 1.217,
+    "duracao_min": 55.8,
+    "data_resultado": "2026-07-13T02:56:25.892584+00:00"
   },
   {
     "page_id": "39ca5230-de72-811f-9ee1-edb6fbe4c585",
