@@ -80767,11 +80767,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.31232,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3088,
-    "pnl_pct": 0.962,
-    "duracao_min": 13.4,
-    "data_resultado": "2026-07-13T07:11:06.597814+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.304,
+    "pnl_pct": 1.732,
+    "duracao_min": 30.6,
+    "data_resultado": "2026-07-13T07:28:18.637761+00:00"
   },
   {
     "page_id": "39ca5230-de72-8119-aa43-d609e7b23f3a",
