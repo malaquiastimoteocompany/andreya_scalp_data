@@ -100195,11 +100195,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 63.161,
-    "pnl_pct": 0.551,
-    "duracao_min": 8.8,
-    "data_resultado": "2026-07-13T22:06:19.585696+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 63.577,
+    "pnl_pct": 0.882,
+    "duracao_min": 109.6,
+    "data_resultado": "2026-07-13T23:47:06.426437+00:00"
   },
   {
     "page_id": "39ca5230-de72-81a4-b28b-c2a45d3d7f26",
