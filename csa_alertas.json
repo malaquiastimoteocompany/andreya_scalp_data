@@ -96965,11 +96965,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1176,
-    "pnl_pct": 0.858,
-    "duracao_min": 19.3,
-    "data_resultado": "2026-07-13T19:46:47.354976+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1193,
+    "pnl_pct": 1.587,
+    "duracao_min": 58.6,
+    "data_resultado": "2026-07-13T20:26:05.267136+00:00"
   },
   {
     "page_id": "39ca5230-de72-81ee-a4ff-ed6cdc24da24",
