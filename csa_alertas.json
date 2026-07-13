@@ -82433,11 +82433,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.017285,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0174,
-    "pnl_pct": 0.753,
-    "duracao_min": 86.7,
-    "data_resultado": "2026-07-13T09:34:19.045748+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.0173,
+    "pnl_pct": 0.463,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-13T10:07:45.623763+00:00"
   },
   {
     "page_id": "39ca5230-de72-81c6-9214-c5e3c3aa48c1",
