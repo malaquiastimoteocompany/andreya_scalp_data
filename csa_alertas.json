@@ -79129,11 +79129,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04761,
-    "pnl_pct": 0.337,
-    "duracao_min": 35.2,
-    "data_resultado": "2026-07-13T06:02:54.634373+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.04783,
+    "pnl_pct": 0.569,
+    "duracao_min": 116.9,
+    "data_resultado": "2026-07-13T07:24:38.378989+00:00"
   },
   {
     "page_id": "39ca5230-de72-81bc-a45f-c47f8da0004d",
