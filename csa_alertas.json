@@ -95369,7 +95369,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.000482,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.0004832,
+    "pnl_pct": 0.562,
+    "duracao_min": 44.0,
+    "data_resultado": "2026-07-13T18:51:47.402281+00:00"
   },
   {
     "page_id": "39ca5230-de72-81de-a15e-fc8e07ca9a7b",
