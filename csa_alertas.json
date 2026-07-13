@@ -93753,7 +93753,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.23985,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.2399,
+    "pnl_pct": -0.415,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-13T18:58:22.561442+00:00"
   },
   {
     "page_id": "39ca5230-de72-81fa-aa59-d5f9c48b6d39",
