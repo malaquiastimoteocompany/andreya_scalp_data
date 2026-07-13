@@ -98415,11 +98415,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.139,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.117,
-    "pnl_pct": 0.701,
-    "duracao_min": 37.0,
-    "data_resultado": "2026-07-13T21:17:15.160325+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.139,
+    "pnl_pct": 0.35,
+    "duracao_min": 42.8,
+    "data_resultado": "2026-07-13T21:23:07.525980+00:00"
   },
   {
     "page_id": "39ca5230-de72-815a-89ce-da65291cfc67",
