@@ -94889,7 +94889,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0076465,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.007674,
+    "pnl_pct": -0.091,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-13T20:00:28.232709+00:00"
   },
   {
     "page_id": "39ca5230-de72-81a3-80c2-dbddc4e49b01",
