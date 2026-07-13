@@ -79783,7 +79783,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0043512,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.004438,
+    "pnl_pct": -1.929,
+    "duracao_min": 49.5,
+    "data_resultado": "2026-07-13T06:37:02.147074+00:00"
   },
   {
     "page_id": "39ca5230-de72-8145-ad6d-e2ec74ee0309",
