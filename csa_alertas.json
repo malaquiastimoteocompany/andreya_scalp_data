@@ -77891,11 +77891,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04217,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04268,
-    "pnl_pct": 0.755,
-    "duracao_min": 28.6,
-    "data_resultado": "2026-07-13T05:11:08.335560+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04234,
+    "pnl_pct": 0.354,
+    "duracao_min": 86.9,
+    "data_resultado": "2026-07-13T06:09:24.969638+00:00"
   },
   {
     "page_id": "39ca5230-de72-81e5-b548-dddc9da20d85",
