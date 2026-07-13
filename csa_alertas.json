@@ -72543,7 +72543,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3992,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.3899,
+    "pnl_pct": -1.961,
+    "duracao_min": 60.8,
+    "data_resultado": "2026-07-13T02:08:21.580838+00:00"
   },
   {
     "page_id": "39ca5230-de72-813b-8494-d8f0f04e08fb",
