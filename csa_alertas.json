@@ -72597,11 +72597,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.31188,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3122,
-    "pnl_pct": 0.515,
-    "duracao_min": 3.7,
-    "data_resultado": "2026-07-13T01:16:27.958132+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.3104,
+    "pnl_pct": 0.225,
+    "duracao_min": 5.2,
+    "data_resultado": "2026-07-13T01:17:54.870298+00:00"
   },
   {
     "page_id": "39ca5230-de72-81a9-873f-ec72e68d24bc",
