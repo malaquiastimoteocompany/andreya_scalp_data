@@ -87341,11 +87341,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.20805,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2073,
-    "pnl_pct": 0.576,
-    "duracao_min": 10.6,
-    "data_resultado": "2026-07-13T12:35:32.221277+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2092,
+    "pnl_pct": 0.12,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-13T14:25:57.588147+00:00"
   },
   {
     "page_id": "39ca5230-de72-812b-8997-dc1a45d0f554",
