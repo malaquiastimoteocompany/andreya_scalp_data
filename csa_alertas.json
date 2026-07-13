@@ -82669,7 +82669,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.472,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 3.491,
+    "pnl_pct": 0.057,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-13T10:20:28.325173+00:00"
   },
   {
     "page_id": "39ca5230-de72-815e-8130-fda83cec0d3c",
