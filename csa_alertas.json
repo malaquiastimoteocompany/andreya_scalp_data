@@ -78823,11 +78823,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1264,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1279,
-    "pnl_pct": 0.788,
-    "duracao_min": 48.2,
-    "data_resultado": "2026-07-13T06:10:54.890125+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1268,
+    "pnl_pct": 0.355,
+    "duracao_min": 92.9,
+    "data_resultado": "2026-07-13T06:55:36.659268+00:00"
   },
   {
     "page_id": "39ca5230-de72-81b6-9b8e-d02b97665fdf",
