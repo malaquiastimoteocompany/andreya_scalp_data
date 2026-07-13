@@ -68703,11 +68703,11 @@
     "estado_cfi": "E1",
     "zona_sr": 97.498,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 96.75,
-    "pnl_pct": 0.504,
-    "duracao_min": 26.3,
-    "data_resultado": "2026-07-13T00:01:16.650848+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 97.28,
+    "pnl_pct": 0.231,
+    "duracao_min": 36.9,
+    "data_resultado": "2026-07-13T00:11:51.868602+00:00"
   },
   {
     "page_id": "39ba5230-de72-81f9-83f6-ef1d96b49821",
