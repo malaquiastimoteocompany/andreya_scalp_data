@@ -81953,7 +81953,11 @@
     "estado_cfi": "E1",
     "zona_sr": 34.19,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 34.1,
+    "pnl_pct": 0.059,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-13T09:45:57.365265+00:00"
   },
   {
     "page_id": "39ca5230-de72-817d-80d9-d7576e2adb18",
