@@ -88633,7 +88633,11 @@
     "estado_cfi": "E1",
     "zona_sr": 501.76,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 506.44,
+    "pnl_pct": 0.626,
+    "duracao_min": 33.0,
+    "data_resultado": "2026-07-13T14:15:26.893296+00:00"
   },
   {
     "page_id": "39ca5230-de72-8183-b8f2-d5967124186c",
