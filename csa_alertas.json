@@ -95793,11 +95793,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004276,
-    "pnl_pct": 0.352,
-    "duracao_min": 68.0,
-    "data_resultado": "2026-07-13T19:32:58.086956+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.004297,
+    "pnl_pct": 0.598,
+    "duracao_min": 72.8,
+    "data_resultado": "2026-07-13T19:37:45.909185+00:00"
   },
   {
     "page_id": "39ca5230-de72-81e8-bf97-f5b5a4ae7772",
