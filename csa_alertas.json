@@ -94327,11 +94327,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.064325,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06446,
-    "pnl_pct": 0.405,
-    "duracao_min": 48.9,
-    "data_resultado": "2026-07-13T18:21:27.153409+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06407,
+    "pnl_pct": 0.101,
+    "duracao_min": 58.6,
+    "data_resultado": "2026-07-13T18:31:05.865947+00:00"
   },
   {
     "page_id": "39ca5230-de72-81a6-a325-d76a6a125752",
