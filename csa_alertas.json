@@ -71341,11 +71341,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.246,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 3.288,
-    "pnl_pct": 0.952,
-    "duracao_min": 17.5,
-    "data_resultado": "2026-07-13T00:57:57.803465+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.256,
+    "pnl_pct": 0.461,
+    "duracao_min": 30.9,
+    "data_resultado": "2026-07-13T01:11:21.938397+00:00"
   },
   {
     "page_id": "39ca5230-de72-8129-b8df-f402b039d1be",
