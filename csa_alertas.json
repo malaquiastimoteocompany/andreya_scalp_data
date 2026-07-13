@@ -75899,11 +75899,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.7597,
-    "pnl_pct": 0.423,
-    "duracao_min": 3.5,
-    "data_resultado": "2026-07-13T03:15:50.745171+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.7548,
+    "pnl_pct": 0.099,
+    "duracao_min": 21.6,
+    "data_resultado": "2026-07-13T03:33:55.399036+00:00"
   },
   {
     "page_id": "39ca5230-de72-819e-b01c-ec1df1c16602",
