@@ -99809,11 +99809,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00426667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004302,
-    "pnl_pct": 0.467,
-    "duracao_min": 38.5,
-    "data_resultado": "2026-07-13T22:18:30.494250+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.004313,
+    "pnl_pct": 0.596,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-13T23:40:27.433760+00:00"
   },
   {
     "page_id": "39ca5230-de72-81f3-b8e9-f344163f19ee",
