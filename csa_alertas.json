@@ -76385,11 +76385,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.48675,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 3.467,
-    "pnl_pct": 0.687,
-    "duracao_min": 6.6,
-    "data_resultado": "2026-07-13T03:34:19.264905+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 3.494,
+    "pnl_pct": 0.301,
+    "duracao_min": 11.0,
+    "data_resultado": "2026-07-13T03:38:45.170840+00:00"
   },
   {
     "page_id": "39ca5230-de72-8185-a7d0-f9555668dfdd",
