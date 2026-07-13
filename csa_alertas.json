@@ -72946,5 +72946,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ca5230-de72-8112-b53e-eee6e9e041d6",
+    "token": "MELANIA",
+    "direccao": "SHORT",
+    "preco_alerta": 0.08142,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00094,
+    "tp1": 0.081044,
+    "tp2": 0.08048000000000001,
+    "sl": 0.08283,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 12908717.0,
+    "spread_pct": 0.000982921734856822,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-13T01:25:06.690539+00:00",
+    "rsi_1h": 45.33,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.08181333,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
