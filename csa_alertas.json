@@ -87747,11 +87747,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07956,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07864,
-    "pnl_pct": 0.695,
-    "duracao_min": 34.0,
-    "data_resultado": "2026-07-13T13:21:27.290970+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07927,
+    "pnl_pct": 0.297,
+    "duracao_min": 84.6,
+    "data_resultado": "2026-07-13T14:12:04.026324+00:00"
   },
   {
     "page_id": "39ca5230-de72-81b6-ad6b-d0a989300c03",
