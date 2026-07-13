@@ -82849,7 +82849,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.22825,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.2303,
+    "pnl_pct": -0.524,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-13T10:38:34.062886+00:00"
   },
   {
     "page_id": "39ca5230-de72-8186-83fc-da30ae02b63d",
