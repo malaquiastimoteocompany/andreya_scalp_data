@@ -81315,11 +81315,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01384667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01387,
-    "pnl_pct": 0.653,
-    "duracao_min": 4.3,
-    "data_resultado": "2026-07-13T07:26:56.223152+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01401,
+    "pnl_pct": 1.161,
+    "duracao_min": 104.0,
+    "data_resultado": "2026-07-13T09:06:43.451563+00:00"
   },
   {
     "page_id": "39ca5230-de72-818e-a2bf-db6263c13164",
