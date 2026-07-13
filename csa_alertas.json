@@ -80489,11 +80489,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2252,
-    "pnl_pct": 0.312,
-    "duracao_min": 54.8,
-    "data_resultado": "2026-07-13T07:29:53.573270+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2244,
+    "pnl_pct": 0.134,
+    "duracao_min": 75.5,
+    "data_resultado": "2026-07-13T07:50:34.766596+00:00"
   },
   {
     "page_id": "39ca5230-de72-8119-9bd2-e837127b9384",
