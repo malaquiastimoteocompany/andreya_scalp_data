@@ -89169,7 +89169,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.182765,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.18461,
+    "pnl_pct": -1.284,
+    "duracao_min": 56.2,
+    "data_resultado": "2026-07-13T15:01:15.423916+00:00"
   },
   {
     "page_id": "39ca5230-de72-810a-be22-f1850c6efe8c",
