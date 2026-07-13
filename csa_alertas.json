@@ -97327,7 +97327,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0427975,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.04242,
+    "pnl_pct": 0.399,
+    "duracao_min": 34.0,
+    "data_resultado": "2026-07-13T20:19:04.809115+00:00"
   },
   {
     "page_id": "39ca5230-de72-8123-b2ac-c866ff7dbe70",
