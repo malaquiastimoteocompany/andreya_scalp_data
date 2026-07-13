@@ -85345,11 +85345,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.7605,
-    "pnl_pct": 0.476,
-    "duracao_min": 22.6,
-    "data_resultado": "2026-07-13T11:09:57.828318+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.7568,
+    "pnl_pct": 0.231,
+    "duracao_min": 109.3,
+    "data_resultado": "2026-07-13T12:36:42.306677+00:00"
   },
   {
     "page_id": "39ca5230-de72-81a1-b5d3-cecad8c78116",
