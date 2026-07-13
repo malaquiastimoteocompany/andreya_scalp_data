@@ -83919,11 +83919,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.939,
-    "pnl_pct": 7.683,
-    "duracao_min": 6.2,
-    "data_resultado": "2026-07-13T09:58:38.297835+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.8561,
+    "pnl_pct": 2.93,
+    "duracao_min": 15.8,
+    "data_resultado": "2026-07-13T10:08:10.676286+00:00"
   },
   {
     "page_id": "39ca5230-de72-81b7-bce3-ec46ed9e960b",
