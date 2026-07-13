@@ -74751,11 +74751,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.005975,
-    "pnl_pct": 0.437,
-    "duracao_min": 31.7,
-    "data_resultado": "2026-07-13T02:56:38.642761+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.005947,
+    "pnl_pct": 0.202,
+    "duracao_min": 38.8,
+    "data_resultado": "2026-07-13T03:03:46.172031+00:00"
   },
   {
     "page_id": "39ca5230-de72-81cc-bb20-e3f04d92f154",
