@@ -99525,7 +99525,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 1.0599,
+    "pnl_pct": 0.303,
+    "duracao_min": 26.3,
+    "data_resultado": "2026-07-13T22:01:16.031129+00:00"
   },
   {
     "page_id": "39ca5230-de72-81e8-acc8-f1b69e61da29",
