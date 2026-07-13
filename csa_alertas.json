@@ -77975,11 +77975,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 5.855e-06,
-    "pnl_pct": 1.331,
-    "duracao_min": 9.0,
-    "data_resultado": "2026-07-13T05:09:08.120111+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 5.934e-06,
+    "pnl_pct": 0.666,
+    "duracao_min": 36.4,
+    "data_resultado": "2026-07-13T05:36:30.775966+00:00"
   },
   {
     "page_id": "39ca5230-de72-8122-ad4a-f3acfb932523",
