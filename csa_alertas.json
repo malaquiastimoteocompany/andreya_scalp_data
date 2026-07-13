@@ -90093,11 +90093,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.75e-06,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 2.7682e-06,
-    "pnl_pct": 0.479,
-    "duracao_min": 21.7,
-    "data_resultado": "2026-07-13T14:57:17.440571+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.7525e-06,
+    "pnl_pct": 0.194,
+    "duracao_min": 42.3,
+    "data_resultado": "2026-07-13T15:17:49.055588+00:00"
   },
   {
     "page_id": "39ca5230-de72-8199-8615-d980aac9457e",
