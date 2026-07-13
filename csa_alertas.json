@@ -66849,7 +66849,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.04861,
+    "pnl_pct": 0.268,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-13T00:05:49.949341+00:00"
   },
   {
     "page_id": "39ba5230-de72-8156-be68-f13a735ba227",
