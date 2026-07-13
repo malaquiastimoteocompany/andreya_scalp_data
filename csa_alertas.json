@@ -96149,11 +96149,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.4015,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3977,
-    "pnl_pct": 0.749,
-    "duracao_min": 119.7,
-    "data_resultado": "2026-07-13T20:44:44.229734+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.3978,
+    "pnl_pct": 0.736,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-13T20:46:02.162780+00:00"
   },
   {
     "page_id": "39ca5230-de72-815f-88a8-ce9ac473f9fe",
