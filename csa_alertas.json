@@ -79159,11 +79159,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07895,
-    "pnl_pct": 0.599,
-    "duracao_min": 4.9,
-    "data_resultado": "2026-07-13T05:35:08.867892+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.07949,
+    "pnl_pct": 0.943,
+    "duracao_min": 73.4,
+    "data_resultado": "2026-07-13T06:43:37.954277+00:00"
   },
   {
     "page_id": "39ca5230-de72-8144-90a6-e06fda3d1b4c",
