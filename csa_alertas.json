@@ -83149,11 +83149,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 6.412e-06,
-    "pnl_pct": 2.167,
-    "duracao_min": 121.0,
-    "data_resultado": "2026-07-13T10:55:59.129789+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 6.442e-06,
+    "pnl_pct": 1.938,
+    "duracao_min": 122.5,
+    "data_resultado": "2026-07-13T10:57:29.915187+00:00"
   },
   {
     "page_id": "39ca5230-de72-814b-a0ac-c3736b2b7c8a",
