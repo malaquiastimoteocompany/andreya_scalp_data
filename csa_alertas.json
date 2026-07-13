@@ -74353,7 +74353,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.14655333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.14403,
+    "pnl_pct": 1.471,
+    "duracao_min": 62.1,
+    "data_resultado": "2026-07-13T03:07:55.635008+00:00"
   },
   {
     "page_id": "39ca5230-de72-811d-be2c-f34fe6b23805",
