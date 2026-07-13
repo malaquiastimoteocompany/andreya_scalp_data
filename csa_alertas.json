@@ -90613,11 +90613,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0044455,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004409,
-    "pnl_pct": 0.586,
-    "duracao_min": 42.9,
-    "data_resultado": "2026-07-13T15:35:42.160129+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.004376,
+    "pnl_pct": 0.958,
+    "duracao_min": 103.5,
+    "data_resultado": "2026-07-13T16:36:14.190824+00:00"
   },
   {
     "page_id": "39ca5230-de72-81f1-808f-c9d763a2d764",
