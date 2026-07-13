@@ -67359,7 +67359,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07957667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.08161,
+    "pnl_pct": -2.217,
+    "duracao_min": 114.2,
+    "data_resultado": "2026-07-13T00:14:02.308303+00:00"
   },
   {
     "page_id": "39ba5230-de72-811b-b586-f3bc416ac17c",
