@@ -78413,7 +78413,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01384667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.0139,
+    "pnl_pct": 0.652,
+    "duracao_min": 29.5,
+    "data_resultado": "2026-07-13T05:42:22.030201+00:00"
   },
   {
     "page_id": "39ca5230-de72-81ad-bf98-ecbddd122ac6",
