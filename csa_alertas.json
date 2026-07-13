@@ -97679,7 +97679,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 2.2941,
+    "pnl_pct": -1.384,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-13T22:02:43.655425+00:00"
   },
   {
     "page_id": "39ca5230-de72-81e9-a477-e0b5722e86c7",
