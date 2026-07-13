@@ -88357,7 +88357,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.4166,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.4167,
+    "pnl_pct": -0.072,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-13T15:22:56.505143+00:00"
   },
   {
     "page_id": "39ca5230-de72-81d5-8862-d634d824fa19",
