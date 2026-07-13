@@ -80329,11 +80329,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 6.822e-06,
-    "pnl_pct": 2.585,
-    "duracao_min": 108.3,
-    "data_resultado": "2026-07-13T08:01:07.854339+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 6.762e-06,
+    "pnl_pct": 3.013,
+    "duracao_min": 111.4,
+    "data_resultado": "2026-07-13T08:04:13.731766+00:00"
   },
   {
     "page_id": "39ca5230-de72-81d0-a932-c8e41f082c05",
