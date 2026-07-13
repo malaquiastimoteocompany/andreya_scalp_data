@@ -96209,7 +96209,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.024579,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.024431,
+    "pnl_pct": 0.844,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-13T20:46:07.416543+00:00"
   },
   {
     "page_id": "39ca5230-de72-814b-a5ef-de915a0cad22",
