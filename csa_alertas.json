@@ -90343,7 +90343,11 @@
     "estado_cfi": "E1",
     "zona_sr": 33.67,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 33.11,
+    "pnl_pct": -1.37,
+    "duracao_min": 100.0,
+    "data_resultado": "2026-07-13T16:23:00.117617+00:00"
   },
   {
     "page_id": "39ca5230-de72-819b-baa8-f4761fde9a03",
