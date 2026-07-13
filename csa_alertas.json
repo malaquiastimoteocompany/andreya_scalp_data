@@ -101673,7 +101673,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 404.32,
+    "pnl_pct": 1.448,
+    "duracao_min": 21.9,
+    "data_resultado": "2026-07-13T23:39:19.920679+00:00"
   },
   {
     "page_id": "39ca5230-de72-8164-8b22-f53446888adc",
