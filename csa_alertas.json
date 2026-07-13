@@ -99719,7 +99719,11 @@
     "estado_cfi": "E1",
     "zona_sr": 499.83333333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 494.49,
+    "pnl_pct": -0.649,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-13T23:36:14.402598+00:00"
   },
   {
     "page_id": "39ca5230-de72-8199-9460-cde85daa3a49",
