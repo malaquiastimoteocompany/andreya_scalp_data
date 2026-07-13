@@ -80115,7 +80115,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004525,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.004562,
+    "pnl_pct": 0.84,
+    "duracao_min": 28.7,
+    "data_resultado": "2026-07-13T06:41:02.762865+00:00"
   },
   {
     "page_id": "39ca5230-de72-81f5-b90c-f0639618d37b",
