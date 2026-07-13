@@ -87397,11 +87397,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 43.38,
-    "pnl_pct": 0.324,
-    "duracao_min": 24.2,
-    "data_resultado": "2026-07-13T12:56:48.816362+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 43.22,
+    "pnl_pct": 0.139,
+    "duracao_min": 42.8,
+    "data_resultado": "2026-07-13T13:15:26.599658+00:00"
   },
   {
     "page_id": "39ca5230-de72-81e1-8695-e8bdc4fa1688",
