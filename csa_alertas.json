@@ -94259,7 +94259,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.1229,
+    "pnl_pct": -1.601,
+    "duracao_min": 115.7,
+    "data_resultado": "2026-07-13T19:23:23.005056+00:00"
   },
   {
     "page_id": "39ca5230-de72-81e0-893b-e0ec2ec7e4c9",
