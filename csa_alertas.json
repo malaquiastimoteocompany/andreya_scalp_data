@@ -93095,11 +93095,11 @@
     "estado_cfi": "E1",
     "zona_sr": 7.8616,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 7.919,
-    "pnl_pct": 0.406,
-    "duracao_min": 7.6,
-    "data_resultado": "2026-07-13T16:45:29.561609+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 7.886,
+    "pnl_pct": 0.197,
+    "duracao_min": 17.6,
+    "data_resultado": "2026-07-13T16:55:24.908624+00:00"
   },
   {
     "page_id": "39ca5230-de72-8176-8f17-d1981ae4eb0b",
