@@ -76529,11 +76529,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.23016667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2319,
-    "pnl_pct": 0.914,
-    "duracao_min": 42.0,
-    "data_resultado": "2026-07-13T04:12:23.983002+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2342,
+    "pnl_pct": 1.414,
+    "duracao_min": 69.9,
+    "data_resultado": "2026-07-13T04:40:18.821260+00:00"
   },
   {
     "page_id": "39ca5230-de72-81c7-a81d-d67ce9bf1639",
