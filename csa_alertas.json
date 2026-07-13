@@ -97857,7 +97857,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 2.169,
+    "pnl_pct": 0.37,
+    "duracao_min": 20.3,
+    "data_resultado": "2026-07-13T20:35:22.635136+00:00"
   },
   {
     "page_id": "39ca5230-de72-8127-9f52-faccb6e2ad30",
