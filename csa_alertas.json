@@ -76639,7 +76639,11 @@
     "estado_cfi": "E1",
     "zona_sr": 204.455,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 206.23,
+    "pnl_pct": 0.453,
+    "duracao_min": 14.3,
+    "data_resultado": "2026-07-13T03:49:21.400939+00:00"
   },
   {
     "page_id": "39ca5230-de72-811e-8a9c-c729926d4853",
