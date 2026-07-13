@@ -93527,11 +93527,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0015015,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001483,
-    "pnl_pct": 0.935,
-    "duracao_min": 73.6,
-    "data_resultado": "2026-07-13T17:58:35.377849+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.001462,
+    "pnl_pct": 1.637,
+    "duracao_min": 110.2,
+    "data_resultado": "2026-07-13T18:35:08.712549+00:00"
   },
   {
     "page_id": "39ca5230-de72-812a-8351-cc6cd29a4e4c",
