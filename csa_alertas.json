@@ -70079,7 +70079,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00439517,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.004387,
+    "pnl_pct": 0.431,
+    "duracao_min": 18.0,
+    "data_resultado": "2026-07-13T00:33:28.335400+00:00"
   },
   {
     "page_id": "39ca5230-de72-81ab-b727-d184869864f6",
