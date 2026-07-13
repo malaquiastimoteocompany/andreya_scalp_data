@@ -89462,5 +89462,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ca5230-de72-8189-8251-ecacc6bb413d",
+    "token": "EGLD",
+    "direccao": "SHORT",
+    "preco_alerta": 3.068,
+    "score": 8,
+    "setup": "B",
+    "prioritario": true,
+    "enviado": true,
+    "executavel": true,
+    "atr_1h": 0.042,
+    "tp1": 3.0512,
+    "tp2": 3.0260000000000002,
+    "sl": 3.1310000000000002,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 5811575.0,
+    "spread_pct": 0.0003256798567009718,
+    "oi_usd": 876203.4896999999,
+    "data_alerta": "2026-07-13T14:17:55.375844+00:00",
+    "rsi_1h": 52.56,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 3.062,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
