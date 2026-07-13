@@ -86280,5 +86280,31 @@
     "zona_sr": 0.65435,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ca5230-de72-8175-9b02-c1430259b559",
+    "token": "DODO",
+    "direccao": "SHORT",
+    "preco_alerta": 0.02384,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00189857,
+    "tp1": 0.023080572,
+    "tp2": 0.02194143,
+    "sl": 0.026687855,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 43216763.0,
+    "spread_pct": 0.00041955108034401475,
+    "oi_usd": 1037279.3166,
+    "data_alerta": "2026-07-13T11:54:53.661395+00:00",
+    "rsi_1h": 68.84,
+    "funding_rate": -1.679,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
