@@ -95573,7 +95573,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 4.128e-06,
+    "pnl_pct": 0.292,
+    "duracao_min": 25.1,
+    "data_resultado": "2026-07-13T18:44:57.227996+00:00"
   },
   {
     "page_id": "39ca5230-de72-8122-b098-faa95946e940",
