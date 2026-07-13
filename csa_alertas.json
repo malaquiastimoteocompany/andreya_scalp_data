@@ -70511,11 +70511,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.030475,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03065,
-    "pnl_pct": 0.558,
-    "duracao_min": 44.2,
-    "data_resultado": "2026-07-13T01:02:08.360479+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.03045,
+    "pnl_pct": 0.23,
+    "duracao_min": 53.0,
+    "data_resultado": "2026-07-13T01:10:52.966742+00:00"
   },
   {
     "page_id": "39ca5230-de72-8123-8a2c-cd7e040a621d",
