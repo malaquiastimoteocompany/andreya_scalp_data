@@ -96703,7 +96703,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.03203,
+    "pnl_pct": 1.105,
+    "duracao_min": 10.4,
+    "data_resultado": "2026-07-13T19:33:10.140760+00:00"
   },
   {
     "page_id": "39ca5230-de72-8187-86c4-ddab266da2fe",
