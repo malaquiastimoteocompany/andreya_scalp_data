@@ -85601,11 +85601,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1779,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1797,
-    "pnl_pct": 1.069,
-    "duracao_min": 14.5,
-    "data_resultado": "2026-07-13T11:17:10.509947+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1775,
+    "pnl_pct": 0.45,
+    "duracao_min": 113.8,
+    "data_resultado": "2026-07-13T12:56:31.153833+00:00"
   },
   {
     "page_id": "39ca5230-de72-8100-86e9-fe3d6d43cb03",
