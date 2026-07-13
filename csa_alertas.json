@@ -90569,11 +90569,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.56,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 3.595,
-    "pnl_pct": 0.644,
-    "duracao_min": 9.2,
-    "data_resultado": "2026-07-13T15:04:21.917219+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 3.627,
+    "pnl_pct": 1.092,
+    "duracao_min": 16.0,
+    "data_resultado": "2026-07-13T15:11:11.848710+00:00"
   },
   {
     "page_id": "39ca5230-de72-812b-801a-d6c5e4977c77",
