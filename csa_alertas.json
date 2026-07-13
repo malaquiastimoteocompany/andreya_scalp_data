@@ -88879,7 +88879,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.01666,
+    "pnl_pct": 0.422,
+    "duracao_min": 9.9,
+    "data_resultado": "2026-07-13T14:05:04.797029+00:00"
   },
   {
     "page_id": "39ca5230-de72-8124-80bc-c7c2bb9a85f2",
