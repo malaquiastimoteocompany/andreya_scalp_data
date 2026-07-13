@@ -71515,11 +71515,11 @@
     "estado_cfi": "E1",
     "zona_sr": 210.916,
     "toques_sr": 10,
-    "resultado": "TP Tardio",
-    "preco_saida": 209.19,
-    "pnl_pct": 0.371,
-    "duracao_min": 51.6,
-    "data_resultado": "2026-07-13T01:34:20.181880+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 208.01,
+    "pnl_pct": 0.652,
+    "duracao_min": 75.0,
+    "data_resultado": "2026-07-13T01:57:43.129850+00:00"
   },
   {
     "page_id": "39ca5230-de72-817f-b9ca-cec972ba4c32",
