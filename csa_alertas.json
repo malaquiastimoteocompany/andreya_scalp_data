@@ -87219,11 +87219,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0345575,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03477,
-    "pnl_pct": 1.017,
-    "duracao_min": 8.3,
-    "data_resultado": "2026-07-13T12:28:29.046601+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.03439,
+    "pnl_pct": 0.465,
+    "duracao_min": 104.6,
+    "data_resultado": "2026-07-13T14:04:50.699409+00:00"
   },
   {
     "page_id": "39ca5230-de72-8155-a62c-e7a1d73cdad2",
