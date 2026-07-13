@@ -74563,7 +74563,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.73028,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.7258,
+    "pnl_pct": 0.384,
+    "duracao_min": 58.1,
+    "data_resultado": "2026-07-13T03:08:09.737536+00:00"
   },
   {
     "page_id": "39ca5230-de72-817e-ad60-df6d45fbd271",
