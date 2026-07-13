@@ -84663,7 +84663,11 @@
     "estado_cfi": "E1",
     "zona_sr": 207.88,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 207.21,
+    "pnl_pct": 0.48,
+    "duracao_min": 27.4,
+    "data_resultado": "2026-07-13T10:44:52.908176+00:00"
   },
   {
     "page_id": "39ca5230-de72-8174-8d0e-e7eaaa2d29d2",
