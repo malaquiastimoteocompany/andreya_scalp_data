@@ -131542,5 +131542,31 @@
     "zona_sr": 0.06735,
     "toques_sr": 7,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-8102-88de-f58dbecdc7fa",
+    "token": "SHIB",
+    "direccao": "LONG",
+    "preco_alerta": 4.216e-06,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 3e-08,
+    "tp1": 4.228e-06,
+    "tp2": 4.246e-06,
+    "sl": 4.1709999999999995e-06,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 975034881.0,
+    "spread_pct": 0.00023716352424988776,
+    "oi_usd": 2689207.755432,
+    "data_alerta": "2026-07-14T19:17:27.497637+00:00",
+    "rsi_1h": 58.56,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 4.21e-06,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
