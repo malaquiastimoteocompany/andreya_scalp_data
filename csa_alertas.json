@@ -107111,11 +107111,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00480733,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00468,
-    "pnl_pct": 2.276,
-    "duracao_min": 6.2,
-    "data_resultado": "2026-07-14T04:06:30.870617+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.004617,
+    "pnl_pct": 2.934,
+    "duracao_min": 7.5,
+    "data_resultado": "2026-07-14T04:07:47.293020+00:00"
   },
   {
     "page_id": "39da5230-de72-8183-a607-dd0c224830fd",
