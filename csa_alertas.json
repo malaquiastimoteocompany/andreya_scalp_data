@@ -129435,11 +129435,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00584667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.005896,
-    "pnl_pct": 0.494,
-    "duracao_min": 102.8,
-    "data_resultado": "2026-07-14T19:20:25.808592+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.005885,
+    "pnl_pct": 0.401,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-14T19:37:53.602813+00:00"
   },
   {
     "page_id": "39da5230-de72-815f-9123-f984532d94fc",
