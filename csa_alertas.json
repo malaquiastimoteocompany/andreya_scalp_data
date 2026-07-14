@@ -110673,11 +110673,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.40891667,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.4115,
-    "pnl_pct": 0.611,
-    "duracao_min": 11.6,
-    "data_resultado": "2026-07-14T06:51:37.709616+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.4148,
+    "pnl_pct": 1.015,
+    "duracao_min": 25.1,
+    "data_resultado": "2026-07-14T07:05:07.068120+00:00"
   },
   {
     "page_id": "39da5230-de72-81ad-9be6-d32f113d94a2",
