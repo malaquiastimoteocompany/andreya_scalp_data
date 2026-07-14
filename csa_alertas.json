@@ -123655,11 +123655,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0172925,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01728,
-    "pnl_pct": 0.407,
-    "duracao_min": 50.7,
-    "data_resultado": "2026-07-14T15:05:53.646069+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01738,
+    "pnl_pct": 0.697,
+    "duracao_min": 67.2,
+    "data_resultado": "2026-07-14T15:22:24.443076+00:00"
   },
   {
     "page_id": "39da5230-de72-81d2-b2e6-d247e8502a19",
