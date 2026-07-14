@@ -111141,11 +111141,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.9405,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 6.926,
-    "pnl_pct": 0.302,
-    "duracao_min": 5.1,
-    "data_resultado": "2026-07-14T07:08:07.089176+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 6.898,
+    "pnl_pct": 0.504,
+    "duracao_min": 61.0,
+    "data_resultado": "2026-07-14T08:04:04.627701+00:00"
   },
   {
     "page_id": "39da5230-de72-81a3-885f-ea679e26ce4a",
