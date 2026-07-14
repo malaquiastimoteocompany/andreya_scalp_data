@@ -133777,11 +133777,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.65435,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.645,
-    "pnl_pct": 1.013,
-    "duracao_min": 6.4,
-    "data_resultado": "2026-07-14T21:06:51.151449+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.6492,
+    "pnl_pct": 0.691,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-14T23:00:35.159067+00:00"
   },
   {
     "page_id": "39da5230-de72-819e-997d-e273eb62873f",
