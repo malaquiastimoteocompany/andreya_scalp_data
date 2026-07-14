@@ -127995,11 +127995,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3313,
-    "pnl_pct": 0.957,
-    "duracao_min": 93.5,
-    "data_resultado": "2026-07-14T18:18:41.857123+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.3291,
+    "pnl_pct": 1.286,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-14T18:46:24.719520+00:00"
   },
   {
     "page_id": "39da5230-de72-8123-afa5-d4f001eee9b3",
