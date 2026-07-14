@@ -106143,7 +106143,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00764967,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.007715,
+    "pnl_pct": 1.021,
+    "duracao_min": 34.1,
+    "data_resultado": "2026-07-14T03:37:04.365937+00:00"
   },
   {
     "page_id": "39da5230-de72-8105-a386-c28c75dba566",
