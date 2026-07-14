@@ -135882,5 +135882,31 @@
     "zona_sr": 0.0253,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-8199-b7b6-d4eccc9d645d",
+    "token": "ENJ",
+    "direccao": "LONG",
+    "preco_alerta": 0.02871,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00027929,
+    "tp1": 0.028821716,
+    "tp2": 0.02898929,
+    "sl": 0.028291065,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 9496250.0,
+    "spread_pct": 0.0003482500435312413,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-14T22:30:12.950138+00:00",
+    "rsi_1h": 78.52,
+    "funding_rate": 0.0014,
+    "estado_cfi": "E1",
+    "zona_sr": 0.02868833,
+    "toques_sr": 6,
+    "resultado": "Pendente"
   }
 ]
