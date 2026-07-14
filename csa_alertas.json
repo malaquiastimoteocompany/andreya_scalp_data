@@ -129189,11 +129189,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.7737,
-    "pnl_pct": 0.527,
-    "duracao_min": 73.6,
-    "data_resultado": "2026-07-14T18:43:39.066651+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.7783,
+    "pnl_pct": 0.231,
+    "duracao_min": 102.9,
+    "data_resultado": "2026-07-14T19:12:52.905320+00:00"
   },
   {
     "page_id": "39da5230-de72-81c6-ae57-c1d0b14fe5da",
