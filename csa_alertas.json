@@ -109163,11 +109163,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08214167,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0813,
-    "pnl_pct": 0.672,
-    "duracao_min": 52.2,
-    "data_resultado": "2026-07-14T06:14:47.238307+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.08186,
+    "pnl_pct": 0.33,
+    "duracao_min": 90.2,
+    "data_resultado": "2026-07-14T06:52:46.291054+00:00"
   },
   {
     "page_id": "39da5230-de72-8129-863c-f83f769b935b",
