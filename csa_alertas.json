@@ -104713,7 +104713,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3881,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.3862,
+    "pnl_pct": 0.873,
+    "duracao_min": 103.1,
+    "data_resultado": "2026-07-14T03:20:43.010290+00:00"
   },
   {
     "page_id": "39da5230-de72-8116-8522-cb53c191a4ff",
