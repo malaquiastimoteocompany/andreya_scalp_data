@@ -125785,11 +125785,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05789429,
     "toques_sr": 7,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05794,
-    "pnl_pct": 0.277,
-    "duracao_min": 68.9,
-    "data_resultado": "2026-07-14T16:39:32.032949+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.05768,
+    "pnl_pct": 0.052,
+    "duracao_min": 101.3,
+    "data_resultado": "2026-07-14T17:11:55.045857+00:00"
   },
   {
     "page_id": "39da5230-de72-81c7-b3fc-f7fb923ef14e",
