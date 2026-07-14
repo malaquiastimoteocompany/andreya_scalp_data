@@ -126945,11 +126945,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 3.685,
-    "pnl_pct": 0.513,
-    "duracao_min": 17.8,
-    "data_resultado": "2026-07-14T16:22:50.440093+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 3.671,
+    "pnl_pct": 0.702,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-14T18:06:05.804003+00:00"
   },
   {
     "page_id": "39da5230-de72-8151-aa13-f6a425c28b70",
