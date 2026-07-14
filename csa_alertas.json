@@ -109169,11 +109169,11 @@
     "estado_cfi": "E2",
     "zona_sr": 170.86,
     "toques_sr": 2,
-    "resultado": "TP Hit",
+    "resultado": "Falhado",
     "preco_saida": 172.91,
     "pnl_pct": 1.55,
-    "duracao_min": 9.2,
-    "data_resultado": "2026-07-14T05:31:40.361839+00:00"
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-14T07:23:05.507461+00:00"
   },
   {
     "page_id": "39da5230-de72-815b-bb6e-fde611864e56",
