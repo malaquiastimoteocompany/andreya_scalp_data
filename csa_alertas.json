@@ -105776,5 +105776,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-811d-a2fe-d29f191f4678",
+    "token": "JTO",
+    "direccao": "SHORT",
+    "preco_alerta": 0.652,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.01565714,
+    "tp1": 0.645737144,
+    "tp2": 0.6363428600000001,
+    "sl": 0.67548571,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 8288247.0,
+    "spread_pct": 0.0003067484662576349,
+    "oi_usd": 1951113.912,
+    "data_alerta": "2026-07-14T02:50:08.203361+00:00",
+    "rsi_1h": 57.8,
+    "funding_rate": -0.0029,
+    "estado_cfi": "E1",
+    "zona_sr": 0.65413333,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
