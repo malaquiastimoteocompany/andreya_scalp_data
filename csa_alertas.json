@@ -102504,5 +102504,31 @@
     "zona_sr": 1.92466667,
     "toques_sr": 6,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-819f-8640-c00ebfa73d29",
+    "token": "ORDI",
+    "direccao": "LONG",
+    "preco_alerta": 3.538,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.06,
+    "tp1": 3.562,
+    "tp2": 3.598,
+    "sl": 3.448,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 14416549.0,
+    "spread_pct": 0.000282925449144245,
+    "oi_usd": 2936644.7919,
+    "data_alerta": "2026-07-14T00:02:38.650289+00:00",
+    "rsi_1h": 52.89,
+    "funding_rate": 0.0007,
+    "estado_cfi": "E1",
+    "zona_sr": 3.535,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
