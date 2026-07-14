@@ -119881,11 +119881,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.4104,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.4119,
-    "pnl_pct": 0.832,
-    "duracao_min": 33.2,
-    "data_resultado": "2026-07-14T13:15:48.589754+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.4155,
+    "pnl_pct": 1.273,
+    "duracao_min": 35.9,
+    "data_resultado": "2026-07-14T13:18:33.121477+00:00"
   },
   {
     "page_id": "39da5230-de72-8145-9d1f-ddaa7fb1c6c1",
