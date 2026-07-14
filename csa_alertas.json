@@ -103439,7 +103439,11 @@
     "estado_cfi": "E1",
     "zona_sr": 43.6,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 43.46,
+    "pnl_pct": -0.617,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-14T02:38:01.575740+00:00"
   },
   {
     "page_id": "39da5230-de72-8159-bed9-f927d7203deb",
