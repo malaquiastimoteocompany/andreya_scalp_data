@@ -101901,11 +101901,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.7215,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.7209,
-    "pnl_pct": 0.39,
-    "duracao_min": 34.7,
-    "data_resultado": "2026-07-13T23:57:14.640905+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.725,
+    "pnl_pct": 0.675,
+    "duracao_min": 98.7,
+    "data_resultado": "2026-07-14T01:01:15.159842+00:00"
   },
   {
     "page_id": "39ca5230-de72-81c0-82ee-f72053f640e8",
