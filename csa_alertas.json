@@ -133837,11 +133837,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.60356667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.6248,
-    "pnl_pct": 1.312,
-    "duracao_min": 103.7,
-    "data_resultado": "2026-07-14T22:46:27.248607+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 2.6089,
+    "pnl_pct": 1.005,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-14T23:03:46.229753+00:00"
   },
   {
     "page_id": "39da5230-de72-81b4-8313-d608f1769277",
