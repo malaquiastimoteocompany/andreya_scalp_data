@@ -123143,11 +123143,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00584667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.005898,
-    "pnl_pct": 0.46,
-    "duracao_min": 9.3,
-    "data_resultado": "2026-07-14T14:14:19.584529+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.00593,
+    "pnl_pct": 0.732,
+    "duracao_min": 18.0,
+    "data_resultado": "2026-07-14T14:22:59.564949+00:00"
   },
   {
     "page_id": "39da5230-de72-81d1-ac7d-c6e0971f7d0b",
