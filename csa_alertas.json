@@ -102560,5 +102560,31 @@
     "zona_sr": 0.31186,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-8184-9bda-f2b15473e123",
+    "token": "DRAM",
+    "direccao": "LONG",
+    "preco_alerta": 55.86,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.88571429,
+    "tp1": 56.214285716,
+    "tp2": 56.74571429,
+    "sl": 54.531428565,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 8611240.0,
+    "spread_pct": 0.00017903500134272687,
+    "oi_usd": 954795.1848,
+    "data_alerta": "2026-07-14T00:05:11.939276+00:00",
+    "rsi_1h": 26.95,
+    "funding_rate": 0.0,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
