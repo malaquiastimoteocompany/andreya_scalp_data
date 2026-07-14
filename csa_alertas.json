@@ -114707,11 +114707,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06579,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06605,
-    "pnl_pct": 0.334,
-    "duracao_min": 17.3,
-    "data_resultado": "2026-07-14T10:02:18.250145+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.06619,
+    "pnl_pct": 0.441,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-14T11:45:13.440311+00:00"
   },
   {
     "page_id": "39da5230-de72-819c-85c6-f69dd28a0fd8",
