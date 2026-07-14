@@ -128355,11 +128355,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 175.22,
-    "pnl_pct": 0.556,
-    "duracao_min": 119.3,
-    "data_resultado": "2026-07-14T19:02:22.609138+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 175.33,
+    "pnl_pct": 0.525,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-14T19:03:55.573259+00:00"
   },
   {
     "page_id": "39da5230-de72-8144-9f35-f3a9cf0e4156",
