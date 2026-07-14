@@ -122523,11 +122523,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03074,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03049,
-    "pnl_pct": 0.619,
-    "duracao_min": 7.9,
-    "data_resultado": "2026-07-14T13:48:26.066207+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.03036,
+    "pnl_pct": 0.831,
+    "duracao_min": 21.4,
+    "data_resultado": "2026-07-14T14:01:57.042353+00:00"
   },
   {
     "page_id": "39da5230-de72-81a0-aa9d-c87f4be80d42",
