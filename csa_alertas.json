@@ -120071,11 +120071,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.09116,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.09182,
-    "pnl_pct": 0.581,
-    "duracao_min": 11.0,
-    "data_resultado": "2026-07-14T12:58:41.688213+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.09126,
+    "pnl_pct": 0.274,
+    "duracao_min": 18.1,
+    "data_resultado": "2026-07-14T13:05:44.141733+00:00"
   },
   {
     "page_id": "39da5230-de72-81ba-a644-ffd3c102c6cc",
