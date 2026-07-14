@@ -123853,7 +123853,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.41235,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.4167,
+    "pnl_pct": 0.774,
+    "duracao_min": 3.9,
+    "data_resultado": "2026-07-14T14:36:26.776287+00:00"
   },
   {
     "page_id": "39da5230-de72-81ed-8bd1-ede368b05f03",
