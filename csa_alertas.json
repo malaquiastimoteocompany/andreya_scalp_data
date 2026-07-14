@@ -113461,11 +113461,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.324,
-    "pnl_pct": 0.735,
-    "duracao_min": 4.8,
-    "data_resultado": "2026-07-14T08:45:07.348981+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.3204,
+    "pnl_pct": 1.287,
+    "duracao_min": 109.9,
+    "data_resultado": "2026-07-14T10:30:12.066970+00:00"
   },
   {
     "page_id": "39da5230-de72-8117-af87-f4ab03d80ca6",
