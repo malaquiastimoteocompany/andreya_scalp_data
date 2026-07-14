@@ -101435,11 +101435,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.3036,
-    "pnl_pct": 0.986,
-    "duracao_min": 49.2,
-    "data_resultado": "2026-07-13T23:54:22.567384+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.3439,
+    "pnl_pct": 1.87,
+    "duracao_min": 84.4,
+    "data_resultado": "2026-07-14T00:29:35.738557+00:00"
   },
   {
     "page_id": "39ca5230-de72-81bb-95b4-fe3eb541f6e4",
