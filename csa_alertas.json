@@ -132903,11 +132903,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 3.685,
-    "pnl_pct": 0.567,
-    "duracao_min": 23.0,
-    "data_resultado": "2026-07-14T20:40:32.565136+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.656,
+    "pnl_pct": 0.958,
+    "duracao_min": 113.1,
+    "data_resultado": "2026-07-14T22:10:37.757654+00:00"
   },
   {
     "page_id": "39da5230-de72-816d-8584-e6460d6e972c",
