@@ -128685,11 +128685,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.399,
-    "pnl_pct": 0.672,
-    "duracao_min": 89.8,
-    "data_resultado": "2026-07-14T18:40:24.760810+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.373,
+    "pnl_pct": 1.052,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-14T19:11:22.076555+00:00"
   },
   {
     "page_id": "39da5230-de72-8135-82a7-d19ca22ad924",
