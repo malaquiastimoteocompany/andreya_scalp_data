@@ -129664,5 +129664,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-817d-bbac-dd5ff988934e",
+    "token": "PUMPFUN",
+    "direccao": "SHORT",
+    "preco_alerta": 0.00144,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 3.171e-05,
+    "tp1": 0.001427316,
+    "tp2": 0.0014082900000000002,
+    "sl": 0.0014875650000000002,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=0/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 42099573.0,
+    "spread_pct": 0.0006942034015966095,
+    "oi_usd": 4171539.372,
+    "data_alerta": "2026-07-14T18:02:28.743385+00:00",
+    "rsi_1h": 44.83,
+    "funding_rate": 0.0046,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0014415,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
