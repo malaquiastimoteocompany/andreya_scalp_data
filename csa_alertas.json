@@ -103515,11 +103515,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.0673,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 1.069,
-    "pnl_pct": 0.385,
-    "duracao_min": 8.7,
-    "data_resultado": "2026-07-14T00:56:10.573188+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.0649,
+    "pnl_pct": 0.193,
+    "duracao_min": 67.8,
+    "data_resultado": "2026-07-14T01:55:20.644413+00:00"
   },
   {
     "page_id": "39da5230-de72-812f-9d4e-dbe0b04c5fe6",
