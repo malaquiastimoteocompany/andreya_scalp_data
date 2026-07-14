@@ -117339,11 +117339,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02036,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02058,
-    "pnl_pct": 0.932,
-    "duracao_min": 121.8,
-    "data_resultado": "2026-07-14T13:24:41.022524+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.02056,
+    "pnl_pct": 0.883,
+    "duracao_min": 124.2,
+    "data_resultado": "2026-07-14T13:27:07.212060+00:00"
   },
   {
     "page_id": "39da5230-de72-81bc-aa2f-cf6d536e4e4e",
