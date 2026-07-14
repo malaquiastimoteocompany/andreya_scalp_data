@@ -119279,11 +119279,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 2.4974,
-    "pnl_pct": 0.779,
-    "duracao_min": 10.0,
-    "data_resultado": "2026-07-14T12:42:56.332879+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.5218,
+    "pnl_pct": 0.294,
+    "duracao_min": 47.0,
+    "data_resultado": "2026-07-14T13:20:00.504186+00:00"
   },
   {
     "page_id": "39da5230-de72-81a3-ba9a-ff18703cb15a",
