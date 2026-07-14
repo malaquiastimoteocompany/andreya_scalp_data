@@ -126373,7 +126373,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3829,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.381,
+    "pnl_pct": 0.859,
+    "duracao_min": 11.5,
+    "data_resultado": "2026-07-14T16:02:00.139586+00:00"
   },
   {
     "page_id": "39da5230-de72-815a-89ee-ff3a2401c05e",
