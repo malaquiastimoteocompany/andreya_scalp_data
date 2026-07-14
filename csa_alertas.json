@@ -113345,11 +113345,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00204925,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002052,
-    "pnl_pct": 0.441,
-    "duracao_min": 3.7,
-    "data_resultado": "2026-07-14T08:43:43.565029+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.002061,
+    "pnl_pct": 0.661,
+    "duracao_min": 58.9,
+    "data_resultado": "2026-07-14T09:38:55.706861+00:00"
   },
   {
     "page_id": "39da5230-de72-81be-8e3f-dce3b50c5fb4",
