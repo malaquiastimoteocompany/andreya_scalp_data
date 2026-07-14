@@ -129225,11 +129225,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.098525,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.1054,
-    "pnl_pct": 0.327,
-    "duracao_min": 65.0,
-    "data_resultado": "2026-07-14T18:37:35.159151+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.1119,
+    "pnl_pct": 0.622,
+    "duracao_min": 85.3,
+    "data_resultado": "2026-07-14T18:57:55.962704+00:00"
   },
   {
     "page_id": "39da5230-de72-81ca-8de1-faee989bc500",
