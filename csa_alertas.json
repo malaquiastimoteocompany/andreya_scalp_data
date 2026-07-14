@@ -129673,11 +129673,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 543.49,
-    "pnl_pct": 0.749,
-    "duracao_min": 9.6,
-    "data_resultado": "2026-07-14T18:02:11.590011+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 538.3,
+    "pnl_pct": 1.223,
+    "duracao_min": 97.8,
+    "data_resultado": "2026-07-14T19:30:26.183637+00:00"
   },
   {
     "page_id": "39da5230-de72-818e-b3da-fb9ca074e9e5",
