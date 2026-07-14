@@ -101429,11 +101429,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 200.56,
-    "pnl_pct": 0.612,
-    "duracao_min": 95.5,
-    "data_resultado": "2026-07-14T00:40:32.355723+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 201.14,
+    "pnl_pct": 0.757,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-14T01:05:20.869570+00:00"
   },
   {
     "page_id": "39ca5230-de72-81bf-9f59-deec41087417",
