@@ -125713,7 +125713,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.1064,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 1.1031,
+    "pnl_pct": 0.28,
+    "duracao_min": 90.1,
+    "data_resultado": "2026-07-14T17:00:19.827727+00:00"
   },
   {
     "page_id": "39da5230-de72-814f-bc9e-f3c4320c89c5",
