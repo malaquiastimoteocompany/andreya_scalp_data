@@ -121305,11 +121305,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01905,
-    "pnl_pct": 2.035,
-    "duracao_min": 5.8,
-    "data_resultado": "2026-07-14T13:25:57.289065+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.01962,
+    "pnl_pct": 3.562,
+    "duracao_min": 17.3,
+    "data_resultado": "2026-07-14T13:37:26.144627+00:00"
   },
   {
     "page_id": "39da5230-de72-81e7-8945-c44358d5abfa",
