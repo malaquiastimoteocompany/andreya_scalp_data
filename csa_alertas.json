@@ -124659,11 +124659,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1156,
-    "pnl_pct": 2.117,
-    "duracao_min": 13.4,
-    "data_resultado": "2026-07-14T15:13:47.753730+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1132,
+    "pnl_pct": 3.133,
+    "duracao_min": 73.7,
+    "data_resultado": "2026-07-14T16:14:01.014978+00:00"
   },
   {
     "page_id": "39da5230-de72-8172-a570-ef4c1e27e999",
