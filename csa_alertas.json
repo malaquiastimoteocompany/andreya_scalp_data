@@ -121409,11 +121409,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01759,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01772,
-    "pnl_pct": 0.454,
-    "duracao_min": 3.2,
-    "data_resultado": "2026-07-14T13:26:01.435086+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.01764,
+    "pnl_pct": 0.227,
+    "duracao_min": 8.8,
+    "data_resultado": "2026-07-14T13:31:38.860171+00:00"
   },
   {
     "page_id": "39da5230-de72-819b-89d8-d7143c8566d8",
