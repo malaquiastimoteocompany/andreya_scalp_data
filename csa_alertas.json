@@ -102855,11 +102855,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3809,
-    "pnl_pct": 0.714,
-    "duracao_min": 23.5,
-    "data_resultado": "2026-07-14T00:33:43.780807+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.384,
+    "pnl_pct": 1.124,
+    "duracao_min": 52.6,
+    "data_resultado": "2026-07-14T01:02:44.402335+00:00"
   },
   {
     "page_id": "39da5230-de72-8198-a8e8-fbea007a412f",
