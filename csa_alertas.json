@@ -121557,11 +121557,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.7726,
-    "pnl_pct": 0.374,
-    "duracao_min": 22.9,
-    "data_resultado": "2026-07-14T13:47:55.648492+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.7747,
+    "pnl_pct": 0.239,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-14T15:25:20.728929+00:00"
   },
   {
     "page_id": "39da5230-de72-8159-a94e-f86cf92e7bd1",
