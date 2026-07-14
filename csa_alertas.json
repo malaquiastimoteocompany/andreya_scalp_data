@@ -101701,11 +101701,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 32.82,
-    "pnl_pct": 0.398,
-    "duracao_min": 9.7,
-    "data_resultado": "2026-07-13T23:22:45.178922+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 32.99,
+    "pnl_pct": 0.658,
+    "duracao_min": 81.9,
+    "data_resultado": "2026-07-14T00:34:54.014277+00:00"
   },
   {
     "page_id": "39ca5230-de72-81c0-a139-ceb5fa974fa4",
