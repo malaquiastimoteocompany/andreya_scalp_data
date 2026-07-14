@@ -121255,11 +121255,11 @@
     "estado_cfi": "E1",
     "zona_sr": 33.68,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 33.82,
-    "pnl_pct": 0.895,
-    "duracao_min": 5.6,
-    "data_resultado": "2026-07-14T13:23:29.548270+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 33.9,
+    "pnl_pct": 1.014,
+    "duracao_min": 8.0,
+    "data_resultado": "2026-07-14T13:25:53.259718+00:00"
   },
   {
     "page_id": "39da5230-de72-8197-85c1-c379fa1aed30",
