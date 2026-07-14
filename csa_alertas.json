@@ -125171,11 +125171,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.011351,
-    "pnl_pct": 0.752,
-    "duracao_min": 6.9,
-    "data_resultado": "2026-07-14T15:19:45.002668+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.011444,
+    "pnl_pct": 0.345,
+    "duracao_min": 53.5,
+    "data_resultado": "2026-07-14T16:06:24.906717+00:00"
   },
   {
     "page_id": "39da5230-de72-814b-b389-d3f89109d911",
