@@ -126802,5 +126802,31 @@
     "zona_sr": 3.14425,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-817b-92b5-d1be169987ba",
+    "token": "PIPPIN",
+    "direccao": "LONG",
+    "preco_alerta": 0.0168,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00019214,
+    "tp1": 0.016876856,
+    "tp2": 0.01699214,
+    "sl": 0.01651179,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 10045886.0,
+    "spread_pct": 0.0005964807634953529,
+    "oi_usd": 1586294.9508,
+    "data_alerta": "2026-07-14T16:05:24.319490+00:00",
+    "rsi_1h": 65.49,
+    "funding_rate": 0.0226,
+    "estado_cfi": "E1",
+    "zona_sr": 0.016775,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
