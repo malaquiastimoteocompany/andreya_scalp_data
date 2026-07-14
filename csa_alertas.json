@@ -107609,7 +107609,11 @@
     "estado_cfi": "E2",
     "zona_sr": 2.85942857,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 2.846,
+    "pnl_pct": -0.628,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-14T06:07:46.286534+00:00"
   },
   {
     "page_id": "39da5230-de72-8107-bfbe-e7dd53ec4e5d",
