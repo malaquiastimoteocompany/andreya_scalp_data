@@ -122337,11 +122337,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3252325,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.32565,
-    "pnl_pct": 0.08,
-    "duracao_min": 89.7,
-    "data_resultado": "2026-07-14T15:00:33.543417+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.32633,
+    "pnl_pct": 0.184,
+    "duracao_min": 121.5,
+    "data_resultado": "2026-07-14T15:32:22.354843+00:00"
   },
   {
     "page_id": "39da5230-de72-8132-b3bf-deb90a48802c",
