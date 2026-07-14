@@ -119063,11 +119063,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1444,
-    "pnl_pct": 1.12,
-    "duracao_min": 4.5,
-    "data_resultado": "2026-07-14T12:35:13.265901+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.1445,
+    "pnl_pct": 1.155,
+    "duracao_min": 6.4,
+    "data_resultado": "2026-07-14T12:37:04.494912+00:00"
   },
   {
     "page_id": "39da5230-de72-81e1-bc4c-cdaaf61b79a9",
