@@ -101991,11 +101991,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05782167,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05793,
-    "pnl_pct": 0.242,
-    "duracao_min": 83.6,
-    "data_resultado": "2026-07-14T00:48:38.150344+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.05818,
+    "pnl_pct": 0.459,
+    "duracao_min": 97.5,
+    "data_resultado": "2026-07-14T01:02:34.248620+00:00"
   },
   {
     "page_id": "39ca5230-de72-81f1-9d5c-cffbc6d7e77a",
