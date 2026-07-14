@@ -120649,7 +120649,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 3.251,
+    "pnl_pct": 0.52,
+    "duracao_min": 10.8,
+    "data_resultado": "2026-07-14T13:11:44.356620+00:00"
   },
   {
     "page_id": "39da5230-de72-81bd-916f-f3db596ac0dc",
