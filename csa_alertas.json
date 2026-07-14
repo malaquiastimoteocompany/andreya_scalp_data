@@ -124523,7 +124523,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 1.1556,
+    "pnl_pct": -0.601,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-14T16:50:42.914677+00:00"
   },
   {
     "page_id": "39da5230-de72-8175-b14f-db5ba96e3689",
