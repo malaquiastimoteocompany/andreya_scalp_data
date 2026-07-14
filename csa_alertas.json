@@ -106765,11 +106765,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.524,
-    "pnl_pct": 0.329,
-    "duracao_min": 54.3,
-    "data_resultado": "2026-07-14T04:19:30.975572+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.53,
+    "pnl_pct": 0.527,
+    "duracao_min": 114.1,
+    "data_resultado": "2026-07-14T05:19:18.434799+00:00"
   },
   {
     "page_id": "39da5230-de72-816a-9aac-cefc098ba566",
