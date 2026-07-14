@@ -105227,11 +105227,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.421285,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.41076,
-    "pnl_pct": 2.76,
-    "duracao_min": 28.8,
-    "data_resultado": "2026-07-14T02:31:27.499863+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.39492,
+    "pnl_pct": 4.635,
+    "duracao_min": 115.3,
+    "data_resultado": "2026-07-14T03:58:00.505149+00:00"
   },
   {
     "page_id": "39da5230-de72-81cc-a78c-f780f213c0f3",
