@@ -126183,11 +126183,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04956,
-    "pnl_pct": 1.122,
-    "duracao_min": 16.6,
-    "data_resultado": "2026-07-14T16:01:49.781212+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.04897,
+    "pnl_pct": 0.52,
+    "duracao_min": 23.0,
+    "data_resultado": "2026-07-14T16:08:13.768810+00:00"
   },
   {
     "page_id": "39da5230-de72-815f-aa67-cf43ed6a926e",
