@@ -104353,11 +104353,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2175,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.215,
-    "pnl_pct": 0.83,
-    "duracao_min": 17.5,
-    "data_resultado": "2026-07-14T01:42:30.341465+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2125,
+    "pnl_pct": 1.407,
+    "duracao_min": 54.3,
+    "data_resultado": "2026-07-14T02:19:21.611030+00:00"
   },
   {
     "page_id": "39da5230-de72-81d1-b592-c008f8617249",
