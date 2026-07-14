@@ -134429,11 +134429,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02354,
-    "pnl_pct": 3.008,
-    "duracao_min": 0.6,
-    "data_resultado": "2026-07-14T21:28:13.948730+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.0231,
+    "pnl_pct": 3.914,
+    "duracao_min": 23.0,
+    "data_resultado": "2026-07-14T21:50:40.746753+00:00"
   },
   {
     "page_id": "39da5230-de72-814c-8dfc-e3dc3818eee2",
