@@ -126697,11 +126697,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0254035,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.025057,
-    "pnl_pct": 1.327,
-    "duracao_min": 14.8,
-    "data_resultado": "2026-07-14T16:12:39.354166+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.025489,
+    "pnl_pct": 0.476,
+    "duracao_min": 33.4,
+    "data_resultado": "2026-07-14T16:31:18.793088+00:00"
   },
   {
     "page_id": "39da5230-de72-8185-b7d8-f7fb1f981748",
