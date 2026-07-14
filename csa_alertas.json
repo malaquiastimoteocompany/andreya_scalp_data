@@ -119157,11 +119157,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 183.73,
-    "pnl_pct": 2.282,
-    "duracao_min": 58.9,
-    "data_resultado": "2026-07-14T13:31:26.670970+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 181.78,
+    "pnl_pct": 2.8,
+    "duracao_min": 61.8,
+    "data_resultado": "2026-07-14T13:34:19.642923+00:00"
   },
   {
     "page_id": "39da5230-de72-81eb-aa76-c4127bfe2be0",
