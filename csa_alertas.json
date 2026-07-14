@@ -131303,11 +131303,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.002429,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.002429,
-    "pnl_pct": 0.496,
-    "duracao_min": 60.5,
-    "data_resultado": "2026-07-14T20:00:56.256805+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.002417,
+    "pnl_pct": 0.248,
+    "duracao_min": 75.3,
+    "data_resultado": "2026-07-14T20:15:46.056129+00:00"
   },
   {
     "page_id": "39da5230-de72-8130-9729-d7ce45f847af",
