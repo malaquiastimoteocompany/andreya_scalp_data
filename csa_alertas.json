@@ -127173,11 +127173,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03193,
-    "pnl_pct": 0.9,
-    "duracao_min": 86.2,
-    "data_resultado": "2026-07-14T17:36:34.197471+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.03233,
+    "pnl_pct": 0.279,
+    "duracao_min": 107.2,
+    "data_resultado": "2026-07-14T17:57:36.270382+00:00"
   },
   {
     "page_id": "39da5230-de72-81ed-9039-ee8767a48c34",
