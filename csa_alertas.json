@@ -117279,7 +117279,11 @@
     "estado_cfi": "E1",
     "zona_sr": 170.21,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 172.57,
+    "pnl_pct": -1.709,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-14T13:21:21.068822+00:00"
   },
   {
     "page_id": "39da5230-de72-81e5-8c46-de49d8224d9b",
