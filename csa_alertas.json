@@ -123863,7 +123863,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.7571,
+    "pnl_pct": 0.368,
+    "duracao_min": 115.8,
+    "data_resultado": "2026-07-14T16:18:16.609853+00:00"
   },
   {
     "page_id": "39da5230-de72-8143-bd88-d4cd680b213a",
