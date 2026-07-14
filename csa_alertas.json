@@ -130665,11 +130665,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0080645,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.007988,
-    "pnl_pct": 0.819,
-    "duracao_min": 3.9,
-    "data_resultado": "2026-07-14T18:29:13.975859+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.008068,
+    "pnl_pct": 0.323,
+    "duracao_min": 95.5,
+    "data_resultado": "2026-07-14T20:00:48.264382+00:00"
   },
   {
     "page_id": "39da5230-de72-8146-b617-c98561acb3fa",
