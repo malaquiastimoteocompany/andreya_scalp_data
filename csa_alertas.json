@@ -103166,5 +103166,31 @@
     "zona_sr": 0.65435,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-810d-9958-c1d27bca423a",
+    "token": "ME",
+    "direccao": "LONG",
+    "preco_alerta": 0.06424,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00069571,
+    "tp1": 0.06451828400000001,
+    "tp2": 0.06493571000000001,
+    "sl": 0.06319643500000001,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 17809265.0,
+    "spread_pct": 0.00031123560535313175,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-14T00:32:28.951367+00:00",
+    "rsi_1h": 58.52,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.064325,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
