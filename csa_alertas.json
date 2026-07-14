@@ -127917,11 +127917,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.552,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 3.544,
-    "pnl_pct": 0.561,
-    "duracao_min": 6.5,
-    "data_resultado": "2026-07-14T16:46:47.562510+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.519,
+    "pnl_pct": 0.912,
+    "duracao_min": 93.8,
+    "data_resultado": "2026-07-14T18:14:00.993606+00:00"
   },
   {
     "page_id": "39da5230-de72-811c-999c-d15cd5890a2c",
