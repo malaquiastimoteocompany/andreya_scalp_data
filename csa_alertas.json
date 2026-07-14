@@ -104005,11 +104005,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01361667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01366,
-    "pnl_pct": 0.737,
-    "duracao_min": 4.4,
-    "data_resultado": "2026-07-14T01:09:35.386751+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.01355,
+    "pnl_pct": 0.332,
+    "duracao_min": 10.9,
+    "data_resultado": "2026-07-14T01:16:06.406103+00:00"
   },
   {
     "page_id": "39da5230-de72-810d-9f93-f79c0c259310",
