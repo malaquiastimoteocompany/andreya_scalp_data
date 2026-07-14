@@ -121163,7 +121163,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 521.42,
+    "pnl_pct": 0.619,
+    "duracao_min": 24.7,
+    "data_resultado": "2026-07-14T13:37:20.691410+00:00"
   },
   {
     "page_id": "39da5230-de72-819b-8e8a-fb8f8041e0e0",
