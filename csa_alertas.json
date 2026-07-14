@@ -128567,7 +128567,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.026355,
+    "pnl_pct": 1.876,
+    "duracao_min": 65.3,
+    "data_resultado": "2026-07-14T18:15:52.316328+00:00"
   },
   {
     "page_id": "39da5230-de72-8172-a8c9-c3aa092b62df",
