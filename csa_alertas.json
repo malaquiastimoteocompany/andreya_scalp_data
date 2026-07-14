@@ -125925,11 +125925,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.084045,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0836,
-    "pnl_pct": 0.807,
-    "duracao_min": 20.7,
-    "data_resultado": "2026-07-14T15:53:14.192119+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.08389,
+    "pnl_pct": 0.635,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-14T17:33:35.613877+00:00"
   },
   {
     "page_id": "39da5230-de72-81da-82bd-e06f5df58571",
