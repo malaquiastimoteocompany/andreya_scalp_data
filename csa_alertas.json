@@ -128364,5 +128364,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-8100-a9ab-f9dabeb0f73c",
+    "token": "XAN",
+    "direccao": "SHORT",
+    "preco_alerta": 0.011497,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00021686,
+    "tp1": 0.011410256,
+    "tp2": 0.011280140000000001,
+    "sl": 0.011822290000000001,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 8075795.0,
+    "spread_pct": 0.0009568129430696814,
+    "oi_usd": 2357411.9033999997,
+    "data_alerta": "2026-07-14T17:10:24.008040+00:00",
+    "rsi_1h": 68.21,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
