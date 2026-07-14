@@ -101251,11 +101251,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 6.551e-06,
-    "pnl_pct": 1.563,
-    "duracao_min": 63.2,
-    "data_resultado": "2026-07-14T00:05:47.476065+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 6.657e-06,
+    "pnl_pct": 0.766,
+    "duracao_min": 68.7,
+    "data_resultado": "2026-07-14T00:11:21.384980+00:00"
   },
   {
     "page_id": "39ca5230-de72-815c-913c-cde44f1d9a85",
