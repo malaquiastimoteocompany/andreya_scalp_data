@@ -121803,11 +121803,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.016825,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01684,
-    "pnl_pct": 0.417,
-    "duracao_min": 97.8,
-    "data_resultado": "2026-07-14T15:05:38.619495+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01677,
+    "pnl_pct": 0.209,
+    "duracao_min": 113.1,
+    "data_resultado": "2026-07-14T15:20:52.041446+00:00"
   },
   {
     "page_id": "39da5230-de72-81c0-8e93-fec9409c2a22",
