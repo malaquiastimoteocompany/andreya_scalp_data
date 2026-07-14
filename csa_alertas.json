@@ -129245,7 +129245,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.025545,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.02556,
+    "pnl_pct": 0.432,
+    "duracao_min": 15.9,
+    "data_resultado": "2026-07-14T17:53:37.716529+00:00"
   },
   {
     "page_id": "39da5230-de72-81c3-bde1-fe275e7ca657",
