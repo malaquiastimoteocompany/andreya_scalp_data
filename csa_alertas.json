@@ -103929,11 +103929,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.001488,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.00148,
-    "pnl_pct": 0.804,
-    "duracao_min": 79.1,
-    "data_resultado": "2026-07-14T02:19:14.965945+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.001465,
+    "pnl_pct": 1.307,
+    "duracao_min": 95.3,
+    "data_resultado": "2026-07-14T02:35:24.286992+00:00"
   },
   {
     "page_id": "39da5230-de72-8171-8615-d4ec7d236cef",
