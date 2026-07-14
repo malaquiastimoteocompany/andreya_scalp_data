@@ -132843,11 +132843,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.002027,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.002043,
-    "pnl_pct": 0.541,
-    "duracao_min": 78.8,
-    "data_resultado": "2026-07-14T21:33:51.843911+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.002031,
+    "pnl_pct": 0.246,
+    "duracao_min": 113.9,
+    "data_resultado": "2026-07-14T22:09:01.645891+00:00"
   },
   {
     "page_id": "39da5230-de72-818d-89b0-cb961a6e0ba0",
