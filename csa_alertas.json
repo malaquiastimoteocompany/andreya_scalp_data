@@ -111230,5 +111230,31 @@
     "zona_sr": 0.00146767,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-810a-add1-c064f265e7e1",
+    "token": "DOGS",
+    "direccao": "LONG",
+    "preco_alerta": 3.711e-05,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 3.2e-07,
+    "tp1": 3.7238000000000005e-05,
+    "tp2": 3.743e-05,
+    "sl": 3.663e-05,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 65557440.0,
+    "spread_pct": 0.0005389382915655192,
+    "oi_usd": 525116.93934,
+    "data_alerta": "2026-07-14T07:12:30.590938+00:00",
+    "rsi_1h": 45.38,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 3.726e-05,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
