@@ -108229,11 +108229,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.6045,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 3.618,
-    "pnl_pct": 0.556,
-    "duracao_min": 6.1,
-    "data_resultado": "2026-07-14T04:56:05.989480+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.592,
+    "pnl_pct": 0.195,
+    "duracao_min": 73.7,
+    "data_resultado": "2026-07-14T06:03:42.953737+00:00"
   },
   {
     "page_id": "39da5230-de72-8171-bb7a-dc84496d8c67",
