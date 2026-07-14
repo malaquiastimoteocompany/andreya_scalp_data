@@ -122321,11 +122321,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 177.22,
-    "pnl_pct": 1.969,
-    "duracao_min": 8.6,
-    "data_resultado": "2026-07-14T13:43:42.126995+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 180.94,
+    "pnl_pct": 0.94,
+    "duracao_min": 14.6,
+    "data_resultado": "2026-07-14T13:49:44.975698+00:00"
   },
   {
     "page_id": "39da5230-de72-81f3-9507-edc1b9c8e69a",
