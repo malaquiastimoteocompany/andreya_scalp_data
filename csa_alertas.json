@@ -134870,5 +134870,31 @@
     "zona_sr": 0.04836,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-81a4-839e-e2beef0bb625",
+    "token": "ALCH",
+    "direccao": "LONG",
+    "preco_alerta": 0.02977,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00125786,
+    "tp1": 0.030273144000000002,
+    "tp2": 0.03102786,
+    "sl": 0.027883210000000002,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 14488614.0,
+    "spread_pct": 0.00033585222502097704,
+    "oi_usd": 866432.9271000001,
+    "data_alerta": "2026-07-14T22:02:37.300350+00:00",
+    "rsi_1h": 24.63,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
