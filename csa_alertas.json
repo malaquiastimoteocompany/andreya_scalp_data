@@ -132743,7 +132743,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 3.685,
+    "pnl_pct": 0.567,
+    "duracao_min": 23.0,
+    "data_resultado": "2026-07-14T20:40:32.565136+00:00"
   },
   {
     "page_id": "39da5230-de72-816d-8584-e6460d6e972c",
