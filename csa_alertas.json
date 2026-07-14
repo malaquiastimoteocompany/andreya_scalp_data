@@ -108243,7 +108243,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.007775,
+    "pnl_pct": 1.707,
+    "duracao_min": 8.8,
+    "data_resultado": "2026-07-14T05:04:08.266957+00:00"
   },
   {
     "page_id": "39da5230-de72-8143-99a8-dfda17c245d1",
