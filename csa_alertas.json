@@ -131231,11 +131231,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3298,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3263,
-    "pnl_pct": 1.121,
-    "duracao_min": 46.5,
-    "data_resultado": "2026-07-14T19:36:41.667493+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.3266,
+    "pnl_pct": 1.076,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-14T20:51:03.330326+00:00"
   },
   {
     "page_id": "39da5230-de72-8170-a8c9-dea17840f534",
