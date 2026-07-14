@@ -111129,11 +111129,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2345,
-    "pnl_pct": 2.357,
-    "duracao_min": 52.9,
-    "data_resultado": "2026-07-14T07:55:36.591830+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2286,
+    "pnl_pct": 1.069,
+    "duracao_min": 79.3,
+    "data_resultado": "2026-07-14T08:21:59.604801+00:00"
   },
   {
     "page_id": "39da5230-de72-81ea-8423-fda747f65c1e",
