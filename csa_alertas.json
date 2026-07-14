@@ -130579,11 +130579,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.184924,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.18483,
-    "pnl_pct": 0.364,
-    "duracao_min": 13.8,
-    "data_resultado": "2026-07-14T18:39:11.077686+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.18602,
+    "pnl_pct": 0.687,
+    "duracao_min": 43.2,
+    "data_resultado": "2026-07-14T19:08:35.613751+00:00"
   },
   {
     "page_id": "39da5230-de72-8176-ba4d-d2594af6f212",
