@@ -131629,7 +131629,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00484,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.004826,
+    "pnl_pct": 0.289,
+    "duracao_min": 14.6,
+    "data_resultado": "2026-07-14T19:32:12.677661+00:00"
   },
   {
     "page_id": "39da5230-de72-81c0-a4d1-c3da1a0d0595",
