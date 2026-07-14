@@ -126855,7 +126855,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.016775,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.01651,
+    "pnl_pct": -1.726,
+    "duracao_min": 10.3,
+    "data_resultado": "2026-07-14T16:15:46.295256+00:00"
   },
   {
     "page_id": "39da5230-de72-8168-beca-caa8d5be4b9f",
