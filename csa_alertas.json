@@ -101159,7 +101159,11 @@
     "estado_cfi": "E1",
     "zona_sr": 93.98,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 95.46,
+    "pnl_pct": -1.694,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-14T00:55:24.844185+00:00"
   },
   {
     "page_id": "39ca5230-de72-81ee-9b78-c03bea943797",
