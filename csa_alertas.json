@@ -103303,11 +103303,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.22545,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2274,
-    "pnl_pct": 0.486,
-    "duracao_min": 13.8,
-    "data_resultado": "2026-07-14T00:48:50.318292+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.2291,
+    "pnl_pct": 0.862,
+    "duracao_min": 21.0,
+    "data_resultado": "2026-07-14T00:56:01.486343+00:00"
   },
   {
     "page_id": "39da5230-de72-8144-bad1-d84aaa058a51",
