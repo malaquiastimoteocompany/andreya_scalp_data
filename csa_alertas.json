@@ -113769,11 +113769,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01401,
-    "pnl_pct": 0.989,
-    "duracao_min": 13.5,
-    "data_resultado": "2026-07-14T09:18:45.353561+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.0139,
+    "pnl_pct": 1.378,
+    "duracao_min": 64.2,
+    "data_resultado": "2026-07-14T10:09:25.142041+00:00"
   },
   {
     "page_id": "39da5230-de72-814d-a999-e9c8b3a0094d",
