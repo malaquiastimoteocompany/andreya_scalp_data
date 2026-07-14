@@ -132641,11 +132641,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.001423,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001442,
-    "pnl_pct": 1.335,
-    "duracao_min": 65.8,
-    "data_resultado": "2026-07-14T21:10:53.334113+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.00146,
+    "pnl_pct": 1.968,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-14T22:05:55.737963+00:00"
   },
   {
     "page_id": "39da5230-de72-8139-9855-f223072900ad",
