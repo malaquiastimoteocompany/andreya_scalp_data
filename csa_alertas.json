@@ -122375,11 +122375,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0171,
-    "pnl_pct": 0.466,
-    "duracao_min": 26.5,
-    "data_resultado": "2026-07-14T14:01:50.644717+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01723,
+    "pnl_pct": 0.087,
+    "duracao_min": 38.6,
+    "data_resultado": "2026-07-14T14:14:00.355767+00:00"
   },
   {
     "page_id": "39da5230-de72-8157-9d76-e743cd56ca23",
