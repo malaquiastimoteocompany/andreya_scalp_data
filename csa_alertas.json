@@ -130335,11 +130335,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.5538,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.561,
-    "pnl_pct": 0.321,
-    "duracao_min": 105.2,
-    "data_resultado": "2026-07-14T19:57:56.054192+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.557,
+    "pnl_pct": 0.193,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-14T20:13:47.678211+00:00"
   },
   {
     "page_id": "39da5230-de72-8125-93c0-fd4b27d9e9d4",
