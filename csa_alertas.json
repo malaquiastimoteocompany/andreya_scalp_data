@@ -111031,11 +111031,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.016695,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01672,
-    "pnl_pct": 0.42,
-    "duracao_min": 29.2,
-    "data_resultado": "2026-07-14T07:31:48.068182+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01665,
+    "pnl_pct": 0.21,
+    "duracao_min": 44.6,
+    "data_resultado": "2026-07-14T07:47:11.576707+00:00"
   },
   {
     "page_id": "39da5230-de72-81fe-b030-f07a4b818bb4",
