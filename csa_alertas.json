@@ -102639,11 +102639,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.92466667,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.937,
-    "pnl_pct": 0.728,
-    "duracao_min": 33.9,
-    "data_resultado": "2026-07-14T00:36:31.393662+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.957,
+    "pnl_pct": 1.248,
+    "duracao_min": 102.3,
+    "data_resultado": "2026-07-14T01:44:55.250336+00:00"
   },
   {
     "page_id": "39da5230-de72-819f-8640-c00ebfa73d29",
