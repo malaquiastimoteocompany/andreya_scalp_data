@@ -124430,5 +124430,31 @@
     "zona_sr": 0.0177225,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-8143-a546-d627658fbb15",
+    "token": "HEI",
+    "direccao": "SHORT",
+    "preco_alerta": 0.1181,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": false,
+    "atr_1h": 0.00442857,
+    "tp1": 0.11632857199999999,
+    "tp2": 0.11367142999999999,
+    "sl": 0.124742855,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 15122623.0,
+    "spread_pct": 0.0008470986869970595,
+    "oi_usd": 615852.441,
+    "data_alerta": "2026-07-14T15:00:17.470236+00:00",
+    "rsi_1h": 67.69,
+    "funding_rate": -0.0095,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
