@@ -123168,5 +123168,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-8101-a77f-d8f5c4701a82",
+    "token": "SHELL",
+    "direccao": "LONG",
+    "preco_alerta": 0.02033,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00028929,
+    "tp1": 0.020445716,
+    "tp2": 0.020619290000000002,
+    "sl": 0.019896065,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 5925748.0,
+    "spread_pct": 0.000983767830791893,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-14T14:05:26.081268+00:00",
+    "rsi_1h": 59.42,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.02036,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
