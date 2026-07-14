@@ -121717,11 +121717,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.1064,
     "toques_sr": 7,
-    "resultado": "TP Hit",
-    "preco_saida": 1.098,
-    "pnl_pct": 0.399,
-    "duracao_min": 8.2,
-    "data_resultado": "2026-07-14T13:35:55.973895+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.0953,
+    "pnl_pct": 0.522,
+    "duracao_min": 37.3,
+    "data_resultado": "2026-07-14T14:04:58.712778+00:00"
   },
   {
     "page_id": "39da5230-de72-8149-9bfd-f7d6ded2e7c2",
