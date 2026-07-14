@@ -126717,11 +126717,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.016825,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01686,
-    "pnl_pct": 0.297,
-    "duracao_min": 10.2,
-    "data_resultado": "2026-07-14T16:12:43.956480+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.01681,
+    "pnl_pct": 0.149,
+    "duracao_min": 11.8,
+    "data_resultado": "2026-07-14T16:14:20.810154+00:00"
   },
   {
     "page_id": "39da5230-de72-812f-b802-e8b2808d4ad9",
