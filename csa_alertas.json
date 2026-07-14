@@ -110669,7 +110669,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.1125,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.1114,
+    "pnl_pct": 0.624,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-14T08:31:18.018214+00:00"
   },
   {
     "page_id": "39da5230-de72-81db-bbbc-fc01cfc90a78",
