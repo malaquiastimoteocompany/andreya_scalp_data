@@ -128607,11 +128607,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00584667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.005896,
-    "pnl_pct": 0.511,
-    "duracao_min": 4.2,
-    "data_resultado": "2026-07-14T17:16:54.631295+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.005864,
+    "pnl_pct": 0.239,
+    "duracao_min": 24.1,
+    "data_resultado": "2026-07-14T17:36:49.094544+00:00"
   },
   {
     "page_id": "39da5230-de72-8142-ba27-ffffd10edf71",
