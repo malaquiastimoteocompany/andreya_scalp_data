@@ -111329,11 +111329,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 198.17,
-    "pnl_pct": 0.492,
-    "duracao_min": 28.6,
-    "data_resultado": "2026-07-14T07:36:13.577395+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 197.2,
+    "pnl_pct": 0.736,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-14T09:08:52.359378+00:00"
   },
   {
     "page_id": "39da5230-de72-81d9-81ae-efe725c6a5fa",
