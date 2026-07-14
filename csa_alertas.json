@@ -117557,11 +117557,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 63.695,
-    "pnl_pct": 0.33,
-    "duracao_min": 10.8,
-    "data_resultado": "2026-07-14T12:00:55.812538+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 63.913,
+    "pnl_pct": 0.16,
+    "duracao_min": 29.0,
+    "data_resultado": "2026-07-14T12:19:10.604539+00:00"
   },
   {
     "page_id": "39da5230-de72-816c-b62d-e21a5c499298",
