@@ -117417,11 +117417,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00445733,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00445,
-    "pnl_pct": 0.403,
-    "duracao_min": 17.0,
-    "data_resultado": "2026-07-14T11:59:30.821775+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.004476,
+    "pnl_pct": 0.112,
+    "duracao_min": 19.8,
+    "data_resultado": "2026-07-14T12:02:21.467205+00:00"
   },
   {
     "page_id": "39da5230-de72-8119-8cd7-c55646bd9767",
