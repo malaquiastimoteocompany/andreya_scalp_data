@@ -104009,7 +104009,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.15975,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.1599,
+    "pnl_pct": 0.063,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-14T03:01:44.053255+00:00"
   },
   {
     "page_id": "39da5230-de72-818e-a19b-c71425e089ef",
