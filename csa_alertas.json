@@ -130065,11 +130065,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.009726,
-    "pnl_pct": 2.643,
-    "duracao_min": 22.6,
-    "data_resultado": "2026-07-14T18:27:34.838796+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.009483,
+    "pnl_pct": 3.859,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-14T20:05:03.627228+00:00"
   },
   {
     "page_id": "39da5230-de72-8160-a55b-fa2fc049ecfe",
