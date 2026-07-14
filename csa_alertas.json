@@ -131321,11 +131321,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.62736364,
     "toques_sr": 11,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.6266,
-    "pnl_pct": 0.272,
-    "duracao_min": 40.5,
-    "data_resultado": "2026-07-14T19:40:54.737725+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.6273,
+    "pnl_pct": 0.328,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-14T21:00:52.510722+00:00"
   },
   {
     "page_id": "39da5230-de72-819b-9d83-ed11f26e2c2c",
