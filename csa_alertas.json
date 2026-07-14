@@ -101489,11 +101489,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.23985,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2418,
-    "pnl_pct": 1.045,
-    "duracao_min": 49.2,
-    "data_resultado": "2026-07-13T23:54:26.206963+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.2426,
+    "pnl_pct": 1.212,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-14T01:05:24.607075+00:00"
   },
   {
     "page_id": "39ca5230-de72-8155-a87a-fc436d94604e",
