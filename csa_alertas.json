@@ -114521,11 +114521,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.031555,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03207,
-    "pnl_pct": 1.359,
-    "duracao_min": 5.8,
-    "data_resultado": "2026-07-14T09:48:39.613927+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.03164,
+    "pnl_pct": 0.68,
+    "duracao_min": 12.8,
+    "data_resultado": "2026-07-14T09:55:40.942044+00:00"
   },
   {
     "page_id": "39da5230-de72-8156-bbc7-c99dc79e308d",
