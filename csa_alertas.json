@@ -134317,11 +134317,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.05905,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.1498,
-    "pnl_pct": 9.1,
-    "duracao_min": 0.9,
-    "data_resultado": "2026-07-14T21:18:29.837682+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.0785,
+    "pnl_pct": 5.717,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-14T23:18:09.022703+00:00"
   },
   {
     "page_id": "39da5230-de72-812c-86b8-f6d7a4306379",
