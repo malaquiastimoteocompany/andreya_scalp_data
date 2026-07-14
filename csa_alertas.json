@@ -101949,11 +101949,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.0673,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.0678,
-    "pnl_pct": 0.329,
-    "duracao_min": 49.7,
-    "data_resultado": "2026-07-14T00:14:39.553471+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.0641,
+    "pnl_pct": 0.155,
+    "duracao_min": 79.8,
+    "data_resultado": "2026-07-14T00:44:46.326383+00:00"
   },
   {
     "page_id": "39ca5230-de72-8118-a25c-f3e069aa3f8c",
