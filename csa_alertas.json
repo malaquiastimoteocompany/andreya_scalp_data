@@ -116299,7 +116299,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.06399,
+    "pnl_pct": 0.724,
+    "duracao_min": 92.3,
+    "data_resultado": "2026-07-14T12:25:10.630185+00:00"
   },
   {
     "page_id": "39da5230-de72-81d5-b6ac-c7a69f4d709e",
