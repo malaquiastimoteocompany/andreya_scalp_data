@@ -116650,5 +116650,31 @@
     "zona_sr": 0.016555,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-81df-bb0b-df542f12ea53",
+    "token": "SKL",
+    "direccao": "LONG",
+    "preco_alerta": 0.004175,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 4.736e-05,
+    "tp1": 0.004193944,
+    "tp2": 0.00422236,
+    "sl": 0.00410396,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 43070610.0,
+    "spread_pct": 0.000239549646664303,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-14T11:10:01.033122+00:00",
+    "rsi_1h": 42.73,
+    "funding_rate": -0.0477,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00419567,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
