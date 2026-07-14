@@ -131947,7 +131947,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01660429,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.01671,
+    "pnl_pct": 0.481,
+    "duracao_min": 91.6,
+    "data_resultado": "2026-07-14T20:56:43.505398+00:00"
   },
   {
     "page_id": "39da5230-de72-810f-99af-d262809a299b",
