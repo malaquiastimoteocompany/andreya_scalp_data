@@ -103289,11 +103289,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.65435,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.6442,
-    "pnl_pct": 1.12,
-    "duracao_min": 16.0,
-    "data_resultado": "2026-07-14T00:43:37.294050+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.6375,
+    "pnl_pct": 1.635,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-14T02:28:33.076171+00:00"
   },
   {
     "page_id": "39da5230-de72-810d-9958-c1d27bca423a",
