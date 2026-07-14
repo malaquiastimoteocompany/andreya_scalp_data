@@ -111449,11 +111449,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00146767,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
+    "resultado": "Falhado",
     "preco_saida": 0.001452,
     "pnl_pct": 0.616,
-    "duracao_min": 37.2,
-    "data_resultado": "2026-07-14T07:47:21.325577+00:00"
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-14T09:10:21.030909+00:00"
   },
   {
     "page_id": "39da5230-de72-810a-add1-c064f265e7e1",
