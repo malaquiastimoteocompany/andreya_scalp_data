@@ -123471,11 +123471,11 @@
     "estado_cfi": "E2",
     "zona_sr": 2.85942857,
     "toques_sr": 7,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.856,
-    "pnl_pct": 0.351,
-    "duracao_min": 41.9,
-    "data_resultado": "2026-07-14T14:51:54.534596+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.845,
+    "pnl_pct": 0.158,
+    "duracao_min": 58.9,
+    "data_resultado": "2026-07-14T15:08:51.008557+00:00"
   },
   {
     "page_id": "39da5230-de72-8141-9f4c-f310ee13489e",
