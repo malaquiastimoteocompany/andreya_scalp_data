@@ -102469,11 +102469,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0042585,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004257,
-    "pnl_pct": 0.425,
-    "duracao_min": 34.3,
-    "data_resultado": "2026-07-14T00:24:34.079912+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004237,
+    "pnl_pct": 0.189,
+    "duracao_min": 51.8,
+    "data_resultado": "2026-07-14T00:42:05.700427+00:00"
   },
   {
     "page_id": "39ca5230-de72-814c-b817-c7ca6971f8eb",
