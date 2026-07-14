@@ -108479,11 +108479,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 199.95,
-    "pnl_pct": 0.599,
-    "duracao_min": 8.7,
-    "data_resultado": "2026-07-14T05:11:21.697840+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 199.22,
+    "pnl_pct": 0.415,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-14T07:03:28.465759+00:00"
   },
   {
     "page_id": "39da5230-de72-8198-97e2-d13b5b5e102a",
