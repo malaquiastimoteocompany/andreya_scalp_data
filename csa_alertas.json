@@ -109199,11 +109199,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.1001,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1006,
-    "pnl_pct": 0.5,
-    "duracao_min": 16.3,
-    "data_resultado": "2026-07-14T05:43:45.920982+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1001,
+    "pnl_pct": 0.25,
+    "duracao_min": 60.8,
+    "data_resultado": "2026-07-14T06:28:15.410388+00:00"
   },
   {
     "page_id": "39da5230-de72-81be-9ce3-f189c06c09d6",
