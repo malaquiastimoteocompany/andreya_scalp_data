@@ -128329,11 +128329,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.026398,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02665,
-    "pnl_pct": 0.528,
-    "duracao_min": 39.8,
-    "data_resultado": "2026-07-14T17:44:54.046263+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.02651,
+    "pnl_pct": 0.264,
+    "duracao_min": 45.5,
+    "data_resultado": "2026-07-14T17:50:34.801526+00:00"
   },
   {
     "page_id": "39da5230-de72-8102-b3fa-fc0dba2d9a4b",
