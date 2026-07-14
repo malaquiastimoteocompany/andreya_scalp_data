@@ -126342,5 +126342,31 @@
     "zona_sr": 0.3829,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-815a-89ee-ff3a2401c05e",
+    "token": "RIVER",
+    "direccao": "SHORT",
+    "preco_alerta": 3.326,
+    "score": 8,
+    "setup": "B",
+    "prioritario": true,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.045,
+    "tp1": 3.3080000000000003,
+    "tp2": 3.281,
+    "sl": 3.3935,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 5336354.0,
+    "spread_pct": 0.00030070666065250035,
+    "oi_usd": 1633075.3128000002,
+    "data_alerta": "2026-07-14T15:50:32.510297+00:00",
+    "rsi_1h": 55.31,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 3.31533333,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
