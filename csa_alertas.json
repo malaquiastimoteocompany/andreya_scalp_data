@@ -116237,11 +116237,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.09025833,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.09071,
-    "pnl_pct": 0.811,
-    "duracao_min": 10.8,
-    "data_resultado": "2026-07-14T11:05:56.881880+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.09132,
+    "pnl_pct": 1.15,
+    "duracao_min": 16.4,
+    "data_resultado": "2026-07-14T11:11:33.685618+00:00"
   },
   {
     "page_id": "39da5230-de72-816d-b01f-ce5aa3d53b55",
