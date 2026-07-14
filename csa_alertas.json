@@ -108345,11 +108345,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2257,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2272,
-    "pnl_pct": 0.353,
-    "duracao_min": 47.4,
-    "data_resultado": "2026-07-14T05:47:36.581882+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2285,
+    "pnl_pct": 0.64,
+    "duracao_min": 60.7,
+    "data_resultado": "2026-07-14T06:00:54.243839+00:00"
   },
   {
     "page_id": "39da5230-de72-817c-afc0-c8e36dc1c2e2",
