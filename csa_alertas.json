@@ -127335,11 +127335,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.4023,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3996,
-    "pnl_pct": 0.72,
-    "duracao_min": 66.7,
-    "data_resultado": "2026-07-14T17:19:34.647359+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.3983,
+    "pnl_pct": 0.882,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-14T18:13:44.618457+00:00"
   },
   {
     "page_id": "39da5230-de72-8184-b2b5-fbba3617cf33",
