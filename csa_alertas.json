@@ -131945,11 +131945,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02466,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02463,
-    "pnl_pct": 0.324,
-    "duracao_min": 4.6,
-    "data_resultado": "2026-07-14T19:32:18.098095+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.02451,
+    "pnl_pct": 0.567,
+    "duracao_min": 60.4,
+    "data_resultado": "2026-07-14T20:28:07.064961+00:00"
   },
   {
     "page_id": "39da5230-de72-816e-8401-e0ba77882c37",
