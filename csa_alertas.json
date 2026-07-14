@@ -109613,11 +109613,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.5275,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.537,
-    "pnl_pct": 0.326,
-    "duracao_min": 19.3,
-    "data_resultado": "2026-07-14T05:59:34.750408+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.531,
+    "pnl_pct": 0.131,
+    "duracao_min": 98.8,
+    "data_resultado": "2026-07-14T07:19:05.125642+00:00"
   },
   {
     "page_id": "39da5230-de72-8170-962e-d8791dd21d69",
