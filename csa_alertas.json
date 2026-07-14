@@ -131231,11 +131231,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.232,
-    "pnl_pct": 0.433,
-    "duracao_min": 20.8,
-    "data_resultado": "2026-07-14T19:23:30.682240+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.231,
+    "pnl_pct": 0.216,
+    "duracao_min": 30.9,
+    "data_resultado": "2026-07-14T19:33:36.213432+00:00"
   },
   {
     "page_id": "39da5230-de72-8148-aa3b-ca3181032155",
