@@ -109409,11 +109409,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00433533,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004369,
-    "pnl_pct": 0.599,
-    "duracao_min": 9.7,
-    "data_resultado": "2026-07-14T05:39:47.162130+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.004368,
+    "pnl_pct": 0.587,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-14T07:30:08.623659+00:00"
   },
   {
     "page_id": "39da5230-de72-8199-9eba-caf0b165f518",
