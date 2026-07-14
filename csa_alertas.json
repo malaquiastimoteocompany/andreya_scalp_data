@@ -118325,11 +118325,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 2.4905,
-    "pnl_pct": 0.891,
-    "duracao_min": 8.2,
-    "data_resultado": "2026-07-14T12:20:51.282361+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 2.5223,
+    "pnl_pct": 0.259,
+    "duracao_min": 18.5,
+    "data_resultado": "2026-07-14T12:31:11.609939+00:00"
   },
   {
     "page_id": "39da5230-de72-814f-9c1a-c0790a4ab502",
