@@ -104159,11 +104159,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
+    "resultado": "Falhado",
     "preco_saida": 0.3871,
     "pnl_pct": 0.676,
-    "duracao_min": 91.4,
-    "data_resultado": "2026-07-14T02:36:45.500368+00:00"
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-14T03:05:38.585023+00:00"
   },
   {
     "page_id": "39da5230-de72-81ce-aed0-cb5e7390151f",
