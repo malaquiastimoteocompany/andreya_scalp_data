@@ -133370,5 +133370,31 @@
     "zona_sr": 0.38883333,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-814f-a218-d9aa5bd5018f",
+    "token": "TAC",
+    "direccao": "LONG",
+    "preco_alerta": 0.002881,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00012757,
+    "tp1": 0.0029320279999999997,
+    "tp2": 0.00300857,
+    "sl": 0.002689645,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 42589514.0,
+    "spread_pct": 0.00034728251432544977,
+    "oi_usd": 554387.5872000001,
+    "data_alerta": "2026-07-14T20:55:05.527605+00:00",
+    "rsi_1h": 48.72,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.002867,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
