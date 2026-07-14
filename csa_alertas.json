@@ -123133,11 +123133,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.030465,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0305,
-    "pnl_pct": 0.395,
-    "duracao_min": 24.3,
-    "data_resultado": "2026-07-14T14:27:24.010546+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.03038,
+    "pnl_pct": 0.197,
+    "duracao_min": 28.6,
+    "data_resultado": "2026-07-14T14:31:44.082865+00:00"
   },
   {
     "page_id": "39da5230-de72-8139-a8da-e1b68d25cb47",
