@@ -121761,11 +121761,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.09314,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.09239,
-    "pnl_pct": 0.943,
-    "duracao_min": 9.7,
-    "data_resultado": "2026-07-14T13:37:33.872354+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.09192,
+    "pnl_pct": 1.195,
+    "duracao_min": 20.2,
+    "data_resultado": "2026-07-14T13:48:03.766472+00:00"
   },
   {
     "page_id": "39da5230-de72-8118-b8d6-d8579d82cccd",
