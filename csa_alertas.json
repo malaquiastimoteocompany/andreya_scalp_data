@@ -124373,11 +124373,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04496,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0446,
-    "pnl_pct": 0.557,
-    "duracao_min": 98.2,
-    "data_resultado": "2026-07-14T16:18:22.408361+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04456,
+    "pnl_pct": 0.602,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-14T16:40:48.254686+00:00"
   },
   {
     "page_id": "39da5230-de72-81c5-bd54-f46ab9da5735",
