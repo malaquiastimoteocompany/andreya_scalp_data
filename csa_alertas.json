@@ -114379,11 +114379,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.23315,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2317,
-    "pnl_pct": 0.856,
-    "duracao_min": 12.0,
-    "data_resultado": "2026-07-14T09:47:12.967043+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2297,
+    "pnl_pct": 1.284,
+    "duracao_min": 58.0,
+    "data_resultado": "2026-07-14T10:33:15.386674+00:00"
   },
   {
     "page_id": "39da5230-de72-8170-acfa-dc15ba5baa59",
