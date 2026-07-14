@@ -108803,11 +108803,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.76453333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.7646,
-    "pnl_pct": 0.447,
-    "duracao_min": 13.9,
-    "data_resultado": "2026-07-14T05:26:26.086180+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.7612,
+    "pnl_pct": 0.223,
+    "duracao_min": 24.5,
+    "data_resultado": "2026-07-14T05:37:02.953118+00:00"
   },
   {
     "page_id": "39da5230-de72-81d8-b251-e029195b3ccb",
