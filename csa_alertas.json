@@ -106409,11 +106409,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.13808,
-    "pnl_pct": 0.561,
-    "duracao_min": 37.1,
-    "data_resultado": "2026-07-14T03:45:04.020793+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.13844,
+    "pnl_pct": 0.692,
+    "duracao_min": 121.4,
+    "data_resultado": "2026-07-14T05:09:20.638142+00:00"
   },
   {
     "page_id": "39da5230-de72-8195-a9ef-f5e9b9129612",
