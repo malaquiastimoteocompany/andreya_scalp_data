@@ -124165,11 +124165,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 180.83,
-    "pnl_pct": 1.664,
-    "duracao_min": 31.4,
-    "data_resultado": "2026-07-14T15:08:58.108004+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 177.81,
+    "pnl_pct": 0.815,
+    "duracao_min": 93.4,
+    "data_resultado": "2026-07-14T16:10:53.974517+00:00"
   },
   {
     "page_id": "39da5230-de72-81d4-8ce9-c6195ed6238c",
