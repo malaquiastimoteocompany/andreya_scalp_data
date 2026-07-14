@@ -121995,11 +121995,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.623525,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.623,
-    "pnl_pct": 0.387,
-    "duracao_min": 10.4,
-    "data_resultado": "2026-07-14T13:40:31.093433+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.6195,
+    "pnl_pct": 0.105,
+    "duracao_min": 13.4,
+    "data_resultado": "2026-07-14T13:43:30.797131+00:00"
   },
   {
     "page_id": "39da5230-de72-8121-aeda-f978e0ef5d91",
