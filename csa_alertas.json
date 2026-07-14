@@ -106425,11 +106425,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 55.56,
-    "pnl_pct": 1.165,
-    "duracao_min": 13.9,
-    "data_resultado": "2026-07-14T03:31:44.412012+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 56.08,
+    "pnl_pct": 1.639,
+    "duracao_min": 33.8,
+    "data_resultado": "2026-07-14T03:51:35.943403+00:00"
   },
   {
     "page_id": "39da5230-de72-8178-9390-caadb7db0925",
