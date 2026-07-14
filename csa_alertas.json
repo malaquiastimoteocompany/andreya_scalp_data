@@ -121971,7 +121971,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.070665,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.06943,
+    "pnl_pct": -1.336,
+    "duracao_min": 42.3,
+    "data_resultado": "2026-07-14T14:11:01.410858+00:00"
   },
   {
     "page_id": "39da5230-de72-8123-98be-ca4c4355cda8",
