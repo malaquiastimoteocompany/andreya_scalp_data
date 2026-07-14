@@ -124315,11 +124315,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.24373333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2429,
-    "pnl_pct": 0.695,
-    "duracao_min": 10.5,
-    "data_resultado": "2026-07-14T14:50:35.468994+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2404,
+    "pnl_pct": 1.206,
+    "duracao_min": 86.2,
+    "data_resultado": "2026-07-14T16:06:16.934173+00:00"
   },
   {
     "page_id": "39da5230-de72-818c-916b-f1ba1643a454",
