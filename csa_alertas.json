@@ -123504,5 +123504,31 @@
     "zona_sr": 0.0172925,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-81d2-b2e6-d247e8502a19",
+    "token": "PEPE",
+    "direccao": "SHORT",
+    "preco_alerta": 2.8522e-06,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 3e-08,
+    "tp1": 2.8402e-06,
+    "tp2": 2.8222e-06,
+    "sl": 2.8972e-06,
+    "componentes": "sr_zone=2/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 5455809.0,
+    "spread_pct": 3.504775256279532e-05,
+    "oi_usd": 27230284.443,
+    "data_alerta": "2026-07-14T14:15:20.074142+00:00",
+    "rsi_1h": 69.63,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 2.84e-06,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
