@@ -129941,11 +129941,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0312,
-    "pnl_pct": 2.161,
-    "duracao_min": 9.6,
-    "data_resultado": "2026-07-14T18:12:28.257865+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.03204,
+    "pnl_pct": 3.536,
+    "duracao_min": 83.3,
+    "data_resultado": "2026-07-14T19:26:09.298295+00:00"
   },
   {
     "page_id": "39da5230-de72-8190-9d7e-d4124574392c",
