@@ -118179,11 +118179,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0041525,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004183,
-    "pnl_pct": 0.456,
-    "duracao_min": 14.2,
-    "data_resultado": "2026-07-14T12:22:20.069461+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.00425,
+    "pnl_pct": 1.261,
+    "duracao_min": 22.9,
+    "data_resultado": "2026-07-14T12:30:59.063718+00:00"
   },
   {
     "page_id": "39da5230-de72-81b6-acbb-f8d0c8690853",
