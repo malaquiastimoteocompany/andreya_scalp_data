@@ -108929,11 +108929,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04439529,
     "toques_sr": 17,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04462,
-    "pnl_pct": 0.225,
-    "duracao_min": 8.3,
-    "data_resultado": "2026-07-14T05:20:56.358953+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04454,
+    "pnl_pct": 0.135,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-14T07:13:27.020189+00:00"
   },
   {
     "page_id": "39da5230-de72-81fa-8c5f-d7e7c49f3a70",
