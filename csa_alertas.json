@@ -123623,11 +123623,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.025204,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02489,
-    "pnl_pct": 1.426,
-    "duracao_min": 86.1,
-    "data_resultado": "2026-07-14T15:36:30.735132+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0253,
+    "pnl_pct": 0.614,
+    "duracao_min": 105.3,
+    "data_resultado": "2026-07-14T15:55:47.512454+00:00"
   },
   {
     "page_id": "39da5230-de72-8169-9eac-dcb768de2b4c",
