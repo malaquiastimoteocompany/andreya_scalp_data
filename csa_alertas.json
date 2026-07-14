@@ -110969,11 +110969,11 @@
     "estado_cfi": "E1",
     "zona_sr": 43.91,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 43.59,
-    "pnl_pct": 0.252,
-    "duracao_min": 51.2,
-    "data_resultado": "2026-07-14T07:38:58.961581+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 43.64,
+    "pnl_pct": 0.195,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-14T08:48:47.284209+00:00"
   },
   {
     "page_id": "39da5230-de72-81cc-a94b-c2baacd3b543",
