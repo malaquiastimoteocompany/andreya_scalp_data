@@ -106447,11 +106447,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.6303,
-    "pnl_pct": 2.521,
-    "duracao_min": 3.3,
-    "data_resultado": "2026-07-14T03:23:40.616790+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.608,
+    "pnl_pct": 4.245,
+    "duracao_min": 9.8,
+    "data_resultado": "2026-07-14T03:30:08.056304+00:00"
   },
   {
     "page_id": "39da5230-de72-8141-ac14-f787c38009b7",
