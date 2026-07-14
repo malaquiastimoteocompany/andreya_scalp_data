@@ -132521,11 +132521,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 6.645,
-    "pnl_pct": 0.42,
-    "duracao_min": 30.9,
-    "data_resultado": "2026-07-14T20:30:59.575443+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 6.631,
+    "pnl_pct": 0.525,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-14T22:01:18.927424+00:00"
   },
   {
     "page_id": "39da5230-de72-8100-bf58-ceaaacb10ccf",
