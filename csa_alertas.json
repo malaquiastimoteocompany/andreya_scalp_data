@@ -101367,11 +101367,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.5275,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.534,
-    "pnl_pct": 0.261,
-    "duracao_min": 48.3,
-    "data_resultado": "2026-07-13T23:51:34.809543+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.542,
+    "pnl_pct": 0.523,
+    "duracao_min": 68.2,
+    "data_resultado": "2026-07-14T00:11:26.707130+00:00"
   },
   {
     "page_id": "39ca5230-de72-8146-aa4d-fd190f338c8d",
