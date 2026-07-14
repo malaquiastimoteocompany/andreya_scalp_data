@@ -115567,11 +115567,11 @@
     "estado_cfi": "E2",
     "zona_sr": 2.85942857,
     "toques_sr": 7,
-    "resultado": "TP Hit",
-    "preco_saida": 2.862,
-    "pnl_pct": 0.28,
-    "duracao_min": 19.0,
-    "data_resultado": "2026-07-14T10:41:32.297486+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 2.853,
+    "pnl_pct": 0.123,
+    "duracao_min": 23.1,
+    "data_resultado": "2026-07-14T10:45:38.537905+00:00"
   },
   {
     "page_id": "39da5230-de72-818b-91a0-f95f1e9c518c",
