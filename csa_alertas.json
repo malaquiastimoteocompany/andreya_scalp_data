@@ -114617,11 +114617,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.072445,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07273,
-    "pnl_pct": 0.567,
-    "duracao_min": 93.7,
-    "data_resultado": "2026-07-14T11:14:07.516763+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.07277,
+    "pnl_pct": 0.595,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-14T11:41:08.656217+00:00"
   },
   {
     "page_id": "39da5230-de72-81be-81cc-d7276cffe697",
