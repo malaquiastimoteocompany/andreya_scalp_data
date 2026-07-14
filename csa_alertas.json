@@ -134823,11 +134823,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06651143,
     "toques_sr": 7,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06715,
-    "pnl_pct": 0.569,
-    "duracao_min": 28.8,
-    "data_resultado": "2026-07-14T22:21:19.941983+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.06722,
+    "pnl_pct": 0.622,
+    "duracao_min": 37.7,
+    "data_resultado": "2026-07-14T22:30:15.478820+00:00"
   },
   {
     "page_id": "39da5230-de72-81cb-a487-c297f6777f62",
