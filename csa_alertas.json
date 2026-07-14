@@ -100679,11 +100679,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01639,
-    "pnl_pct": 0.614,
-    "duracao_min": 89.7,
-    "data_resultado": "2026-07-13T23:49:45.956278+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01654,
+    "pnl_pct": 1.074,
+    "duracao_min": 118.8,
+    "data_resultado": "2026-07-14T00:18:52.797275+00:00"
   },
   {
     "page_id": "39ca5230-de72-8164-b671-ef989722921f",
