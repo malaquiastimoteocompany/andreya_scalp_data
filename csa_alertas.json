@@ -131863,7 +131863,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.016985,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.01675,
+    "pnl_pct": -1.355,
+    "duracao_min": 64.0,
+    "data_resultado": "2026-07-14T20:23:59.510453+00:00"
   },
   {
     "page_id": "39da5230-de72-817f-806c-d2ace933f344",
