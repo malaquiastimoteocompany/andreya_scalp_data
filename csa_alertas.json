@@ -104459,11 +104459,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.48,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 6.45,
-    "pnl_pct": 0.524,
-    "duracao_min": 87.7,
-    "data_resultado": "2026-07-14T02:57:41.787391+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 6.442,
+    "pnl_pct": 0.586,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-14T03:31:13.367972+00:00"
   },
   {
     "page_id": "39da5230-de72-816d-824f-d919e61264d1",
