@@ -123829,11 +123829,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06355625,
     "toques_sr": 8,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.064,
-    "pnl_pct": 0.329,
-    "duracao_min": 52.1,
-    "data_resultado": "2026-07-14T15:12:10.717337+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06379,
+    "pnl_pct": 0.165,
+    "duracao_min": 92.9,
+    "data_resultado": "2026-07-14T15:52:58.366537+00:00"
   },
   {
     "page_id": "39da5230-de72-812e-a4fb-f653e2ecadb2",
