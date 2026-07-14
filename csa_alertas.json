@@ -111959,7 +111959,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.13957333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.13797,
+    "pnl_pct": -0.777,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-14T09:30:35.036063+00:00"
   },
   {
     "page_id": "39da5230-de72-8100-a3e9-f75b90a06b76",
