@@ -108423,7 +108423,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.177965,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.17949,
+    "pnl_pct": 0.363,
+    "duracao_min": 6.9,
+    "data_resultado": "2026-07-14T05:09:48.178205+00:00"
   },
   {
     "page_id": "39da5230-de72-81ac-b57e-fb9c5c7f94eb",
