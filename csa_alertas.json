@@ -124223,11 +124223,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.233,
-    "pnl_pct": 0.49,
-    "duracao_min": 37.5,
-    "data_resultado": "2026-07-14T15:15:10.830656+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.224,
+    "pnl_pct": 0.691,
+    "duracao_min": 116.3,
+    "data_resultado": "2026-07-14T16:33:55.632608+00:00"
   },
   {
     "page_id": "39da5230-de72-81f9-891b-f805c31c5e72",
