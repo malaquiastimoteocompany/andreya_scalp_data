@@ -124313,11 +124313,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.53825,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.57,
-    "pnl_pct": 0.734,
-    "duracao_min": 57.0,
-    "data_resultado": "2026-07-14T15:34:59.375962+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 3.573,
+    "pnl_pct": 0.776,
+    "duracao_min": 121.4,
+    "data_resultado": "2026-07-14T16:39:21.462305+00:00"
   },
   {
     "page_id": "39da5230-de72-81a9-aeec-ce6aa872cdeb",
