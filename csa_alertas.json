@@ -118565,11 +118565,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.223,
-    "pnl_pct": 0.845,
-    "duracao_min": 108.9,
-    "data_resultado": "2026-07-14T14:06:29.746094+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.2229,
+    "pnl_pct": 0.867,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-14T14:18:22.338453+00:00"
   },
   {
     "page_id": "39da5230-de72-816f-8008-da3bbcd54cc3",
