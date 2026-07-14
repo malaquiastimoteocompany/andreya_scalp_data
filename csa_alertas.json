@@ -121993,7 +121993,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.37575,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.3735,
+    "pnl_pct": 0.849,
+    "duracao_min": 36.3,
+    "data_resultado": "2026-07-14T14:05:10.760480+00:00"
   },
   {
     "page_id": "39da5230-de72-81ad-b98e-d44585b8b752",
