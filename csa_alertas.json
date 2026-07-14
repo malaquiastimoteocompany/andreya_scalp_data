@@ -126626,5 +126626,31 @@
     "zona_sr": 0.0254035,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-8185-b7d8-f7fb1f981748",
+    "token": "YGG",
+    "direccao": "LONG",
+    "preco_alerta": 0.02207,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00017286,
+    "tp1": 0.022139144,
+    "tp2": 0.02224286,
+    "sl": 0.02181071,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 6508105.0,
+    "spread_pct": 0.00045320643553136607,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-14T16:00:18.260704+00:00",
+    "rsi_1h": 69.63,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0219875,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
