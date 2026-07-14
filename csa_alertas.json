@@ -133581,11 +133581,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02819,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02825,
-    "pnl_pct": 0.427,
-    "duracao_min": 25.6,
-    "data_resultado": "2026-07-14T21:21:14.562642+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.0284,
+    "pnl_pct": 0.693,
+    "duracao_min": 31.1,
+    "data_resultado": "2026-07-14T21:26:43.833615+00:00"
   },
   {
     "page_id": "39da5230-de72-81c2-b259-e2ecaa0b3cba",
