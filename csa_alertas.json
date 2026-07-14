@@ -116399,11 +116399,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.45426667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.4676,
-    "pnl_pct": 0.759,
-    "duracao_min": 51.8,
-    "data_resultado": "2026-07-14T11:49:32.443228+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.4952,
+    "pnl_pct": 1.323,
+    "duracao_min": 70.3,
+    "data_resultado": "2026-07-14T12:07:57.953280+00:00"
   },
   {
     "page_id": "39da5230-de72-81b1-bf85-cffc15a0f852",
