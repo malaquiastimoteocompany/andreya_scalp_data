@@ -121579,11 +121579,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004872,
-    "pnl_pct": 0.47,
-    "duracao_min": 7.7,
-    "data_resultado": "2026-07-14T13:33:01.452121+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.004859,
+    "pnl_pct": 0.603,
+    "duracao_min": 39.6,
+    "data_resultado": "2026-07-14T14:04:53.078844+00:00"
   },
   {
     "page_id": "39da5230-de72-81d4-8a1c-da3bc7bcc5a6",
