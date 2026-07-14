@@ -125383,7 +125383,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 547.89,
+    "pnl_pct": -2.182,
+    "duracao_min": 89.3,
+    "data_resultado": "2026-07-14T16:49:18.923084+00:00"
   },
   {
     "page_id": "39da5230-de72-81cf-9c55-d0169c5655fe",
