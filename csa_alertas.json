@@ -114427,11 +114427,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.002068,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002078,
-    "pnl_pct": 0.63,
-    "duracao_min": 10.0,
-    "data_resultado": "2026-07-14T09:50:06.121041+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.00209,
+    "pnl_pct": 0.92,
+    "duracao_min": 11.5,
+    "data_resultado": "2026-07-14T09:51:35.550727+00:00"
   },
   {
     "page_id": "39da5230-de72-81c8-b965-c1560b133f43",
