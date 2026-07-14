@@ -133775,11 +133775,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.1097,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.1055,
-    "pnl_pct": 0.343,
-    "duracao_min": 62.0,
-    "data_resultado": "2026-07-14T22:04:34.361602+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.1105,
+    "pnl_pct": 0.117,
+    "duracao_min": 80.5,
+    "data_resultado": "2026-07-14T22:23:06.288111+00:00"
   },
   {
     "page_id": "39da5230-de72-8176-a4d9-f0dc93c2f30e",
