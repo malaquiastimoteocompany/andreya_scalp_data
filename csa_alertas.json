@@ -134133,7 +134133,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02052,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.02062,
+    "pnl_pct": 0.243,
+    "duracao_min": 65.6,
+    "data_resultado": "2026-07-14T22:21:07.415537+00:00"
   },
   {
     "page_id": "39da5230-de72-8175-8d3d-c0d42d6d746e",
