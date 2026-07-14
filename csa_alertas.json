@@ -132291,11 +132291,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06045,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06029,
-    "pnl_pct": 0.626,
-    "duracao_min": 22.1,
-    "data_resultado": "2026-07-14T20:12:33.565842+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06067,
+    "pnl_pct": 0.313,
+    "duracao_min": 35.0,
+    "data_resultado": "2026-07-14T20:25:27.908891+00:00"
   },
   {
     "page_id": "39da5230-de72-8114-9377-eced85a89299",
