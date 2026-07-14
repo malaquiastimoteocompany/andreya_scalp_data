@@ -103681,11 +103681,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.042775,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04279,
-    "pnl_pct": 0.399,
-    "duracao_min": 21.9,
-    "data_resultado": "2026-07-14T01:14:44.284507+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0426,
+    "pnl_pct": 0.176,
+    "duracao_min": 87.9,
+    "data_resultado": "2026-07-14T02:20:39.843856+00:00"
   },
   {
     "page_id": "39da5230-de72-81b2-a60a-d2abfaa24d2f",
