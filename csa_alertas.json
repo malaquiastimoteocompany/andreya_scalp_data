@@ -123107,11 +123107,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.809e-05,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 3.839e-05,
-    "pnl_pct": 0.419,
-    "duracao_min": 24.6,
-    "data_resultado": "2026-07-14T14:27:14.296999+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.86e-05,
+    "pnl_pct": 0.693,
+    "duracao_min": 60.0,
+    "data_resultado": "2026-07-14T15:02:38.746143+00:00"
   },
   {
     "page_id": "39da5230-de72-81a3-baaf-c6266c2f2b40",
