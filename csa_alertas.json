@@ -126227,7 +126227,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.001488,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.001471,
+    "pnl_pct": 1.209,
+    "duracao_min": 8.6,
+    "data_resultado": "2026-07-14T15:56:13.010234+00:00"
   },
   {
     "page_id": "39da5230-de72-8104-8fe4-decdcb763f0f",
