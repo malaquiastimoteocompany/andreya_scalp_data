@@ -130485,11 +130485,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.048335,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04873,
-    "pnl_pct": 0.412,
-    "duracao_min": 45.7,
-    "data_resultado": "2026-07-14T19:01:07.279393+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04861,
+    "pnl_pct": 0.288,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-14T20:15:31.800213+00:00"
   },
   {
     "page_id": "39da5230-de72-8122-94bd-cd666cf884e3",
