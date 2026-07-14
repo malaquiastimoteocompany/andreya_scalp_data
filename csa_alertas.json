@@ -116949,11 +116949,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.66866667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.682,
-    "pnl_pct": 0.574,
-    "duracao_min": 104.1,
-    "data_resultado": "2026-07-14T12:56:37.755154+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 3.694,
+    "pnl_pct": 0.738,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-14T13:12:51.664508+00:00"
   },
   {
     "page_id": "39da5230-de72-81d9-8972-cae0a40f3ecf",
