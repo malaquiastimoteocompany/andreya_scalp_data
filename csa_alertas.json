@@ -116887,11 +116887,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.091276,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.09189,
-    "pnl_pct": 0.547,
-    "duracao_min": 6.0,
-    "data_resultado": "2026-07-14T11:18:49.471679+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.09138,
+    "pnl_pct": 0.268,
+    "duracao_min": 13.2,
+    "data_resultado": "2026-07-14T11:26:05.678373+00:00"
   },
   {
     "page_id": "39da5230-de72-8125-803a-cdf9bf731c88",
