@@ -131721,11 +131721,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.37575,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3739,
-    "pnl_pct": 0.822,
-    "duracao_min": 11.1,
-    "data_resultado": "2026-07-14T19:29:11.499746+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.3778,
+    "pnl_pct": 0.305,
+    "duracao_min": 27.3,
+    "data_resultado": "2026-07-14T19:45:19.287872+00:00"
   },
   {
     "page_id": "39da5230-de72-812a-8392-ecc32cbddfdb",
