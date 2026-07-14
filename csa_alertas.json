@@ -106809,7 +106809,11 @@
     "estado_cfi": "E1",
     "zona_sr": 502.28,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 505.53,
+    "pnl_pct": 0.739,
+    "duracao_min": 26.3,
+    "data_resultado": "2026-07-14T04:03:52.169680+00:00"
   },
   {
     "page_id": "39da5230-de72-81a4-8728-e5d511e573aa",
