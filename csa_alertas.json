@@ -106187,11 +106187,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2243,
-    "pnl_pct": 2.233,
-    "duracao_min": 2.3,
-    "data_resultado": "2026-07-14T03:10:01.641274+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.2304,
+    "pnl_pct": 3.624,
+    "duracao_min": 6.3,
+    "data_resultado": "2026-07-14T03:14:04.420626+00:00"
   },
   {
     "page_id": "39da5230-de72-8106-896e-f34c1d50df99",
