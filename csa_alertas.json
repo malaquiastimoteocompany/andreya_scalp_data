@@ -100349,11 +100349,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.058485,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0587,
-    "pnl_pct": 0.703,
-    "duracao_min": 80.2,
-    "data_resultado": "2026-07-13T23:25:33.016822+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.05839,
+    "pnl_pct": 0.437,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-14T00:05:36.246560+00:00"
   },
   {
     "page_id": "39ca5230-de72-8161-8433-d986fd4a6fc4",
