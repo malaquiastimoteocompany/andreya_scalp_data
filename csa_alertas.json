@@ -107369,11 +107369,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.14605,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1472,
-    "pnl_pct": 0.409,
-    "duracao_min": 91.2,
-    "data_resultado": "2026-07-14T05:34:13.630994+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.1474,
+    "pnl_pct": 0.477,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-14T06:03:34.942292+00:00"
   },
   {
     "page_id": "39da5230-de72-81d9-983e-f1bdc7bd00db",
