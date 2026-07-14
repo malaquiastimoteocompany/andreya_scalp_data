@@ -111235,11 +111235,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0047435,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004753,
-    "pnl_pct": 0.21,
-    "duracao_min": 31.1,
-    "data_resultado": "2026-07-14T07:36:08.792864+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.004737,
+    "pnl_pct": 0.378,
+    "duracao_min": 114.6,
+    "data_resultado": "2026-07-14T08:59:36.157057+00:00"
   },
   {
     "page_id": "39da5230-de72-81a8-99b2-ffa64e259125",
