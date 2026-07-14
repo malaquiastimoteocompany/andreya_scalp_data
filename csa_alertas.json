@@ -105465,11 +105465,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08275,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08282,
-    "pnl_pct": 0.301,
-    "duracao_min": 21.3,
-    "data_resultado": "2026-07-14T02:34:16.165758+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.08311,
+    "pnl_pct": 0.126,
+    "duracao_min": 95.9,
+    "data_resultado": "2026-07-14T03:48:52.186761+00:00"
   },
   {
     "page_id": "39da5230-de72-813d-989b-f7c0c303a45b",
