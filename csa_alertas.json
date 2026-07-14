@@ -113250,5 +113250,31 @@
     "zona_sr": 0.00204925,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-81be-8e3f-dce3b50c5fb4",
+    "token": "ACH",
+    "direccao": "SHORT",
+    "preco_alerta": 0.004363,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 3.964e-05,
+    "tp1": 0.004347144,
+    "tp2": 0.00432336,
+    "sl": 0.00442246,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 47953933.0,
+    "spread_pct": 0.00022922636103135023,
+    "oi_usd": 2359682.847852,
+    "data_alerta": "2026-07-14T08:40:06.156215+00:00",
+    "rsi_1h": 49.12,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00438167,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
