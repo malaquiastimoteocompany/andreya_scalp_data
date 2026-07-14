@@ -132341,11 +132341,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00572933,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
+    "resultado": "Falhado",
     "preco_saida": 0.005748,
     "pnl_pct": 0.419,
-    "duracao_min": 110.0,
-    "data_resultado": "2026-07-14T21:35:18.406546+00:00"
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-14T21:46:14.419101+00:00"
   },
   {
     "page_id": "39da5230-de72-81af-9ddd-e2d2db5989dc",
