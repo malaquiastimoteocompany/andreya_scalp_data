@@ -111989,11 +111989,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.7555,
-    "pnl_pct": 0.356,
-    "duracao_min": 31.7,
-    "data_resultado": "2026-07-14T08:04:14.595144+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.7534,
+    "pnl_pct": 0.495,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-14T09:33:22.272677+00:00"
   },
   {
     "page_id": "39da5230-de72-8122-8e36-d423df5125e0",
