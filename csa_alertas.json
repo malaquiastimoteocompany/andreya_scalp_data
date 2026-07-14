@@ -121921,11 +121921,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04819,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04851,
-    "pnl_pct": 0.497,
-    "duracao_min": 66.4,
-    "data_resultado": "2026-07-14T14:34:42.953612+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.04865,
+    "pnl_pct": 0.642,
+    "duracao_min": 84.9,
+    "data_resultado": "2026-07-14T14:53:14.469610+00:00"
   },
   {
     "page_id": "39da5230-de72-81dc-a273-cab059d1ebb5",
