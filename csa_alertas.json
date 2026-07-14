@@ -134922,5 +134922,31 @@
     "zona_sr": 0.047835,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39da5230-de72-81e4-a5c6-d6c4ce07ce95",
+    "token": "SANTOS",
+    "direccao": "SHORT",
+    "preco_alerta": 0.5472,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": false,
+    "atr_1h": 0.01213571,
+    "tp1": 0.542345716,
+    "tp2": 0.53506429,
+    "sl": 0.565403565,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 5293729.0,
+    "spread_pct": 0.0007305936073058556,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-14T22:03:03.523938+00:00",
+    "rsi_1h": 74.3,
+    "funding_rate": -0.0385,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
