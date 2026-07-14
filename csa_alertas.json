@@ -122457,11 +122457,11 @@
     "estado_cfi": "E1",
     "zona_sr": 33.68,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 33.86,
-    "pnl_pct": 0.564,
-    "duracao_min": 45.9,
-    "data_resultado": "2026-07-14T14:21:25.737060+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 33.99,
+    "pnl_pct": 0.757,
+    "duracao_min": 85.1,
+    "data_resultado": "2026-07-14T15:00:38.272325+00:00"
   },
   {
     "page_id": "39da5230-de72-8189-a5b6-fff0d1aa3d85",
