@@ -106795,11 +106795,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06765,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0683,
-    "pnl_pct": 0.708,
-    "duracao_min": 21.7,
-    "data_resultado": "2026-07-14T03:56:49.284943+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06782,
+    "pnl_pct": 0.354,
+    "duracao_min": 51.9,
+    "data_resultado": "2026-07-14T04:27:01.619995+00:00"
   },
   {
     "page_id": "39da5230-de72-81de-bda5-f128a27f221b",
