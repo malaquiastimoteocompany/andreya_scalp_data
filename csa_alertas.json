@@ -123621,11 +123621,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.84e-06,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.8391e-06,
-    "pnl_pct": 0.459,
-    "duracao_min": 35.1,
-    "data_resultado": "2026-07-14T14:50:27.433786+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.8559e-06,
+    "pnl_pct": 0.165,
+    "duracao_min": 39.5,
+    "data_resultado": "2026-07-14T14:54:53.905487+00:00"
   },
   {
     "page_id": "39da5230-de72-81b1-aae9-ebfa6722b710",
