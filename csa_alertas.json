@@ -127543,11 +127543,11 @@
     "estado_cfi": "E1",
     "zona_sr": 44.875,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 44.71,
-    "pnl_pct": 0.334,
-    "duracao_min": 4.8,
-    "data_resultado": "2026-07-14T16:32:46.583148+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 44.48,
+    "pnl_pct": 0.591,
+    "duracao_min": 32.8,
+    "data_resultado": "2026-07-14T17:00:42.567539+00:00"
   },
   {
     "page_id": "39da5230-de72-811c-8d6d-dd42d5264ef0",
