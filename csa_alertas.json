@@ -123953,7 +123953,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 2.034,
+    "pnl_pct": 0.0,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-14T16:25:29.589471+00:00"
   },
   {
     "page_id": "39da5230-de72-812f-b590-df130c48e44d",
