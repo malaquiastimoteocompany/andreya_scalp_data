@@ -104353,7 +104353,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.23985,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.2324,
+    "pnl_pct": -3.488,
+    "duracao_min": 103.2,
+    "data_resultado": "2026-07-14T03:05:43.040345+00:00"
   },
   {
     "page_id": "39da5230-de72-8107-95e1-ca423baec473",
