@@ -140259,7 +140259,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.006002,
+    "pnl_pct": 0.481,
+    "duracao_min": 19.2,
+    "data_resultado": "2026-07-15T01:59:23.194610+00:00"
   },
   {
     "page_id": "39ea5230-de72-8176-acb5-c2bf7cb36d41",
