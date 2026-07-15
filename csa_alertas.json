@@ -141503,7 +141503,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.41485,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.4107,
+    "pnl_pct": 0.533,
+    "duracao_min": 23.7,
+    "data_resultado": "2026-07-15T02:51:31.453800+00:00"
   },
   {
     "page_id": "39ea5230-de72-8195-8449-dab466f2ce83",
