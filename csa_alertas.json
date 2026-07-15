@@ -141997,7 +141997,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.015518,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.01556,
+    "pnl_pct": 0.322,
+    "duracao_min": 74.6,
+    "data_resultado": "2026-07-15T03:57:35.519178+00:00"
   },
   {
     "page_id": "39ea5230-de72-8171-add2-eb0d8c9ad851",
