@@ -142447,7 +142447,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 552.52,
+    "pnl_pct": 0.404,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-15T05:03:57.566388+00:00"
   },
   {
     "page_id": "39ea5230-de72-811e-b1f0-f80dd8ddbbf6",
