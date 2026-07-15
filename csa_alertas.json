@@ -140273,11 +140273,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.23915,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2384,
-    "pnl_pct": 0.625,
-    "duracao_min": 48.5,
-    "data_resultado": "2026-07-15T02:19:02.567695+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2363,
+    "pnl_pct": 1.063,
+    "duracao_min": 72.4,
+    "data_resultado": "2026-07-15T02:42:51.453930+00:00"
   },
   {
     "page_id": "39ea5230-de72-81a2-a507-c2a201607826",
