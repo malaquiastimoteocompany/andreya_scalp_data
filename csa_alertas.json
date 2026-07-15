@@ -141023,11 +141023,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.55257143,
     "toques_sr": 7,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.56,
-    "pnl_pct": 0.386,
-    "duracao_min": 39.4,
-    "data_resultado": "2026-07-15T02:47:11.800979+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.566,
+    "pnl_pct": 0.579,
+    "duracao_min": 59.1,
+    "data_resultado": "2026-07-15T03:06:54.166197+00:00"
   },
   {
     "page_id": "39ea5230-de72-81ab-89b7-e21ba9287cfb",
