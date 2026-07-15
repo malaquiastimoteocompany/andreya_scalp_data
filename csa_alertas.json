@@ -140301,11 +140301,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01695,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01694,
-    "pnl_pct": 0.412,
-    "duracao_min": 12.0,
-    "data_resultado": "2026-07-15T01:52:24.615388+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.01704,
+    "pnl_pct": 0.118,
+    "duracao_min": 26.0,
+    "data_resultado": "2026-07-15T02:06:27.997213+00:00"
   },
   {
     "page_id": "39ea5230-de72-81c9-9b92-fefc815e971d",
