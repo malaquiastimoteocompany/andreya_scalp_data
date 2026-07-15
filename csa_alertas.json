@@ -143293,7 +143293,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.149495,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.1475,
+    "pnl_pct": 0.947,
+    "duracao_min": 85.6,
+    "data_resultado": "2026-07-15T05:11:16.443130+00:00"
   },
   {
     "page_id": "39ea5230-de72-8165-bf64-fe7ef8e47f8d",
