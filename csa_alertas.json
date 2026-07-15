@@ -141207,7 +141207,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.6495,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 3.633,
+    "pnl_pct": 0.547,
+    "duracao_min": 6.8,
+    "data_resultado": "2026-07-15T02:24:23.442086+00:00"
   },
   {
     "page_id": "39ea5230-de72-8148-9032-cf5c23478e79",
