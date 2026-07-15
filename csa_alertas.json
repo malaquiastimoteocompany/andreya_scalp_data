@@ -140834,5 +140834,31 @@
     "zona_sr": 34.23333333,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ea5230-de72-8159-abfb-fe0e5f339474",
+    "token": "ATOM",
+    "direccao": "LONG",
+    "preco_alerta": 1.554,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.01057143,
+    "tp1": 1.558228572,
+    "tp2": 1.56457143,
+    "sl": 1.538142855,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 12617560.0,
+    "spread_pct": 0.00064370775667854,
+    "oi_usd": 4220418.9783,
+    "data_alerta": "2026-07-15T02:07:45.563961+00:00",
+    "rsi_1h": 52.81,
+    "funding_rate": -0.0083,
+    "estado_cfi": "E1",
+    "zona_sr": 1.55257143,
+    "toques_sr": 7,
+    "resultado": "Pendente"
   }
 ]
