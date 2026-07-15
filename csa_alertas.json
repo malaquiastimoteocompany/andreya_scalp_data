@@ -140717,11 +140717,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00453233,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004507,
-    "pnl_pct": 0.661,
-    "duracao_min": 17.9,
-    "data_resultado": "2026-07-15T02:20:48.311623+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.00447,
+    "pnl_pct": 1.069,
+    "duracao_min": 19.5,
+    "data_resultado": "2026-07-15T02:22:21.286636+00:00"
   },
   {
     "page_id": "39ea5230-de72-81da-9745-fb424baf61ba",
