@@ -135547,11 +135547,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.002027,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002041,
-    "pnl_pct": 0.542,
-    "duracao_min": 25.1,
-    "data_resultado": "2026-07-14T22:35:12.097295+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.002036,
+    "pnl_pct": 0.419,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-15T00:10:41.234286+00:00"
   },
   {
     "page_id": "39da5230-de72-8188-b783-c40942c86be7",
