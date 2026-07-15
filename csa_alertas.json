@@ -140973,11 +140973,11 @@
     "estado_cfi": "E1",
     "zona_sr": 34.23333333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 34.5,
-    "pnl_pct": 0.407,
-    "duracao_min": 9.2,
-    "data_resultado": "2026-07-15T02:14:56.695986+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 34.36,
+    "pnl_pct": 0.204,
+    "duracao_min": 49.7,
+    "data_resultado": "2026-07-15T02:55:31.867688+00:00"
   },
   {
     "page_id": "39ea5230-de72-8159-abfb-fe0e5f339474",
