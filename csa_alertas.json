@@ -140609,7 +140609,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07509,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.07671,
+    "pnl_pct": -1.764,
+    "duracao_min": 22.7,
+    "data_resultado": "2026-07-15T02:20:43.918058+00:00"
   },
   {
     "page_id": "39ea5230-de72-8160-9043-e54b5d56b79a",
