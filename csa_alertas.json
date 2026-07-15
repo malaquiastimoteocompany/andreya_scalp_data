@@ -137587,11 +137587,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0164425,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01647,
-    "pnl_pct": 0.611,
-    "duracao_min": 110.1,
-    "data_resultado": "2026-07-15T01:33:00.788425+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.01645,
+    "pnl_pct": 0.55,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-15T01:43:24.234922+00:00"
   },
   {
     "page_id": "39da5230-de72-816b-ae8f-e361e03a03be",
