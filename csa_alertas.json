@@ -138061,11 +138061,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.026715,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02661,
-    "pnl_pct": 0.3,
-    "duracao_min": 0.9,
-    "data_resultado": "2026-07-15T00:11:02.016233+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.02669,
+    "pnl_pct": 0.15,
+    "duracao_min": 78.7,
+    "data_resultado": "2026-07-15T01:28:48.836493+00:00"
   },
   {
     "page_id": "39ea5230-de72-81d4-a21c-e2c31cddb840",
