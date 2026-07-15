@@ -140789,11 +140789,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00440575,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004403,
-    "pnl_pct": 0.385,
-    "duracao_min": 41.0,
-    "data_resultado": "2026-07-15T02:41:17.589141+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004421,
+    "pnl_pct": 0.181,
+    "duracao_min": 111.3,
+    "data_resultado": "2026-07-15T03:51:32.727632+00:00"
   },
   {
     "page_id": "39ea5230-de72-81b3-80ff-eddc641bf556",
