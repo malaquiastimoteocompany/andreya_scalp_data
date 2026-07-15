@@ -143571,11 +143571,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.23563333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2355,
-    "pnl_pct": 0.549,
-    "duracao_min": 9.8,
-    "data_resultado": "2026-07-15T04:07:54.284768+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2374,
+    "pnl_pct": 0.148,
+    "duracao_min": 54.7,
+    "data_resultado": "2026-07-15T04:52:45.612880+00:00"
   },
   {
     "page_id": "39ea5230-de72-815b-b89f-c3cb4d0cbdba",
