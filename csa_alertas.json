@@ -141279,11 +141279,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.084045,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08334,
-    "pnl_pct": 0.383,
-    "duracao_min": 9.2,
-    "data_resultado": "2026-07-15T02:24:19.232694+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.08373,
+    "pnl_pct": 0.149,
+    "duracao_min": 93.5,
+    "data_resultado": "2026-07-15T03:48:36.417670+00:00"
   },
   {
     "page_id": "39ea5230-de72-81ec-a786-c4996685c075",
