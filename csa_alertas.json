@@ -142715,11 +142715,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.356615,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.36026,
-    "pnl_pct": 1.485,
-    "duracao_min": 8.1,
-    "data_resultado": "2026-07-15T03:25:47.085544+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.35496,
+    "pnl_pct": 0.738,
+    "duracao_min": 24.1,
+    "data_resultado": "2026-07-15T03:41:45.130588+00:00"
   },
   {
     "page_id": "39ea5230-de72-8179-b878-fb21bd45cdee",
