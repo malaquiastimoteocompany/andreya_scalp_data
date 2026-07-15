@@ -141787,11 +141787,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.779e-05,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.796e-05,
-    "pnl_pct": 0.37,
-    "duracao_min": 57.0,
-    "data_resultado": "2026-07-15T03:29:43.193439+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 3.788e-05,
+    "pnl_pct": 0.264,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-15T04:33:08.656297+00:00"
   },
   {
     "page_id": "39ea5230-de72-8169-acd5-ee3a494b7db9",
