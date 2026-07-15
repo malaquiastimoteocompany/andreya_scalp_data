@@ -142732,5 +142732,31 @@
     "zona_sr": 0.6245,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ea5230-de72-8160-a91a-fe4cc443b3f8",
+    "token": "NGAS",
+    "direccao": "LONG",
+    "preco_alerta": 2.874,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.01778571,
+    "tp1": 2.881114284,
+    "tp2": 2.89178571,
+    "sl": 2.847321435,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=0/1 | cfi=1/1",
+    "volume_24h": 8110635.0,
+    "spread_pct": 0.0003480076561683974,
+    "oi_usd": 3149492.0613000006,
+    "data_alerta": "2026-07-15T03:27:32.691722+00:00",
+    "rsi_1h": 52.51,
+    "funding_rate": 0.006,
+    "estado_cfi": "E2",
+    "zona_sr": 2.8663,
+    "toques_sr": 10,
+    "resultado": "Pendente"
   }
 ]
