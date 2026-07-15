@@ -138367,11 +138367,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.10725,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1052,
-    "pnl_pct": 1.59,
-    "duracao_min": 20.9,
-    "data_resultado": "2026-07-15T00:36:07.767952+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1027,
+    "pnl_pct": 2.76,
+    "duracao_min": 56.2,
+    "data_resultado": "2026-07-15T01:11:25.052832+00:00"
   },
   {
     "page_id": "39ea5230-de72-8145-aa8e-d5344b149b90",
