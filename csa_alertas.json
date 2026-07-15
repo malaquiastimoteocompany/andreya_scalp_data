@@ -140722,5 +140722,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ea5230-de72-8137-a98e-d4e0ca336217",
+    "token": "RVN",
+    "direccao": "SHORT",
+    "preco_alerta": 0.003813,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 3.586e-05,
+    "tp1": 0.003798656,
+    "tp2": 0.00377714,
+    "sl": 0.00386679,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 27699132.0,
+    "spread_pct": 0.0007868852459016301,
+    "oi_usd": 3655627.80498,
+    "data_alerta": "2026-07-15T02:05:13.694076+00:00",
+    "rsi_1h": 58.65,
+    "funding_rate": 0.0003,
+    "estado_cfi": "E1",
+    "zona_sr": 0.003821,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
