@@ -137463,11 +137463,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.10086667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1016,
-    "pnl_pct": 0.495,
-    "duracao_min": 17.7,
-    "data_resultado": "2026-07-14T23:55:14.508779+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1022,
+    "pnl_pct": 0.791,
+    "duracao_min": 106.8,
+    "data_resultado": "2026-07-15T01:24:17.661913+00:00"
   },
   {
     "page_id": "39da5230-de72-8165-aba1-d0ff43575228",
