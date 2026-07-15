@@ -142397,11 +142397,11 @@
     "estado_cfi": "E1",
     "zona_sr": 44.88,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 44.81,
-    "pnl_pct": 0.313,
-    "duracao_min": 12.9,
-    "data_resultado": "2026-07-15T03:18:27.004930+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 44.99,
+    "pnl_pct": 0.515,
+    "duracao_min": 26.0,
+    "data_resultado": "2026-07-15T03:31:30.173014+00:00"
   },
   {
     "page_id": "39ea5230-de72-81c7-9833-df4cde2b0dfc",
