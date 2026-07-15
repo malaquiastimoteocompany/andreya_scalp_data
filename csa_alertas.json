@@ -138955,11 +138955,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01363333,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01369,
-    "pnl_pct": 0.514,
-    "duracao_min": 53.1,
-    "data_resultado": "2026-07-15T01:33:13.915823+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01362,
+    "pnl_pct": 0.257,
+    "duracao_min": 61.7,
+    "data_resultado": "2026-07-15T01:41:53.821129+00:00"
   },
   {
     "page_id": "39ea5230-de72-81c7-98b0-e1405b6542fa",
