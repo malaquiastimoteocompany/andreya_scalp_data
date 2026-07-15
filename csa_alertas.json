@@ -143919,11 +143919,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.41695,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.4132,
-    "pnl_pct": 0.721,
-    "duracao_min": 9.0,
-    "data_resultado": "2026-07-15T04:24:08.692772+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.4097,
+    "pnl_pct": 1.141,
+    "duracao_min": 15.2,
+    "data_resultado": "2026-07-15T04:30:19.103566+00:00"
   },
   {
     "page_id": "39ea5230-de72-814e-be78-d1da93e1c3ce",
