@@ -140991,11 +140991,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.048995,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0486,
-    "pnl_pct": 0.389,
-    "duracao_min": 34.2,
-    "data_resultado": "2026-07-15T02:39:46.536065+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0488,
+    "pnl_pct": 0.184,
+    "duracao_min": 103.0,
+    "data_resultado": "2026-07-15T03:48:31.228544+00:00"
   },
   {
     "page_id": "39ea5230-de72-81b9-9596-d9d3f350f5a8",
