@@ -139339,11 +139339,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 178.22,
-    "pnl_pct": 0.691,
-    "duracao_min": 1.8,
-    "data_resultado": "2026-07-15T01:02:15.521664+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 176.75,
+    "pnl_pct": 1.101,
+    "duracao_min": 11.2,
+    "data_resultado": "2026-07-15T01:11:42.184171+00:00"
   },
   {
     "page_id": "39ea5230-de72-81dd-bf9a-dd31c8c83521",
