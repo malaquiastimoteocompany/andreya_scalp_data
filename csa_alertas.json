@@ -135885,11 +135885,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.68785714,
     "toques_sr": 7,
-    "resultado": "TP Tardio",
-    "preco_saida": 6.702,
-    "pnl_pct": 0.48,
-    "duracao_min": 91.0,
-    "data_resultado": "2026-07-14T23:53:33.533423+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 6.736,
+    "pnl_pct": 0.735,
+    "duracao_min": 98.2,
+    "data_resultado": "2026-07-15T00:00:45.627480+00:00"
   },
   {
     "page_id": "39da5230-de72-81c1-a978-dacc864d1ebf",
