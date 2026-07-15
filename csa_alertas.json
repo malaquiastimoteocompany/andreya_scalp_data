@@ -143371,11 +143371,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 8.356,
-    "pnl_pct": 0.348,
-    "duracao_min": 13.7,
-    "data_resultado": "2026-07-15T04:06:28.740791+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 8.32,
+    "pnl_pct": 0.132,
+    "duracao_min": 37.3,
+    "data_resultado": "2026-07-15T04:30:01.534212+00:00"
   },
   {
     "page_id": "39ea5230-de72-816a-9475-f274ef5b6ba2",
