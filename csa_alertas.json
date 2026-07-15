@@ -143789,11 +143789,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 180.62,
-    "pnl_pct": 0.424,
-    "duracao_min": 11.1,
-    "data_resultado": "2026-07-15T04:16:38.947890+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 179.51,
+    "pnl_pct": 0.73,
+    "duracao_min": 58.6,
+    "data_resultado": "2026-07-15T05:04:12.541156+00:00"
   },
   {
     "page_id": "39ea5230-de72-8196-85fd-f76155e4e197",
