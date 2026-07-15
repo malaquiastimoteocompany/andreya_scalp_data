@@ -143083,7 +143083,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.409575,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.415,
+    "pnl_pct": 1.047,
+    "duracao_min": 22.0,
+    "data_resultado": "2026-07-15T04:02:04.939804+00:00"
   },
   {
     "page_id": "39ea5230-de72-818f-bdeb-e2cb8e57dd78",
