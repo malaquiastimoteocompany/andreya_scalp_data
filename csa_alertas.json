@@ -143095,11 +143095,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00607475,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.006022,
-    "pnl_pct": 0.38,
-    "duracao_min": 51.6,
-    "data_resultado": "2026-07-15T04:26:50.033701+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.006066,
+    "pnl_pct": 0.017,
+    "duracao_min": 63.6,
+    "data_resultado": "2026-07-15T04:38:50.732015+00:00"
   },
   {
     "page_id": "39ea5230-de72-8173-bd6b-fb5258168c20",
