@@ -135683,11 +135683,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.476,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 3.497,
-    "pnl_pct": 0.72,
-    "duracao_min": 6.3,
-    "data_resultado": "2026-07-14T22:21:45.084369+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.47,
+    "pnl_pct": 0.331,
+    "duracao_min": 105.2,
+    "data_resultado": "2026-07-15T00:00:39.646019+00:00"
   },
   {
     "page_id": "39da5230-de72-81a5-99fa-ea71f60cb6a3",
