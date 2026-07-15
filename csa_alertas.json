@@ -141757,11 +141757,11 @@
     "estado_cfi": "E1",
     "zona_sr": 4.21e-06,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 4.214e-06,
-    "pnl_pct": 0.333,
-    "duracao_min": 58.8,
-    "data_resultado": "2026-07-15T03:31:20.279702+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 4.21e-06,
+    "pnl_pct": 0.286,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-15T04:33:04.649483+00:00"
   },
   {
     "page_id": "39ea5230-de72-8168-98fd-d6ea40a632a8",
