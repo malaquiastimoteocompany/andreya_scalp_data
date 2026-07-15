@@ -142953,11 +142953,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1464,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.148,
-    "pnl_pct": 0.68,
-    "duracao_min": 6.5,
-    "data_resultado": "2026-07-15T03:34:41.664715+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1497,
+    "pnl_pct": 1.259,
+    "duracao_min": 72.0,
+    "data_resultado": "2026-07-15T04:40:12.051621+00:00"
   },
   {
     "page_id": "39ea5230-de72-8184-8c5a-f53215a237e1",
