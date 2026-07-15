@@ -142581,11 +142581,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02905,
-    "pnl_pct": 2.073,
-    "duracao_min": 5.7,
-    "data_resultado": "2026-07-15T03:18:32.470122+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.02844,
+    "pnl_pct": 1.001,
+    "duracao_min": 31.6,
+    "data_resultado": "2026-07-15T03:44:31.098981+00:00"
   },
   {
     "page_id": "39ea5230-de72-81e7-949a-d7da12a3ed57",
