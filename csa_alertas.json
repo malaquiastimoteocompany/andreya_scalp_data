@@ -139597,11 +139597,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.003934,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.003904,
-    "pnl_pct": 0.484,
-    "duracao_min": 99.5,
-    "data_resultado": "2026-07-15T02:42:40.886452+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.00391,
+    "pnl_pct": 0.408,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-15T03:03:50.860481+00:00"
   },
   {
     "page_id": "39ea5230-de72-8149-a3a0-d13b32ed1516",
