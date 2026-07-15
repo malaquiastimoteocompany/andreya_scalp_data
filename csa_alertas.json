@@ -136581,11 +136581,11 @@
     "estado_cfi": "E1",
     "zona_sr": 65.7775,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 65.422,
-    "pnl_pct": 0.611,
-    "duracao_min": 41.0,
-    "data_resultado": "2026-07-14T23:33:39.426237+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 65.848,
+    "pnl_pct": 0.287,
+    "duracao_min": 107.7,
+    "data_resultado": "2026-07-15T00:40:18.076015+00:00"
   },
   {
     "page_id": "39da5230-de72-8175-953c-f00d10d3c5b4",
