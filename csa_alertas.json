@@ -137973,7 +137973,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.007848,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.007815,
+    "pnl_pct": 0.787,
+    "duracao_min": 11.1,
+    "data_resultado": "2026-07-15T00:21:23.679738+00:00"
   },
   {
     "page_id": "39ea5230-de72-81da-a376-f1c3acb74d5f",
