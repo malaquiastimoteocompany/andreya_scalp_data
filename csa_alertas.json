@@ -140497,11 +140497,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.15,
-    "pnl_pct": 0.912,
-    "duracao_min": 13.7,
-    "data_resultado": "2026-07-15T01:56:37.705836+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.14877,
+    "pnl_pct": 1.318,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-15T03:44:12.200387+00:00"
   },
   {
     "page_id": "39ea5230-de72-8144-9d5b-d30e8867a671",
