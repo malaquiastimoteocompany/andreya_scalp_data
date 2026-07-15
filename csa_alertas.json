@@ -141583,7 +141583,11 @@
     "estado_cfi": "E1",
     "zona_sr": 98.265,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 98.57,
+    "pnl_pct": 0.479,
+    "duracao_min": 43.8,
+    "data_resultado": "2026-07-15T03:14:08.438923+00:00"
   },
   {
     "page_id": "39ea5230-de72-81d1-85cc-f575ec8695f4",
