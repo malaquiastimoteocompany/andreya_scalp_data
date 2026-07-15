@@ -137347,11 +137347,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00436517,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004386,
-    "pnl_pct": 0.897,
-    "duracao_min": 105.2,
-    "data_resultado": "2026-07-15T01:12:53.977566+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.004387,
+    "pnl_pct": 0.909,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-15T01:28:40.912422+00:00"
   },
   {
     "page_id": "39da5230-de72-8115-928d-ede7b1871c3b",
