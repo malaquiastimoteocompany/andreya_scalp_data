@@ -137199,7 +137199,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.7832625,
     "toques_sr": 8,
-    "resultado": "Pendente"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.7844,
+    "pnl_pct": 0.248,
+    "duracao_min": 103.5,
+    "data_resultado": "2026-07-15T01:03:32.133462+00:00"
   },
   {
     "page_id": "39da5230-de72-8160-8190-cbab0eb82b1c",
