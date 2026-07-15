@@ -142473,11 +142473,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02582,
-    "pnl_pct": 3.657,
-    "duracao_min": 79.6,
-    "data_resultado": "2026-07-15T04:22:18.057572+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.02714,
+    "pnl_pct": 1.194,
+    "duracao_min": 118.2,
+    "data_resultado": "2026-07-15T05:00:58.419599+00:00"
   },
   {
     "page_id": "39ea5230-de72-8104-9819-e9a2b50b2f7b",
