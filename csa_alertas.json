@@ -139949,11 +139949,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07440333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07494,
-    "pnl_pct": 0.564,
-    "duracao_min": 23.2,
-    "data_resultado": "2026-07-15T01:43:51.235917+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.07544,
+    "pnl_pct": 0.899,
+    "duracao_min": 33.3,
+    "data_resultado": "2026-07-15T01:53:56.304337+00:00"
   },
   {
     "page_id": "39ea5230-de72-8176-bd5f-cc2e12f9e7dd",
