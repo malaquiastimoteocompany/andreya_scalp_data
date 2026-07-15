@@ -139224,5 +139224,31 @@
     "zona_sr": 0.3793,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ea5230-de72-8177-84c5-e1ca4344a4b9",
+    "token": "ZEC",
+    "direccao": "SHORT",
+    "preco_alerta": 555.35,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 12.41571429,
+    "tp1": 550.383714284,
+    "tp2": 542.93428571,
+    "sl": 573.973571435,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 35212178.0,
+    "spread_pct": 0.0003780956582015905,
+    "oi_usd": 52012337.404199995,
+    "data_alerta": "2026-07-15T01:00:06.163291+00:00",
+    "rsi_1h": 67.6,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
