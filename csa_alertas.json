@@ -144239,11 +144239,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.100775,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1015,
-    "pnl_pct": 0.396,
-    "duracao_min": 17.3,
-    "data_resultado": "2026-07-15T04:47:25.328351+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.101,
+    "pnl_pct": 0.148,
+    "duracao_min": 32.4,
+    "data_resultado": "2026-07-15T05:02:35.593231+00:00"
   },
   {
     "page_id": "39ea5230-de72-817d-924c-ca157d404ffc",
