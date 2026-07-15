@@ -141573,7 +141573,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00449667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.004463,
+    "pnl_pct": 0.491,
+    "duracao_min": 14.0,
+    "data_resultado": "2026-07-15T02:44:31.235281+00:00"
   },
   {
     "page_id": "39ea5230-de72-8181-84a2-cdb067a601b0",
