@@ -140799,11 +140799,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.003821,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.003785,
-    "pnl_pct": 0.734,
-    "duracao_min": 13.9,
-    "data_resultado": "2026-07-15T02:19:10.714898+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.003774,
+    "pnl_pct": 0.879,
+    "duracao_min": 15.6,
+    "data_resultado": "2026-07-15T02:20:52.942019+00:00"
   },
   {
     "page_id": "39ea5230-de72-8178-9372-f4691c9d7c17",
