@@ -143413,11 +143413,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.21152,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2114,
-    "pnl_pct": 0.38,
-    "duracao_min": 1.7,
-    "data_resultado": "2026-07-15T03:54:53.886310+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.2106,
+    "pnl_pct": 0.19,
+    "duracao_min": 23.3,
+    "data_resultado": "2026-07-15T04:16:33.052164+00:00"
   },
   {
     "page_id": "39ea5230-de72-811f-936a-cb36c907c5f4",
