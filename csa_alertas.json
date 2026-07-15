@@ -139749,11 +139749,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.017582,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01767,
-    "pnl_pct": 0.284,
-    "duracao_min": 16.4,
-    "data_resultado": "2026-07-15T01:29:05.091474+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.01762,
+    "pnl_pct": 0.142,
+    "duracao_min": 29.5,
+    "data_resultado": "2026-07-15T01:42:07.291819+00:00"
   },
   {
     "page_id": "39ea5230-de72-8136-b1a0-c6b2b222343e",
