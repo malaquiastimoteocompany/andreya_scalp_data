@@ -141277,11 +141277,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.029245,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02901,
-    "pnl_pct": 0.412,
-    "duracao_min": 9.5,
-    "data_resultado": "2026-07-15T02:22:28.727449+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.02894,
+    "pnl_pct": 0.532,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-15T04:13:27.896198+00:00"
   },
   {
     "page_id": "39ea5230-de72-81ed-ac96-cdc57f41b62f",
