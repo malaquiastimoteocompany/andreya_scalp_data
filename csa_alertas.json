@@ -138727,11 +138727,11 @@
     "estado_cfi": "E1",
     "zona_sr": 99.405,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 98.76,
-    "pnl_pct": 0.504,
-    "duracao_min": 76.6,
-    "data_resultado": "2026-07-15T01:41:46.795997+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 98.0,
+    "pnl_pct": 0.887,
+    "duracao_min": 121.8,
+    "data_resultado": "2026-07-15T02:27:00.116695+00:00"
   },
   {
     "page_id": "39ea5230-de72-81d8-97f0-d5c6c71f7ef5",
