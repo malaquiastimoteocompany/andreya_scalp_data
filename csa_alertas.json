@@ -138115,11 +138115,11 @@
     "estado_cfi": "E1",
     "zona_sr": 200.47,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 199.77,
-    "pnl_pct": 0.483,
-    "duracao_min": 53.5,
-    "data_resultado": "2026-07-15T01:03:42.252393+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 198.28,
+    "pnl_pct": 0.854,
+    "duracao_min": 111.9,
+    "data_resultado": "2026-07-15T02:02:03.333599+00:00"
   },
   {
     "page_id": "39ea5230-de72-8108-8376-f4f6a418a155",
