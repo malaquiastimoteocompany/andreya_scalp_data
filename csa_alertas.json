@@ -139810,5 +139810,31 @@
     "zona_sr": 0.62555,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "39ea5230-de72-81bc-99ff-c57f7bd61ce1",
+    "token": "MANTA",
+    "direccao": "SHORT",
+    "preco_alerta": 0.06064,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00071929,
+    "tp1": 0.060352284,
+    "tp2": 0.05992071,
+    "sl": 0.061718935,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 7007706.0,
+    "spread_pct": 0.00016505735743164353,
+    "oi_usd": 6778048.13331,
+    "data_alerta": "2026-07-15T01:20:27.125835+00:00",
+    "rsi_1h": 61.5,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.06045,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
