@@ -139919,11 +139919,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 44.93,
-    "pnl_pct": 0.355,
-    "duracao_min": 37.9,
-    "data_resultado": "2026-07-15T01:50:47.085135+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 44.68,
+    "pnl_pct": 0.632,
+    "duracao_min": 111.1,
+    "data_resultado": "2026-07-15T03:03:59.009402+00:00"
   },
   {
     "page_id": "39ea5230-de72-81d7-a3a9-d18e117d3c84",
