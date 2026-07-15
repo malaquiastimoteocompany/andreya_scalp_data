@@ -141843,7 +141843,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 62.49,
+    "pnl_pct": 0.563,
+    "duracao_min": 60.4,
+    "data_resultado": "2026-07-15T03:35:56.755204+00:00"
   },
   {
     "page_id": "39ea5230-de72-81ce-93b4-ee5baa0b9b94",
