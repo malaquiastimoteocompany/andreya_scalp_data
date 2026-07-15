@@ -138187,11 +138187,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.567,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.569,
-    "pnl_pct": 0.448,
-    "duracao_min": 15.2,
-    "data_resultado": "2026-07-15T00:25:41.801598+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.565,
+    "pnl_pct": 0.32,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-15T02:11:47.839366+00:00"
   },
   {
     "page_id": "39ea5230-de72-81ce-b690-ed3843acac87",
