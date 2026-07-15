@@ -142141,11 +142141,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.006007,
-    "pnl_pct": 0.447,
-    "duracao_min": 8.1,
-    "data_resultado": "2026-07-15T02:55:48.912528+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.006044,
+    "pnl_pct": 0.141,
+    "duracao_min": 46.8,
+    "data_resultado": "2026-07-15T03:34:31.432988+00:00"
   },
   {
     "page_id": "39ea5230-de72-8173-8484-e482cbeea078",
