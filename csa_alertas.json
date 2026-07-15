@@ -137695,11 +137695,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 6.715,
-    "pnl_pct": 0.43,
-    "duracao_min": 5.0,
-    "data_resultado": "2026-07-15T00:07:36.350881+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 6.667,
+    "pnl_pct": 0.786,
+    "duracao_min": 28.9,
+    "data_resultado": "2026-07-15T00:31:28.173354+00:00"
   },
   {
     "page_id": "39ea5230-de72-8194-92e0-c1bc3f37495e",
