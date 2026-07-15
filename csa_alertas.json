@@ -139799,7 +139799,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00600286,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.005999,
+    "pnl_pct": 0.435,
+    "duracao_min": 7.1,
+    "data_resultado": "2026-07-15T01:24:51.763008+00:00"
   },
   {
     "page_id": "39ea5230-de72-8175-8437-df74becc1fd4",
