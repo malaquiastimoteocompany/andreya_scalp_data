@@ -137663,11 +137663,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.31533333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 3.289,
-    "pnl_pct": 0.814,
-    "duracao_min": 14.1,
-    "data_resultado": "2026-07-15T00:09:30.271089+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.321,
+    "pnl_pct": 0.332,
+    "duracao_min": 45.1,
+    "data_resultado": "2026-07-15T00:40:29.749700+00:00"
   },
   {
     "page_id": "39ea5230-de72-81d2-b0ff-c9537facf464",
