@@ -141873,7 +141873,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.075886,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.07607,
+    "pnl_pct": 0.608,
+    "duracao_min": 26.5,
+    "data_resultado": "2026-07-15T03:07:05.368010+00:00"
   },
   {
     "page_id": "39ea5230-de72-81ce-9ede-cd24a7b1e0ad",
