@@ -143065,11 +143065,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3254725,
     "toques_sr": 8,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3271,
-    "pnl_pct": 0.098,
-    "duracao_min": 24.9,
-    "data_resultado": "2026-07-15T04:00:37.610476+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.32676,
+    "pnl_pct": 0.046,
+    "duracao_min": 30.7,
+    "data_resultado": "2026-07-15T04:06:23.256750+00:00"
   },
   {
     "page_id": "39ea5230-de72-810a-bd1d-f855b4b2f069",
