@@ -141637,11 +141637,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.10173333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.1028,
-    "pnl_pct": 0.309,
-    "duracao_min": 64.2,
-    "data_resultado": "2026-07-15T03:34:18.261220+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.1018,
+    "pnl_pct": 0.264,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-15T04:31:25.636762+00:00"
   },
   {
     "page_id": "39ea5230-de72-8109-8d74-c4a28f6f52bc",
