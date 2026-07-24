@@ -491227,7 +491227,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01381333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.01436,
+    "pnl_pct": -3.757,
+    "duracao_min": 15.3,
+    "data_resultado": "2026-07-24T22:42:06.556094+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8154-8b03-df926b567d79",
