@@ -488919,7 +488919,11 @@
     "estado_cfi": "E1",
     "zona_sr": 46.05333333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "BE Tardio",
+    "preco_saida": 46.16,
+    "pnl_pct": 0.13,
+    "duracao_min": 77.7,
+    "data_resultado": "2026-07-24T21:49:46.538543+00:00"
   },
   {
     "page_id": "3a7a5230-de72-812b-84f3-c62e230af115",
