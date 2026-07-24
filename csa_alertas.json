@@ -487927,11 +487927,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08351,
-    "pnl_pct": 0.382,
-    "duracao_min": 59.5,
-    "data_resultado": "2026-07-24T20:48:49.223196+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.08341,
+    "pnl_pct": 0.441,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-24T21:49:27.344306+00:00"
   },
   {
     "page_id": "3a7a5230-de72-814d-9ad4-d051e94af7e3",
