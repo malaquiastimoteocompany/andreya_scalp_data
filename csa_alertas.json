@@ -489192,5 +489192,31 @@
     "zona_sr": 0.72655,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a7a5230-de72-8187-829a-f57cc4c20b9a",
+    "token": "WLFI",
+    "direccao": "SHORT",
+    "preco_alerta": 0.05709,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00072571,
+    "tp1": 0.056799716,
+    "tp2": 0.056364290000000004,
+    "sl": 0.058178565,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 65548695.0,
+    "spread_pct": 0.00017514668534891187,
+    "oi_usd": 3935178.53424,
+    "data_alerta": "2026-07-24T20:54:21.049574+00:00",
+    "rsi_1h": 44.69,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.05709857,
+    "toques_sr": 7,
+    "resultado": "Pendente"
   }
 ]
