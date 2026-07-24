@@ -485835,11 +485835,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.7101,
-    "pnl_pct": 0.351,
-    "duracao_min": 26.3,
-    "data_resultado": "2026-07-24T18:30:46.610936+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.7106,
+    "pnl_pct": 0.316,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-24T20:05:36.816984+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8195-8e12-f6dc8e21ca8d",
