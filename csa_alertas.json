@@ -489213,7 +489213,11 @@
     "estado_cfi": "E1",
     "zona_sr": 206.3475,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 206.85,
+    "pnl_pct": -0.019,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-24T22:43:34.250825+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8113-b4b8-c4fbbb378416",
