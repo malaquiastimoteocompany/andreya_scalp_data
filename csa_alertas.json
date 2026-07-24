@@ -487871,7 +487871,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.071275,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.0717,
+    "pnl_pct": 0.519,
+    "duracao_min": 17.8,
+    "data_resultado": "2026-07-24T20:17:07.136809+00:00"
   },
   {
     "page_id": "3a7a5230-de72-81c1-aa69-d597630c98b4",
