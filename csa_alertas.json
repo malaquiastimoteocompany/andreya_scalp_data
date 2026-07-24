@@ -490259,11 +490259,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.8015,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 3.778,
-    "pnl_pct": 0.422,
-    "duracao_min": 6.5,
-    "data_resultado": "2026-07-24T21:45:44.735547+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 3.777,
+    "pnl_pct": 0.435,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-24T23:40:19.939380+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8103-8435-fef4a617906f",
