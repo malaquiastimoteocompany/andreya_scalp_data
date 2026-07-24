@@ -489939,7 +489939,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "BE Hit",
+    "preco_saida": 0.0616,
+    "pnl_pct": 0.26,
+    "duracao_min": 13.6,
+    "data_resultado": "2026-07-24T21:43:04.046303+00:00"
   },
   {
     "page_id": "3a7a5230-de72-81fa-9d91-e294e38e19d8",
