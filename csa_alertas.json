@@ -486525,11 +486525,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.12485,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1255,
-    "pnl_pct": 0.48,
-    "duracao_min": 112.6,
-    "data_resultado": "2026-07-24T20:20:01.095608+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.1253,
+    "pnl_pct": 0.4,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-24T20:27:53.238078+00:00"
   },
   {
     "page_id": "3a7a5230-de72-811c-a817-e5af6177481f",
