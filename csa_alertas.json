@@ -486051,11 +486051,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 138.87,
-    "pnl_pct": 1.462,
-    "duracao_min": 12.4,
-    "data_resultado": "2026-07-24T18:29:12.902249+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 135.09,
+    "pnl_pct": 2.803,
+    "duracao_min": 50.8,
+    "data_resultado": "2026-07-24T19:07:37.201321+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8167-a171-f2a859333a5c",
