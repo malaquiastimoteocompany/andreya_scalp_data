@@ -491035,7 +491035,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.007938,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.007688,
+    "pnl_pct": 2.942,
+    "duracao_min": 35.9,
+    "data_resultado": "2026-07-24T22:48:12.766959+00:00"
   },
   {
     "page_id": "3a7a5230-de72-81fa-b029-d0283aa7637b",
