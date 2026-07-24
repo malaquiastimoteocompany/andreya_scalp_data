@@ -489753,7 +489753,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 136.88,
+    "pnl_pct": 0.124,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-24T23:12:32.382276+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8101-994c-efad7540827a",
