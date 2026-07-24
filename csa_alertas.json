@@ -489619,7 +489619,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.3586,
+    "pnl_pct": 0.72,
+    "duracao_min": 29.6,
+    "data_resultado": "2026-07-24T21:41:39.076005+00:00"
   },
   {
     "page_id": "3a7a5230-de72-81b0-8b59-d71b2dab9e6b",
