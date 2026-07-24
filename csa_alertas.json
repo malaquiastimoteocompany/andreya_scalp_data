@@ -484845,11 +484845,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.0851,
-    "pnl_pct": 0.257,
-    "duracao_min": 76.1,
-    "data_resultado": "2026-07-24T18:37:54.661555+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.0868,
+    "pnl_pct": 0.179,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-24T19:22:23.775843+00:00"
   },
   {
     "page_id": "3a7a5230-de72-813e-b30e-c3e654135ab9",
