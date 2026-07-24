@@ -487407,7 +487407,11 @@
     "estado_cfi": "E1",
     "zona_sr": 736.35,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 739.21,
+    "pnl_pct": 0.133,
+    "duracao_min": 8.2,
+    "data_resultado": "2026-07-24T19:35:21.938315+00:00"
   },
   {
     "page_id": "3a7a5230-de72-815f-a0ab-f4b046cbb643",
