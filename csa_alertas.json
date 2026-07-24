@@ -484815,11 +484815,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.039495,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03899,
-    "pnl_pct": 0.789,
-    "duracao_min": 13.1,
-    "data_resultado": "2026-07-24T17:33:02.225608+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.03853,
+    "pnl_pct": 1.374,
+    "duracao_min": 114.5,
+    "data_resultado": "2026-07-24T19:14:25.738031+00:00"
   },
   {
     "page_id": "3a7a5230-de72-81ba-b66b-ec91a1a3f672",
