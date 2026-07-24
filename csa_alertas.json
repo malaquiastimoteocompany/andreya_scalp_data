@@ -485955,11 +485955,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0006201,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0006142,
-    "pnl_pct": 0.711,
-    "duracao_min": 59.6,
-    "data_resultado": "2026-07-24T19:09:01.287076+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.0006158,
+    "pnl_pct": 0.582,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-24T20:10:04.523794+00:00"
   },
   {
     "page_id": "3a7a5230-de72-81ae-a6fb-f33c1c6cefb5",
