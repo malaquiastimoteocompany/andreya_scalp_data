@@ -486927,11 +486927,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.6357,
-    "pnl_pct": 0.298,
-    "duracao_min": 16.0,
-    "data_resultado": "2026-07-24T19:10:32.555686+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.6336,
+    "pnl_pct": 0.463,
+    "duracao_min": 42.3,
+    "data_resultado": "2026-07-24T19:36:51.518563+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8159-beeb-dc08d2957063",
