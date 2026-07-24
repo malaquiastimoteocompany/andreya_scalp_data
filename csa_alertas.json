@@ -490829,7 +490829,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 1.56,
+    "pnl_pct": 0.386,
+    "duracao_min": 18.7,
+    "data_resultado": "2026-07-24T22:28:21.533440+00:00"
   },
   {
     "page_id": "3a7a5230-de72-812e-a399-ec84f8488123",
