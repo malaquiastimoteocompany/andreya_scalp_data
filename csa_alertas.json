@@ -487203,7 +487203,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00841633,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.008536,
+    "pnl_pct": -1.825,
+    "duracao_min": 28.0,
+    "data_resultado": "2026-07-24T19:39:57.197866+00:00"
   },
   {
     "page_id": "3a7a5230-de72-81fd-b007-d84f3d5b31d4",
