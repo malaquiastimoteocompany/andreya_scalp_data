@@ -490836,5 +490836,31 @@
     "zona_sr": 0.01704,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a7a5230-de72-8130-8940-e2b7a8867f4c",
+    "token": "WLD",
+    "direccao": "LONG",
+    "preco_alerta": 0.3455,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00737857,
+    "tp1": 0.34845142799999995,
+    "tp2": 0.35287856999999995,
+    "sl": 0.33443214499999996,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 126094977.0,
+    "spread_pct": 0.0002893099956603182,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-24T22:11:42.324323+00:00",
+    "rsi_1h": 24.1,
+    "funding_rate": -0.0323,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
