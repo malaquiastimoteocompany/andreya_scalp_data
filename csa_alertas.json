@@ -490585,11 +490585,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 8.327,
-    "pnl_pct": 0.289,
-    "duracao_min": 34.7,
-    "data_resultado": "2026-07-24T22:31:34.749895+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 8.336,
+    "pnl_pct": 0.343,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-24T23:57:23.251952+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8161-9cc3-e130452a586f",
