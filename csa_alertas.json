@@ -489569,11 +489569,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.005247,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.005277,
-    "pnl_pct": 0.495,
-    "duracao_min": 26.9,
-    "data_resultado": "2026-07-24T21:34:03.525033+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.005247,
+    "pnl_pct": 0.209,
+    "duracao_min": 51.8,
+    "data_resultado": "2026-07-24T21:58:58.354629+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8100-83e7-c58f5d1ab8d7",
