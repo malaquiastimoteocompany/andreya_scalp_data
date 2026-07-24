@@ -490169,7 +490169,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03098,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.03116,
+    "pnl_pct": -0.161,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-24T23:30:05.897803+00:00"
   },
   {
     "page_id": "3a7a5230-de72-813e-a33e-e504d3d3a90f",
