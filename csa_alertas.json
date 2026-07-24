@@ -489405,11 +489405,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0082335,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0081,
-    "pnl_pct": 2.008,
-    "duracao_min": 56.8,
-    "data_resultado": "2026-07-24T21:58:50.519169+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.008032,
+    "pnl_pct": 2.42,
+    "duracao_min": 60.1,
+    "data_resultado": "2026-07-24T22:02:10.350004+00:00"
   },
   {
     "page_id": "3a7a5230-de72-81fe-99cb-fd3530e76d00",
