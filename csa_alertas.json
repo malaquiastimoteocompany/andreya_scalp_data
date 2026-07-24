@@ -488263,7 +488263,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.7079,
+    "pnl_pct": 0.352,
+    "duracao_min": 111.5,
+    "data_resultado": "2026-07-24T21:58:19.242467+00:00"
   },
   {
     "page_id": "3a7a5230-de72-811a-a8ff-e68a1a605739",
