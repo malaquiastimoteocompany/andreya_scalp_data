@@ -489446,5 +489446,31 @@
     "zona_sr": 0.005247,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a7a5230-de72-8100-83e7-c58f5d1ab8d7",
+    "token": "ERA",
+    "direccao": "SHORT",
+    "preco_alerta": 0.09448,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00251929,
+    "tp1": 0.09347228399999999,
+    "tp2": 0.09196071,
+    "sl": 0.09825893499999999,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 7175169.0,
+    "spread_pct": 0.0007408583373022237,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-24T21:07:18.166542+00:00",
+    "rsi_1h": 45.93,
+    "funding_rate": -0.0583,
+    "estado_cfi": "E1",
+    "zona_sr": 0.094075,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
