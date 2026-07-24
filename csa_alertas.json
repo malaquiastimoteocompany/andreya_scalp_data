@@ -487267,11 +487267,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04455,
-    "pnl_pct": 0.338,
-    "duracao_min": 50.4,
-    "data_resultado": "2026-07-24T19:54:54.385299+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04463,
+    "pnl_pct": 0.428,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-24T21:05:33.157627+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8142-a581-f848f1d1d043",
