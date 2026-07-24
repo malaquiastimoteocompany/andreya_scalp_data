@@ -489153,11 +489153,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.5146575,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.508,
-    "pnl_pct": 1.415,
-    "duracao_min": 50.5,
-    "data_resultado": "2026-07-24T21:32:36.425555+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.51707,
+    "pnl_pct": 0.535,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-24T22:43:21.906698+00:00"
   },
   {
     "page_id": "3a7a5230-de72-818b-9abc-e081a44c2768",
