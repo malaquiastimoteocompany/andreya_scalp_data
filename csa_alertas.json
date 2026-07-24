@@ -487819,7 +487819,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.6316,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.6323,
+    "pnl_pct": 0.268,
+    "duracao_min": 81.8,
+    "data_resultado": "2026-07-24T21:01:26.010737+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8105-bf54-f94bb321ab02",
