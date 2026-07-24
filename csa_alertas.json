@@ -486019,11 +486019,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.8375,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.811,
-    "pnl_pct": 0.47,
-    "duracao_min": 58.9,
-    "data_resultado": "2026-07-24T19:13:09.185691+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.831,
+    "pnl_pct": 0.209,
+    "duracao_min": 79.5,
+    "data_resultado": "2026-07-24T19:33:44.748588+00:00"
   },
   {
     "page_id": "3a7a5230-de72-81e8-98c1-c6fb19c8db4e",
