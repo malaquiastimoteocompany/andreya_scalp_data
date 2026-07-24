@@ -491823,7 +491823,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004319,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.004333,
+    "pnl_pct": 0.324,
+    "duracao_min": 38.7,
+    "data_resultado": "2026-07-24T23:33:21.541607+00:00"
   },
   {
     "page_id": "3a7a5230-de72-81c7-b1a8-dc22ed329df1",
