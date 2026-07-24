@@ -490618,5 +490618,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a7a5230-de72-81e8-ba0d-e3d6a8838595",
+    "token": "TAO",
+    "direccao": "LONG",
+    "preco_alerta": 189.87,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 1.47642857,
+    "tp1": 190.460571428,
+    "tp2": 191.34642857,
+    "sl": 187.655357145,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 46102016.0,
+    "spread_pct": 5.2669001659025646e-05,
+    "oi_usd": 37427028.200100005,
+    "data_alerta": "2026-07-24T22:04:25.060102+00:00",
+    "rsi_1h": 41.28,
+    "funding_rate": -0.0065,
+    "estado_cfi": "E1",
+    "zona_sr": 190.63,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
