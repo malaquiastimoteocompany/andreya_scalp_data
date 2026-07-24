@@ -492842,5 +492842,31 @@
     "zona_sr": 46.17666667,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a7a5230-de72-813d-9e9d-dfc8bce2bdfa",
+    "token": "ACE",
+    "direccao": "SHORT",
+    "preco_alerta": 0.10565,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00594286,
+    "tp1": 0.103272856,
+    "tp2": 0.09970714,
+    "sl": 0.11456429,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 738980916.0,
+    "spread_pct": 0.0003780003780003626,
+    "oi_usd": 6087938.153127001,
+    "data_alerta": "2026-07-24T23:56:41.885131+00:00",
+    "rsi_1h": 70.56,
+    "funding_rate": -0.7858,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
