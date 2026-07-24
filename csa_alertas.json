@@ -488655,11 +488655,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04438,
-    "pnl_pct": 0.337,
-    "duracao_min": 12.1,
-    "data_resultado": "2026-07-24T20:39:07.631929+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.04418,
+    "pnl_pct": 0.561,
+    "duracao_min": 47.9,
+    "data_resultado": "2026-07-24T21:14:53.456801+00:00"
   },
   {
     "page_id": "3a7a5230-de72-81e3-a22a-d13c8575c9e6",
