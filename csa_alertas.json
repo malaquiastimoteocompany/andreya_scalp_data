@@ -487645,11 +487645,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.203,
-    "pnl_pct": 0.445,
-    "duracao_min": 31.9,
-    "data_resultado": "2026-07-24T20:01:13.732648+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2021,
+    "pnl_pct": 0.223,
+    "duracao_min": 105.3,
+    "data_resultado": "2026-07-24T21:14:37.143053+00:00"
   },
   {
     "page_id": "3a7a5230-de72-817d-84c9-e8a03c252877",
