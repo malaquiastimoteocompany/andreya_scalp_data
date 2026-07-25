@@ -513043,11 +513043,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03457,
-    "pnl_pct": 1.2,
-    "duracao_min": 6.2,
-    "data_resultado": "2026-07-25T14:30:40.007815+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.03415,
+    "pnl_pct": 1.801,
+    "duracao_min": 18.3,
+    "data_resultado": "2026-07-25T14:42:45.850878+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8144-a0e2-d22f9a63e23f",
