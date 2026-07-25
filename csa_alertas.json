@@ -520497,11 +520497,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0573,
-    "pnl_pct": 6.965,
-    "duracao_min": 89.7,
-    "data_resultado": "2026-07-25T20:36:34.779717+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.05866,
+    "pnl_pct": 5.861,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-25T21:07:52.682744+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8138-b124-ecd61c8dbf78",
