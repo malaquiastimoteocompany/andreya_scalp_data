@@ -496879,11 +496879,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004677,
-    "pnl_pct": 0.214,
-    "duracao_min": 16.5,
-    "data_resultado": "2026-07-25T03:15:49.021293+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.004698,
+    "pnl_pct": 0.439,
+    "duracao_min": 83.2,
+    "data_resultado": "2026-07-25T04:22:30.440331+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8182-9a1d-f5da95703f31",
