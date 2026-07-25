@@ -518787,11 +518787,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02997,
-    "pnl_pct": 0.432,
-    "duracao_min": 21.7,
-    "data_resultado": "2026-07-25T18:23:36.506450+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0301,
+    "pnl_pct": 0.216,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-25T20:03:02.965109+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8136-8e0a-f5c95cf26c31",
