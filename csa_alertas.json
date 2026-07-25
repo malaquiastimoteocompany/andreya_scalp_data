@@ -518133,11 +518133,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08699,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08654,
-    "pnl_pct": 0.288,
-    "duracao_min": 7.8,
-    "data_resultado": "2026-07-25T17:49:58.415023+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.0862,
+    "pnl_pct": 0.484,
+    "duracao_min": 44.4,
+    "data_resultado": "2026-07-25T18:26:32.060399+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8157-9746-d8bbe6a16091",
