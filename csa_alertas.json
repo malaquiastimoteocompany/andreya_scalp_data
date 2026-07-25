@@ -519402,5 +519402,31 @@
     "zona_sr": 0.025245,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-8100-b6ad-ecf7071fa81b",
+    "token": "VANRY",
+    "direccao": "LONG",
+    "preco_alerta": 0.004668,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00015814,
+    "tp1": 0.0047312560000000005,
+    "tp2": 0.0048261400000000005,
+    "sl": 0.00443079,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 12101832.0,
+    "spread_pct": 0.0002141098383471005,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-25T18:29:29.490047+00:00",
+    "rsi_1h": 45.89,
+    "funding_rate": -0.0664,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00464733,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
