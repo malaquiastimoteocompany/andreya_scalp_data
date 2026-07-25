@@ -499209,7 +499209,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.31,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 3.263,
+    "pnl_pct": 1.031,
+    "duracao_min": 14.1,
+    "data_resultado": "2026-07-25T05:16:32.005418+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81f9-9a17-fc7679b87bfa",
