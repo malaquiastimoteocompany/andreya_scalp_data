@@ -490795,11 +490795,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 92.96,
-    "pnl_pct": 0.356,
-    "duracao_min": 31.0,
-    "data_resultado": "2026-07-24T22:33:00.648411+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 92.9,
+    "pnl_pct": 0.324,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-25T00:02:13.922246+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8147-b0bc-ccc5b94360fd",
