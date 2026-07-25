@@ -512169,11 +512169,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.4125,
-    "pnl_pct": 0.434,
-    "duracao_min": 56.9,
-    "data_resultado": "2026-07-25T14:47:05.089498+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.412,
+    "pnl_pct": 0.495,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-25T15:50:31.486735+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8182-83c4-eedc05e233bd",
