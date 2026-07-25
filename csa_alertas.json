@@ -509095,11 +509095,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01704,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01707,
-    "pnl_pct": 0.589,
-    "duracao_min": 23.5,
-    "data_resultado": "2026-07-25T12:20:49.274769+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01719,
+    "pnl_pct": 0.943,
+    "duracao_min": 40.2,
+    "data_resultado": "2026-07-25T12:37:31.497955+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8130-a55f-eb3a7acdcaf0",
