@@ -501471,11 +501471,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08699,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08671,
-    "pnl_pct": 0.31,
-    "duracao_min": 9.7,
-    "data_resultado": "2026-07-25T06:46:56.395724+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.08702,
+    "pnl_pct": 0.132,
+    "duracao_min": 47.7,
+    "data_resultado": "2026-07-25T07:24:53.712677+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8113-a9c9-ff8a0204c6ec",
