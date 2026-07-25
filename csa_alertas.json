@@ -505333,11 +505333,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.17629333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1773,
-    "pnl_pct": 0.215,
-    "duracao_min": 106.8,
-    "data_resultado": "2026-07-25T11:03:53.529050+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.17745,
+    "pnl_pct": 0.257,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-25T11:17:12.608305+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8172-885c-eb78f1414b62",
