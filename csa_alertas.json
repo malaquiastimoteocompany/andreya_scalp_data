@@ -520557,11 +520557,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00531933,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.005293,
-    "pnl_pct": 0.301,
-    "duracao_min": 86.5,
-    "data_resultado": "2026-07-25T20:33:48.365864+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.005286,
+    "pnl_pct": 0.367,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-25T21:08:04.466295+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81ae-8db1-f080368e395f",
