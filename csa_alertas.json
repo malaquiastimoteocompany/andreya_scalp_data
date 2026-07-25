@@ -522953,11 +522953,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.891,
     "toques_sr": 3,
-    "resultado": "TP Hit",
+    "resultado": "Falhado",
     "preco_saida": 2.9,
     "pnl_pct": 0.242,
-    "duracao_min": 23.7,
-    "data_resultado": "2026-07-25T21:38:06.665931+00:00"
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-25T23:15:04.705023+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81d8-851f-c780bc7fa3d9",
