@@ -518337,11 +518337,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.884,
-    "pnl_pct": 0.173,
-    "duracao_min": 89.8,
-    "data_resultado": "2026-07-25T19:14:09.139797+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 2.887,
+    "pnl_pct": 0.121,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-25T19:44:55.128198+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81d1-8ad9-fa1ea0147255",
