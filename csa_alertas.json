@@ -507865,11 +507865,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01704,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01708,
-    "pnl_pct": 0.53,
-    "duracao_min": 16.2,
-    "data_resultado": "2026-07-25T11:23:17.397650+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01698,
+    "pnl_pct": 0.235,
+    "duracao_min": 46.7,
+    "data_resultado": "2026-07-25T11:53:51.294677+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8147-a3a4-d685e12d6619",
