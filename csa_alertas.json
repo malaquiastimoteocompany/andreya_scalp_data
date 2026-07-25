@@ -492173,11 +492173,11 @@
     "estado_cfi": "E1",
     "zona_sr": 190.63,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 191.82,
-    "pnl_pct": 0.351,
-    "duracao_min": 85.7,
-    "data_resultado": "2026-07-25T00:30:13.549822+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 191.07,
+    "pnl_pct": 0.154,
+    "duracao_min": 101.0,
+    "data_resultado": "2026-07-25T00:45:36.144090+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8139-8b75-f4922762bcf9",
