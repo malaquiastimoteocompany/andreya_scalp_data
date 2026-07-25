@@ -506383,11 +506383,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03479,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03471,
-    "pnl_pct": 0.63,
-    "duracao_min": 119.6,
-    "data_resultado": "2026-07-25T11:59:27.695532+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.03478,
+    "pnl_pct": 0.53,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-25T12:00:50.618277+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8170-ac31-c70d93a9c38f",
