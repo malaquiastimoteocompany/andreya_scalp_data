@@ -493269,11 +493269,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.318,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 6.282,
-    "pnl_pct": 0.365,
-    "duracao_min": 36.9,
-    "data_resultado": "2026-07-25T00:41:17.655599+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 6.263,
+    "pnl_pct": 0.515,
+    "duracao_min": 47.5,
+    "data_resultado": "2026-07-25T00:51:55.394292+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8167-a9c8-c48ad25cefd2",
