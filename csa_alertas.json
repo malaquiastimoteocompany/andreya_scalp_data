@@ -492011,7 +492011,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04303,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.04303,
+    "pnl_pct": 0.35,
+    "duracao_min": 93.2,
+    "data_resultado": "2026-07-25T00:33:08.879390+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8162-9b3d-c82811ec0f52",
