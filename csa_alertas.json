@@ -497885,11 +497885,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.5885,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.605,
-    "pnl_pct": 0.474,
-    "duracao_min": 36.1,
-    "data_resultado": "2026-07-25T04:18:17.184428+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.587,
+    "pnl_pct": 0.223,
+    "duracao_min": 41.9,
+    "data_resultado": "2026-07-25T04:24:08.341770+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8122-a037-e58fa75c6e5a",
