@@ -520059,11 +520059,11 @@
     "estado_cfi": "E2",
     "zona_sr": 138.94,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 139.08,
-    "pnl_pct": 0.208,
-    "duracao_min": 16.9,
-    "data_resultado": "2026-07-25T19:08:39.396517+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 139.4,
+    "pnl_pct": 0.093,
+    "duracao_min": 30.1,
+    "data_resultado": "2026-07-25T19:21:50.853550+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8127-8d6f-d2f0130c9698",
