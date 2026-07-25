@@ -510067,11 +510067,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03432,
-    "pnl_pct": 2.166,
-    "duracao_min": 41.8,
-    "data_resultado": "2026-07-25T13:11:15.555768+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.03425,
+    "pnl_pct": 2.266,
+    "duracao_min": 43.7,
+    "data_resultado": "2026-07-25T13:13:08.876464+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81a3-95a6-df94652d9f8d",
