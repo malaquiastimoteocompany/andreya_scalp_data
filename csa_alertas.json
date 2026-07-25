@@ -494061,11 +494061,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04796,
-    "pnl_pct": 2.102,
-    "duracao_min": 19.0,
-    "data_resultado": "2026-07-25T01:03:32.195505+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.04664,
+    "pnl_pct": 3.45,
+    "duracao_min": 51.1,
+    "data_resultado": "2026-07-25T01:35:39.438475+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81ea-b6b6-dfaf619711b7",
