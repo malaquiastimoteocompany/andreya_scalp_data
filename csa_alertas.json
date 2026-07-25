@@ -502353,11 +502353,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0001831,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0001819,
-    "pnl_pct": 0.547,
-    "duracao_min": 41.0,
-    "data_resultado": "2026-07-25T07:55:38.709581+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0001829,
+    "pnl_pct": 0.273,
+    "duracao_min": 78.9,
+    "data_resultado": "2026-07-25T08:33:33.191593+00:00"
   },
   {
     "page_id": "3a8a5230-de72-817b-bee5-c95bd19fc05f",
