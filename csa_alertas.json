@@ -515664,5 +515664,31 @@
     "zona_sr": 0.01930714,
     "toques_sr": 7,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-8100-a24f-fa41ca667ca3",
+    "token": "HBAR",
+    "direccao": "SHORT",
+    "preco_alerta": 0.07016,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.000255,
+    "tp1": 0.070058,
+    "tp2": 0.069905,
+    "sl": 0.0705425,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 89233992.0,
+    "spread_pct": 0.0001425415152162515,
+    "oi_usd": 4577254.67712,
+    "data_alerta": "2026-07-25T16:06:44.210548+00:00",
+    "rsi_1h": 44.48,
+    "funding_rate": -0.0028,
+    "estado_cfi": "E1",
+    "zona_sr": 0.070466,
+    "toques_sr": 5,
+    "resultado": "Pendente"
   }
 ]
