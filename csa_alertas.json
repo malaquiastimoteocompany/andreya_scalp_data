@@ -522729,11 +522729,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.178415,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.17765,
-    "pnl_pct": 0.197,
-    "duracao_min": 28.7,
-    "data_resultado": "2026-07-25T21:33:14.104085+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.17804,
+    "pnl_pct": 0.087,
+    "duracao_min": 44.3,
+    "data_resultado": "2026-07-25T21:48:50.861737+00:00"
   },
   {
     "page_id": "3a8a5230-de72-819d-bc0e-dfa1791e0e20",
