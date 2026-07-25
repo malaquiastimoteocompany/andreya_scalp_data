@@ -492441,11 +492441,11 @@
     "estado_cfi": "E1",
     "zona_sr": 52.66,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 53.25,
-    "pnl_pct": 0.814,
-    "duracao_min": 45.7,
-    "data_resultado": "2026-07-25T00:02:42.238628+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 53.13,
+    "pnl_pct": 0.7,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-25T01:18:18.299160+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8170-84c1-ebdc5df09696",
