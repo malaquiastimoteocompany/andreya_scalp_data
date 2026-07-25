@@ -510675,11 +510675,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.120725,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1211,
-    "pnl_pct": 0.581,
-    "duracao_min": 44.7,
-    "data_resultado": "2026-07-25T13:41:40.236594+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1204,
+    "pnl_pct": 0.291,
+    "duracao_min": 93.3,
+    "data_resultado": "2026-07-25T14:30:19.656026+00:00"
   },
   {
     "page_id": "3a8a5230-de72-817a-9957-f9e3af90fe2c",
