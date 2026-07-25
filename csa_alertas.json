@@ -503275,11 +503275,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.38,
-    "pnl_pct": 0.291,
-    "duracao_min": 32.7,
-    "data_resultado": "2026-07-25T08:24:32.975516+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.386,
+    "pnl_pct": 0.509,
+    "duracao_min": 89.3,
+    "data_resultado": "2026-07-25T09:21:14.683426+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8133-acf1-c344b8e67921",
