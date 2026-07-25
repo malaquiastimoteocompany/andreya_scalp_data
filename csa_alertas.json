@@ -504531,11 +504531,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.005975,
-    "pnl_pct": 0.218,
-    "duracao_min": 50.2,
-    "data_resultado": "2026-07-25T09:27:17.811177+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.005995,
+    "pnl_pct": 0.386,
+    "duracao_min": 75.5,
+    "data_resultado": "2026-07-25T09:52:35.131951+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8160-8920-c0d601d71d39",
