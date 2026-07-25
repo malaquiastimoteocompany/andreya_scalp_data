@@ -511603,7 +511603,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3368,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.3375,
+    "pnl_pct": 0.327,
+    "duracao_min": 4.4,
+    "data_resultado": "2026-07-25T13:44:16.929942+00:00"
   },
   {
     "page_id": "3a8a5230-de72-811b-9495-c331a6bf557b",
