@@ -509986,5 +509986,31 @@
     "zona_sr": 0.04541692,
     "toques_sr": 13,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-81e2-a3e0-d57555d32dd0",
+    "token": "POWER",
+    "direccao": "SHORT",
+    "preco_alerta": 0.09015,
+    "score": 8,
+    "setup": "B",
+    "prioritario": true,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00163857,
+    "tp1": 0.089494572,
+    "tp2": 0.08851142999999999,
+    "sl": 0.09260785499999999,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 5004027.0,
+    "spread_pct": 0.00011087089084756497,
+    "oi_usd": 3909446.751,
+    "data_alerta": "2026-07-25T12:34:44.780837+00:00",
+    "rsi_1h": 45.56,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.09028,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
