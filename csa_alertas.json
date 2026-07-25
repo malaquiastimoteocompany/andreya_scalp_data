@@ -501613,7 +501613,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.03229,
+    "pnl_pct": -0.217,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-25T08:37:53.014816+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81a1-9bf1-cc73d40cd570",
