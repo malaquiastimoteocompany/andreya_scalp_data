@@ -493941,7 +493941,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0571675,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.05701,
+    "pnl_pct": 0.315,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-25T02:27:26.292336+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8194-a1c9-fac29f79ecc1",
