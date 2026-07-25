@@ -516543,11 +516543,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3368,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3391,
-    "pnl_pct": 0.296,
-    "duracao_min": 62.4,
-    "data_resultado": "2026-07-25T17:27:28.651108+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.3412,
+    "pnl_pct": 0.606,
+    "duracao_min": 97.6,
+    "data_resultado": "2026-07-25T18:02:39.440420+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81e3-9d7f-c8bf52ebeb8e",
