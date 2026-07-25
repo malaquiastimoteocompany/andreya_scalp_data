@@ -514381,11 +514381,11 @@
     "estado_cfi": "E1",
     "zona_sr": 45.945,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 46.12,
-    "pnl_pct": 0.174,
-    "duracao_min": 8.2,
-    "data_resultado": "2026-07-25T15:30:13.134422+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 46.04,
+    "pnl_pct": 0.087,
+    "duracao_min": 20.5,
+    "data_resultado": "2026-07-25T15:42:32.129982+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81e5-b7c0-c7e8cb90c9bb",
