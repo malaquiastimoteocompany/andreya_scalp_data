@@ -496399,11 +496399,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05703125,
     "toques_sr": 8,
-    "resultado": "TP Hit",
-    "preco_saida": 0.05676,
-    "pnl_pct": 0.439,
-    "duracao_min": 9.9,
-    "data_resultado": "2026-07-25T02:39:12.660378+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.05703,
+    "pnl_pct": 0.202,
+    "duracao_min": 86.6,
+    "data_resultado": "2026-07-25T03:55:55.729426+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81f4-b283-c1581d8f0484",
