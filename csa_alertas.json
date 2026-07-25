@@ -505541,11 +505541,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06525,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06448,
-    "pnl_pct": 0.708,
-    "duracao_min": 11.6,
-    "data_resultado": "2026-07-25T09:46:13.597458+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.06381,
+    "pnl_pct": 1.224,
+    "duracao_min": 31.7,
+    "data_resultado": "2026-07-25T10:06:19.110453+00:00"
   },
   {
     "page_id": "3a8a5230-de72-813a-a73c-e8e7fa4fdbe9",
