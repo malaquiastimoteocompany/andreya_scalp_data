@@ -519813,11 +519813,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.65666667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 6.66,
-    "pnl_pct": 0.448,
-    "duracao_min": 55.2,
-    "data_resultado": "2026-07-25T19:34:49.007591+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 6.694,
+    "pnl_pct": 0.194,
+    "duracao_min": 68.7,
+    "data_resultado": "2026-07-25T19:48:21.409038+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81fe-8656-eeff5af4a5b1",
