@@ -515491,11 +515491,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.6425,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.675,
-    "pnl_pct": 0.465,
-    "duracao_min": 103.8,
-    "data_resultado": "2026-07-25T17:35:35.994815+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 3.68,
+    "pnl_pct": 0.533,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-25T17:52:31.188844+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81fa-8fbc-f2cc654eb5b0",
