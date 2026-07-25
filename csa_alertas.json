@@ -517557,11 +517557,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.7885,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.797,
-    "pnl_pct": 0.335,
-    "duracao_min": 20.2,
-    "data_resultado": "2026-07-25T17:27:41.109412+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.8,
+    "pnl_pct": 0.419,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-25T19:08:17.699130+00:00"
   },
   {
     "page_id": "3a8a5230-de72-816c-af81-f634a14a6d1e",
