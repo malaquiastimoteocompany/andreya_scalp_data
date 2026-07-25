@@ -498279,7 +498279,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.04366,
+    "pnl_pct": -0.251,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-25T06:02:49.765835+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8191-a8b7-e96cfd59d4ff",
