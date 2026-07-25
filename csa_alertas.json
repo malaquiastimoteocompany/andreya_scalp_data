@@ -517708,5 +517708,31 @@
     "zona_sr": 0.06192,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-815c-a8a8-eb51b7190830",
+    "token": "SAND",
+    "direccao": "SHORT",
+    "preco_alerta": 0.04521,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00022643,
+    "tp1": 0.045119428,
+    "tp2": 0.04498357,
+    "sl": 0.045549645,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 10063389.0,
+    "spread_pct": 0.00022121446742623743,
+    "oi_usd": 834118.96932,
+    "data_alerta": "2026-07-25T17:27:22.286778+00:00",
+    "rsi_1h": 59.49,
+    "funding_rate": -0.0062,
+    "estado_cfi": "E1",
+    "zona_sr": 0.045035,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
