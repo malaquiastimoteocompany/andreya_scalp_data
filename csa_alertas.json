@@ -523073,11 +523073,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00247925,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002502,
-    "pnl_pct": 0.482,
-    "duracao_min": 23.1,
-    "data_resultado": "2026-07-25T21:42:45.431383+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.002505,
+    "pnl_pct": 0.542,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-25T23:20:53.024001+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81cb-9103-e0cb7869a037",
