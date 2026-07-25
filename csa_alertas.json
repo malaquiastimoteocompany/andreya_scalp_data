@@ -519305,11 +519305,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.006275,
-    "pnl_pct": 0.444,
-    "duracao_min": 8.9,
-    "data_resultado": "2026-07-25T18:30:52.561786+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.006251,
+    "pnl_pct": 0.635,
+    "duracao_min": 16.3,
+    "data_resultado": "2026-07-25T18:38:17.957730+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81f1-9b1a-d9d3d2ffede4",
