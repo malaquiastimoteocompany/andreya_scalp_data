@@ -508059,7 +508059,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02954,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.02947,
+    "pnl_pct": 0.338,
+    "duracao_min": 16.6,
+    "data_resultado": "2026-07-25T11:36:06.510109+00:00"
   },
   {
     "page_id": "3a8a5230-de72-816f-82ee-ce603b3e3b36",
