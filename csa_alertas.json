@@ -503653,11 +503653,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07648,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07684,
-    "pnl_pct": 0.326,
-    "duracao_min": 1.6,
-    "data_resultado": "2026-07-25T08:01:39.173122+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.07669,
+    "pnl_pct": 0.228,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-25T10:00:11.786142+00:00"
   },
   {
     "page_id": "3a8a5230-de72-818a-adfb-f00829d2922e",
