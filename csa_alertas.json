@@ -513186,5 +513186,31 @@
     "zona_sr": 0.818475,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-816c-9db8-c80b22795ec2",
+    "token": "ANKR",
+    "direccao": "LONG",
+    "preco_alerta": 0.00346,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 1.65e-05,
+    "tp1": 0.0034666,
+    "tp2": 0.0034765,
+    "sl": 0.00343525,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 28107401.0,
+    "spread_pct": 0.00028905911258856275,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-25T14:31:59.616295+00:00",
+    "rsi_1h": 41.8,
+    "funding_rate": -0.0043,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00344933,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
