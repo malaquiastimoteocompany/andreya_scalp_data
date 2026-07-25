@@ -520621,11 +520621,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03418,
-    "pnl_pct": 1.128,
-    "duracao_min": 44.7,
-    "data_resultado": "2026-07-25T20:01:50.680248+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.03461,
+    "pnl_pct": 0.506,
+    "duracao_min": 55.8,
+    "data_resultado": "2026-07-25T20:12:54.841946+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8177-b2a5-ff265b4cb78e",
