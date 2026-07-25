@@ -510759,11 +510759,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
+    "resultado": "Falhado",
     "preco_saida": 0.7074,
     "pnl_pct": 0.212,
-    "duracao_min": 9.0,
-    "data_resultado": "2026-07-25T13:08:14.507449+00:00"
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-25T15:00:22.865632+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8178-bbb2-e40c6b4d59aa",
