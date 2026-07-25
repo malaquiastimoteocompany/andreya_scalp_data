@@ -517309,11 +517309,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.178415,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.17839,
-    "pnl_pct": 0.28,
-    "duracao_min": 8.2,
-    "data_resultado": "2026-07-25T17:12:59.172847+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.17895,
+    "pnl_pct": 0.123,
+    "duracao_min": 24.7,
+    "data_resultado": "2026-07-25T17:29:25.731109+00:00"
   },
   {
     "page_id": "3a8a5230-de72-818c-88bf-e1460a0fe438",
