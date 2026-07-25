@@ -501553,7 +501553,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 1.0873,
+    "pnl_pct": -0.083,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-25T08:37:46.671450+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8125-b642-c3b389a841f8",
