@@ -493135,11 +493135,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0157,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01579,
-    "pnl_pct": 0.318,
-    "duracao_min": 15.4,
-    "data_resultado": "2026-07-25T00:17:32.469672+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01587,
+    "pnl_pct": 0.572,
+    "duracao_min": 59.4,
+    "data_resultado": "2026-07-25T01:01:32.401600+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8185-b74c-cfb7df5da25e",
