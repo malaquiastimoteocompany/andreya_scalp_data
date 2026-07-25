@@ -514855,11 +514855,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.10165,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.0988,
-    "pnl_pct": 0.128,
-    "duracao_min": 10.9,
-    "data_resultado": "2026-07-25T15:47:44.291057+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.0973,
+    "pnl_pct": 0.059,
+    "duracao_min": 32.9,
+    "data_resultado": "2026-07-25T16:09:46.114053+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81e2-96ae-c53ec5cf1857",
