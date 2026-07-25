@@ -520523,7 +520523,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08230667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.08306,
+    "pnl_pct": 0.52,
+    "duracao_min": 81.2,
+    "data_resultado": "2026-07-25T20:30:35.337696+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8147-8c99-cafebacc5dee",
