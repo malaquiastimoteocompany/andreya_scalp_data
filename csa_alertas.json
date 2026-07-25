@@ -510513,6 +510513,10 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03948667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.03926,
+    "pnl_pct": 1.009,
+    "duracao_min": 1.5,
+    "data_resultado": "2026-07-25T12:58:48.049273+00:00"
   }
 ]
