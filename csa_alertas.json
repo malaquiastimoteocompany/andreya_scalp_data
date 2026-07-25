@@ -502093,7 +502093,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.04402,
+    "pnl_pct": 0.273,
+    "duracao_min": 37.0,
+    "data_resultado": "2026-07-25T07:44:07.313520+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81d8-a5b7-c6e9481d5360",
