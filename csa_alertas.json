@@ -516673,7 +516673,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 4.852e-06,
+    "pnl_pct": -2.644,
+    "duracao_min": 15.2,
+    "data_resultado": "2026-07-25T16:52:01.896765+00:00"
   },
   {
     "page_id": "3a8a5230-de72-815e-9423-c0ba29d034a8",
