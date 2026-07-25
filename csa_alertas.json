@@ -513649,11 +513649,11 @@
     "estado_cfi": "E1",
     "zona_sr": 90.96,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 91.7,
-    "pnl_pct": 0.394,
-    "duracao_min": 18.4,
-    "data_resultado": "2026-07-25T15:07:57.972294+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 91.97,
+    "pnl_pct": 0.542,
+    "duracao_min": 46.8,
+    "data_resultado": "2026-07-25T15:36:21.917122+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81b6-bbb8-d7c24b6a2670",
