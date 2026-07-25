@@ -517211,11 +517211,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00531933,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.005287,
-    "pnl_pct": 0.321,
-    "duracao_min": 26.5,
-    "data_resultado": "2026-07-25T17:21:20.374341+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.005304,
+    "pnl_pct": 0.16,
+    "duracao_min": 50.6,
+    "data_resultado": "2026-07-25T17:45:21.955300+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8195-81ef-c4e08ddd170d",
