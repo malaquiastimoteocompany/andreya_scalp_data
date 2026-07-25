@@ -523559,11 +523559,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.72966,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.737,
-    "pnl_pct": 0.505,
-    "duracao_min": 2.9,
-    "data_resultado": "2026-07-25T21:47:10.199119+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.7378,
+    "pnl_pct": 0.559,
+    "duracao_min": 18.2,
+    "data_resultado": "2026-07-25T22:02:30.250985+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8164-845a-d49cc9efb04a",
