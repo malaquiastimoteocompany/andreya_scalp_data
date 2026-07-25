@@ -516169,7 +516169,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.014185,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.01417,
+    "pnl_pct": 0.283,
+    "duracao_min": 36.6,
+    "data_resultado": "2026-07-25T16:53:27.904049+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8176-85ad-f4b5e9c557d0",
