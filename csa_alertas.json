@@ -505189,11 +505189,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 45.83,
-    "pnl_pct": 0.175,
-    "duracao_min": 22.7,
-    "data_resultado": "2026-07-25T09:37:05.632047+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 45.94,
+    "pnl_pct": 0.295,
+    "duracao_min": 38.4,
+    "data_resultado": "2026-07-25T09:52:45.135700+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81fa-8c3a-c0aff80e2530",
