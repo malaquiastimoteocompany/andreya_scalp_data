@@ -518649,11 +518649,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2241,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2243,
-    "pnl_pct": 0.179,
-    "duracao_min": 13.8,
-    "data_resultado": "2026-07-25T18:13:40.559206+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2239,
+    "pnl_pct": 0.089,
+    "duracao_min": 41.4,
+    "data_resultado": "2026-07-25T18:41:14.247121+00:00"
   },
   {
     "page_id": "3a8a5230-de72-812e-972d-c1ce292adf1d",
