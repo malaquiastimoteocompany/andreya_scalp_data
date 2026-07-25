@@ -514849,11 +514849,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0017935,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.001792,
-    "pnl_pct": 0.392,
-    "duracao_min": 29.1,
-    "data_resultado": "2026-07-25T16:03:26.800252+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.001784,
+    "pnl_pct": 0.168,
+    "duracao_min": 51.7,
+    "data_resultado": "2026-07-25T16:26:04.338887+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81c0-afcb-d831a3863e3c",
