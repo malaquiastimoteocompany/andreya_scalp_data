@@ -496131,11 +496131,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0013235,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001313,
-    "pnl_pct": 0.98,
-    "duracao_min": 52.3,
-    "data_resultado": "2026-07-25T03:06:35.003965+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.001314,
+    "pnl_pct": 0.943,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-25T04:14:27.003871+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81ce-b7f2-d311a4c1d11a",
