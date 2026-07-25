@@ -522763,7 +522763,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.7885,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 1.794,
+    "pnl_pct": 0.223,
+    "duracao_min": 19.4,
+    "data_resultado": "2026-07-25T21:31:28.329325+00:00"
   },
   {
     "page_id": "3a8a5230-de72-814e-ac25-c285a35acb41",
