@@ -521593,7 +521593,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.71365,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.7117,
+    "pnl_pct": 0.182,
+    "duracao_min": 37.6,
+    "data_resultado": "2026-07-25T20:47:04.163060+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8179-8ba3-c8e4481d903b",
