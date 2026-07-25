@@ -495623,7 +495623,11 @@
     "estado_cfi": "E1",
     "zona_sr": 4.23e-06,
     "toques_sr": 9,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 4.226e-06,
+    "pnl_pct": 0.309,
+    "duracao_min": 24.4,
+    "data_resultado": "2026-07-25T02:26:15.165292+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81f3-92f1-ff602d0d41a7",
