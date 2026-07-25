@@ -500751,11 +500751,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0005379,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0005428,
-    "pnl_pct": 0.705,
-    "duracao_min": 63.0,
-    "data_resultado": "2026-07-25T07:17:22.033703+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.0005425,
+    "pnl_pct": 0.677,
+    "duracao_min": 79.0,
+    "data_resultado": "2026-07-25T07:33:19.962005+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81ac-b8c6-dc9f6fc60fbe",
