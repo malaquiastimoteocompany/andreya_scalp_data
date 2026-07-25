@@ -511101,7 +511101,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00435833,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.004379,
+    "pnl_pct": 0.321,
+    "duracao_min": 15.2,
+    "data_resultado": "2026-07-25T13:32:06.125827+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81c4-aae4-fd3d3d831562",
