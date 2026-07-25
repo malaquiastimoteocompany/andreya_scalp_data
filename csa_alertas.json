@@ -491997,11 +491997,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.007431,
-    "pnl_pct": 1.641,
-    "duracao_min": 26.2,
-    "data_resultado": "2026-07-24T23:25:52.270808+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.0078,
+    "pnl_pct": 4.165,
+    "duracao_min": 105.9,
+    "data_resultado": "2026-07-25T00:45:29.871181+00:00"
   },
   {
     "page_id": "3a7a5230-de72-81ce-9f57-d8f48196569c",
