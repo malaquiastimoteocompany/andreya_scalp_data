@@ -497047,11 +497047,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.81045,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.8127,
-    "pnl_pct": 0.408,
-    "duracao_min": 20.8,
-    "data_resultado": "2026-07-25T03:27:36.260904+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.8165,
+    "pnl_pct": 0.642,
+    "duracao_min": 68.0,
+    "data_resultado": "2026-07-25T04:14:47.492396+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81d6-be78-c52bd7345507",
