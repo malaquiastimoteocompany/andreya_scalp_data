@@ -518815,11 +518815,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1856,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1871,
-    "pnl_pct": 0.7,
-    "duracao_min": 2.7,
-    "data_resultado": "2026-07-25T18:07:51.008623+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.1858,
+    "pnl_pct": 0.35,
+    "duracao_min": 10.1,
+    "data_resultado": "2026-07-25T18:15:10.370000+00:00"
   },
   {
     "page_id": "3a8a5230-de72-818e-b6f3-db8e00d526b3",
