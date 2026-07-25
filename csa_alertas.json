@@ -521967,7 +521967,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.91415,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.9141,
+    "pnl_pct": -0.153,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-25T22:22:18.973604+00:00"
   },
   {
     "page_id": "3a8a5230-de72-814e-a8b5-e0e4ab0f02f8",
