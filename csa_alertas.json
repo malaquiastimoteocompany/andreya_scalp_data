@@ -498867,11 +498867,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00435833,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004365,
-    "pnl_pct": 0.322,
-    "duracao_min": 103.6,
-    "data_resultado": "2026-07-25T06:15:32.569909+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.004377,
+    "pnl_pct": 0.46,
+    "duracao_min": 105.3,
+    "data_resultado": "2026-07-25T06:17:13.854648+00:00"
   },
   {
     "page_id": "3a8a5230-de72-814a-be62-fc35b663ce2a",
