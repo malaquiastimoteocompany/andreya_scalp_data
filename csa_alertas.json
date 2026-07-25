@@ -517023,7 +517023,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 4.86e-06,
+    "pnl_pct": 0.816,
+    "duracao_min": 0.7,
+    "data_resultado": "2026-07-25T16:55:02.985501+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8132-9579-ddb84575d954",
