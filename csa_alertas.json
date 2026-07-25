@@ -521925,11 +521925,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3725,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3755,
-    "pnl_pct": 0.321,
-    "duracao_min": 90.5,
-    "data_resultado": "2026-07-25T21:50:11.891849+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3743,
+    "pnl_pct": 0.16,
+    "duracao_min": 108.3,
+    "data_resultado": "2026-07-25T22:07:59.016979+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8125-a6bc-c169940d203c",
