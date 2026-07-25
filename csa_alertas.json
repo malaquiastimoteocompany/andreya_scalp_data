@@ -512163,11 +512163,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01599,
-    "pnl_pct": 0.251,
-    "duracao_min": 73.1,
-    "data_resultado": "2026-07-25T15:07:43.105954+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01595,
+    "pnl_pct": 0.125,
+    "duracao_min": 79.5,
+    "data_resultado": "2026-07-25T15:14:08.113024+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81f6-93b3-ef303601e17f",
