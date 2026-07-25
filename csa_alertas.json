@@ -497837,11 +497837,11 @@
     "estado_cfi": "E1",
     "zona_sr": 8.3615,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 8.326,
-    "pnl_pct": 0.204,
-    "duracao_min": 111.1,
-    "data_resultado": "2026-07-25T05:25:26.407263+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 8.318,
+    "pnl_pct": 0.252,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-25T05:34:56.853055+00:00"
   },
   {
     "page_id": "3a8a5230-de72-810f-82b3-f1323fa2dc10",
