@@ -519461,11 +519461,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.025245,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02514,
-    "pnl_pct": 0.198,
-    "duracao_min": 13.6,
-    "data_resultado": "2026-07-25T18:42:55.618316+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.02519,
+    "pnl_pct": 0.099,
+    "duracao_min": 33.2,
+    "data_resultado": "2026-07-25T19:02:34.325958+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8100-b6ad-ecf7071fa81b",
