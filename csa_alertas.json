@@ -517767,11 +517767,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04541714,
     "toques_sr": 14,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04544,
-    "pnl_pct": 0.11,
-    "duracao_min": 47.6,
-    "data_resultado": "2026-07-25T18:12:04.287124+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04549,
+    "pnl_pct": 0.055,
+    "duracao_min": 114.1,
+    "data_resultado": "2026-07-25T19:18:32.921343+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8180-b67a-e2ceb5a99209",
