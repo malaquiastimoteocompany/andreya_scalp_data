@@ -516155,11 +516155,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 4.859e-06,
-    "pnl_pct": 1.6,
-    "duracao_min": 1.6,
-    "data_resultado": "2026-07-25T16:20:54.109509+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 4.789e-06,
+    "pnl_pct": 2.309,
+    "duracao_min": 3.3,
+    "data_resultado": "2026-07-25T16:22:38.523085+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81c8-8755-cf6969fc8eb7",
