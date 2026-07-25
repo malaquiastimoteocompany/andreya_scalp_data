@@ -495920,5 +495920,31 @@
     "zona_sr": 0.0013235,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-81ce-b7f2-d311a4c1d11a",
+    "token": "ALGO",
+    "direccao": "SHORT",
+    "preco_alerta": 0.08546,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00129714,
+    "tp1": 0.084941144,
+    "tp2": 0.08416285999999999,
+    "sl": 0.08740571,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 24499102.0,
+    "spread_pct": 0.0001170206541454113,
+    "oi_usd": 3113319.19437,
+    "data_alerta": "2026-07-25T02:14:24.723679+00:00",
+    "rsi_1h": 56.25,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.08514,
+    "toques_sr": 5,
+    "resultado": "Pendente"
   }
 ]
