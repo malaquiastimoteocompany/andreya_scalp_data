@@ -499482,5 +499482,31 @@
     "zona_sr": 0.007938,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-81cf-a574-cb2c6cd91a31",
+    "token": "UNI",
+    "direccao": "LONG",
+    "preco_alerta": 3.675,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.04207143,
+    "tp1": 3.691828572,
+    "tp2": 3.71707143,
+    "sl": 3.611892855,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=1/1",
+    "volume_24h": 31794548.0,
+    "spread_pct": 0.00027214587018638996,
+    "oi_usd": 7279202.087400001,
+    "data_alerta": "2026-07-25T05:19:13.924422+00:00",
+    "rsi_1h": 32.03,
+    "funding_rate": 0.0074,
+    "estado_cfi": "E2",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
