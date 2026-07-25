@@ -498177,11 +498177,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.057106,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05675,
-    "pnl_pct": 0.474,
-    "duracao_min": 87.1,
-    "data_resultado": "2026-07-25T05:23:55.436987+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.05703,
+    "pnl_pct": 0.228,
+    "duracao_min": 106.4,
+    "data_resultado": "2026-07-25T05:43:17.391758+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81bc-b8a5-ef40affd2a55",
