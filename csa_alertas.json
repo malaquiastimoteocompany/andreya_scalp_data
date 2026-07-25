@@ -502943,11 +502943,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.7047,
-    "pnl_pct": 0.27,
-    "duracao_min": 40.7,
-    "data_resultado": "2026-07-25T08:20:03.098484+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.7026,
+    "pnl_pct": 0.121,
+    "duracao_min": 73.9,
+    "data_resultado": "2026-07-25T08:53:14.147507+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8153-914a-c1f7f158100e",
