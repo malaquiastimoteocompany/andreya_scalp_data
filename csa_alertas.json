@@ -514125,11 +514125,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.51766667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 6.574,
-    "pnl_pct": 0.612,
-    "duracao_min": 5.9,
-    "data_resultado": "2026-07-25T15:17:48.348897+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 6.59,
+    "pnl_pct": 0.735,
+    "duracao_min": 18.0,
+    "data_resultado": "2026-07-25T15:29:54.695628+00:00"
   },
   {
     "page_id": "3a8a5230-de72-811e-935f-e644e9cc4d06",
