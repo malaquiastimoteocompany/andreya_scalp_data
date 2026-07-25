@@ -522147,7 +522147,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.007935,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.00817,
+    "pnl_pct": -3.131,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-25T22:30:45.087171+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81a9-beb7-e92922d739ab",
