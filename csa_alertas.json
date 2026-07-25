@@ -495033,7 +495033,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.7695,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 3.787,
+    "pnl_pct": 0.504,
+    "duracao_min": 15.0,
+    "data_resultado": "2026-07-25T01:44:18.152918+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8180-82d3-ea246fbeac70",
