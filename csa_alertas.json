@@ -514205,11 +514205,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03262,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03229,
-    "pnl_pct": 1.254,
-    "duracao_min": 65.2,
-    "data_resultado": "2026-07-25T16:14:48.213345+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.0323,
+    "pnl_pct": 1.239,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-25T17:09:52.619938+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81d6-b2a1-ffd006e38b66",
