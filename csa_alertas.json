@@ -493624,5 +493624,31 @@
     "zona_sr": 0.025205,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-8171-aa50-f1b859131968",
+    "token": "PTB",
+    "direccao": "SHORT",
+    "preco_alerta": 0.0006207,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 8.54e-06,
+    "tp1": 0.000617284,
+    "tp2": 0.0006121599999999999,
+    "sl": 0.00063351,
+    "componentes": "sr_zone=2/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=0/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 16799915.0,
+    "spread_pct": 0.0006445375443119718,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-25T00:24:27.373186+00:00",
+    "rsi_1h": 66.83,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0006201,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
