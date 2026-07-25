@@ -504043,7 +504043,11 @@
     "estado_cfi": "E1",
     "zona_sr": 4.19e-06,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 4.243e-06,
+    "pnl_pct": -1.144,
+    "duracao_min": 117.8,
+    "data_resultado": "2026-07-25T10:12:05.040646+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81e9-b80e-d2e9d2029d79",
