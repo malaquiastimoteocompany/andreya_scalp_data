@@ -507423,7 +507423,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.03475,
+    "pnl_pct": -2.387,
+    "duracao_min": 80.6,
+    "data_resultado": "2026-07-25T12:10:02.825597+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81ad-a495-fc828a9e8ca7",
