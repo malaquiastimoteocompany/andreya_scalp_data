@@ -491315,11 +491315,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 17.68,
-    "pnl_pct": 1.996,
-    "duracao_min": 70.6,
-    "data_resultado": "2026-07-24T23:34:50.821880+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 18.19,
+    "pnl_pct": 0.582,
+    "duracao_min": 100.2,
+    "data_resultado": "2026-07-25T00:04:28.851177+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8124-a10f-e41c5a314c53",
