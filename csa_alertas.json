@@ -507757,11 +507757,11 @@
     "estado_cfi": "E1",
     "zona_sr": 53.88,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 53.66,
-    "pnl_pct": 0.205,
-    "duracao_min": 33.3,
-    "data_resultado": "2026-07-25T11:35:57.124900+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 53.79,
+    "pnl_pct": 0.084,
+    "duracao_min": 54.0,
+    "data_resultado": "2026-07-25T11:56:41.737150+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8140-bf35-fa9a127bf4a5",
