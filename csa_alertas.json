@@ -509419,11 +509419,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2019,
-    "pnl_pct": 0.448,
-    "duracao_min": 5.0,
-    "data_resultado": "2026-07-25T12:07:07.028095+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2031,
+    "pnl_pct": 0.746,
+    "duracao_min": 101.4,
+    "data_resultado": "2026-07-25T13:43:31.790798+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8185-b8f6-feb85214099e",
