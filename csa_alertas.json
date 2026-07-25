@@ -512559,11 +512559,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01704,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01718,
-    "pnl_pct": 0.468,
-    "duracao_min": 92.2,
-    "data_resultado": "2026-07-25T15:34:26.239936+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.01722,
+    "pnl_pct": 0.585,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-25T16:02:39.024847+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81a3-b7dd-f3bfdfc31e21",
