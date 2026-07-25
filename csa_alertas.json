@@ -498857,11 +498857,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.484125,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.488,
-    "pnl_pct": 1.088,
-    "duracao_min": 9.6,
-    "data_resultado": "2026-07-25T04:51:42.199993+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.48225,
+    "pnl_pct": 0.492,
+    "duracao_min": 19.7,
+    "data_resultado": "2026-07-25T05:01:48.227954+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8101-9f54-fa837c713753",
