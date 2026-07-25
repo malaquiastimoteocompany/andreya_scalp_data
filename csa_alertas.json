@@ -512689,11 +512689,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06154333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06204,
-    "pnl_pct": 0.388,
-    "duracao_min": 76.0,
-    "data_resultado": "2026-07-25T15:21:05.668119+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0618,
+    "pnl_pct": 0.194,
+    "duracao_min": 100.5,
+    "data_resultado": "2026-07-25T15:45:36.515269+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81b5-97ad-e69ba30a8fc1",
