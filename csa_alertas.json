@@ -509711,11 +509711,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.12318333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.12315,
-    "pnl_pct": 0.465,
-    "duracao_min": 95.9,
-    "data_resultado": "2026-07-25T13:45:42.965141+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.12251,
+    "pnl_pct": 0.204,
+    "duracao_min": 106.0,
+    "data_resultado": "2026-07-25T13:55:48.286043+00:00"
   },
   {
     "page_id": "3a8a5230-de72-813a-bf59-ea079d213aa5",
