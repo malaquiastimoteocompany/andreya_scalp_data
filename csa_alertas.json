@@ -502303,7 +502303,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.72235,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.7158,
+    "pnl_pct": -0.431,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-25T09:12:11.856779+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8117-88fb-ce08d4f8294f",
