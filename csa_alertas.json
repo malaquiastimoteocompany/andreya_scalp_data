@@ -496815,11 +496815,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.16686667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1702,
-    "pnl_pct": 1.551,
-    "duracao_min": 65.6,
-    "data_resultado": "2026-07-25T04:00:17.661989+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1727,
+    "pnl_pct": 2.297,
+    "duracao_min": 84.8,
+    "data_resultado": "2026-07-25T04:19:31.412761+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8154-ab86-df73804d908a",
