@@ -521307,11 +521307,11 @@
     "estado_cfi": "E1",
     "zona_sr": 46.60714286,
     "toques_sr": 7,
-    "resultado": "TP Tardio",
-    "preco_saida": 46.51,
-    "pnl_pct": 0.172,
-    "duracao_min": 105.1,
-    "data_resultado": "2026-07-25T21:34:30.595545+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 46.64,
+    "pnl_pct": 0.312,
+    "duracao_min": 118.9,
+    "data_resultado": "2026-07-25T21:48:16.945449+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81d9-b2e3-ef20d6d61908",
