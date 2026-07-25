@@ -524282,5 +524282,31 @@
     "zona_sr": 1.10165,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-8162-a6f1-cea6e4f84157",
+    "token": "ATOM",
+    "direccao": "LONG",
+    "preco_alerta": 1.389,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00792857,
+    "tp1": 1.392171428,
+    "tp2": 1.39692857,
+    "sl": 1.377107145,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 5479541.0,
+    "spread_pct": 0.0007202016564638905,
+    "oi_usd": 3392404.1376,
+    "data_alerta": "2026-07-25T22:12:09.343661+00:00",
+    "rsi_1h": 48.34,
+    "funding_rate": 0.0073,
+    "estado_cfi": "E1",
+    "zona_sr": 1.38866667,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
