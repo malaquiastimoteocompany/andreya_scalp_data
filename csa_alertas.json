@@ -512827,11 +512827,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.51766667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 6.563,
-    "pnl_pct": 0.306,
-    "duracao_min": 1.1,
-    "data_resultado": "2026-07-25T14:17:53.073889+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 6.521,
+    "pnl_pct": -0.015,
+    "duracao_min": 5.2,
+    "data_resultado": "2026-07-25T14:22:03.794523+00:00"
   },
   {
     "page_id": "3a8a5230-de72-811f-b554-fd03199a23d0",
