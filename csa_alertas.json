@@ -497561,11 +497561,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.019995,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02009,
-    "pnl_pct": 0.35,
-    "duracao_min": 8.8,
-    "data_resultado": "2026-07-25T03:36:23.198431+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.02001,
+    "pnl_pct": 0.15,
+    "duracao_min": 24.2,
+    "data_resultado": "2026-07-25T03:51:44.258197+00:00"
   },
   {
     "page_id": "3a8a5230-de72-819c-ae96-c03b38c4d063",
