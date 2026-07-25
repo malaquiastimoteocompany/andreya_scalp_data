@@ -506020,5 +506020,31 @@
     "zona_sr": 46.01,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-8163-ad1e-e6008488816a",
+    "token": "COTI",
+    "direccao": "LONG",
+    "preco_alerta": 0.007248,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 3.771e-05,
+    "tp1": 0.007263084,
+    "tp2": 0.00728571,
+    "sl": 0.007191435,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 15054745.0,
+    "spread_pct": 0.0001379595778437101,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-25T09:54:23.449486+00:00",
+    "rsi_1h": 45.81,
+    "funding_rate": -0.0132,
+    "estado_cfi": "E1",
+    "zona_sr": 0.007267,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
