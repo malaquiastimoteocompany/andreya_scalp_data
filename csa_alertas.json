@@ -494723,7 +494723,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.4454,
+    "pnl_pct": 2.016,
+    "duracao_min": 56.0,
+    "data_resultado": "2026-07-25T02:08:26.732778+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81c4-a6ea-ca85f86e4eef",
