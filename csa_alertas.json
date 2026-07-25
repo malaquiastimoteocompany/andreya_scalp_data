@@ -499303,11 +499303,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01381333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0136,
-    "pnl_pct": 1.521,
-    "duracao_min": 54.1,
-    "data_resultado": "2026-07-25T05:55:56.909871+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.01357,
+    "pnl_pct": 1.629,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-25T07:02:57.310334+00:00"
   },
   {
     "page_id": "3a8a5230-de72-815f-b7be-facaa465221c",
