@@ -498163,7 +498163,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.6256625,
     "toques_sr": 8,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.6224,
+    "pnl_pct": -0.432,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-25T05:55:43.359474+00:00"
   },
   {
     "page_id": "3a8a5230-de72-810b-b63f-ceb00b56f595",
