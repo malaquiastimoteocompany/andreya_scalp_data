@@ -509161,11 +509161,11 @@
     "estado_cfi": "E1",
     "zona_sr": 45.945,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 45.95,
-    "pnl_pct": 0.174,
-    "duracao_min": 17.0,
-    "data_resultado": "2026-07-25T12:14:02.835118+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 46.09,
+    "pnl_pct": 0.327,
+    "duracao_min": 106.2,
+    "data_resultado": "2026-07-25T13:43:18.160527+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81fc-b428-cae6e230def5",
