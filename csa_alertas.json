@@ -519136,5 +519136,31 @@
     "zona_sr": 1.386,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-81a7-94c6-cb5f879c3db8",
+    "token": "APE",
+    "direccao": "LONG",
+    "preco_alerta": 0.1441,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00145,
+    "tp1": 0.14468,
+    "tp2": 0.14555,
+    "sl": 0.141925,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=0/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 5450653.0,
+    "spread_pct": 0.000694203401596784,
+    "oi_usd": 1268007.3714,
+    "data_alerta": "2026-07-25T18:17:11.102705+00:00",
+    "rsi_1h": 44.73,
+    "funding_rate": 0.0087,
+    "estado_cfi": "E1",
+    "zona_sr": 0.14443333,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
