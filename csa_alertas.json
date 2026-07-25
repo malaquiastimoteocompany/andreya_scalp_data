@@ -494359,11 +494359,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0826,
-    "pnl_pct": 0.536,
-    "duracao_min": 3.9,
-    "data_resultado": "2026-07-25T00:58:12.306903+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.08191,
+    "pnl_pct": 0.116,
+    "duracao_min": 38.6,
+    "data_resultado": "2026-07-25T01:32:57.054702+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81d2-a28b-e8ce7d3f0721",
