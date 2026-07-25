@@ -499199,11 +499199,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06071,
-    "pnl_pct": 1.493,
-    "duracao_min": 70.9,
-    "data_resultado": "2026-07-25T06:06:02.932583+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06179,
+    "pnl_pct": 0.617,
+    "duracao_min": 80.5,
+    "data_resultado": "2026-07-25T06:15:40.621165+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8190-b60b-e90c487f5367",
