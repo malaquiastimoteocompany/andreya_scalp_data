@@ -498845,11 +498845,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.003872,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.003843,
-    "pnl_pct": 0.543,
-    "duracao_min": 58.4,
-    "data_resultado": "2026-07-25T05:35:16.449228+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.003868,
+    "pnl_pct": 0.22,
+    "duracao_min": 74.7,
+    "data_resultado": "2026-07-25T05:51:30.458316+00:00"
   },
   {
     "page_id": "3a8a5230-de72-811d-8aa6-c3362ada0368",
