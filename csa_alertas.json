@@ -523433,11 +523433,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00532125,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.005282,
-    "pnl_pct": 0.264,
-    "duracao_min": 111.6,
-    "data_resultado": "2026-07-25T23:26:36.621619+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.005283,
+    "pnl_pct": 0.255,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-25T23:35:12.736233+00:00"
   },
   {
     "page_id": "3a8a5230-de72-817d-a15e-e1d03716f118",
