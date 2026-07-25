@@ -519705,11 +519705,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.002565,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002541,
-    "pnl_pct": 1.128,
-    "duracao_min": 1.7,
-    "data_resultado": "2026-07-25T18:33:54.419205+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.002531,
+    "pnl_pct": 1.323,
+    "duracao_min": 77.7,
+    "data_resultado": "2026-07-25T19:49:59.182851+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8182-84c0-f29a42261077",
