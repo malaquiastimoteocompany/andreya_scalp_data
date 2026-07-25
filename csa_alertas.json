@@ -501943,11 +501943,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.006409,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.006311,
-    "pnl_pct": 1.19,
-    "duracao_min": 66.2,
-    "data_resultado": "2026-07-25T08:05:56.671379+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.006282,
+    "pnl_pct": 1.417,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-25T09:00:27.360048+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81d1-8fdc-c5233b5371e2",
