@@ -515499,11 +515499,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0041272,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004124,
-    "pnl_pct": 0.267,
-    "duracao_min": 24.6,
-    "data_resultado": "2026-07-25T16:18:57.240794+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004112,
+    "pnl_pct": 0.122,
+    "duracao_min": 41.0,
+    "data_resultado": "2026-07-25T16:35:24.143438+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8137-8936-cf24c9e4586f",
