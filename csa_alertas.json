@@ -513177,11 +513177,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06113,
-    "pnl_pct": 0.277,
-    "duracao_min": 48.2,
-    "data_resultado": "2026-07-25T15:12:51.308389+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06146,
+    "pnl_pct": 0.008,
+    "duracao_min": 56.6,
+    "data_resultado": "2026-07-25T15:21:13.657268+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8121-9b01-f5673f12f9d2",
