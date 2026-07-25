@@ -511649,11 +511649,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 6.411,
-    "pnl_pct": 0.881,
-    "duracao_min": 2.4,
-    "data_resultado": "2026-07-25T13:44:27.246646+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 6.419,
+    "pnl_pct": 0.944,
+    "duracao_min": 4.6,
+    "data_resultado": "2026-07-25T13:46:34.398937+00:00"
   },
   {
     "page_id": "3a8a5230-de72-818c-910c-f65163251935",
