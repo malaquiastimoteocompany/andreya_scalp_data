@@ -503787,11 +503787,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0030946,
-    "pnl_pct": 3.006,
-    "duracao_min": 103.0,
-    "data_resultado": "2026-07-25T09:47:31.157622+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0032142,
+    "pnl_pct": 1.131,
+    "duracao_min": 109.5,
+    "data_resultado": "2026-07-25T09:54:01.918812+00:00"
   },
   {
     "page_id": "3a8a5230-de72-810b-9cde-f43fa88f804a",
