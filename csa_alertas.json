@@ -511605,11 +511605,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.05416,
-    "pnl_pct": 3.217,
-    "duracao_min": 8.7,
-    "data_resultado": "2026-07-25T13:48:02.509719+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.05596,
+    "pnl_pct": 1.608,
+    "duracao_min": 32.6,
+    "data_resultado": "2026-07-25T14:11:58.965556+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81c6-97a4-e27d042b87f5",
