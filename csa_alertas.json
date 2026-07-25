@@ -509769,11 +509769,11 @@
     "estado_cfi": "E1",
     "zona_sr": 4.24e-06,
     "toques_sr": 7,
-    "resultado": "TP Tardio",
-    "preco_saida": 4.258e-06,
-    "pnl_pct": 0.283,
-    "duracao_min": 43.5,
-    "data_resultado": "2026-07-25T13:00:19.402899+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 4.28e-06,
+    "pnl_pct": 0.542,
+    "duracao_min": 73.6,
+    "data_resultado": "2026-07-25T13:30:21.118096+00:00"
   },
   {
     "page_id": "3a8a5230-de72-810c-a356-d9258effdd4b",
