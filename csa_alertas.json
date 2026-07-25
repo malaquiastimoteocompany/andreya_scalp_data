@@ -499213,7 +499213,11 @@
     "estado_cfi": "E1",
     "zona_sr": 208.195,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 207.29,
+    "pnl_pct": 0.024,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-25T06:55:09.277255+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81bb-b429-cd1a4ecf4227",
