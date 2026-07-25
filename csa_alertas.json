@@ -514096,5 +514096,31 @@
     "zona_sr": 0.00599933,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-811a-80d8-c4483bfc6a8a",
+    "token": "ICP",
+    "direccao": "LONG",
+    "preco_alerta": 2.137,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.01221429,
+    "tp1": 2.141885716,
+    "tp2": 2.14921429,
+    "sl": 2.118678565,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 62002581.0,
+    "spread_pct": 0.00046783625730988993,
+    "oi_usd": 5908386.49662,
+    "data_alerta": "2026-07-25T15:14:14.464006+00:00",
+    "rsi_1h": 50.39,
+    "funding_rate": 0.004,
+    "estado_cfi": "E1",
+    "zona_sr": 2.14075,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
