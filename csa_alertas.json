@@ -491035,11 +491035,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01704,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01709,
-    "pnl_pct": 0.707,
-    "duracao_min": 87.9,
-    "data_resultado": "2026-07-24T23:37:39.157703+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.01712,
+    "pnl_pct": 0.796,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-25T00:10:31.591895+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8130-8940-e2b7a8867f4c",
