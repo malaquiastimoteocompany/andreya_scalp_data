@@ -522267,11 +522267,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.051485,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05191,
-    "pnl_pct": 0.348,
-    "duracao_min": 71.9,
-    "data_resultado": "2026-07-25T21:51:40.249389+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.05192,
+    "pnl_pct": 0.358,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-25T22:40:49.598485+00:00"
   },
   {
     "page_id": "3a8a5230-de72-810b-9ffc-d45a949597a9",
