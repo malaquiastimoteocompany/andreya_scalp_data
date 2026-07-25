@@ -499534,5 +499534,31 @@
     "zona_sr": 0.001969,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-8116-8dbc-d603c049ed10",
+    "token": "TRX",
+    "direccao": "SHORT",
+    "preco_alerta": 0.32971,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00070429,
+    "tp1": 0.329428284,
+    "tp2": 0.32900571,
+    "sl": 0.330766435,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 5110772.0,
+    "spread_pct": 3.0330143613260338e-05,
+    "oi_usd": 5647503.834,
+    "data_alerta": "2026-07-25T05:19:57.300332+00:00",
+    "rsi_1h": 45.43,
+    "funding_rate": 0.0,
+    "estado_cfi": "E1",
+    "zona_sr": 0.32944769,
+    "toques_sr": 13,
+    "resultado": "Pendente"
   }
 ]
