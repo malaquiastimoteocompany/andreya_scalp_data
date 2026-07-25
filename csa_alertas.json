@@ -511869,11 +511869,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.717,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 3.686,
-    "pnl_pct": 0.405,
-    "duracao_min": 8.7,
-    "data_resultado": "2026-07-25T13:53:00.007856+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 3.668,
+    "pnl_pct": 0.648,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-25T15:45:21.211312+00:00"
   },
   {
     "page_id": "3a8a5230-de72-819e-a5d9-c22431d754a1",
