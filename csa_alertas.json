@@ -525334,5 +525334,31 @@
     "zona_sr": 8.35825,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-815b-874f-c31487e002c0",
+    "token": "ETHW",
+    "direccao": "LONG",
+    "preco_alerta": 0.2336,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00135714,
+    "tp1": 0.234142856,
+    "tp2": 0.23495714,
+    "sl": 0.23156429,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 5297614.0,
+    "spread_pct": 0.0008565310492505599,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-25T23:27:15.225012+00:00",
+    "rsi_1h": 41.83,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.2331,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
