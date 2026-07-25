@@ -500233,7 +500233,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.7885,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 1.783,
+    "pnl_pct": -0.779,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-25T07:55:06.054634+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81e3-9cc3-d85f7acde374",
