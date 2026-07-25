@@ -524405,7 +524405,11 @@
     "estado_cfi": "E2",
     "zona_sr": 2.911375,
     "toques_sr": 8,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 2.892,
+    "pnl_pct": 0.173,
+    "duracao_min": 0.6,
+    "data_resultado": "2026-07-25T22:19:53.296502+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81a3-a611-da67721c790e",
