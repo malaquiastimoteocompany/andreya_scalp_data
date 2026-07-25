@@ -508163,11 +508163,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.039,
-    "pnl_pct": 3.011,
-    "duracao_min": 24.6,
-    "data_resultado": "2026-07-25T11:46:30.296652+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.04212,
+    "pnl_pct": 7.132,
+    "duracao_min": 29.0,
+    "data_resultado": "2026-07-25T11:50:51.425045+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81e4-98fd-d02529c3b2de",
