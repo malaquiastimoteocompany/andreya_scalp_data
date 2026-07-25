@@ -504583,7 +504583,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 1.0888,
+    "pnl_pct": 0.129,
+    "duracao_min": 71.4,
+    "data_resultado": "2026-07-25T09:50:44.316756+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81e5-a012-e620191bfe01",
