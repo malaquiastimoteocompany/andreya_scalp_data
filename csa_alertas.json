@@ -491515,7 +491515,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.087788,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.08716,
+    "pnl_pct": 0.263,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-25T00:35:15.369688+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8139-a9ba-d3b0667c5b98",
