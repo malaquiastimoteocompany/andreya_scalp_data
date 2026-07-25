@@ -517913,7 +517913,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.070466,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.07104,
+    "pnl_pct": -0.58,
+    "duracao_min": 12.1,
+    "data_resultado": "2026-07-25T17:44:04.441252+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81c7-b90b-d6d1bfee219d",
