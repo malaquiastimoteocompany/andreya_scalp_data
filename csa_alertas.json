@@ -492325,7 +492325,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 137.47,
+    "pnl_pct": -0.468,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-25T01:14:50.270126+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8128-94db-e0547b49c81e",
