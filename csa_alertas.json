@@ -517769,11 +517769,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 4.92e-06,
-    "pnl_pct": 0.786,
-    "duracao_min": 66.7,
-    "data_resultado": "2026-07-25T18:33:29.430170+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 4.865e-06,
+    "pnl_pct": 1.341,
+    "duracao_min": 84.5,
+    "data_resultado": "2026-07-25T18:51:18.882124+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81d0-8cf3-c0528504758b",
