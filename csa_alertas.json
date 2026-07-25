@@ -501215,11 +501215,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.5555,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.564,
-    "pnl_pct": 0.621,
-    "duracao_min": 38.7,
-    "data_resultado": "2026-07-25T07:08:33.866611+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.54,
+    "pnl_pct": 0.282,
+    "duracao_min": 72.7,
+    "data_resultado": "2026-07-25T07:42:34.024322+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81cf-802a-eebf63223096",
