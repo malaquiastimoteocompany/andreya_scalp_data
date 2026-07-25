@@ -509210,5 +509210,31 @@
     "zona_sr": 2.04375,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-8175-a4e3-d0e2f4b1babc",
+    "token": "KERNEL",
+    "direccao": "SHORT",
+    "preco_alerta": 0.03475,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.000465,
+    "tp1": 0.034564000000000004,
+    "tp2": 0.034285,
+    "sl": 0.0354475,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 5119135.0,
+    "spread_pct": 0.0002878111958556069,
+    "oi_usd": 2016381.23388,
+    "data_alerta": "2026-07-25T12:02:23.363141+00:00",
+    "rsi_1h": 41.85,
+    "funding_rate": 0.0009,
+    "estado_cfi": "E1",
+    "zona_sr": 0.03479,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
