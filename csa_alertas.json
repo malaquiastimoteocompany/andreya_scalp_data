@@ -499723,7 +499723,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 3.682,
+    "pnl_pct": 0.19,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-25T07:20:09.681811+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81c9-a7b7-f1a4aae9b0e7",
