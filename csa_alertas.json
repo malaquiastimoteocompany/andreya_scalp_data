@@ -506599,11 +506599,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01566,
-    "pnl_pct": 0.256,
-    "duracao_min": 26.1,
-    "data_resultado": "2026-07-25T10:35:45.008101+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01571,
+    "pnl_pct": 0.416,
+    "duracao_min": 41.5,
+    "data_resultado": "2026-07-25T10:51:08.377974+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81a1-ac58-f0c5f41a1a97",
