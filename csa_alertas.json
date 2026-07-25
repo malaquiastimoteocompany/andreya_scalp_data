@@ -513051,11 +513051,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.55375,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.561,
-    "pnl_pct": 0.386,
-    "duracao_min": 60.2,
-    "data_resultado": "2026-07-25T15:17:21.567709+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.554,
+    "pnl_pct": 0.161,
+    "duracao_min": 79.1,
+    "data_resultado": "2026-07-25T15:36:13.072356+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81aa-8d09-d0373047474c",
