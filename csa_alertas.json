@@ -500137,11 +500137,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.057106,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05679,
-    "pnl_pct": 0.403,
-    "duracao_min": 62.2,
-    "data_resultado": "2026-07-25T06:46:39.662012+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.05706,
+    "pnl_pct": 0.167,
+    "duracao_min": 78.9,
+    "data_resultado": "2026-07-25T07:03:19.848375+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8137-aa30-edc619acdfeb",
