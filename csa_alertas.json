@@ -502465,11 +502465,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.666,
-    "pnl_pct": 0.435,
-    "duracao_min": 41.3,
-    "data_resultado": "2026-07-25T08:03:05.979380+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.684,
+    "pnl_pct": 0.19,
+    "duracao_min": 73.2,
+    "data_resultado": "2026-07-25T08:35:03.359393+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8183-8ecd-c1ad4b22a5df",
