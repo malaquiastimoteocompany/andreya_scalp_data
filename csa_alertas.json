@@ -505653,7 +505653,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.093405,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.0954,
+    "pnl_pct": 2.437,
+    "duracao_min": 28.4,
+    "data_resultado": "2026-07-25T10:07:48.842525+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81f3-a2e0-c549e1ddea14",
