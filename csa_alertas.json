@@ -510189,7 +510189,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04541692,
     "toques_sr": 13,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.04555,
+    "pnl_pct": -0.176,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-25T14:35:04.249842+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81e2-a3e0-d57555d32dd0",
