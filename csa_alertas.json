@@ -494212,5 +494212,31 @@
     "zona_sr": 206.3475,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-8116-a7fe-ea735f9ddea6",
+    "token": "LRC",
+    "direccao": "LONG",
+    "preco_alerta": 0.01212,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00024071,
+    "tp1": 0.012216284,
+    "tp2": 0.01236071,
+    "sl": 0.011758935,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=1/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 18241888.0,
+    "spread_pct": 0.0008240626287597521,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-25T00:51:55.053261+00:00",
+    "rsi_1h": 51.9,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0121775,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
