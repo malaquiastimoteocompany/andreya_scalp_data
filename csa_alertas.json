@@ -522057,11 +522057,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 4.877e-06,
-    "pnl_pct": 1.832,
-    "duracao_min": 46.9,
-    "data_resultado": "2026-07-25T21:11:14.809144+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 4.905e-06,
+    "pnl_pct": 1.55,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-25T22:25:08.256483+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81fe-b8f2-c0332b7b3fe6",
