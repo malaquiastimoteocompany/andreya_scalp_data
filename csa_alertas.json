@@ -494873,11 +494873,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0563,
-    "pnl_pct": 1.401,
-    "duracao_min": 21.3,
-    "data_resultado": "2026-07-25T01:38:46.038122+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.0554,
+    "pnl_pct": 2.189,
+    "duracao_min": 26.7,
+    "data_resultado": "2026-07-25T01:44:08.891880+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8130-bd86-f1af038c8caf",
