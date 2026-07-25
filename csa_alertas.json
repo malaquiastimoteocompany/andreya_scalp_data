@@ -507259,11 +507259,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05700667,
     "toques_sr": 9,
-    "resultado": "TP Hit",
-    "preco_saida": 0.05655,
-    "pnl_pct": 0.352,
-    "duracao_min": 14.6,
-    "data_resultado": "2026-07-25T11:01:24.842600+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.05619,
+    "pnl_pct": 0.67,
+    "duracao_min": 32.0,
+    "data_resultado": "2026-07-25T11:18:49.817632+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8142-a764-f3b79c226fa0",
