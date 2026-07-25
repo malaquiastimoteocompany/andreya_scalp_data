@@ -504293,11 +504293,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.093405,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.09565,
-    "pnl_pct": 2.442,
-    "duracao_min": 53.9,
-    "data_resultado": "2026-07-25T09:25:40.880449+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0931,
+    "pnl_pct": 1.076,
+    "duracao_min": 65.0,
+    "data_resultado": "2026-07-25T09:36:50.418576+00:00"
   },
   {
     "page_id": "3a8a5230-de72-813a-aed1-e7f38559383b",
