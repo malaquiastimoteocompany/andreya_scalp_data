@@ -508289,7 +508289,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.007267,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.007303,
+    "pnl_pct": 0.22,
+    "duracao_min": 44.2,
+    "data_resultado": "2026-07-25T12:13:38.266155+00:00"
   },
   {
     "page_id": "3a8a5230-de72-817d-818c-de058ce61ca7",
