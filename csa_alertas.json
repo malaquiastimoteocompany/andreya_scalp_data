@@ -504283,7 +504283,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.55266667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 1.552,
+    "pnl_pct": 0.258,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-25T10:27:45.468657+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81a5-8af6-ef0d19abfa76",
