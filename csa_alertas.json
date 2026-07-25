@@ -500563,11 +500563,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08271,
-    "pnl_pct": 0.267,
-    "duracao_min": 76.9,
-    "data_resultado": "2026-07-25T07:26:17.032098+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.08262,
+    "pnl_pct": 0.212,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-25T08:10:12.142836+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81e7-aae0-c892292d3b15",
