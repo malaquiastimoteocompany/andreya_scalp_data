@@ -499783,11 +499783,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.32944769,
     "toques_sr": 13,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.32937,
-    "pnl_pct": 0.103,
-    "duracao_min": 44.7,
-    "data_resultado": "2026-07-25T06:04:45.313000+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.32932,
+    "pnl_pct": 0.111,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-25T07:20:21.983955+00:00"
   },
   {
     "page_id": "3a8a5230-de72-818a-9e2a-d4be1f55e870",
