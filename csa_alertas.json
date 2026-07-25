@@ -512229,11 +512229,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.5555,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.561,
-    "pnl_pct": 0.536,
-    "duracao_min": 85.7,
-    "data_resultado": "2026-07-25T15:20:35.582644+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.582,
+    "pnl_pct": 0.833,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-25T15:54:57.326471+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81ff-889f-cf0330833db9",
