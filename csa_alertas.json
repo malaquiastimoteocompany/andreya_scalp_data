@@ -522901,11 +522901,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.81045,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.8159,
-    "pnl_pct": 0.233,
-    "duracao_min": 10.6,
-    "data_resultado": "2026-07-25T21:30:00.193188+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.8187,
+    "pnl_pct": 0.405,
+    "duracao_min": 29.6,
+    "data_resultado": "2026-07-25T21:48:57.639465+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8121-8976-e13af3b91f09",
