@@ -494931,11 +494931,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.047139,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.046854,
-    "pnl_pct": 1.006,
-    "duracao_min": 102.6,
-    "data_resultado": "2026-07-25T02:57:41.969930+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.047144,
+    "pnl_pct": 0.699,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-25T03:15:28.749185+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81c4-9fc1-c0b0cbca37fe",
