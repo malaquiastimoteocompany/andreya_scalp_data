@@ -514152,5 +514152,31 @@
     "zona_sr": 57.8798,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-81c5-997e-e5352f5b3517",
+    "token": "ARPA",
+    "direccao": "LONG",
+    "preco_alerta": 0.008304,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 4.6e-05,
+    "tp1": 0.0083224,
+    "tp2": 0.00835,
+    "sl": 0.008235000000000001,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 12779763.0,
+    "spread_pct": 0.00012043114349382792,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-25T15:14:35.774748+00:00",
+    "rsi_1h": 43.89,
+    "funding_rate": 0.0086,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00829817,
+    "toques_sr": 6,
+    "resultado": "Pendente"
   }
 ]
