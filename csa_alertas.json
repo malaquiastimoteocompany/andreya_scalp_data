@@ -502963,11 +502963,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.0059,
-    "pnl_pct": 0.567,
-    "duracao_min": 100.8,
-    "data_resultado": "2026-07-25T09:18:07.847460+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 2.0098,
+    "pnl_pct": 0.664,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-25T09:38:25.926268+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81fc-af5f-e6e6def3e3f4",
