@@ -505303,11 +505303,11 @@
     "estado_cfi": "E1",
     "zona_sr": 189.795,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 190.19,
-    "pnl_pct": 0.269,
-    "duracao_min": 56.7,
-    "data_resultado": "2026-07-25T10:13:35.155308+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 189.93,
+    "pnl_pct": 0.2,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-25T11:17:06.116767+00:00"
   },
   {
     "page_id": "3a8a5230-de72-819c-ae97-cd3e16590051",
