@@ -509939,11 +509939,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.81045,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.8157,
-    "pnl_pct": 0.233,
-    "duracao_min": 6.9,
-    "data_resultado": "2026-07-25T12:31:22.880311+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.8186,
+    "pnl_pct": 0.412,
+    "duracao_min": 43.5,
+    "data_resultado": "2026-07-25T13:07:57.197151+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81f1-b6af-eca18077c4fa",
