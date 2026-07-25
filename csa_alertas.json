@@ -514281,11 +514281,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.14075,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.142,
-    "pnl_pct": 0.234,
-    "duracao_min": 62.5,
-    "data_resultado": "2026-07-25T16:16:49.054538+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.135,
+    "pnl_pct": 0.07,
+    "duracao_min": 67.9,
+    "data_resultado": "2026-07-25T16:22:11.629260+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8138-9065-d4deab2b4740",
