@@ -501313,11 +501313,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3774,
-    "pnl_pct": 0.452,
-    "duracao_min": 35.0,
-    "data_resultado": "2026-07-25T07:05:06.125057+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.3767,
+    "pnl_pct": 0.359,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-25T08:30:24.020199+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8111-902a-df8623f01fb4",
