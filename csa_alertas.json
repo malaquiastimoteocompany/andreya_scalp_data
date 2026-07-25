@@ -520596,5 +520596,31 @@
     "zona_sr": 8.40625,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-8143-bbd5-de931d2affb5",
+    "token": "BICO",
+    "direccao": "LONG",
+    "preco_alerta": 0.01355,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00010143,
+    "tp1": 0.013590571999999999,
+    "tp2": 0.013651429999999999,
+    "sl": 0.013397855,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 7673229.0,
+    "spread_pct": 0.0007377351530800143,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-25T19:22:10.135469+00:00",
+    "rsi_1h": 58.21,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.01361,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
