@@ -509985,11 +509985,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06961,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07011,
-    "pnl_pct": 0.243,
-    "duracao_min": 48.7,
-    "data_resultado": "2026-07-25T13:13:02.629068+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06992,
+    "pnl_pct": 0.107,
+    "duracao_min": 93.6,
+    "data_resultado": "2026-07-25T13:57:51.940777+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8187-891e-f24eff12e879",
