@@ -503751,11 +503751,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.005205,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.005249,
-    "pnl_pct": 0.344,
-    "duracao_min": 8.7,
-    "data_resultado": "2026-07-25T08:18:21.090250+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.005274,
+    "pnl_pct": 0.583,
+    "duracao_min": 19.6,
+    "data_resultado": "2026-07-25T08:29:14.440670+00:00"
   },
   {
     "page_id": "3a8a5230-de72-810c-a90e-d82e8de3c4a0",
