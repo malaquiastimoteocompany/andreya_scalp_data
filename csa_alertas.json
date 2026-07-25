@@ -502289,11 +502289,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0070032,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.007081,
-    "pnl_pct": 0.941,
-    "duracao_min": 66.0,
-    "data_resultado": "2026-07-25T08:17:58.504281+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.007191,
+    "pnl_pct": 1.725,
+    "duracao_min": 77.0,
+    "data_resultado": "2026-07-25T08:28:57.890492+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81fd-ad05-c15c5cbc47d7",
