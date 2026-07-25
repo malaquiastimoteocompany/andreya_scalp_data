@@ -493893,7 +493893,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.59736667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.603,
+    "pnl_pct": 0.483,
+    "duracao_min": 25.0,
+    "data_resultado": "2026-07-25T01:01:56.723966+00:00"
   },
   {
     "page_id": "3a8a5230-de72-815f-803f-c3ce2c3edcd6",
