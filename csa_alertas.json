@@ -515763,7 +515763,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00610933,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.006102,
+    "pnl_pct": 0.329,
+    "duracao_min": 13.8,
+    "data_resultado": "2026-07-25T16:20:45.594404+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81ec-b748-ed441e71f7dd",
