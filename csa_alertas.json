@@ -496479,7 +496479,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00474483,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.004773,
+    "pnl_pct": 0.888,
+    "duracao_min": 98.4,
+    "data_resultado": "2026-07-25T04:10:25.631988+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81e6-9b8e-ec2961384081",
