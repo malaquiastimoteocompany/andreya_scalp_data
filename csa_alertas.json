@@ -511621,11 +511621,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.086115,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08665,
-    "pnl_pct": 0.382,
-    "duracao_min": 6.9,
-    "data_resultado": "2026-07-25T13:46:27.980596+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.0863,
+    "pnl_pct": 0.18,
+    "duracao_min": 16.6,
+    "data_resultado": "2026-07-25T13:56:11.535121+00:00"
   },
   {
     "page_id": "3a8a5230-de72-810a-a39c-fbc15cc78fa5",
