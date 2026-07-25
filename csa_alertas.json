@@ -509589,7 +509589,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1553,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.1608,
+    "pnl_pct": -3.809,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-25T14:04:39.544759+00:00"
   },
   {
     "page_id": "3a8a5230-de72-817e-bc1c-c2c99be868b8",
