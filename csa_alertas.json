@@ -492845,11 +492845,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0060402,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.006047,
-    "pnl_pct": 0.315,
-    "duracao_min": 98.5,
-    "data_resultado": "2026-07-25T01:15:18.169214+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.006027,
+    "pnl_pct": 0.149,
+    "duracao_min": 104.5,
+    "data_resultado": "2026-07-25T01:21:14.808361+00:00"
   },
   {
     "page_id": "3a7a5230-de72-81c5-a999-e2c2b844ab68",
