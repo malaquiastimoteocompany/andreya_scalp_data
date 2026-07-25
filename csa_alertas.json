@@ -523733,11 +523733,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1425,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1434,
-    "pnl_pct": 0.35,
-    "duracao_min": 33.5,
-    "data_resultado": "2026-07-25T22:18:15.066290+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.1436,
+    "pnl_pct": 0.42,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-25T23:45:21.623243+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8101-87a0-c947730f9e27",
