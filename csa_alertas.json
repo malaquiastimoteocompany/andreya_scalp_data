@@ -514695,11 +514695,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004614,
-    "pnl_pct": 0.304,
-    "duracao_min": 20.8,
-    "data_resultado": "2026-07-25T15:47:37.392044+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.004645,
+    "pnl_pct": 0.641,
+    "duracao_min": 50.2,
+    "data_resultado": "2026-07-25T16:17:01.510003+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8137-8ff4-dd75c8e927ca",
