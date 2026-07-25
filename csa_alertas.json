@@ -495763,11 +495763,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 91.42,
-    "pnl_pct": 0.428,
-    "duracao_min": 25.5,
-    "data_resultado": "2026-07-25T02:27:50.881400+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 91.02,
+    "pnl_pct": 0.209,
+    "duracao_min": 46.7,
+    "data_resultado": "2026-07-25T02:49:06.842026+00:00"
   },
   {
     "page_id": "3a8a5230-de72-812c-8369-c6c43422d239",
