@@ -499273,7 +499273,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.12233333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 2.123,
+    "pnl_pct": -0.094,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-25T06:59:31.073029+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8166-b640-c85f7ad0a23e",
