@@ -518937,11 +518937,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.6106,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.6093,
-    "pnl_pct": 0.327,
-    "duracao_min": 79.8,
-    "data_resultado": "2026-07-25T19:24:35.957722+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.6097,
+    "pnl_pct": 0.294,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-25T20:06:08.342491+00:00"
   },
   {
     "page_id": "3a8a5230-de72-814d-a379-fd87a008345b",
