@@ -491875,7 +491875,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004688,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.004677,
+    "pnl_pct": -0.277,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-25T00:54:39.188247+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8130-a1b6-f6b1bf80ce4f",
