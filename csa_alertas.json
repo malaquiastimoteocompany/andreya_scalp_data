@@ -508509,7 +508509,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.061205,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "BE Hit",
+    "preco_saida": 0.06113,
+    "pnl_pct": 0.319,
+    "duracao_min": 13.4,
+    "data_resultado": "2026-07-25T11:51:00.736233+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81b4-b060-cc3998893d33",
