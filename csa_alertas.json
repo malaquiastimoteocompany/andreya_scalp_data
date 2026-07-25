@@ -491879,11 +491879,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004319,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004333,
-    "pnl_pct": 0.324,
-    "duracao_min": 38.7,
-    "data_resultado": "2026-07-24T23:33:21.541607+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004318,
+    "pnl_pct": 0.15,
+    "duracao_min": 81.2,
+    "data_resultado": "2026-07-25T00:15:52.401788+00:00"
   },
   {
     "page_id": "3a7a5230-de72-81c7-b1a8-dc22ed329df1",
