@@ -512301,11 +512301,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.47233333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 6.48,
-    "pnl_pct": 0.31,
-    "duracao_min": 0.7,
-    "data_resultado": "2026-07-25T14:00:09.405601+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 6.513,
+    "pnl_pct": 0.565,
+    "duracao_min": 5.8,
+    "data_resultado": "2026-07-25T14:05:17.070572+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81f9-a5d0-ddba44c0b238",
