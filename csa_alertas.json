@@ -511359,11 +511359,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05612667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.05638,
-    "pnl_pct": 0.356,
-    "duracao_min": 7.8,
-    "data_resultado": "2026-07-25T13:32:12.954341+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.0565,
+    "pnl_pct": 0.463,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-25T15:24:28.192860+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8167-84cf-eb932be4e677",
