@@ -517969,7 +517969,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.051485,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.05182,
+    "pnl_pct": 0.213,
+    "duracao_min": 9.8,
+    "data_resultado": "2026-07-25T17:42:30.693482+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81f0-b21f-f9ec2a55350e",
