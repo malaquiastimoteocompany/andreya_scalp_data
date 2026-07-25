@@ -522177,7 +522177,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.08604,
+    "pnl_pct": -0.105,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-25T22:32:14.089400+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81ce-9a85-c17a11108ffc",
