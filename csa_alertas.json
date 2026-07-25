@@ -498863,7 +498863,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00435833,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.004365,
+    "pnl_pct": 0.322,
+    "duracao_min": 103.6,
+    "data_resultado": "2026-07-25T06:15:32.569909+00:00"
   },
   {
     "page_id": "3a8a5230-de72-814a-be62-fc35b663ce2a",
