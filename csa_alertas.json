@@ -515824,5 +515824,31 @@
     "zona_sr": 0.076445,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-81f2-8fed-e27bb4498c5b",
+    "token": "XAI",
+    "direccao": "LONG",
+    "preco_alerta": 0.006844,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 5.271e-05,
+    "tp1": 0.0068650840000000005,
+    "tp2": 0.00689671,
+    "sl": 0.0067649350000000006,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 5171796.0,
+    "spread_pct": 0.0001462308985887644,
+    "oi_usd": 532703.265,
+    "data_alerta": "2026-07-25T16:07:46.282170+00:00",
+    "rsi_1h": 46.01,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00681233,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
