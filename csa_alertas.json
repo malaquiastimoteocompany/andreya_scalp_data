@@ -522767,7 +522767,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.38866667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 1.388,
+    "pnl_pct": 0.289,
+    "duracao_min": 48.5,
+    "data_resultado": "2026-07-25T21:53:16.813409+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81b1-ae8f-d436d987f465",
