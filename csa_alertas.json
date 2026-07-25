@@ -521763,7 +521763,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.14075,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 2.156,
+    "pnl_pct": 0.232,
+    "duracao_min": 94.1,
+    "data_resultado": "2026-07-25T21:48:31.406715+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81c3-a9bd-e61dba9833e3",
