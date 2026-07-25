@@ -501385,11 +501385,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1537.93,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1537.16,
-    "pnl_pct": 0.406,
-    "duracao_min": 22.0,
-    "data_resultado": "2026-07-25T06:56:59.407181+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1529.87,
+    "pnl_pct": 0.168,
+    "duracao_min": 49.8,
+    "data_resultado": "2026-07-25T07:24:47.903658+00:00"
   },
   {
     "page_id": "3a8a5230-de72-817e-b029-f5a64fae3991",
