@@ -492823,11 +492823,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.7695,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 3.794,
-    "pnl_pct": 0.503,
-    "duracao_min": 29.2,
-    "data_resultado": "2026-07-25T00:10:57.506597+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.775,
+    "pnl_pct": 0.252,
+    "duracao_min": 64.0,
+    "data_resultado": "2026-07-25T00:45:46.808145+00:00"
   },
   {
     "page_id": "3a7a5230-de72-81a8-826b-ce927ff4896f",
