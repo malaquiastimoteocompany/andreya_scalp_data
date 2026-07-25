@@ -506263,7 +506263,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.003851,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.003849,
+    "pnl_pct": -0.233,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-25T11:57:58.332794+00:00"
   },
   {
     "page_id": "3a8a5230-de72-813e-91e7-e6b1800883c0",
