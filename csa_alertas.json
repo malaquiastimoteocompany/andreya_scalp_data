@@ -505573,7 +505573,11 @@
     "estado_cfi": "E1",
     "zona_sr": 31.34,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 31.44,
+    "pnl_pct": 0.127,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-25T11:31:57.206304+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8128-9be7-e9495374d58a",
