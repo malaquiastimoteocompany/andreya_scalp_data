@@ -498133,7 +498133,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.4149,
+    "pnl_pct": -0.288,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-25T05:52:55.829263+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8191-8b71-cb7e29dde21a",
