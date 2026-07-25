@@ -519087,11 +519087,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.71365,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.713,
-    "pnl_pct": 0.224,
-    "duracao_min": 71.7,
-    "data_resultado": "2026-07-25T19:18:52.017484+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.7136,
+    "pnl_pct": 0.182,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-25T20:07:41.125086+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81f2-9b38-c970475ba6e4",
