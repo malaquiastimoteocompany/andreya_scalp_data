@@ -522285,11 +522285,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08317429,
     "toques_sr": 7,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08312,
-    "pnl_pct": 0.399,
-    "duracao_min": 56.6,
-    "data_resultado": "2026-07-25T21:40:58.865790+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.08358,
+    "pnl_pct": 0.676,
+    "duracao_min": 68.7,
+    "data_resultado": "2026-07-25T21:53:07.625033+00:00"
   },
   {
     "page_id": "3a8a5230-de72-819c-b025-e04b3b94bb35",
