@@ -493134,5 +493134,31 @@
     "zona_sr": 6.318,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-8167-a9c8-c48ad25cefd2",
+    "token": "AAVE",
+    "direccao": "LONG",
+    "preco_alerta": 92.94,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.70142857,
+    "tp1": 93.220571428,
+    "tp2": 93.64142857,
+    "sl": 91.887857145,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 23808774.0,
+    "spread_pct": 0.00010760208748039926,
+    "oi_usd": 8480875.9005,
+    "data_alerta": "2026-07-25T00:04:29.885103+00:00",
+    "rsi_1h": 32.16,
+    "funding_rate": -0.0033,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
