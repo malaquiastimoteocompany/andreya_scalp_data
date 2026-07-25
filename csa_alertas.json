@@ -524463,7 +524463,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.37266667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.3698,
+    "pnl_pct": -1.176,
+    "duracao_min": 110.0,
+    "data_resultado": "2026-07-25T23:59:51.140620+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81dd-a251-d821a9de8f24",
