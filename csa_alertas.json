@@ -509363,7 +509363,11 @@
     "estado_cfi": "E2",
     "zona_sr": 138.94,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 137.95,
+    "pnl_pct": 0.304,
+    "duracao_min": 11.5,
+    "data_resultado": "2026-07-25T12:15:52.877344+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81bc-96c6-e32ddc5a6992",
