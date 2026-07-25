@@ -513129,11 +513129,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.38015,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3814,
-    "pnl_pct": 0.448,
-    "duracao_min": 8.9,
-    "data_resultado": "2026-07-25T14:33:54.320047+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.3839,
+    "pnl_pct": 0.777,
+    "duracao_min": 19.3,
+    "data_resultado": "2026-07-25T14:44:17.390247+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81c3-9f5c-fb5ae2d890d7",
