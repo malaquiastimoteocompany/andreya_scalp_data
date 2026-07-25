@@ -494049,11 +494049,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.17585,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1783,
-    "pnl_pct": 1.48,
-    "duracao_min": 3.9,
-    "data_resultado": "2026-07-25T00:46:07.765254+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1746,
+    "pnl_pct": 0.427,
+    "duracao_min": 96.5,
+    "data_resultado": "2026-07-25T02:18:40.494030+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8188-bc1e-cc5326c87bc1",
