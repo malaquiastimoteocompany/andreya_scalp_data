@@ -516565,11 +516565,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1869,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1876,
-    "pnl_pct": 0.644,
-    "duracao_min": 14.6,
-    "data_resultado": "2026-07-25T16:44:14.563080+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.1855,
+    "pnl_pct": 0.08,
+    "duracao_min": 23.9,
+    "data_resultado": "2026-07-25T16:53:36.772986+00:00"
   },
   {
     "page_id": "3a8a5230-de72-813e-a276-e851e2728238",
