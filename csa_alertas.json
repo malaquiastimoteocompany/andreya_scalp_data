@@ -521803,7 +521803,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.38866667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 1.389,
+    "pnl_pct": 0.289,
+    "duracao_min": 6.6,
+    "data_resultado": "2026-07-25T20:29:00.391126+00:00"
   },
   {
     "page_id": "3a8a5230-de72-813e-a6ca-f6bc4ccb4420",
