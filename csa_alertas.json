@@ -500525,7 +500525,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07648,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07658,
+    "pnl_pct": 0.117,
+    "duracao_min": 109.6,
+    "data_resultado": "2026-07-25T07:56:58.266391+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8156-9246-fefe1693f911",
