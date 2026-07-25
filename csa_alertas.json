@@ -515689,11 +515689,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.086115,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08629,
-    "pnl_pct": 0.279,
-    "duracao_min": 79.0,
-    "data_resultado": "2026-07-25T17:18:26.864192+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.08666,
+    "pnl_pct": 0.494,
+    "duracao_min": 101.2,
+    "data_resultado": "2026-07-25T17:40:36.571170+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81b1-9592-d671d5791313",
