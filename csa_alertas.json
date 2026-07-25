@@ -517745,11 +517745,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00622867,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.006258,
-    "pnl_pct": 0.288,
-    "duracao_min": 10.6,
-    "data_resultado": "2026-07-25T17:37:37.989052+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.006239,
+    "pnl_pct": 0.136,
+    "duracao_min": 18.5,
+    "data_resultado": "2026-07-25T17:45:32.102489+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81c8-9b86-f5782c88d1ad",
