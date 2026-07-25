@@ -524123,11 +524123,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01434,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01428,
-    "pnl_pct": 0.279,
-    "duracao_min": 60.6,
-    "data_resultado": "2026-07-25T22:59:56.842182+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.01426,
+    "pnl_pct": 0.349,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-25T23:59:36.840991+00:00"
   },
   {
     "page_id": "3a8a5230-de72-817b-aa25-ca396d3fa707",
