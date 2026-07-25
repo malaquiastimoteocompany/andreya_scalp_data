@@ -515993,11 +515993,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.20346667,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2021,
-    "pnl_pct": 0.394,
-    "duracao_min": 14.8,
-    "data_resultado": "2026-07-25T16:24:20.139270+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2029,
+    "pnl_pct": 0.197,
+    "duracao_min": 40.9,
+    "data_resultado": "2026-07-25T16:50:26.611273+00:00"
   },
   {
     "page_id": "3a8a5230-de72-810f-8e6f-f87525269336",
