@@ -521033,6 +521033,10 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.1488,
+    "pnl_pct": 1.392,
+    "duracao_min": 0.8,
+    "data_resultado": "2026-07-25T19:45:27.846276+00:00"
   }
 ]
