@@ -492553,7 +492553,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.1759,
+    "pnl_pct": 0.745,
+    "duracao_min": 64.1,
+    "data_resultado": "2026-07-25T00:33:29.838043+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8131-8cc0-ca36a83f9a20",
