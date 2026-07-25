@@ -510203,7 +510203,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.068255,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.06901,
+    "pnl_pct": 0.656,
+    "duracao_min": 26.6,
+    "data_resultado": "2026-07-25T13:06:15.872884+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8114-a498-ce0224fe4af3",
