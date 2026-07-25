@@ -517497,11 +517497,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08230667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08282,
-    "pnl_pct": 0.583,
-    "duracao_min": 27.1,
-    "data_resultado": "2026-07-25T17:34:09.180196+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.08262,
+    "pnl_pct": 0.462,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-25T19:08:03.695456+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81ac-b9fe-db56275d47df",
