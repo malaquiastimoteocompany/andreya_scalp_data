@@ -504733,11 +504733,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.67645,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
+    "resultado": "Falhado",
     "preco_saida": 0.6814,
     "pnl_pct": 0.339,
-    "duracao_min": 47.3,
-    "data_resultado": "2026-07-25T09:31:48.529009+00:00"
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-25T10:45:26.291869+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8179-a031-cbd729b6db95",
