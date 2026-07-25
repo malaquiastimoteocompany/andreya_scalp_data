@@ -505201,7 +505201,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.81826667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.8172,
+    "pnl_pct": 0.319,
+    "duracao_min": 8.7,
+    "data_resultado": "2026-07-25T09:30:29.338310+00:00"
   },
   {
     "page_id": "3a8a5230-de72-815e-9317-ee72f52f5bad",
