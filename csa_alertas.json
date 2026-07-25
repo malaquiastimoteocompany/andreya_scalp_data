@@ -521025,11 +521025,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 4.909e-06,
-    "pnl_pct": 1.247,
-    "duracao_min": 42.1,
-    "data_resultado": "2026-07-25T20:18:52.829316+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 4.971e-06,
+    "pnl_pct": 0.624,
+    "duracao_min": 46.6,
+    "data_resultado": "2026-07-25T20:23:21.866477+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8105-a3ba-e3d79dfca160",
