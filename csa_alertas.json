@@ -521877,11 +521877,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01736167,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01746,
-    "pnl_pct": 0.634,
-    "duracao_min": 106.7,
-    "data_resultado": "2026-07-25T22:03:42.453554+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.01744,
+    "pnl_pct": 0.576,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-25T22:17:58.778791+00:00"
   },
   {
     "page_id": "3a8a5230-de72-819b-b7d5-ecef9408111b",
