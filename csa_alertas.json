@@ -505021,11 +505021,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 5.973,
-    "pnl_pct": 4.615,
-    "duracao_min": 6.5,
-    "data_resultado": "2026-07-25T09:11:02.977342+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 5.448,
+    "pnl_pct": 8.807,
+    "duracao_min": 54.2,
+    "data_resultado": "2026-07-25T09:58:44.316539+00:00"
   },
   {
     "page_id": "3a8a5230-de72-817a-ace3-d50bbab682c5",
