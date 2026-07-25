@@ -504365,11 +504365,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004546,
-    "pnl_pct": 0.482,
-    "duracao_min": 23.9,
-    "data_resultado": "2026-07-25T09:00:47.670497+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.004536,
+    "pnl_pct": 0.591,
+    "duracao_min": 25.3,
+    "data_resultado": "2026-07-25T09:02:11.163203+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81b5-b1cc-c2f5b69347e0",
