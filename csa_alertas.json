@@ -521105,11 +521105,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1488,
-    "pnl_pct": 1.392,
-    "duracao_min": 0.8,
-    "data_resultado": "2026-07-25T19:45:27.846276+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1511,
+    "pnl_pct": 0.63,
+    "duracao_min": 31.2,
+    "data_resultado": "2026-07-25T20:15:53.302632+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8148-8ba0-e89aba5768ef",
