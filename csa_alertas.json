@@ -512093,11 +512093,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2038,
-    "pnl_pct": 0.493,
-    "duracao_min": 93.1,
-    "data_resultado": "2026-07-25T15:23:01.767381+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2051,
+    "pnl_pct": 0.814,
+    "duracao_min": 108.1,
+    "data_resultado": "2026-07-25T15:37:57.958555+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8158-bd82-c2b6766d7275",
