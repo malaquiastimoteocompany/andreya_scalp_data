@@ -514933,11 +514933,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.177,
-    "pnl_pct": 1.776,
-    "duracao_min": 20.9,
-    "data_resultado": "2026-07-25T15:58:11.923217+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.1818,
+    "pnl_pct": 0.444,
+    "duracao_min": 29.0,
+    "data_resultado": "2026-07-25T16:06:19.132906+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81f9-a035-f681cb42786a",
