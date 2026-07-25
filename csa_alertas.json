@@ -521037,7 +521037,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.224,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.2234,
+    "pnl_pct": -0.179,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-25T21:32:49.849177+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81be-b00f-cb510216b96d",
