@@ -511449,11 +511449,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01604,
-    "pnl_pct": 0.375,
-    "duracao_min": 9.7,
-    "data_resultado": "2026-07-25T13:44:08.962328+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.01595,
+    "pnl_pct": 0.094,
+    "duracao_min": 17.0,
+    "data_resultado": "2026-07-25T13:51:28.768631+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81b9-92c1-d90eb91d3df2",
