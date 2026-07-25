@@ -504347,11 +504347,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 3.661,
-    "pnl_pct": 0.489,
-    "duracao_min": 16.7,
-    "data_resultado": "2026-07-25T08:53:30.474793+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.639,
+    "pnl_pct": 0.788,
+    "duracao_min": 31.1,
+    "data_resultado": "2026-07-25T09:07:57.898953+00:00"
   },
   {
     "page_id": "3a8a5230-de72-811d-b6bb-c96ed684f6c2",
