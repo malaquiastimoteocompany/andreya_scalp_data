@@ -495711,11 +495711,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.10522,
-    "pnl_pct": 2.502,
-    "duracao_min": 55.6,
-    "data_resultado": "2026-07-25T02:54:59.288385+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.10228,
+    "pnl_pct": 3.864,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-25T03:59:56.791578+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8160-9f9d-fbceecb3f7ee",
