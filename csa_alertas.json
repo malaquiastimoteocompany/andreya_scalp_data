@@ -516839,11 +516839,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.65666667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 6.651,
-    "pnl_pct": 0.389,
-    "duracao_min": 26.8,
-    "data_resultado": "2026-07-25T17:03:47.832948+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 6.694,
+    "pnl_pct": 0.067,
+    "duracao_min": 85.8,
+    "data_resultado": "2026-07-25T18:02:46.148766+00:00"
   },
   {
     "page_id": "3a8a5230-de72-810a-aa8f-c87b22ca0f29",
