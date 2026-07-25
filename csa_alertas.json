@@ -503941,11 +503941,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.003851,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.003864,
-    "pnl_pct": 0.468,
-    "duracao_min": 6.4,
-    "data_resultado": "2026-07-25T08:18:28.177055+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.003845,
+    "pnl_pct": 0.221,
+    "duracao_min": 81.4,
+    "data_resultado": "2026-07-25T09:33:28.353983+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8144-bfff-e6ee8c29b39a",
