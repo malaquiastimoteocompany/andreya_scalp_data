@@ -513447,11 +513447,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00344933,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.003468,
-    "pnl_pct": 0.231,
-    "duracao_min": 75.2,
-    "data_resultado": "2026-07-25T15:47:19.018575+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.003478,
+    "pnl_pct": 0.376,
+    "duracao_min": 102.4,
+    "data_resultado": "2026-07-25T16:14:30.618205+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81b4-9ea5-f2e968699994",
