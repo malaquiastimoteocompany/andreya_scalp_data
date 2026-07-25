@@ -507909,11 +507909,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0223,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02272,
-    "pnl_pct": 1.701,
-    "duracao_min": 95.8,
-    "data_resultado": "2026-07-25T12:40:15.373686+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.02292,
+    "pnl_pct": 2.149,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-25T13:05:30.329804+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8104-bc08-c923f92eda47",
