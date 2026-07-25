@@ -504953,7 +504953,11 @@
     "estado_cfi": "E1",
     "zona_sr": 90.805,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 91.17,
+    "pnl_pct": 0.297,
+    "duracao_min": 49.0,
+    "data_resultado": "2026-07-25T09:50:53.614081+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8159-82f7-d151983fafc0",
