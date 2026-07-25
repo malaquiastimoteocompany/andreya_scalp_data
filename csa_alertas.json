@@ -524219,7 +524219,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.03435,
+    "pnl_pct": 1.151,
+    "duracao_min": 10.4,
+    "data_resultado": "2026-07-25T22:19:45.338922+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8150-8d87-c8db1bf93511",
