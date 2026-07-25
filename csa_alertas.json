@@ -522653,7 +522653,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 1.771,
+    "pnl_pct": -5.042,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-25T23:02:29.127610+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8194-b1c0-f36a6d800387",
