@@ -492359,11 +492359,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.094075,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0933,
-    "pnl_pct": 1.186,
-    "duracao_min": 45.6,
-    "data_resultado": "2026-07-25T00:02:50.793777+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.09461,
+    "pnl_pct": 0.492,
+    "duracao_min": 48.9,
+    "data_resultado": "2026-07-25T00:06:07.206143+00:00"
   },
   {
     "page_id": "3a7a5230-de72-8187-9353-d1050ca95d82",
