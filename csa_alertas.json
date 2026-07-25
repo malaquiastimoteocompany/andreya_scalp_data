@@ -521031,11 +521031,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3368,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3396,
-    "pnl_pct": 0.355,
-    "duracao_min": 36.6,
-    "data_resultado": "2026-07-25T20:11:17.782689+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.341,
+    "pnl_pct": 0.561,
+    "duracao_min": 59.2,
+    "data_resultado": "2026-07-25T20:33:58.017804+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81e5-8af7-e64b0346b963",
