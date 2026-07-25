@@ -515431,11 +515431,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06547167,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06538,
-    "pnl_pct": 0.366,
-    "duracao_min": 34.6,
-    "data_resultado": "2026-07-25T16:23:59.786239+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.06549,
+    "pnl_pct": 0.282,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-25T17:49:40.555772+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8179-95a1-fd03c5af1574",
