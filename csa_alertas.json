@@ -515329,11 +515329,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02983,
-    "pnl_pct": 0.367,
-    "duracao_min": 1.4,
-    "data_resultado": "2026-07-25T15:50:55.255749+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.0297,
+    "pnl_pct": 0.585,
+    "duracao_min": 21.8,
+    "data_resultado": "2026-07-25T16:11:23.135015+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81b5-bb6f-e524865e07d6",
