@@ -510799,7 +510799,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.17791,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.17877,
+    "pnl_pct": -0.71,
+    "duracao_min": 47.2,
+    "data_resultado": "2026-07-25T13:49:25.452734+00:00"
   },
   {
     "page_id": "3a8a5230-de72-811e-93ac-d66df61bdcf2",
