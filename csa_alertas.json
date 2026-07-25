@@ -522402,5 +522402,31 @@
     "zona_sr": 0.20364,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-810a-b329-ca773011b0df",
+    "token": "EIGEN",
+    "direccao": "LONG",
+    "preco_alerta": 0.2053,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00226429,
+    "tp1": 0.206205716,
+    "tp2": 0.20756429,
+    "sl": 0.201903565,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 7310593.0,
+    "spread_pct": 0.0004872107186358916,
+    "oi_usd": 2745296.0886,
+    "data_alerta": "2026-07-25T20:57:08.842618+00:00",
+    "rsi_1h": 46.13,
+    "funding_rate": -0.0072,
+    "estado_cfi": "E1",
+    "zona_sr": 0.20455,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
