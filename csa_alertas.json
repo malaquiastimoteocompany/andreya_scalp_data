@@ -491125,7 +491125,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 488.95,
+    "pnl_pct": -0.731,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-25T00:12:14.793880+00:00"
   },
   {
     "page_id": "3a7a5230-de72-81bd-920c-f85506a8ce9c",
