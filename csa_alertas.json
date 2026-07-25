@@ -496701,11 +496701,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 91.36,
-    "pnl_pct": 0.385,
-    "duracao_min": 13.1,
-    "data_resultado": "2026-07-25T03:05:03.606149+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 91.66,
+    "pnl_pct": 0.549,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-25T04:52:49.004063+00:00"
   },
   {
     "page_id": "3a8a5230-de72-815d-99a0-dc9a7f67bd9f",
