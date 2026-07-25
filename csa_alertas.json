@@ -495265,11 +495265,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1553,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1535,
-    "pnl_pct": 1.476,
-    "duracao_min": 9.8,
-    "data_resultado": "2026-07-25T01:44:25.534084+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1593,
+    "pnl_pct": -0.385,
+    "duracao_min": 53.0,
+    "data_resultado": "2026-07-25T02:27:41.255618+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8147-8f64-deb55854a1b4",
