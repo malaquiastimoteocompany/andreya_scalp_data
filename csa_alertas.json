@@ -508167,11 +508167,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.86033333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.864,
-    "pnl_pct": 0.21,
-    "duracao_min": 95.5,
-    "data_resultado": "2026-07-25T12:49:47.712168+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.874,
+    "pnl_pct": 0.385,
+    "duracao_min": 109.2,
+    "data_resultado": "2026-07-25T13:03:34.264326+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8179-8a53-d80c6a30aaf1",
