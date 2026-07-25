@@ -523499,7 +523499,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.045035,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.0451,
+    "pnl_pct": 0.221,
+    "duracao_min": 109.6,
+    "data_resultado": "2026-07-25T23:26:43.755119+00:00"
   },
   {
     "page_id": "3a8a5230-de72-812b-bdcb-e68996a87802",
