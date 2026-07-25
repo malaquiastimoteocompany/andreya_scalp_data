@@ -492957,11 +492957,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03537667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03504,
-    "pnl_pct": 1.129,
-    "duracao_min": 5.9,
-    "data_resultado": "2026-07-25T00:03:09.004986+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.03548,
+    "pnl_pct": 0.508,
+    "duracao_min": 25.8,
+    "data_resultado": "2026-07-25T00:23:04.633143+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8133-ace4-e4fee2946344",
