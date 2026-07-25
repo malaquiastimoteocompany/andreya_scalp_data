@@ -511889,7 +511889,11 @@
     "estado_cfi": "E1",
     "zona_sr": 46.175,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 45.85,
+    "pnl_pct": -0.629,
+    "duracao_min": 25.1,
+    "data_resultado": "2026-07-25T14:12:12.212837+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8119-b802-c62cd0b5c2c7",
