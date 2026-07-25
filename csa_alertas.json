@@ -509713,11 +509713,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.121,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.128,
-    "pnl_pct": 0.236,
-    "duracao_min": 59.3,
-    "data_resultado": "2026-07-25T13:11:07.167579+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.136,
+    "pnl_pct": 0.424,
+    "duracao_min": 81.8,
+    "data_resultado": "2026-07-25T13:33:37.677338+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81f3-8a6e-c2b967a3199e",
