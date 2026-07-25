@@ -514966,5 +514966,31 @@
     "zona_sr": 0.20455,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-8181-97f3-ea3a3c8041ab",
+    "token": "SEI",
+    "direccao": "LONG",
+    "preco_alerta": 0.044,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00021,
+    "tp1": 0.044084,
+    "tp2": 0.04421,
+    "sl": 0.043684999999999995,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 6891087.0,
+    "spread_pct": 0.00022724690376100582,
+    "oi_usd": 3923044.4763,
+    "data_alerta": "2026-07-25T15:41:59.428777+00:00",
+    "rsi_1h": 42.74,
+    "funding_rate": -0.0128,
+    "estado_cfi": "E1",
+    "zona_sr": 0.04401,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
