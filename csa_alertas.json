@@ -496623,7 +496623,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.50986333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.50374,
+    "pnl_pct": 1.076,
+    "duracao_min": 25.4,
+    "data_resultado": "2026-07-25T03:17:25.156222+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8146-b676-dc605b7fb4fd",
