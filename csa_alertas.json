@@ -522753,11 +522753,11 @@
     "estado_cfi": "E1",
     "zona_sr": 90.8925,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 91.59,
-    "pnl_pct": 0.296,
-    "duracao_min": 52.5,
-    "data_resultado": "2026-07-25T21:54:56.052746+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 92.13,
+    "pnl_pct": 0.591,
+    "duracao_min": 100.0,
+    "data_resultado": "2026-07-25T22:42:25.717205+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81a1-a419-fe76e71a4d7f",
