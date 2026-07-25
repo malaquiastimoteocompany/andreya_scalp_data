@@ -503129,11 +503129,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.38644,
-    "pnl_pct": 2.038,
-    "duracao_min": 4.4,
-    "data_resultado": "2026-07-25T07:53:57.196752+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.37806,
+    "pnl_pct": 0.932,
+    "duracao_min": 24.0,
+    "data_resultado": "2026-07-25T08:13:33.665738+00:00"
   },
   {
     "page_id": "3a8a5230-de72-812e-91ec-ef59c79d706f",
