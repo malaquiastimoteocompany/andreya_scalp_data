@@ -493821,7 +493821,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.3766,
+    "pnl_pct": -1.568,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-25T02:22:59.299366+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8108-8537-c0161be01cab",
