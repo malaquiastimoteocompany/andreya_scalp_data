@@ -504429,11 +504429,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.026635,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02676,
-    "pnl_pct": 0.3,
-    "duracao_min": 76.9,
-    "data_resultado": "2026-07-25T09:49:09.124591+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.02667,
+    "pnl_pct": 0.131,
+    "duracao_min": 117.0,
+    "data_resultado": "2026-07-25T10:29:15.366794+00:00"
   },
   {
     "page_id": "3a8a5230-de72-815b-a07e-d77174c3a41e",
