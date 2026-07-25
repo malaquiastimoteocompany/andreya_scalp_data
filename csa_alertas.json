@@ -501408,5 +501408,31 @@
     "zona_sr": 0.001202,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-81c8-b3a4-c775138a9dd0",
+    "token": "FARTCOIN",
+    "direccao": "LONG",
+    "preco_alerta": 0.12286,
+    "score": 8,
+    "setup": "A",
+    "prioritario": true,
+    "enviado": true,
+    "executavel": true,
+    "atr_1h": 0.00108643,
+    "tp1": 0.12329457199999999,
+    "tp2": 0.12394643,
+    "sl": 0.121230355,
+    "componentes": "sr_zone=2/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 7862021.0,
+    "spread_pct": 8.140339452151998e-05,
+    "oi_usd": 8635086.7158,
+    "data_alerta": "2026-07-25T06:42:04.916998+00:00",
+    "rsi_1h": 23.43,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.12346,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
