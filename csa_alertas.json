@@ -516185,7 +516185,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.602,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 6.603,
+    "pnl_pct": 0.347,
+    "duracao_min": 3.3,
+    "data_resultado": "2026-07-25T16:22:44.624846+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81b3-8542-e5a89a673ec7",
