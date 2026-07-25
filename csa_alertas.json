@@ -518257,11 +518257,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00622,
-    "pnl_pct": 0.4,
-    "duracao_min": 4.5,
-    "data_resultado": "2026-07-25T17:51:22.351754+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.006251,
+    "pnl_pct": 0.152,
+    "duracao_min": 8.9,
+    "data_resultado": "2026-07-25T17:55:48.564489+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8101-8bc5-dc14f4cf4fd3",
