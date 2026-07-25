@@ -494135,11 +494135,11 @@
     "estado_cfi": "E1",
     "zona_sr": 8.29,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 8.345,
-    "pnl_pct": 0.288,
-    "duracao_min": 19.3,
-    "data_resultado": "2026-07-25T01:06:24.125105+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 8.321,
+    "pnl_pct": 0.144,
+    "duracao_min": 43.9,
+    "data_resultado": "2026-07-25T01:30:55.044205+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8127-95b0-e779cd9fae56",
