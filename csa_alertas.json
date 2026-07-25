@@ -507669,7 +507669,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.026635,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.0267,
+    "pnl_pct": 0.15,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-25T12:59:54.177595+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81cb-921c-da67b84852fd",
