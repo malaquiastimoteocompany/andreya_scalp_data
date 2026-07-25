@@ -493681,7 +493681,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.005325,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.005274,
+    "pnl_pct": 0.509,
+    "duracao_min": 101.0,
+    "data_resultado": "2026-07-25T01:58:17.371922+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8187-9a13-d61fb17369e4",
