@@ -498162,5 +498162,31 @@
     "zona_sr": 0.203,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-8112-8d1d-df5ed0ad3fd8",
+    "token": "B2",
+    "direccao": "LONG",
+    "preco_alerta": 0.4439,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.01886429,
+    "tp1": 0.451445716,
+    "tp2": 0.46276429,
+    "sl": 0.415603565,
+    "componentes": "sr_zone=0/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 6101013.0,
+    "spread_pct": 0.0002262187535346431,
+    "oi_usd": 703001.187,
+    "data_alerta": "2026-07-25T04:04:46.244187+00:00",
+    "rsi_1h": 66.08,
+    "funding_rate": 0.0251,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
