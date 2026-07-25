@@ -522405,7 +522405,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.20364,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.2036,
+    "pnl_pct": 0.196,
+    "duracao_min": 4.1,
+    "data_resultado": "2026-07-25T21:01:01.282422+00:00"
   },
   {
     "page_id": "3a8a5230-de72-810a-b329-ca773011b0df",
