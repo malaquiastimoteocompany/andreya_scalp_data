@@ -521053,11 +521053,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.178415,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.17847,
-    "pnl_pct": 0.173,
-    "duracao_min": 56.2,
-    "data_resultado": "2026-07-25T20:30:45.621525+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.178,
+    "pnl_pct": 0.305,
+    "duracao_min": 89.1,
+    "data_resultado": "2026-07-25T21:03:37.912021+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8159-a649-ebee0ad027e0",
