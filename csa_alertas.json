@@ -494105,11 +494105,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.7695,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 3.796,
-    "pnl_pct": 0.583,
-    "duracao_min": 11.2,
-    "data_resultado": "2026-07-25T00:58:04.254958+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.771,
+    "pnl_pct": 0.252,
+    "duracao_min": 41.4,
+    "data_resultado": "2026-07-25T01:28:14.601615+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81b4-8825-c7b239867d3d",
