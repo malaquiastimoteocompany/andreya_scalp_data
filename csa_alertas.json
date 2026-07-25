@@ -499813,11 +499813,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
+    "resultado": "Falhado",
     "preco_saida": 0.01408,
     "pnl_pct": 0.356,
-    "duracao_min": 121.2,
-    "data_resultado": "2026-07-25T07:23:02.786466+00:00"
+    "duracao_min": 122.6,
+    "data_resultado": "2026-07-25T07:24:26.994268+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8103-afa1-c0a78cd8df97",
