@@ -500361,11 +500361,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03948667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03907,
-    "pnl_pct": 0.636,
-    "duracao_min": 18.9,
-    "data_resultado": "2026-07-25T06:23:52.443758+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.03885,
+    "pnl_pct": 0.916,
+    "duracao_min": 35.7,
+    "data_resultado": "2026-07-25T06:40:40.060533+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81d3-81e6-f97ceddb3246",
