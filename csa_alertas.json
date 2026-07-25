@@ -515169,7 +515169,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0059935,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.006032,
+    "pnl_pct": 0.283,
+    "duracao_min": 5.3,
+    "data_resultado": "2026-07-25T15:52:18.226184+00:00"
   },
   {
     "page_id": "3a8a5230-de72-816c-bf21-e03c5c9e9688",
