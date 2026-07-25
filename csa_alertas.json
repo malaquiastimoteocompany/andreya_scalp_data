@@ -521035,7 +521035,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.001986,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.00199,
+    "pnl_pct": 0.251,
+    "duracao_min": 98.2,
+    "data_resultado": "2026-07-25T21:12:30.543229+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81f6-b51d-ec920e734c88",
