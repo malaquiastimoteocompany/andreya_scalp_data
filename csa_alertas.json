@@ -518907,11 +518907,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.14075,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 2.153,
-    "pnl_pct": 0.279,
-    "duracao_min": 11.9,
-    "data_resultado": "2026-07-25T18:16:32.278207+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 2.154,
+    "pnl_pct": 0.303,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-25T20:04:41.700633+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8132-a350-ca53ab1f2992",
