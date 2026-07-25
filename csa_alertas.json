@@ -520303,7 +520303,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.01625,
+    "pnl_pct": 0.368,
+    "duracao_min": 3.3,
+    "data_resultado": "2026-07-25T19:10:20.448208+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81d7-a04d-fd288d661c66",
