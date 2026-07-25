@@ -497358,5 +497358,31 @@
     "zona_sr": 0.02333,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a8a5230-de72-81fd-b336-d13e05ca6f14",
+    "token": "OPN",
+    "direccao": "LONG",
+    "preco_alerta": 0.06268,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00084571,
+    "tp1": 0.063018284,
+    "tp2": 0.06352571,
+    "sl": 0.061411435,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 13345314.0,
+    "spread_pct": 0.0001594514868850534,
+    "oi_usd": 546538.07196,
+    "data_alerta": "2026-07-25T03:24:22.847140+00:00",
+    "rsi_1h": 42.57,
+    "funding_rate": 0.0026,
+    "estado_cfi": "E1",
+    "zona_sr": 0.062455,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
