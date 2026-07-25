@@ -491425,11 +491425,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.17765,
-    "pnl_pct": 0.339,
-    "duracao_min": 77.7,
-    "data_resultado": "2026-07-24T23:44:48.844355+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.17785,
+    "pnl_pct": 0.395,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-25T00:27:13.971074+00:00"
   },
   {
     "page_id": "3a7a5230-de72-81cd-9716-c724687b073e",
