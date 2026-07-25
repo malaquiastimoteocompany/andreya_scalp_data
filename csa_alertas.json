@@ -523029,7 +523029,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08345,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.08267,
+    "pnl_pct": 0.697,
+    "duracao_min": 31.6,
+    "data_resultado": "2026-07-25T21:53:29.291341+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81ac-ae7d-f4c8b277807a",
