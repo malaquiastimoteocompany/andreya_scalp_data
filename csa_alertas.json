@@ -517007,11 +517007,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00610933,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.006136,
-    "pnl_pct": 0.261,
-    "duracao_min": 9.8,
-    "data_resultado": "2026-07-25T17:01:50.429898+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.006165,
+    "pnl_pct": 0.498,
+    "duracao_min": 13.6,
+    "data_resultado": "2026-07-25T17:05:37.445878+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81b2-8065-ea2c4334d3fe",
