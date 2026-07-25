@@ -495791,7 +495791,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.08231,
+    "pnl_pct": 0.341,
+    "duracao_min": 23.6,
+    "data_resultado": "2026-07-25T02:27:57.302392+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8130-8f11-c55d7441e685",
