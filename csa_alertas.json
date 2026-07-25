@@ -508599,11 +508599,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 478.94,
-    "pnl_pct": 0.394,
-    "duracao_min": 86.9,
-    "data_resultado": "2026-07-25T13:03:54.009300+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 477.45,
+    "pnl_pct": 0.238,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-25T13:37:58.244415+00:00"
   },
   {
     "page_id": "3a8a5230-de72-817b-a26b-cafdf1a22361",
