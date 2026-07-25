@@ -523793,11 +523793,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.699,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.67,
-    "pnl_pct": 0.299,
-    "duracao_min": 36.3,
-    "data_resultado": "2026-07-25T22:28:08.312929+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.681,
+    "pnl_pct": 0.149,
+    "duracao_min": 81.9,
+    "data_resultado": "2026-07-25T23:13:47.827594+00:00"
   },
   {
     "page_id": "3a8a5230-de72-811e-a98a-d055b36d9915",
