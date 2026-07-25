@@ -492881,7 +492881,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0040725,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.00411,
+    "pnl_pct": 0.489,
+    "duracao_min": 75.2,
+    "data_resultado": "2026-07-25T00:59:35.265848+00:00"
   },
   {
     "page_id": "3a7a5230-de72-81e7-b065-fa14d25d6654",
