@@ -523157,11 +523157,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.002408,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00241,
-    "pnl_pct": 0.333,
-    "duracao_min": 4.4,
-    "data_resultado": "2026-07-25T21:36:30.371065+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.002418,
+    "pnl_pct": 0.5,
+    "duracao_min": 9.3,
+    "data_resultado": "2026-07-25T21:41:24.045105+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81b9-b1d3-f7b0d075f6a5",
