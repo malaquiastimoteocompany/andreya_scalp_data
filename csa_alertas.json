@@ -548061,11 +548061,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.38335,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3845,
-    "pnl_pct": 0.786,
-    "duracao_min": 3.5,
-    "data_resultado": "2026-07-26T14:50:45.491620+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.3887,
+    "pnl_pct": 1.337,
+    "duracao_min": 5.0,
+    "data_resultado": "2026-07-26T14:52:19.608177+00:00"
   },
   {
     "page_id": "3a9a5230-de72-813f-9e4a-c68cfeee8382",
