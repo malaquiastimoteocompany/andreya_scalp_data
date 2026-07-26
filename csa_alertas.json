@@ -530793,11 +530793,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08604333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08626,
-    "pnl_pct": 0.267,
-    "duracao_min": 4.7,
-    "data_resultado": "2026-07-26T03:17:19.028561+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.08601,
+    "pnl_pct": 0.122,
+    "duracao_min": 14.7,
+    "data_resultado": "2026-07-26T03:27:20.885397+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8111-96dd-e0a3ed1a4b8f",
