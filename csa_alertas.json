@@ -540401,11 +540401,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.38975,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 1.39,
-    "pnl_pct": 0.289,
-    "duracao_min": 14.5,
-    "data_resultado": "2026-07-26T09:54:15.527868+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.396,
+    "pnl_pct": 0.505,
+    "duracao_min": 36.5,
+    "data_resultado": "2026-07-26T10:16:16.017652+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81ad-abad-c1be402b1d27",
