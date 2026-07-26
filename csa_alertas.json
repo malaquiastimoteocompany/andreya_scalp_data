@@ -549031,11 +549031,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.17866667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.18,
-    "pnl_pct": 0.276,
-    "duracao_min": 33.0,
-    "data_resultado": "2026-07-26T15:54:53.529557+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.174,
+    "pnl_pct": 0.138,
+    "duracao_min": 98.0,
+    "data_resultado": "2026-07-26T16:59:54.390980+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8141-9f5f-ec1d6dd2a51f",
