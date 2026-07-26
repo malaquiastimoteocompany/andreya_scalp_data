@@ -532078,5 +532078,31 @@
     "zona_sr": 0.083292,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a9a5230-de72-8166-9fbb-df322d911e9f",
+    "token": "SXT",
+    "direccao": "LONG",
+    "preco_alerta": 0.006583,
+    "score": 8,
+    "setup": "B",
+    "prioritario": true,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 5.779e-05,
+    "tp1": 0.006606116,
+    "tp2": 0.006640790000000001,
+    "sl": 0.006496315,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 64676025.0,
+    "spread_pct": 0.00015191796429929856,
+    "oi_usd": 634610.69994,
+    "data_alerta": "2026-07-26T04:06:47.976086+00:00",
+    "rsi_1h": 35.63,
+    "funding_rate": 0.0018,
+    "estado_cfi": "E1",
+    "zona_sr": 0.006588,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
