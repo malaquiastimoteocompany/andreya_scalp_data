@@ -559989,11 +559989,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0444325,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04443,
-    "pnl_pct": 0.247,
-    "duracao_min": 9.4,
-    "data_resultado": "2026-07-26T23:19:29.999895+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04455,
+    "pnl_pct": 0.112,
+    "duracao_min": 31.6,
+    "data_resultado": "2026-07-26T23:41:44.517438+00:00"
   },
   {
     "page_id": "3a9a5230-de72-815f-bfc9-f0df1e6b65a5",
