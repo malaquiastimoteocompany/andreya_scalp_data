@@ -531251,11 +531251,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01335,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01327,
-    "pnl_pct": 0.45,
-    "duracao_min": 8.6,
-    "data_resultado": "2026-07-26T03:33:06.225966+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01333,
+    "pnl_pct": 0.225,
+    "duracao_min": 113.3,
+    "data_resultado": "2026-07-26T05:17:53.147182+00:00"
   },
   {
     "page_id": "3a9a5230-de72-810b-a055-d183a9e09763",
