@@ -539711,11 +539711,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.735,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 6.711,
-    "pnl_pct": 0.46,
-    "duracao_min": 56.7,
-    "data_resultado": "2026-07-26T10:03:37.356766+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 6.714,
+    "pnl_pct": 0.438,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-26T11:07:07.080115+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81d8-985e-c0b9ee7d8af2",
