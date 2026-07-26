@@ -534199,11 +534199,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.306,
-    "pnl_pct": 3.997,
-    "duracao_min": 119.5,
-    "data_resultado": "2026-07-26T07:21:22.381586+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 2.311,
+    "pnl_pct": 3.893,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-26T07:22:53.254282+00:00"
   },
   {
     "page_id": "3a9a5230-de72-811f-9b19-f778f095ad18",
