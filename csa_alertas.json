@@ -541653,7 +541653,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 95.91,
+    "pnl_pct": -0.788,
+    "duracao_min": 121.7,
+    "data_resultado": "2026-07-26T12:31:07.925501+00:00"
   },
   {
     "page_id": "3a9a5230-de72-819f-aa96-fb02a9c59912",
