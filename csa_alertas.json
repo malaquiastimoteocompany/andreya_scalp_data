@@ -546167,11 +546167,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.014,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01409,
-    "pnl_pct": 0.213,
-    "duracao_min": 109.1,
-    "data_resultado": "2026-07-26T15:18:38.185214+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.01407,
+    "pnl_pct": 0.142,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-26T15:29:41.070266+00:00"
   },
   {
     "page_id": "3a9a5230-de72-819a-8e35-ccd6c73f9b52",
