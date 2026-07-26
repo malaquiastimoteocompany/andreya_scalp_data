@@ -554387,11 +554387,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08224,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08255,
-    "pnl_pct": 0.462,
-    "duracao_min": 80.9,
-    "data_resultado": "2026-07-26T20:32:51.491663+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.08258,
+    "pnl_pct": 0.481,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-26T21:12:41.510404+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81f3-9a2b-d20f9ca611ba",
