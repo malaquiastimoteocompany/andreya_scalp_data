@@ -536711,11 +536711,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 93.42,
-    "pnl_pct": 0.267,
-    "duracao_min": 2.4,
-    "data_resultado": "2026-07-26T07:04:41.038852+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 93.71,
+    "pnl_pct": 0.112,
+    "duracao_min": 17.9,
+    "data_resultado": "2026-07-26T07:20:09.065746+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81aa-9f8c-d03caec5accc",
