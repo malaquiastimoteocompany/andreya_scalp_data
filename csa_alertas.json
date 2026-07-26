@@ -543385,11 +543385,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04484667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
+    "resultado": "Falhado",
     "preco_saida": 0.04452,
     "pnl_pct": 0.291,
-    "duracao_min": 81.1,
-    "data_resultado": "2026-07-26T13:00:46.509355+00:00"
+    "duracao_min": 121.5,
+    "data_resultado": "2026-07-26T13:41:09.285161+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81b0-aa71-fa5de4d11e19",
