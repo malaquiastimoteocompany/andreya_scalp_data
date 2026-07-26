@@ -538365,11 +538365,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001991,
-    "pnl_pct": 0.201,
-    "duracao_min": 37.1,
-    "data_resultado": "2026-07-26T08:41:31.167474+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.001995,
+    "pnl_pct": 0.1,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-26T10:04:59.847938+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81c8-943b-caed4b316126",
