@@ -542303,11 +542303,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.7501,
-    "pnl_pct": 0.375,
-    "duracao_min": 31.5,
-    "data_resultado": "2026-07-26T11:28:22.620958+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.7472,
+    "pnl_pct": 0.181,
+    "duracao_min": 96.0,
+    "data_resultado": "2026-07-26T12:32:49.132340+00:00"
   },
   {
     "page_id": "3a9a5230-de72-815f-9827-d1c6e1ee399c",
