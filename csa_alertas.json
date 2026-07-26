@@ -527761,7 +527761,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.9221,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.9196,
+    "pnl_pct": 0.755,
+    "duracao_min": 28.2,
+    "data_resultado": "2026-07-26T01:40:17.542492+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8173-9ccd-c2df9c2d29fd",
