@@ -546521,11 +546521,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04438667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04462,
-    "pnl_pct": 0.225,
-    "duracao_min": 25.4,
-    "data_resultado": "2026-07-26T14:07:35.682879+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04452,
+    "pnl_pct": 0.112,
+    "duracao_min": 49.2,
+    "data_resultado": "2026-07-26T14:31:21.256546+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81d6-9e17-f79b44e72915",
