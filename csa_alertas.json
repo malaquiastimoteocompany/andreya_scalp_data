@@ -541083,11 +541083,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0020015,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.00199,
-    "pnl_pct": 0.201,
-    "duracao_min": 92.1,
-    "data_resultado": "2026-07-26T11:39:01.176883+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.001988,
+    "pnl_pct": 0.251,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-26T12:08:11.864399+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81df-871c-e7081e454f98",
