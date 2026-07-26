@@ -541248,5 +541248,31 @@
     "zona_sr": 0.62947778,
     "toques_sr": 9,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a9a5230-de72-8111-bf41-df1a88d22b39",
+    "token": "SAGA",
+    "direccao": "SHORT",
+    "preco_alerta": 0.01331,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00014571,
+    "tp1": 0.013251716,
+    "tp2": 0.01316429,
+    "sl": 0.013528565000000001,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 45272742.0,
+    "spread_pct": 0.0007515971439309528,
+    "oi_usd": 523305.41010000004,
+    "data_alerta": "2026-07-26T10:24:19.600058+00:00",
+    "rsi_1h": 49.94,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.013365,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
