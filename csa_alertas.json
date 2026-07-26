@@ -539441,7 +539441,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.7473,
+    "pnl_pct": 0.214,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-26T10:54:44.624527+00:00"
   },
   {
     "page_id": "3a9a5230-de72-816b-9454-e88ff25ce44d",
