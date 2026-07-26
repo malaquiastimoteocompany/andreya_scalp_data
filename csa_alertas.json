@@ -547509,7 +547509,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00243288,
     "toques_sr": 8,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.00245,
+    "pnl_pct": 0.451,
+    "duracao_min": 20.9,
+    "data_resultado": "2026-07-26T14:50:31.965276+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81fe-9641-c6c005716fe2",
