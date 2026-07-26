@@ -537173,7 +537173,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01335,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.01326,
+    "pnl_pct": 0.45,
+    "duracao_min": 3.8,
+    "data_resultado": "2026-07-26T07:23:20.553067+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8142-9e4b-f2c7a5f91944",
