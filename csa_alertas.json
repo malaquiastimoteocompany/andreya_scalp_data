@@ -554627,11 +554627,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.076442,
     "toques_sr": 10,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07683,
-    "pnl_pct": 0.222,
-    "duracao_min": 109.2,
-    "data_resultado": "2026-07-26T21:14:06.842025+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.07686,
+    "pnl_pct": 0.241,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-26T21:24:54.521236+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8107-8499-f80d9b493c23",
