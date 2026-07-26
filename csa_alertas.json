@@ -546195,11 +546195,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07643222,
     "toques_sr": 9,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07683,
-    "pnl_pct": 0.209,
-    "duracao_min": 2.6,
-    "data_resultado": "2026-07-26T13:35:01.788999+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.07698,
+    "pnl_pct": 0.307,
+    "duracao_min": 39.0,
+    "data_resultado": "2026-07-26T14:11:25.907298+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8110-b3f6-f7258ba28af8",
