@@ -538399,11 +538399,11 @@
     "estado_cfi": "E1",
     "zona_sr": 46.87,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 47.14,
-    "pnl_pct": 0.213,
-    "duracao_min": 58.6,
-    "data_resultado": "2026-07-26T09:05:36.307854+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 47.24,
+    "pnl_pct": 0.319,
+    "duracao_min": 73.1,
+    "data_resultado": "2026-07-26T09:20:08.741568+00:00"
   },
   {
     "page_id": "3a9a5230-de72-819e-a228-d9f7c241b411",
