@@ -549075,11 +549075,11 @@
     "estado_cfi": "E1",
     "zona_sr": 490.61,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 494.12,
-    "pnl_pct": 0.321,
-    "duracao_min": 7.8,
-    "data_resultado": "2026-07-26T15:30:11.729237+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 492.07,
+    "pnl_pct": 0.113,
+    "duracao_min": 44.4,
+    "data_resultado": "2026-07-26T16:06:46.496765+00:00"
   },
   {
     "page_id": "3a9a5230-de72-819b-b4fc-c860224938a8",
