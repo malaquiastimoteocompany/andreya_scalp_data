@@ -536563,7 +536563,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004198,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.004171,
+    "pnl_pct": 0.191,
+    "duracao_min": 3.7,
+    "data_resultado": "2026-07-26T07:03:18.929724+00:00"
   },
   {
     "page_id": "3a9a5230-de72-818c-be8c-f7e283d67de4",
