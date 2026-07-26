@@ -557851,11 +557851,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01817,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0183,
-    "pnl_pct": 0.605,
-    "duracao_min": 8.9,
-    "data_resultado": "2026-07-26T22:03:32.373921+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01817,
+    "pnl_pct": 0.247,
+    "duracao_min": 113.6,
+    "data_resultado": "2026-07-26T23:48:16.991453+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8113-b830-ffd576d8809d",
