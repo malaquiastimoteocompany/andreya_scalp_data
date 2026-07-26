@@ -525683,7 +525683,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02688,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.02693,
+    "pnl_pct": -0.186,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-26T01:38:04.046031+00:00"
   },
   {
     "page_id": "3a8a5230-de72-818c-80a3-c1c3c2fde5b3",
