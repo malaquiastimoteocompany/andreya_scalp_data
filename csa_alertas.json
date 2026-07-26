@@ -547899,11 +547899,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0035135,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.003537,
-    "pnl_pct": 0.369,
-    "duracao_min": 9.1,
-    "data_resultado": "2026-07-26T14:48:59.059983+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.003521,
+    "pnl_pct": 0.142,
+    "duracao_min": 29.6,
+    "data_resultado": "2026-07-26T15:09:33.219072+00:00"
   },
   {
     "page_id": "3a9a5230-de72-813c-b775-d4f8d9f152ce",
