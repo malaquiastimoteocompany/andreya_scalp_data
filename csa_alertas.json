@@ -538199,7 +538199,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.0309,
+    "pnl_pct": -1.079,
+    "duracao_min": 107.6,
+    "data_resultado": "2026-07-26T09:49:33.287454+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81aa-8e83-fc773bd43ee5",
