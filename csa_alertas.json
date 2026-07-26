@@ -526163,7 +526163,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.6134,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.6069,
+    "pnl_pct": -0.622,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-26T01:52:02.605609+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81f5-9a84-ca2c10eab24e",
