@@ -543835,11 +543835,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.001806,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001836,
-    "pnl_pct": 1.213,
-    "duracao_min": 119.7,
-    "data_resultado": "2026-07-26T13:54:03.990569+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.001831,
+    "pnl_pct": 1.075,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-26T13:55:40.991172+00:00"
   },
   {
     "page_id": "3a9a5230-de72-815b-ad6a-c7582fdbf4b9",
