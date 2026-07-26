@@ -524783,11 +524783,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.061205,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
+    "resultado": "Falhado",
     "preco_saida": 0.0613,
     "pnl_pct": 0.426,
-    "duracao_min": 119.7,
-    "data_resultado": "2026-07-26T00:34:30.803354+00:00"
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-26T00:36:00.351165+00:00"
   },
   {
     "page_id": "3a8a5230-de72-817a-a440-ddb91e34b38f",
