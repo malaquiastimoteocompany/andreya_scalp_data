@@ -528977,11 +528977,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 3.73,
-    "pnl_pct": 0.401,
-    "duracao_min": 5.8,
-    "data_resultado": "2026-07-26T02:08:21.709659+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 3.775,
+    "pnl_pct": -0.2,
+    "duracao_min": 10.9,
+    "data_resultado": "2026-07-26T02:13:24.716893+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81c7-84df-f7b7f4586ae2",
