@@ -528809,7 +528809,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00054752,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.0005478,
+    "pnl_pct": 0.22,
+    "duracao_min": 10.5,
+    "data_resultado": "2026-07-26T02:09:59.038512+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8115-85c7-f638edee42bd",
