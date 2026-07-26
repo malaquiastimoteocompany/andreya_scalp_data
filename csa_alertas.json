@@ -529387,11 +529387,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01774,
-    "pnl_pct": 0.561,
-    "duracao_min": 5.7,
-    "data_resultado": "2026-07-26T02:18:01.809682+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01764,
+    "pnl_pct": 0.841,
+    "duracao_min": 46.4,
+    "data_resultado": "2026-07-26T02:58:45.308506+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81fe-8886-ed76415fb770",
