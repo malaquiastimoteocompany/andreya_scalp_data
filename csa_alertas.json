@@ -557479,7 +557479,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.34295,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.3485,
+    "pnl_pct": -1.22,
+    "duracao_min": 34.0,
+    "data_resultado": "2026-07-26T22:11:17.424239+00:00"
   },
   {
     "page_id": "3a9a5230-de72-819c-90d7-dccbb3facd79",
