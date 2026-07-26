@@ -531529,7 +531529,11 @@
     "estado_cfi": "E1",
     "zona_sr": 487.84,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 489.41,
+    "pnl_pct": 0.328,
+    "duracao_min": 50.7,
+    "data_resultado": "2026-07-26T04:30:10.974096+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8190-9539-d1902b7cf53f",
