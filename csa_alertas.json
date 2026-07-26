@@ -555403,11 +555403,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0443975,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04466,
-    "pnl_pct": 0.314,
-    "duracao_min": 91.6,
-    "data_resultado": "2026-07-26T21:36:26.955940+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.04475,
+    "pnl_pct": 0.416,
+    "duracao_min": 115.5,
+    "data_resultado": "2026-07-26T22:00:17.278469+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81de-8fac-e2720839c905",
