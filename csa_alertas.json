@@ -538935,11 +538935,11 @@
     "estado_cfi": "E2",
     "zona_sr": 19.23,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 19.29,
-    "pnl_pct": 0.521,
-    "duracao_min": 120.5,
-    "data_resultado": "2026-07-26T10:32:24.048083+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 19.28,
+    "pnl_pct": 0.495,
+    "duracao_min": 122.1,
+    "data_resultado": "2026-07-26T10:33:59.248690+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8104-af7c-fd9381e45368",
