@@ -527423,7 +527423,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 2.156,
+    "pnl_pct": 3.879,
+    "duracao_min": 2.6,
+    "data_resultado": "2026-07-26T01:01:56.711798+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8155-845d-e9ab2bd5b48b",
