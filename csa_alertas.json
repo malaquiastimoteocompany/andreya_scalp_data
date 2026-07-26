@@ -548147,11 +548147,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.65e-05,
     "toques_sr": 8,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.678e-05,
-    "pnl_pct": 0.629,
-    "duracao_min": 67.6,
-    "data_resultado": "2026-07-26T15:52:02.565506+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 3.679e-05,
+    "pnl_pct": 0.643,
+    "duracao_min": 121.6,
+    "data_resultado": "2026-07-26T16:46:00.933381+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8176-b739-e1fae1930b5c",
