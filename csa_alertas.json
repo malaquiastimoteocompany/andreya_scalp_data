@@ -542741,11 +542741,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.8015,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 3.783,
-    "pnl_pct": 0.474,
-    "duracao_min": 2.2,
-    "data_resultado": "2026-07-26T11:24:04.814859+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 3.809,
+    "pnl_pct": 0.132,
+    "duracao_min": 10.7,
+    "data_resultado": "2026-07-26T11:32:36.484709+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81f4-b21e-ce4a4a78a20b",
