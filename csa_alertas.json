@@ -537837,11 +537837,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00319425,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0031288,
-    "pnl_pct": 2.103,
-    "duracao_min": 3.2,
-    "data_resultado": "2026-07-26T07:50:42.339779+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.0031961,
+    "pnl_pct": 1.05,
+    "duracao_min": 10.6,
+    "data_resultado": "2026-07-26T07:58:03.839074+00:00"
   },
   {
     "page_id": "3a9a5230-de72-816d-81ce-d82bb8cfb3d3",
