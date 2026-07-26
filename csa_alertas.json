@@ -549959,11 +549959,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 47.66,
-    "pnl_pct": 0.23,
-    "duracao_min": 7.9,
-    "data_resultado": "2026-07-26T16:10:12.660097+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 47.83,
+    "pnl_pct": 0.052,
+    "duracao_min": 26.3,
+    "data_resultado": "2026-07-26T16:28:40.108505+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8112-aa98-c6491913bc95",
