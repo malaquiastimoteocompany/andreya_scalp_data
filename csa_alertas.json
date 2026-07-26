@@ -528559,7 +528559,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05584,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.05592,
+    "pnl_pct": -0.214,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-26T03:40:17.821800+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81de-ae6f-f0a7df4de773",
