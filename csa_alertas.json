@@ -554360,5 +554360,31 @@
     "zona_sr": 0.001969,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a9a5230-de72-819e-9ae2-e3a34fb3f1ca",
+    "token": "ANIME",
+    "direccao": "SHORT",
+    "preco_alerta": 0.002682,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 1.536e-05,
+    "tp1": 0.002675856,
+    "tp2": 0.00266664,
+    "sl": 0.0027050399999999997,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=1/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 33888479.0,
+    "spread_pct": 0.0003727865796831809,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-26T19:24:22.101440+00:00",
+    "rsi_1h": 50.41,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0026785,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
