@@ -542549,11 +542549,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.735,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 6.688,
-    "pnl_pct": 0.402,
-    "duracao_min": 71.2,
-    "data_resultado": "2026-07-26T12:20:33.253731+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 6.716,
+    "pnl_pct": 0.194,
+    "duracao_min": 78.0,
+    "data_resultado": "2026-07-26T12:27:24.934762+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8188-a987-fccac5d2e35b",
