@@ -524971,7 +524971,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04398667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.04417,
+    "pnl_pct": 0.661,
+    "duracao_min": 75.9,
+    "data_resultado": "2026-07-26T00:10:40.140566+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81ab-9b4f-f68f98082886",
