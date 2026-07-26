@@ -549177,11 +549177,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06225333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06192,
-    "pnl_pct": 0.658,
-    "duracao_min": 5.7,
-    "data_resultado": "2026-07-26T15:33:02.858356+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.06241,
+    "pnl_pct": 0.265,
+    "duracao_min": 14.7,
+    "data_resultado": "2026-07-26T15:42:03.300750+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8170-bff7-dac37574d0aa",
