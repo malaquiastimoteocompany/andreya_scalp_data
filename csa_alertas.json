@@ -558161,11 +558161,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.014185,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01417,
-    "pnl_pct": 0.283,
-    "duracao_min": 33.6,
-    "data_resultado": "2026-07-26T22:38:40.449266+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01423,
+    "pnl_pct": 0.495,
+    "duracao_min": 90.4,
+    "data_resultado": "2026-07-26T23:35:26.933691+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8166-9d95-dcb97cb35c72",
