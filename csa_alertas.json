@@ -530707,11 +530707,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08337,
-    "pnl_pct": 1.115,
-    "duracao_min": 74.8,
-    "data_resultado": "2026-07-26T04:21:48.767731+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.08442,
+    "pnl_pct": 0.492,
+    "duracao_min": 96.2,
+    "data_resultado": "2026-07-26T04:43:12.544666+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81f0-b51b-e0e2102f504d",
