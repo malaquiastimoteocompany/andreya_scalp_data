@@ -527721,11 +527721,11 @@
     "estado_cfi": "E1",
     "zona_sr": 46.49166667,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 46.59,
-    "pnl_pct": 0.172,
-    "duracao_min": 34.7,
-    "data_resultado": "2026-07-26T01:41:39.456952+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 46.7,
+    "pnl_pct": 0.29,
+    "duracao_min": 69.0,
+    "data_resultado": "2026-07-26T02:15:57.149469+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81ed-9747-c21dae80c3d3",
