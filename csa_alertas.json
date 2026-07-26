@@ -528859,11 +528859,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2083,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2083,
-    "pnl_pct": 0.482,
-    "duracao_min": 63.5,
-    "data_resultado": "2026-07-26T02:58:25.910824+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.2079,
+    "pnl_pct": 0.386,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-26T03:55:04.292915+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8113-939d-e0c28c92310e",
