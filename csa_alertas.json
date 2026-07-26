@@ -541647,11 +541647,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.008418,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.008379,
-    "pnl_pct": 0.226,
-    "duracao_min": 64.6,
-    "data_resultado": "2026-07-26T11:34:13.451738+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.00836,
+    "pnl_pct": 0.339,
+    "duracao_min": 88.6,
+    "data_resultado": "2026-07-26T11:58:10.678112+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8124-adb8-e4ae63da5c57",
