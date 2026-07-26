@@ -534241,11 +534241,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2083,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2087,
-    "pnl_pct": 0.481,
-    "duracao_min": 2.3,
-    "data_resultado": "2026-07-26T05:34:39.566701+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.2077,
+    "pnl_pct": 0.241,
+    "duracao_min": 24.6,
+    "data_resultado": "2026-07-26T05:57:03.085645+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81f3-93c3-d3ae69cf4b51",
