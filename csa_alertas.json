@@ -555167,11 +555167,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03329,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03334,
-    "pnl_pct": 0.604,
-    "duracao_min": 91.9,
-    "data_resultado": "2026-07-26T21:26:33.940426+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.03326,
+    "pnl_pct": 0.483,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-26T21:55:44.809954+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8164-8feb-d06deeedfdf1",
