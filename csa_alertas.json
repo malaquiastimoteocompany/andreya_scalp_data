@@ -534949,11 +534949,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06074333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06099,
-    "pnl_pct": 0.445,
-    "duracao_min": 60.8,
-    "data_resultado": "2026-07-26T06:53:23.998237+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.06113,
+    "pnl_pct": 0.56,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-26T07:53:14.464082+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81f6-982e-fee2cac7666a",
