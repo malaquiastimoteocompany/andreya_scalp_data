@@ -527313,7 +527313,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.083405,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.08265,
+    "pnl_pct": 0.542,
+    "duracao_min": 16.5,
+    "data_resultado": "2026-07-26T01:10:58.888560+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81e0-b71d-e925b5ab90cf",
