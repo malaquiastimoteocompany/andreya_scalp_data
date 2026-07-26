@@ -541953,7 +541953,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.05507,
+    "pnl_pct": -0.217,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-26T12:40:25.487419+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8131-a93c-d4e0eb66e589",
