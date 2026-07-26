@@ -553443,7 +553443,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 19.33,
+    "pnl_pct": 0.361,
+    "duracao_min": 94.8,
+    "data_resultado": "2026-07-26T20:01:41.044941+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8132-9d6d-f97e7ff0a0a6",
