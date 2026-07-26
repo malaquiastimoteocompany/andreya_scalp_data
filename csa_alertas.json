@@ -537565,11 +537565,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05217333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.05227,
-    "pnl_pct": 0.23,
-    "duracao_min": 29.8,
-    "data_resultado": "2026-07-26T07:59:34.245431+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.0524,
+    "pnl_pct": 0.355,
+    "duracao_min": 63.1,
+    "data_resultado": "2026-07-26T08:32:55.323630+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8157-95ae-df668f216c81",
