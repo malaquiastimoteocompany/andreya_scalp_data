@@ -529769,11 +529769,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00532125,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.005283,
-    "pnl_pct": 0.264,
-    "duracao_min": 8.7,
-    "data_resultado": "2026-07-26T02:41:05.991277+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.005297,
+    "pnl_pct": 0.132,
+    "duracao_min": 32.7,
+    "data_resultado": "2026-07-26T03:05:05.157029+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81e3-93ce-fd4d338745d6",
