@@ -539607,11 +539607,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0066435,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.006677,
-    "pnl_pct": 0.633,
-    "duracao_min": 86.5,
-    "data_resultado": "2026-07-26T10:31:02.820738+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.006632,
+    "pnl_pct": 0.294,
+    "duracao_min": 90.9,
+    "data_resultado": "2026-07-26T10:35:26.070659+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81ab-b4af-df688a7877b6",
