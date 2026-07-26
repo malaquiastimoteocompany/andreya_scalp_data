@@ -526043,11 +526043,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.19355,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1961,
-    "pnl_pct": 1.291,
-    "duracao_min": 3.6,
-    "data_resultado": "2026-07-25T23:48:30.138003+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.1954,
+    "pnl_pct": 1.111,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-26T01:46:06.214088+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8110-85a5-f0181c202289",
