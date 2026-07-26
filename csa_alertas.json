@@ -541019,11 +541019,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03075,
-    "pnl_pct": 0.421,
-    "duracao_min": 14.3,
-    "data_resultado": "2026-07-26T10:23:44.863392+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.0309,
+    "pnl_pct": 0.178,
+    "duracao_min": 29.3,
+    "data_resultado": "2026-07-26T10:38:47.043247+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8173-941a-ce2a74603b2b",
