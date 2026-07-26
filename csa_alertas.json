@@ -555863,7 +555863,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04416,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.04451,
+    "pnl_pct": -0.815,
+    "duracao_min": 106.1,
+    "data_resultado": "2026-07-26T22:10:58.376787+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81c9-b1a2-c19e71a997e6",
