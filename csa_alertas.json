@@ -557343,7 +557343,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00244333,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.002458,
+    "pnl_pct": 0.327,
+    "duracao_min": 32.2,
+    "data_resultado": "2026-07-26T22:06:55.669222+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8145-bef2-ce981fdd313d",
