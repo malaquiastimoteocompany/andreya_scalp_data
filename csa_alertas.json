@@ -546887,11 +546887,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03109,
-    "pnl_pct": 0.42,
-    "duracao_min": 32.5,
-    "data_resultado": "2026-07-26T14:34:28.149737+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.03096,
+    "pnl_pct": 0.21,
+    "duracao_min": 65.7,
+    "data_resultado": "2026-07-26T15:07:39.811368+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81fe-9695-c8222d54c238",
