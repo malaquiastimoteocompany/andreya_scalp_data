@@ -556597,7 +556597,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00431767,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.004309,
+    "pnl_pct": 0.256,
+    "duracao_min": 3.8,
+    "data_resultado": "2026-07-26T21:11:35.188801+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81c3-b3af-c65c09ca8a35",
