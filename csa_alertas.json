@@ -527779,11 +527779,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3436,
-    "pnl_pct": 0.497,
-    "duracao_min": 21.0,
-    "data_resultado": "2026-07-26T01:32:48.771657+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3418,
+    "pnl_pct": 0.234,
+    "duracao_min": 51.0,
+    "data_resultado": "2026-07-26T02:02:50.307585+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8127-a786-f3eba9bb33b7",
