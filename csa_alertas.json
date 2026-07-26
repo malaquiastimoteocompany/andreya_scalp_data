@@ -554739,11 +554739,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.205,
-    "pnl_pct": 0.243,
-    "duracao_min": 91.2,
-    "data_resultado": "2026-07-26T21:00:44.824840+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2058,
+    "pnl_pct": 0.049,
+    "duracao_min": 104.7,
+    "data_resultado": "2026-07-26T21:14:13.727074+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81fe-9dc5-cff0a55671c1",
