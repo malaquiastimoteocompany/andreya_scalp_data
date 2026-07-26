@@ -528253,7 +528253,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2036,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.202,
+    "pnl_pct": 0.296,
+    "duracao_min": 8.9,
+    "data_resultado": "2026-07-26T01:43:25.894696+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81bc-9eb3-d1ddf8ee0630",
