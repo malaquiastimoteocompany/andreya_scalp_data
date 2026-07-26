@@ -525083,11 +525083,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.013334,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01342,
-    "pnl_pct": 0.524,
-    "duracao_min": 48.9,
-    "data_resultado": "2026-07-25T23:48:16.455630+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.01343,
+    "pnl_pct": 0.562,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-26T01:00:07.651873+00:00"
   },
   {
     "page_id": "3a8a5230-de72-812c-9723-d0ce8c0ebcbf",
