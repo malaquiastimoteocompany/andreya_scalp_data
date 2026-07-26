@@ -538103,7 +538103,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00242962,
     "toques_sr": 8,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.002442,
+    "pnl_pct": 0.287,
+    "duracao_min": 13.9,
+    "data_resultado": "2026-07-26T08:16:08.788663+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8172-921a-f00ba116eb33",
