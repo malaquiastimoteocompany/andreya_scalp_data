@@ -541813,7 +541813,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 19.09,
+    "pnl_pct": -1.293,
+    "duracao_min": 107.3,
+    "data_resultado": "2026-07-26T12:24:05.932672+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81db-a033-cba3b9963771",
