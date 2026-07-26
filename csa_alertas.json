@@ -559275,11 +559275,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 47.99,
-    "pnl_pct": 0.332,
-    "duracao_min": 15.2,
-    "data_resultado": "2026-07-26T22:47:24.303219+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 47.78,
+    "pnl_pct": 0.55,
+    "duracao_min": 54.4,
+    "data_resultado": "2026-07-26T23:26:37.005651+00:00"
   },
   {
     "page_id": "3a9a5230-de72-811a-8a83-f0cdc340cd23",
