@@ -548217,11 +548217,11 @@
     "estado_cfi": "E1",
     "zona_sr": 46.87,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 47.04,
-    "pnl_pct": 0.277,
-    "duracao_min": 3.9,
-    "data_resultado": "2026-07-26T14:58:23.902112+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 47.16,
+    "pnl_pct": 0.405,
+    "duracao_min": 22.3,
+    "data_resultado": "2026-07-26T15:16:43.466583+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81fb-9af8-fb553a83a361",
