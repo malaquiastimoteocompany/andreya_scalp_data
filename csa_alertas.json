@@ -531937,11 +531937,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2083,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2086,
-    "pnl_pct": 0.482,
-    "duracao_min": 89.1,
-    "data_resultado": "2026-07-26T05:26:25.279584+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2076,
+    "pnl_pct": 0.241,
+    "duracao_min": 93.9,
+    "data_resultado": "2026-07-26T05:31:11.343252+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8178-a93b-ded4a5fc6576",
