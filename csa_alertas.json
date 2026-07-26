@@ -525615,11 +525615,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06331,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06411,
-    "pnl_pct": 0.818,
-    "duracao_min": 36.2,
-    "data_resultado": "2026-07-26T00:05:54.943149+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06358,
+    "pnl_pct": 0.401,
+    "duracao_min": 116.6,
+    "data_resultado": "2026-07-26T01:26:15.362080+00:00"
   },
   {
     "page_id": "3a8a5230-de72-818e-96ab-d75ffa4fab59",
