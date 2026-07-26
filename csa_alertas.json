@@ -526823,11 +526823,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08387875,
     "toques_sr": 8,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08409,
-    "pnl_pct": 0.191,
-    "duracao_min": 0.9,
-    "data_resultado": "2026-07-26T00:27:52.610854+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.08391,
+    "pnl_pct": 0.083,
+    "duracao_min": 24.2,
+    "data_resultado": "2026-07-26T00:51:10.788618+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8129-8a31-fd5b3d57157e",
