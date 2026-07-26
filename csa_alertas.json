@@ -542579,11 +542579,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.070352,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07033,
-    "pnl_pct": 0.242,
-    "duracao_min": 7.5,
-    "data_resultado": "2026-07-26T11:19:23.216262+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07012,
+    "pnl_pct": 0.093,
+    "duracao_min": 34.4,
+    "data_resultado": "2026-07-26T11:46:20.284661+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8125-9b24-e94f764155eb",
