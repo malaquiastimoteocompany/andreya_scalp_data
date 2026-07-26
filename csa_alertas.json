@@ -537529,11 +537529,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0046845,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0047,
-    "pnl_pct": 0.384,
-    "duracao_min": 67.4,
-    "data_resultado": "2026-07-26T08:34:24.716399+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004679,
+    "pnl_pct": 0.16,
+    "duracao_min": 75.8,
+    "data_resultado": "2026-07-26T08:42:50.373917+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8102-8d1c-d67615fddfa2",
