@@ -536539,11 +536539,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.34165,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3405,
-    "pnl_pct": 0.322,
-    "duracao_min": 101.7,
-    "data_resultado": "2026-07-26T08:34:14.537787+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.3402,
+    "pnl_pct": 0.366,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-26T08:53:23.525201+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81d0-a26d-ed3be431634c",
