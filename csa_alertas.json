@@ -545359,7 +545359,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01342,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.01342,
+    "pnl_pct": 0.374,
+    "duracao_min": 74.6,
+    "data_resultado": "2026-07-26T14:14:17.310933+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8150-8c2f-dd3f8db41f28",
