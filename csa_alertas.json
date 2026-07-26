@@ -527663,7 +527663,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 5.219e-06,
+    "pnl_pct": -5.584,
+    "duracao_min": 55.1,
+    "data_resultado": "2026-07-26T01:59:25.067356+00:00"
   },
   {
     "page_id": "3a9a5230-de72-811f-8fd0-c0742da0db88",
