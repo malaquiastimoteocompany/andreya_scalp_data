@@ -552699,11 +552699,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0067212,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.006762,
-    "pnl_pct": 0.55,
-    "duracao_min": 8.0,
-    "data_resultado": "2026-07-26T18:05:00.168612+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.006725,
+    "pnl_pct": 0.275,
+    "duracao_min": 36.2,
+    "data_resultado": "2026-07-26T18:33:07.601164+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81d7-ae7a-d39b95d7eb9e",
