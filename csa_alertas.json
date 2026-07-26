@@ -537741,11 +537741,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06983,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07006,
-    "pnl_pct": 0.243,
-    "duracao_min": 36.5,
-    "data_resultado": "2026-07-26T08:15:58.521013+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06986,
+    "pnl_pct": 0.1,
+    "duracao_min": 87.9,
+    "data_resultado": "2026-07-26T09:07:18.851425+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81e1-a112-fbe022c5294c",
