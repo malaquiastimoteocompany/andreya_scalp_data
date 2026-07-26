@@ -531679,7 +531679,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05584,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.05558,
+    "pnl_pct": -0.537,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-26T05:43:18.473317+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81a6-9007-dc8e4a5495c1",
