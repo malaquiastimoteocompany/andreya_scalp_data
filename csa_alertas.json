@@ -545502,5 +545502,31 @@
     "zona_sr": 58.7272,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a9a5230-de72-8154-8c8b-cda2f87ae508",
+    "token": "LINK",
+    "direccao": "LONG",
+    "preco_alerta": 8.432,
+    "score": 8,
+    "setup": "B",
+    "prioritario": true,
+    "enviado": true,
+    "executavel": true,
+    "atr_1h": 0.03407143,
+    "tp1": 8.445628572,
+    "tp2": 8.46607143,
+    "sl": 8.380892855,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 14936778.0,
+    "spread_pct": 0.00011860285832903068,
+    "oi_usd": 9708246.069200002,
+    "data_alerta": "2026-07-26T13:07:23.716507+00:00",
+    "rsi_1h": 57.37,
+    "funding_rate": -0.0023,
+    "estado_cfi": "E1",
+    "zona_sr": 8.40933333,
+    "toques_sr": 6,
+    "resultado": "Pendente"
   }
 ]
