@@ -549961,11 +549961,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 8.572,
-    "pnl_pct": 0.256,
-    "duracao_min": 7.8,
-    "data_resultado": "2026-07-26T16:10:18.352163+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 8.595,
+    "pnl_pct": 0.122,
+    "duracao_min": 15.6,
+    "data_resultado": "2026-07-26T16:18:03.237602+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81b2-a46a-c601b178f3b9",
