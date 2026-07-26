@@ -555493,11 +555493,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05485,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0552,
-    "pnl_pct": 0.218,
-    "duracao_min": 70.2,
-    "data_resultado": "2026-07-26T21:17:24.195030+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.05522,
+    "pnl_pct": 0.236,
+    "duracao_min": 121.8,
+    "data_resultado": "2026-07-26T22:08:58.401744+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8111-aef0-c7c0ccb87a06",
