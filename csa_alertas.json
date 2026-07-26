@@ -560037,11 +560037,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.11275,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.1119,
-    "pnl_pct": 0.233,
-    "duracao_min": 1.7,
-    "data_resultado": "2026-07-26T23:13:47.180946+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 1.1102,
+    "pnl_pct": 0.31,
+    "duracao_min": 19.0,
+    "data_resultado": "2026-07-26T23:31:02.935864+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81d8-b821-fc57c19d7228",
