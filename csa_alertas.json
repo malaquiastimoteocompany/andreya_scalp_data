@@ -536293,11 +536293,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.984,
-    "pnl_pct": 0.994,
-    "duracao_min": 60.6,
-    "data_resultado": "2026-07-26T07:45:10.020637+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 4.026,
+    "pnl_pct": 0.472,
+    "duracao_min": 73.2,
+    "data_resultado": "2026-07-26T07:57:46.563892+00:00"
   },
   {
     "page_id": "3a9a5230-de72-818a-8635-db36afc89075",
