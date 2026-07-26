@@ -553839,11 +553839,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.0996,
     "toques_sr": 8,
-    "resultado": "TP Hit",
-    "preco_saida": 1.1024,
-    "pnl_pct": 0.136,
-    "duracao_min": 9.8,
-    "data_resultado": "2026-07-26T18:54:12.308257+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.1008,
+    "pnl_pct": 0.064,
+    "duracao_min": 106.6,
+    "data_resultado": "2026-07-26T20:30:58.734490+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81fb-a78f-ce419a84c0e7",
