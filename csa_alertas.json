@@ -525173,7 +525173,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.38866667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 1.385,
+    "pnl_pct": -0.431,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-26T01:06:07.134698+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81e5-819c-dcb0343d2bc0",
