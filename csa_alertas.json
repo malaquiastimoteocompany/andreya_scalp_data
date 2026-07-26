@@ -540289,11 +540289,11 @@
     "estado_cfi": "E1",
     "zona_sr": 58.7272,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 58.842,
-    "pnl_pct": 0.213,
-    "duracao_min": 45.0,
-    "data_resultado": "2026-07-26T10:14:27.492125+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 58.712,
+    "pnl_pct": 0.102,
+    "duracao_min": 79.5,
+    "data_resultado": "2026-07-26T10:48:57.707755+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8119-90c1-d5d29ed49d04",
