@@ -525263,7 +525263,11 @@
     "estado_cfi": "E2",
     "zona_sr": 2.911375,
     "toques_sr": 8,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 2.899,
+    "pnl_pct": -0.069,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-26T01:14:53.000182+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81ef-9d8f-caffc903bb1b",
