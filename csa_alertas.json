@@ -534861,11 +534861,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.013126,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01325,
-    "pnl_pct": 0.531,
-    "duracao_min": 43.8,
-    "data_resultado": "2026-07-26T06:35:46.591379+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01332,
+    "pnl_pct": 0.797,
+    "duracao_min": 85.4,
+    "data_resultado": "2026-07-26T07:17:25.686198+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8186-996f-eb2321a7dbd5",
