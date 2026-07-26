@@ -537483,7 +537483,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.6495,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 3.671,
+    "pnl_pct": 0.301,
+    "duracao_min": 64.6,
+    "data_resultado": "2026-07-26T08:31:30.238535+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81a4-a299-cec9d4dcfa09",
