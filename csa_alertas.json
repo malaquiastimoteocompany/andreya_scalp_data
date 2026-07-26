@@ -542940,5 +542940,31 @@
     "zona_sr": 0.052725,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a9a5230-de72-81e0-a6e9-e2a65d7159e5",
+    "token": "ALICE",
+    "direccao": "LONG",
+    "preco_alerta": 0.1212,
+    "score": 6,
+    "setup": "C",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00071429,
+    "tp1": 0.12148571600000001,
+    "tp2": 0.12191429000000001,
+    "sl": 0.120128565,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 8839030.0,
+    "spread_pct": 0.0008254230293025411,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-26T11:34:28.299033+00:00",
+    "rsi_1h": 51.72,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.121175,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
