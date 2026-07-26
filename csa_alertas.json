@@ -528709,7 +528709,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.71246667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.7149,
+    "pnl_pct": -0.421,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-26T03:44:38.349959+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81d8-bf33-fb7c0cee392d",
