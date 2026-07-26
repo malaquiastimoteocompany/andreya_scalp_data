@@ -541333,11 +541333,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.6869,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.6825,
-    "pnl_pct": 0.219,
-    "duracao_min": 74.4,
-    "data_resultado": "2026-07-26T11:34:04.335112+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.6806,
+    "pnl_pct": 0.358,
+    "duracao_min": 95.2,
+    "data_resultado": "2026-07-26T11:54:53.230301+00:00"
   },
   {
     "page_id": "3a9a5230-de72-813e-8baa-e4858e191975",
