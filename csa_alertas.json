@@ -553517,11 +553517,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.39875,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3995,
-    "pnl_pct": 0.68,
-    "duracao_min": 51.5,
-    "data_resultado": "2026-07-26T19:18:48.818573+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.3997,
+    "pnl_pct": 0.706,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-26T20:28:03.994537+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8151-935e-d29399169c9d",
