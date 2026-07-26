@@ -542969,11 +542969,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3333,
-    "pnl_pct": 0.537,
-    "duracao_min": 76.3,
-    "data_resultado": "2026-07-26T12:40:42.492005+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.3327,
+    "pnl_pct": 0.627,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-26T13:25:15.292374+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81da-bfc6-f9f967841c01",
