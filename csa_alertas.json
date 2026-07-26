@@ -545807,11 +545807,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.628625,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.6273,
-    "pnl_pct": 0.365,
-    "duracao_min": 22.8,
-    "data_resultado": "2026-07-26T13:39:57.812338+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.6302,
+    "pnl_pct": 0.135,
+    "duracao_min": 48.3,
+    "data_resultado": "2026-07-26T14:05:27.357561+00:00"
   },
   {
     "page_id": "3a9a5230-de72-812b-881d-c27126ff3af7",
