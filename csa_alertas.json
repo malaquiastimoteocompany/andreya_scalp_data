@@ -535721,11 +535721,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00856,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.008443,
-    "pnl_pct": 0.973,
-    "duracao_min": 62.3,
-    "data_resultado": "2026-07-26T07:19:56.591478+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.008562,
+    "pnl_pct": 0.276,
+    "duracao_min": 100.0,
+    "data_resultado": "2026-07-26T07:57:38.135137+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8143-b3cc-eba013e26448",
