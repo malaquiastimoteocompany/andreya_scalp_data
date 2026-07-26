@@ -540799,11 +540799,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06074333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06089,
-    "pnl_pct": 0.479,
-    "duracao_min": 17.2,
-    "data_resultado": "2026-07-26T10:14:36.783278+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.06121,
+    "pnl_pct": 0.743,
+    "duracao_min": 68.3,
+    "data_resultado": "2026-07-26T11:05:41.800390+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81b0-91b6-d69c9618dbb7",
