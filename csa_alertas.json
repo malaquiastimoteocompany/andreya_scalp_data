@@ -551070,5 +551070,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a9a5230-de72-81a4-87e3-dfc377cfc1a4",
+    "token": "AKE",
+    "direccao": "SHORT",
+    "preco_alerta": 0.0031951,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00015569,
+    "tp1": 0.003132824,
+    "tp2": 0.00303941,
+    "sl": 0.003428635,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 5574408.0,
+    "spread_pct": 0.00012516427811509688,
+    "oi_usd": 12583745.8407,
+    "data_alerta": "2026-07-26T16:44:49.240000+00:00",
+    "rsi_1h": 54.88,
+    "funding_rate": -0.0509,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00319425,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
