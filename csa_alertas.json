@@ -528053,11 +528053,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05152,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05183,
-    "pnl_pct": 0.193,
-    "duracao_min": 83.9,
-    "data_resultado": "2026-07-26T02:43:39.939776+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.05195,
+    "pnl_pct": 0.309,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-26T03:19:56.074083+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8127-a400-dc0b23a74eb2",
