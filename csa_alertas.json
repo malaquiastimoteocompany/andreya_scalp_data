@@ -538107,11 +538107,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.1625,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.176,
-    "pnl_pct": 0.276,
-    "duracao_min": 58.7,
-    "data_resultado": "2026-07-26T08:58:04.680130+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.168,
+    "pnl_pct": 0.092,
+    "duracao_min": 71.2,
+    "data_resultado": "2026-07-26T09:10:34.580014+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8106-b6f9-e85b2e79116f",
