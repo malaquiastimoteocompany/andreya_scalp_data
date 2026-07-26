@@ -557745,7 +557745,11 @@
     "estado_cfi": "E2",
     "zona_sr": 143.91,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 144.88,
+    "pnl_pct": -0.948,
+    "duracao_min": 6.7,
+    "data_resultado": "2026-07-26T22:03:38.493532+00:00"
   },
   {
     "page_id": "3a9a5230-de72-814e-9f8a-e3505b909cdf",
