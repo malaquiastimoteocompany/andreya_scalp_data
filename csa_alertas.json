@@ -527245,11 +527245,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08223,
-    "pnl_pct": 0.219,
-    "duracao_min": 14.1,
-    "data_resultado": "2026-07-26T00:56:06.092274+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.08202,
+    "pnl_pct": 0.091,
+    "duracao_min": 87.7,
+    "data_resultado": "2026-07-26T02:09:42.191968+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81ba-8b37-f8b2bb9ccabb",
