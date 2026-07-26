@@ -534529,7 +534529,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.37306667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.3689,
+    "pnl_pct": -0.673,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-26T07:38:56.525671+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81a1-9c48-cfc879fb2bf1",
