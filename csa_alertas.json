@@ -545537,7 +545537,11 @@
     "estado_cfi": "E1",
     "zona_sr": 58.7272,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 58.663,
+    "pnl_pct": 0.212,
+    "duracao_min": 15.1,
+    "data_resultado": "2026-07-26T13:22:29.468881+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8154-8c8b-cda2f87ae508",
