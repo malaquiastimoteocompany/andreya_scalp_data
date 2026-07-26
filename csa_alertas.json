@@ -534539,7 +534539,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08493,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.0849,
+    "pnl_pct": 0.27,
+    "duracao_min": 8.3,
+    "data_resultado": "2026-07-26T05:53:03.130577+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8180-ad79-ffb31a1b408f",
