@@ -554087,7 +554087,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.81682857,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.8171,
+    "pnl_pct": -0.049,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-26T21:02:06.056171+00:00"
   },
   {
     "page_id": "3a9a5230-de72-812f-a575-dc2ed0411a70",
