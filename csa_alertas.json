@@ -554541,7 +554541,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 47.81,
+    "pnl_pct": 0.292,
+    "duracao_min": 49.2,
+    "data_resultado": "2026-07-26T20:16:12.473402+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8117-8303-ccdcc9012655",
