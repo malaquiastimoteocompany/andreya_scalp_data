@@ -541407,11 +541407,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.87923333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.8649,
-    "pnl_pct": 1.481,
-    "duracao_min": 21.6,
-    "data_resultado": "2026-07-26T10:46:11.810571+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.8576,
+    "pnl_pct": 1.897,
+    "duracao_min": 38.0,
+    "data_resultado": "2026-07-26T11:02:34.753048+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8139-b840-e5019e74f4bf",
