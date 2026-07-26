@@ -554807,11 +554807,11 @@
     "estado_cfi": "E1",
     "zona_sr": 58.717,
     "toques_sr": 7,
-    "resultado": "TP Hit",
-    "preco_saida": 58.941,
-    "pnl_pct": 0.236,
-    "duracao_min": 13.7,
-    "data_resultado": "2026-07-26T19:43:33.288689+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 59.003,
+    "pnl_pct": 0.289,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-26T21:31:10.149082+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81f6-a77a-ebb211b749c9",
