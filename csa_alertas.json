@@ -525383,11 +525383,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2044,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2065,
-    "pnl_pct": 0.585,
-    "duracao_min": 89.5,
-    "data_resultado": "2026-07-26T00:49:25.249946+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.2067,
+    "pnl_pct": 0.633,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-26T01:20:26.615119+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8134-9922-faabe46522d0",
