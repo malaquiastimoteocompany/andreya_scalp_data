@@ -546577,11 +546577,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.34316667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.343,
-    "pnl_pct": 0.32,
-    "duracao_min": 10.8,
-    "data_resultado": "2026-07-26T13:57:58.560020+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3447,
+    "pnl_pct": 0.073,
+    "duracao_min": 39.5,
+    "data_resultado": "2026-07-26T14:26:37.601316+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81c3-8c89-fa457266a7a1",
