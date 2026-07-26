@@ -554957,11 +554957,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.34316667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3431,
-    "pnl_pct": 0.32,
-    "duracao_min": 93.7,
-    "data_resultado": "2026-07-26T21:08:31.468637+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3443,
+    "pnl_pct": 0.145,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-26T21:34:48.110061+00:00"
   },
   {
     "page_id": "3a9a5230-de72-810b-8dfc-eb0cefe4e897",
