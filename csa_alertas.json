@@ -551285,11 +551285,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.388,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.398,
-    "pnl_pct": 0.359,
-    "duracao_min": 78.9,
-    "data_resultado": "2026-07-26T18:06:12.940696+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.393,
+    "pnl_pct": 0.179,
+    "duracao_min": 112.9,
+    "data_resultado": "2026-07-26T18:40:10.920036+00:00"
   },
   {
     "page_id": "3a9a5230-de72-810a-8894-fb13a62e6cf5",
