@@ -547133,7 +547133,11 @@
     "estado_cfi": "E1",
     "zona_sr": 197.635,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 197.27,
+    "pnl_pct": 0.369,
+    "duracao_min": 8.3,
+    "data_resultado": "2026-07-26T14:23:06.590825+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81fe-a747-fcac8ecfdd52",
