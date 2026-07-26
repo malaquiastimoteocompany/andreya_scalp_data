@@ -534243,11 +534243,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 4.051,
-    "pnl_pct": 0.711,
-    "duracao_min": 5.7,
-    "data_resultado": "2026-07-26T05:37:46.953631+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 4.011,
+    "pnl_pct": 1.201,
+    "duracao_min": 43.0,
+    "data_resultado": "2026-07-26T06:15:03.895938+00:00"
   },
   {
     "page_id": "3a9a5230-de72-812a-a6af-f42500793cdc",
