@@ -555613,7 +555613,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.6271,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.6283,
+    "pnl_pct": -0.625,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-26T22:15:31.037800+00:00"
   },
   {
     "page_id": "3a9a5230-de72-813b-b45f-d8f4ddde6601",
