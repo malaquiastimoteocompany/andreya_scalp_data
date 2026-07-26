@@ -545419,7 +545419,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02353,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.0234,
+    "pnl_pct": 0.298,
+    "duracao_min": 79.8,
+    "data_resultado": "2026-07-26T14:19:44.178818+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81fd-8bf7-c47ba49694ac",
