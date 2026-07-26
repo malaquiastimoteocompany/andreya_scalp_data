@@ -535359,7 +535359,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08493,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.08453,
+    "pnl_pct": 0.201,
+    "duracao_min": 9.7,
+    "data_resultado": "2026-07-26T06:22:09.455440+00:00"
   },
   {
     "page_id": "3a9a5230-de72-819d-bb2b-e984dabbc8d4",
