@@ -527153,7 +527153,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07640833,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.07644,
+    "pnl_pct": -0.365,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-26T02:33:34.492220+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81d3-88a8-efe675d52c19",
