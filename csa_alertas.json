@@ -548186,5 +548186,31 @@
     "pnl_pct": 0.277,
     "duracao_min": 3.9,
     "data_resultado": "2026-07-26T14:58:23.902112+00:00"
+  },
+  {
+    "page_id": "3a9a5230-de72-81fb-9af8-fb553a83a361",
+    "token": "DOT",
+    "direccao": "SHORT",
+    "preco_alerta": 0.8219,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00494286,
+    "tp1": 0.8199228559999999,
+    "tp2": 0.81695714,
+    "sl": 0.82931429,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 221860080.0,
+    "spread_pct": 0.00012160272390100199,
+    "oi_usd": 7438319.695,
+    "data_alerta": "2026-07-26T14:59:18.226397+00:00",
+    "rsi_1h": 53.98,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.8234,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
