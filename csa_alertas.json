@@ -551741,7 +551741,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.03119,
+    "pnl_pct": 0.415,
+    "duracao_min": 12.1,
+    "data_resultado": "2026-07-26T17:24:05.043607+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8118-b3bd-dbc96deee3c1",
