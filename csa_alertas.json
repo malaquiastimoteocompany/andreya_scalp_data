@@ -528775,11 +528775,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.17808333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.17746,
-    "pnl_pct": 0.174,
-    "duracao_min": 7.2,
-    "data_resultado": "2026-07-26T02:04:29.350119+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.17654,
+    "pnl_pct": 0.433,
+    "duracao_min": 11.0,
+    "data_resultado": "2026-07-26T02:08:14.000063+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81ee-b0d4-f1ce0c1815c4",
