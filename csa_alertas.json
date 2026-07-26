@@ -558337,11 +558337,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08422333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08456,
-    "pnl_pct": 0.19,
-    "duracao_min": 20.7,
-    "data_resultado": "2026-07-26T22:30:51.097062+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.08479,
+    "pnl_pct": 0.326,
+    "duracao_min": 26.9,
+    "data_resultado": "2026-07-26T22:37:05.387015+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81a7-8d70-d78c9c71f81b",
