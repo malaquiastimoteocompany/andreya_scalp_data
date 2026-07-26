@@ -531136,5 +531136,31 @@
     "zona_sr": 191.8625,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a9a5230-de72-8188-9089-fd091646a08a",
+    "token": "XRP",
+    "direccao": "LONG",
+    "preco_alerta": 1.1003,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.004,
+    "tp1": 1.1019,
+    "tp2": 1.1043,
+    "sl": 1.0943,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 122688611.0,
+    "spread_pct": 9.088843444670665e-05,
+    "oi_usd": 84698034.06570001,
+    "data_alerta": "2026-07-26T03:26:49.069721+00:00",
+    "rsi_1h": 56.89,
+    "funding_rate": 0.0007,
+    "estado_cfi": "E1",
+    "zona_sr": 1.100025,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
