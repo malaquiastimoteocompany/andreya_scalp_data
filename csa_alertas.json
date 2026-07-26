@@ -541983,7 +541983,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02771667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.02773,
+    "pnl_pct": 0.072,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-26T12:40:32.876019+00:00"
   },
   {
     "page_id": "3a9a5230-de72-814e-9cae-c9bab29d1099",
