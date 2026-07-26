@@ -527749,11 +527749,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.017358,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01749,
-    "pnl_pct": 0.402,
-    "duracao_min": 33.6,
-    "data_resultado": "2026-07-26T01:43:15.108493+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01798,
+    "pnl_pct": 1.808,
+    "duracao_min": 51.5,
+    "data_resultado": "2026-07-26T02:01:07.439378+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8127-9735-f6b6cbb562f9",
