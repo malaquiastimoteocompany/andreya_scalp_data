@@ -550733,7 +550733,11 @@
     "estado_cfi": "E1",
     "zona_sr": 59.383,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 59.297,
+    "pnl_pct": 0.276,
+    "duracao_min": 51.9,
+    "data_resultado": "2026-07-26T17:19:07.940915+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8151-bd2d-ea2bfe89c592",
