@@ -550717,11 +550717,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 19.45,
-    "pnl_pct": 0.413,
-    "duracao_min": 80.9,
-    "data_resultado": "2026-07-26T17:47:46.106370+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 19.37,
+    "pnl_pct": 0.207,
+    "duracao_min": 82.2,
+    "data_resultado": "2026-07-26T17:49:08.688463+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81a5-8b9c-c26f16094e24",
