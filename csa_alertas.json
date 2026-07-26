@@ -532009,7 +532009,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07715,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.07667,
+    "pnl_pct": -0.156,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-26T06:00:56.567941+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81c0-8564-d9d7b007e8c6",
