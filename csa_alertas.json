@@ -556867,7 +556867,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00830962,
     "toques_sr": 8,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.008325,
+    "pnl_pct": 0.471,
+    "duracao_min": 47.0,
+    "data_resultado": "2026-07-26T22:01:48.847302+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8107-96be-da215f24088e",
