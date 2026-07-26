@@ -535397,11 +535397,11 @@
     "estado_cfi": "E1",
     "zona_sr": 92.17,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 91.92,
-    "pnl_pct": 0.304,
-    "duracao_min": 7.8,
-    "data_resultado": "2026-07-26T06:22:15.502115+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 92.37,
+    "pnl_pct": 0.06,
+    "duracao_min": 12.6,
+    "data_resultado": "2026-07-26T06:27:08.040956+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8126-9660-c6a3aa47547f",
