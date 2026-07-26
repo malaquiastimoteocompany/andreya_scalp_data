@@ -545649,7 +545649,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.91516667,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 2.92,
+    "pnl_pct": 0.24,
+    "duracao_min": 8.2,
+    "data_resultado": "2026-07-26T13:22:36.637794+00:00"
   },
   {
     "page_id": "3a9a5230-de72-816b-811c-cf539bebc86e",
