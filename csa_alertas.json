@@ -547702,5 +547702,31 @@
     "zona_sr": 0.04438667,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a9a5230-de72-81b9-bd2e-c0e68bd85138",
+    "token": "TNSR",
+    "direccao": "SHORT",
+    "preco_alerta": 0.03253,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00038643,
+    "tp1": 0.032375428000000005,
+    "tp2": 0.03214357,
+    "sl": 0.033109645,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 7715243.0,
+    "spread_pct": 0.00030745580322838007,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-26T14:37:04.506723+00:00",
+    "rsi_1h": 52.08,
+    "funding_rate": -0.0076,
+    "estado_cfi": "E1",
+    "zona_sr": 0.03258667,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
