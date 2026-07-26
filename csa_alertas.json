@@ -534301,11 +534301,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.38975,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 1.395,
-    "pnl_pct": 0.288,
-    "duracao_min": 8.8,
-    "data_resultado": "2026-07-26T05:43:51.519837+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 1.391,
+    "pnl_pct": 0.144,
+    "duracao_min": 17.9,
+    "data_resultado": "2026-07-26T05:52:54.382156+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8138-be9a-f409f0cb3b56",
