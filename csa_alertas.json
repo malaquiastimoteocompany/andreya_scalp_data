@@ -552617,11 +552617,11 @@
     "estado_cfi": "E2",
     "zona_sr": 2.883,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.894,
-    "pnl_pct": 0.138,
-    "duracao_min": 85.3,
-    "data_resultado": "2026-07-26T19:12:13.210598+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 2.893,
+    "pnl_pct": 0.121,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-26T19:47:16.489450+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81e9-b984-e19be104a2fe",
