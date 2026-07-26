@@ -552065,11 +552065,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.025244,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02529,
-    "pnl_pct": 0.197,
-    "duracao_min": 19.7,
-    "data_resultado": "2026-07-26T17:39:15.930844+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.02522,
+    "pnl_pct": 0.335,
+    "duracao_min": 108.5,
+    "data_resultado": "2026-07-26T19:08:00.112541+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81c3-a409-e8b12b782b3f",
