@@ -559735,11 +559735,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01914,
-    "pnl_pct": 1.187,
-    "duracao_min": 31.8,
-    "data_resultado": "2026-07-26T23:33:52.852619+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01893,
+    "pnl_pct": 1.729,
+    "duracao_min": 36.7,
+    "data_resultado": "2026-07-26T23:38:44.666988+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8169-814d-dfab6e423301",
