@@ -550421,11 +550421,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.13147667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.13171,
-    "pnl_pct": 0.634,
-    "duracao_min": 1.5,
-    "data_resultado": "2026-07-26T16:16:37.150384+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.13084,
+    "pnl_pct": 0.302,
+    "duracao_min": 29.5,
+    "data_resultado": "2026-07-26T16:44:35.101414+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81db-a93f-f527db214a99",
