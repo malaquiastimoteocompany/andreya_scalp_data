@@ -548345,11 +548345,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.081934,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08216,
-    "pnl_pct": 0.293,
-    "duracao_min": 17.3,
-    "data_resultado": "2026-07-26T15:16:49.861555+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.0825,
+    "pnl_pct": 0.5,
+    "duracao_min": 40.0,
+    "data_resultado": "2026-07-26T15:39:34.756845+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8115-8b8a-e4c9b3d0f96a",
