@@ -549587,11 +549587,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.376,
-    "pnl_pct": 3.922,
-    "duracao_min": 34.2,
-    "data_resultado": "2026-07-26T16:16:16.450848+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 2.37,
+    "pnl_pct": 4.044,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-26T17:43:14.749275+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81a4-bd53-c7c39ff187b9",
