@@ -549506,5 +549506,31 @@
     "zona_sr": 197.635,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a9a5230-de72-8125-8c59-caea423314c1",
+    "token": "XTZ",
+    "direccao": "LONG",
+    "preco_alerta": 0.2249,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00187143,
+    "tp1": 0.225648572,
+    "tp2": 0.22677143,
+    "sl": 0.22209285499999998,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 14608152.0,
+    "spread_pct": 0.00044474093840333106,
+    "oi_usd": 662784.83128,
+    "data_alerta": "2026-07-26T15:44:39.506079+00:00",
+    "rsi_1h": 48.91,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.22506,
+    "toques_sr": 5,
+    "resultado": "Pendente"
   }
 ]
