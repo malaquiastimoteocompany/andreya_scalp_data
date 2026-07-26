@@ -556024,5 +556024,31 @@
     "pnl_pct": 0.454,
     "duracao_min": 0.9,
     "data_resultado": "2026-07-26T20:42:54.278912+00:00"
+  },
+  {
+    "page_id": "3a9a5230-de72-81eb-9869-c608829d574c",
+    "token": "SLP",
+    "direccao": "LONG",
+    "preco_alerta": 0.0005517,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 7.86e-06,
+    "tp1": 0.000554844,
+    "tp2": 0.0005595600000000001,
+    "sl": 0.00053991,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 184322871.0,
+    "spread_pct": 0.0005439216752788713,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-26T20:46:51.198325+00:00",
+    "rsi_1h": 51.15,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00054913,
+    "toques_sr": 6,
+    "resultado": "Pendente"
   }
 ]
