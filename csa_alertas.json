@@ -538485,11 +538485,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.006364,
-    "pnl_pct": 0.563,
-    "duracao_min": 112.2,
-    "data_resultado": "2026-07-26T10:01:38.163869+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.006357,
+    "pnl_pct": 0.617,
+    "duracao_min": 121.5,
+    "data_resultado": "2026-07-26T10:10:54.133110+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8198-8b5b-f91c60b3231f",
