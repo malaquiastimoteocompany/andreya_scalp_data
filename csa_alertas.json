@@ -545369,11 +545369,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.713275,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.7149,
-    "pnl_pct": 0.223,
-    "duracao_min": 8.5,
-    "data_resultado": "2026-07-26T13:10:27.315967+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.7166,
+    "pnl_pct": 0.105,
+    "duracao_min": 18.9,
+    "data_resultado": "2026-07-26T13:20:46.368419+00:00"
   },
   {
     "page_id": "3a9a5230-de72-814d-a09d-fef47f7c68e8",
