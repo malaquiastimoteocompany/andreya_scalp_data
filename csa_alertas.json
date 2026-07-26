@@ -541137,11 +541137,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06825167,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06824,
-    "pnl_pct": 0.264,
-    "duracao_min": 10.6,
-    "data_resultado": "2026-07-26T10:25:34.157154+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06805,
+    "pnl_pct": 0.125,
+    "duracao_min": 35.7,
+    "data_resultado": "2026-07-26T10:50:36.222979+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8105-a7e2-ed3609ce7f04",
