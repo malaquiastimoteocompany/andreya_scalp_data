@@ -529803,11 +529803,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08533,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08547,
-    "pnl_pct": 0.223,
-    "duracao_min": 10.6,
-    "data_resultado": "2026-07-26T02:45:27.617919+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.08586,
+    "pnl_pct": 0.451,
+    "duracao_min": 16.8,
+    "data_resultado": "2026-07-26T02:51:40.287744+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8185-8797-d4fd502123fe",
