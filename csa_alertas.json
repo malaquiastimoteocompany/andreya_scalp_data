@@ -553655,11 +553655,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01916,
-    "pnl_pct": 0.725,
-    "duracao_min": 25.9,
-    "data_resultado": "2026-07-26T19:05:31.600546+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01933,
+    "pnl_pct": 0.285,
+    "duracao_min": 39.3,
+    "data_resultado": "2026-07-26T19:18:57.219697+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8160-9172-c08ae7d9af5f",
