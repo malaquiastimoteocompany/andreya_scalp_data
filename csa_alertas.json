@@ -542373,7 +542373,11 @@
     "estado_cfi": "E1",
     "zona_sr": 195.522,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 196.94,
+    "pnl_pct": 0.372,
+    "duracao_min": 33.1,
+    "data_resultado": "2026-07-26T11:37:39.111824+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8134-b426-dc5003595f81",
