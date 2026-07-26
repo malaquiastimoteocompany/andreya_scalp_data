@@ -541510,5 +541510,31 @@
     "zona_sr": 0.628625,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a9a5230-de72-8158-b7ea-f90388d9a8f0",
+    "token": "MERL",
+    "direccao": "SHORT",
+    "preco_alerta": 0.01773,
+    "score": 8,
+    "setup": "A",
+    "prioritario": true,
+    "enviado": true,
+    "executavel": true,
+    "atr_1h": 0.00022214,
+    "tp1": 0.017641143999999997,
+    "tp2": 0.01750786,
+    "sl": 0.01806321,
+    "componentes": "sr_zone=2/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 12834692.0,
+    "spread_pct": 0.0005638567803777611,
+    "oi_usd": 1830412.5552,
+    "data_alerta": "2026-07-26T10:32:01.065872+00:00",
+    "rsi_1h": 66.09,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.01772,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
