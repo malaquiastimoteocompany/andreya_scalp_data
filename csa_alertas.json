@@ -559203,11 +559203,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0883575,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08922,
-    "pnl_pct": 0.473,
-    "duracao_min": 35.5,
-    "data_resultado": "2026-07-26T23:05:31.294329+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.08993,
+    "pnl_pct": 0.873,
+    "duracao_min": 46.5,
+    "data_resultado": "2026-07-26T23:16:32.771967+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8178-b863-eefcc8782aa7",
