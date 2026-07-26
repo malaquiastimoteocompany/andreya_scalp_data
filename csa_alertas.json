@@ -559619,7 +559619,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 20.16,
+    "pnl_pct": -1.459,
+    "duracao_min": 4.7,
+    "data_resultado": "2026-07-26T23:04:11.062006+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81ca-95b6-ea8e186e50cf",
