@@ -529297,11 +529297,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.38015,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3832,
-    "pnl_pct": 0.446,
-    "duracao_min": 42.9,
-    "data_resultado": "2026-07-26T02:53:05.193224+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.385,
+    "pnl_pct": 0.682,
+    "duracao_min": 48.4,
+    "data_resultado": "2026-07-26T02:58:39.354573+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8151-8739-fe3c92c743a8",
