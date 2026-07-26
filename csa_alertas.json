@@ -549557,11 +549557,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.388,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 1.392,
-    "pnl_pct": 0.288,
-    "duracao_min": 12.5,
-    "data_resultado": "2026-07-26T15:55:04.520699+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.397,
+    "pnl_pct": 0.468,
+    "duracao_min": 50.6,
+    "data_resultado": "2026-07-26T16:33:11.366944+00:00"
   },
   {
     "page_id": "3a9a5230-de72-815b-a7d3-f9f10e16a559",
