@@ -531047,11 +531047,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02353,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02345,
-    "pnl_pct": 0.255,
-    "duracao_min": 14.0,
-    "data_resultado": "2026-07-26T03:31:42.045366+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.02352,
+    "pnl_pct": 0.106,
+    "duracao_min": 81.2,
+    "data_resultado": "2026-07-26T04:38:51.800516+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8123-9ee5-d3cd247f085d",
