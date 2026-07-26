@@ -555227,11 +555227,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00319425,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.00313,
-    "pnl_pct": 2.249,
-    "duracao_min": 79.3,
-    "data_resultado": "2026-07-26T21:14:24.014030+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.0031535,
+    "pnl_pct": 1.882,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-26T21:55:56.999224+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8132-a375-ddaea407ab62",
