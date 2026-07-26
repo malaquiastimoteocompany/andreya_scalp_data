@@ -539403,11 +539403,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.09985,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 1.1006,
-    "pnl_pct": 0.136,
-    "duracao_min": 21.5,
-    "data_resultado": "2026-07-26T09:18:34.971036+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.0989,
+    "pnl_pct": 0.059,
+    "duracao_min": 34.6,
+    "data_resultado": "2026-07-26T09:31:39.310565+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81ba-a2ac-c5dc413bd957",
