@@ -549527,11 +549527,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03329,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03366,
-    "pnl_pct": 0.96,
-    "duracao_min": 80.2,
-    "data_resultado": "2026-07-26T17:00:02.947246+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.03344,
+    "pnl_pct": 0.63,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-26T17:40:28.390054+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81fe-bf33-eada1cf38bef",
