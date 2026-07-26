@@ -530293,7 +530293,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.1573,
+    "pnl_pct": 1.379,
+    "duracao_min": 77.6,
+    "data_resultado": "2026-07-26T04:09:55.788572+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81c9-9817-f84ef7df9f32",
