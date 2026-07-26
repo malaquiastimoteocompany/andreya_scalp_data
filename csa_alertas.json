@@ -542603,6 +542603,10 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.03081,
+    "pnl_pct": 0.42,
+    "duracao_min": 2.0,
+    "data_resultado": "2026-07-26T11:16:36.496957+00:00"
   }
 ]
