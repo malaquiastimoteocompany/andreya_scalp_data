@@ -530239,11 +530239,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0041272,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004123,
-    "pnl_pct": 0.17,
-    "duracao_min": 112.1,
-    "data_resultado": "2026-07-26T04:41:40.413184+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.004129,
+    "pnl_pct": 0.243,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-26T04:50:31.204427+00:00"
   },
   {
     "page_id": "3a9a5230-de72-810a-b6d0-edc371ec5b7e",
