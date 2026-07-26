@@ -525597,11 +525597,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.082575,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08233,
-    "pnl_pct": 0.218,
-    "duracao_min": 29.9,
-    "data_resultado": "2026-07-26T00:04:16.689486+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.08203,
+    "pnl_pct": 0.4,
+    "duracao_min": 66.4,
+    "data_resultado": "2026-07-26T00:40:47.299903+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81ef-ba5d-c0d12d8367c5",
