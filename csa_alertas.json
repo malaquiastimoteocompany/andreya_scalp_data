@@ -531531,11 +531531,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06230667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06187,
-    "pnl_pct": 0.897,
-    "duracao_min": 60.3,
-    "data_resultado": "2026-07-26T04:37:30.310036+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06249,
+    "pnl_pct": 0.4,
+    "duracao_min": 92.6,
+    "data_resultado": "2026-07-26T05:09:45.441112+00:00"
   },
   {
     "page_id": "3a9a5230-de72-810a-bf02-ca298d05650b",
