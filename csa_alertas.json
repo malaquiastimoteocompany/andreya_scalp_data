@@ -527927,7 +527927,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.002408,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.002414,
+    "pnl_pct": 0.458,
+    "duracao_min": 61.3,
+    "data_resultado": "2026-07-26T02:16:04.082679+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8104-aba2-db97a29ea59f",
