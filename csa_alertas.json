@@ -550129,7 +550129,11 @@
     "estado_cfi": "E1",
     "zona_sr": 490.61,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 494.35,
+    "pnl_pct": 0.414,
+    "duracao_min": 12.7,
+    "data_resultado": "2026-07-26T16:22:19.450807+00:00"
   },
   {
     "page_id": "3a9a5230-de72-817a-a761-cf203196ce8f",
