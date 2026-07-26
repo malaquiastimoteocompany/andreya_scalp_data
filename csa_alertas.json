@@ -556261,7 +556261,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06975,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.06942,
+    "pnl_pct": -0.701,
+    "duracao_min": 8.8,
+    "data_resultado": "2026-07-26T21:05:42.931964+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8142-96bf-cf9c0018e062",
