@@ -535656,5 +535656,31 @@
     "zona_sr": 0.6296,
     "toques_sr": 8,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a9a5230-de72-8191-b461-cb9aefa8ef3b",
+    "token": "AEVO",
+    "direccao": "SHORT",
+    "preco_alerta": 0.01952,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00011429,
+    "tp1": 0.019474283999999998,
+    "tp2": 0.01940571,
+    "sl": 0.019691435,
+    "componentes": "sr_zone=2/2 | rsi_1h=1/1 | cluster=0/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 5281739.0,
+    "spread_pct": 0.0005124263387137891,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-26T06:20:13.684171+00:00",
+    "rsi_1h": 73.58,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.01947,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
