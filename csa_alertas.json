@@ -527867,11 +527867,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.006235,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.006253,
-    "pnl_pct": 0.579,
-    "duracao_min": 45.3,
-    "data_resultado": "2026-07-26T01:59:37.483471+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.006291,
+    "pnl_pct": 0.885,
+    "duracao_min": 58.8,
+    "data_resultado": "2026-07-26T02:13:09.712282+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81cd-9d66-fa060a163531",
