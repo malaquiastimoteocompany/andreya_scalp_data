@@ -546675,11 +546675,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.8375,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 3.838,
-    "pnl_pct": 0.415,
-    "duracao_min": 1.2,
-    "data_resultado": "2026-07-26T13:58:06.690318+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 3.857,
+    "pnl_pct": 0.169,
+    "duracao_min": 8.9,
+    "data_resultado": "2026-07-26T14:05:47.024071+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81fb-8017-d1a918a7f78c",
