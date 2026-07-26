@@ -538815,11 +538815,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01778,
-    "pnl_pct": 0.504,
-    "duracao_min": 29.1,
-    "data_resultado": "2026-07-26T08:53:41.373898+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.0178,
+    "pnl_pct": 0.448,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-26T10:24:54.052601+00:00"
   },
   {
     "page_id": "3a9a5230-de72-818c-811b-d3810555c638",
