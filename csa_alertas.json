@@ -537333,7 +537333,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01631333,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.0162,
+    "pnl_pct": -0.857,
+    "duracao_min": 67.2,
+    "data_resultado": "2026-07-26T08:27:01.870833+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81a7-b143-e40735916eea",
