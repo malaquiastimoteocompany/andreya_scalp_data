@@ -526253,7 +526253,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01632,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.01618,
+    "pnl_pct": -0.369,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-26T01:54:48.816676+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8182-9d08-c0eec066ea5c",
