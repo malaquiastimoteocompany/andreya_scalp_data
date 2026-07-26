@@ -555189,7 +555189,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0133,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.01337,
+    "pnl_pct": 0.3,
+    "duracao_min": 107.7,
+    "data_resultado": "2026-07-26T21:42:39.996380+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81f2-9452-eb281f6f9ebe",
