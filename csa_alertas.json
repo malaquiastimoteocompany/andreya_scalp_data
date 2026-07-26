@@ -531619,11 +531619,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.81682857,
     "toques_sr": 7,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.8216,
-    "pnl_pct": 0.256,
-    "duracao_min": 46.5,
-    "data_resultado": "2026-07-26T04:28:29.712055+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.8227,
+    "pnl_pct": 0.323,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-26T05:43:12.224775+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81bf-b1b6-c2c204e5db28",
