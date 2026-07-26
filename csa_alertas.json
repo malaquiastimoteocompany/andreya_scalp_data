@@ -537487,11 +537487,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2101,
-    "pnl_pct": 0.474,
-    "duracao_min": 83.1,
-    "data_resultado": "2026-07-26T08:45:41.514502+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2112,
+    "pnl_pct": 0.213,
+    "duracao_min": 107.8,
+    "data_resultado": "2026-07-26T09:10:23.974128+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8127-831f-cd6e6fd3008a",
