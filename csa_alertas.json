@@ -543239,11 +543239,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01409,
-    "pnl_pct": 0.213,
-    "duracao_min": 27.8,
-    "data_resultado": "2026-07-26T12:04:47.753885+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01406,
+    "pnl_pct": 0.107,
+    "duracao_min": 111.3,
+    "data_resultado": "2026-07-26T13:28:18.467859+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81d5-9254-cf8d09499c71",
