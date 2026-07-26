@@ -541913,7 +541913,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.121175,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.1214,
+    "pnl_pct": 0.331,
+    "duracao_min": 16.2,
+    "data_resultado": "2026-07-26T11:00:53.122137+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81a3-8b13-cd35de00f172",
