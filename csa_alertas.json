@@ -556183,7 +556183,11 @@
     "estado_cfi": "E1",
     "zona_sr": 490.61,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 494.51,
+    "pnl_pct": 0.394,
+    "duracao_min": 39.6,
+    "data_resultado": "2026-07-26T21:26:48.372628+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8143-a421-c263210d1edc",
