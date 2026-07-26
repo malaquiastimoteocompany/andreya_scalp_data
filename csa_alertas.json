@@ -554617,11 +554617,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 47.81,
-    "pnl_pct": 0.292,
-    "duracao_min": 49.2,
-    "data_resultado": "2026-07-26T20:16:12.473402+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 47.61,
+    "pnl_pct": 0.501,
+    "duracao_min": 93.6,
+    "data_resultado": "2026-07-26T21:00:38.115568+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8117-8303-ccdcc9012655",
