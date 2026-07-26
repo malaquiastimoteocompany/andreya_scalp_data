@@ -528279,7 +528279,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.025244,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.02535,
+    "pnl_pct": -0.755,
+    "duracao_min": 28.6,
+    "data_resultado": "2026-07-26T02:03:00.028426+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81fe-bbf5-fd173d1a244d",
