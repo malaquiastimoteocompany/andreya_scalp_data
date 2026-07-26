@@ -537143,7 +537143,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.006422,
+    "pnl_pct": 0.941,
+    "duracao_min": 3.8,
+    "data_resultado": "2026-07-26T07:23:13.741556+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81d6-94ce-e324e3c67e97",
