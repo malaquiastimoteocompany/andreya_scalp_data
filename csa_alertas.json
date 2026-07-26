@@ -544733,7 +544733,11 @@
     "estado_cfi": "E1",
     "zona_sr": 8.471,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 8.452,
+    "pnl_pct": 0.189,
+    "duracao_min": 6.7,
+    "data_resultado": "2026-07-26T12:41:22.856428+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8133-9fea-f4ccc84717b5",
