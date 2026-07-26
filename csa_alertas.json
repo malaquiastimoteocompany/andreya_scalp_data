@@ -525123,11 +525123,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.34545,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3451,
-    "pnl_pct": 0.433,
-    "duracao_min": 25.1,
-    "data_resultado": "2026-07-25T23:27:06.005825+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.343,
+    "pnl_pct": 0.736,
+    "duracao_min": 98.6,
+    "data_resultado": "2026-07-26T00:40:37.856817+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8131-acc3-d89ace316054",
