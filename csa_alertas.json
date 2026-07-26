@@ -537619,11 +537619,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.031884,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03162,
-    "pnl_pct": 0.566,
-    "duracao_min": 46.7,
-    "data_resultado": "2026-07-26T08:18:51.407068+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.03181,
+    "pnl_pct": 0.267,
+    "duracao_min": 73.6,
+    "data_resultado": "2026-07-26T08:45:48.513892+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81c8-9de3-ce6b5d45ce41",
