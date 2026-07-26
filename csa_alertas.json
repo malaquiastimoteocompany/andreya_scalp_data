@@ -545987,11 +545987,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.041785,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04215,
-    "pnl_pct": 0.381,
-    "duracao_min": 49.5,
-    "data_resultado": "2026-07-26T14:09:08.808081+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04211,
+    "pnl_pct": 0.333,
+    "duracao_min": 121.5,
+    "data_resultado": "2026-07-26T15:21:10.838938+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8149-a88a-ff1a9b3815b1",
