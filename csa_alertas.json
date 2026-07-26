@@ -543689,7 +543689,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 2.472,
+    "pnl_pct": 4.74,
+    "duracao_min": 14.8,
+    "data_resultado": "2026-07-26T12:11:36.149151+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81b8-8f64-e41e0751bfcf",
