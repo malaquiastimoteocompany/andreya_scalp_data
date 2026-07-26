@@ -552984,5 +552984,31 @@
     "zona_sr": 0.34316667,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a9a5230-de72-815b-bca6-fbb135d40378",
+    "token": "GUN",
+    "direccao": "LONG",
+    "preco_alerta": 0.003505,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 2.829e-05,
+    "tp1": 0.003516316,
+    "tp2": 0.0035332899999999997,
+    "sl": 0.003462565,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 5353538.0,
+    "spread_pct": 0.0002853474104721641,
+    "oi_usd": 2563472.42032,
+    "data_alerta": "2026-07-26T18:14:58.471762+00:00",
+    "rsi_1h": 38.11,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00350967,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
