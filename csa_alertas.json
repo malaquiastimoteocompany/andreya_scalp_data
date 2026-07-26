@@ -535091,11 +535091,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03857,
-    "pnl_pct": 10.169,
-    "duracao_min": 15.0,
-    "data_resultado": "2026-07-26T06:16:57.192044+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.0291,
+    "pnl_pct": -3.356,
+    "duracao_min": 22.0,
+    "data_resultado": "2026-07-26T06:23:56.501036+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8104-9488-d39e9fba5482",
