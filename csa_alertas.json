@@ -556109,7 +556109,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.085104,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.08656,
+    "pnl_pct": 1.549,
+    "duracao_min": 83.7,
+    "data_resultado": "2026-07-26T22:01:00.345697+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8139-8f74-c82c7d7f365d",
