@@ -528619,7 +528619,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.71e-05,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 3.736e-05,
+    "pnl_pct": -0.322,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-26T03:43:08.404381+00:00"
   },
   {
     "page_id": "3a9a5230-de72-819c-bf48-e0079dd02a6b",
