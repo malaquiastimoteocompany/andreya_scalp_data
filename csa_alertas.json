@@ -534985,11 +534985,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.38975,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.399,
-    "pnl_pct": 0.503,
-    "duracao_min": 67.5,
-    "data_resultado": "2026-07-26T07:02:23.475032+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.392,
+    "pnl_pct": 0.251,
+    "duracao_min": 92.9,
+    "data_resultado": "2026-07-26T07:27:50.674136+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8165-9d25-c590d4867294",
