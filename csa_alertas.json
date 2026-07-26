@@ -548267,11 +548267,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01604,
-    "pnl_pct": 0.25,
-    "duracao_min": 98.6,
-    "data_resultado": "2026-07-26T16:28:03.705562+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.01603,
+    "pnl_pct": 0.219,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-26T16:50:00.105535+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8123-94c9-eb13c2482ea3",
