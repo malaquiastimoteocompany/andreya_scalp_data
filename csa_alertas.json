@@ -550151,11 +550151,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.39875,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.402,
-    "pnl_pct": 0.55,
-    "duracao_min": 1.9,
-    "data_resultado": "2026-07-26T16:11:54.749940+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.4047,
+    "pnl_pct": 0.888,
+    "duracao_min": 8.2,
+    "data_resultado": "2026-07-26T16:18:11.094133+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8197-935c-eb375dd64769",
