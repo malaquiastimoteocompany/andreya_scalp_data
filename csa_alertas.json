@@ -557903,11 +557903,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.40275,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 1.402,
-    "pnl_pct": 0.286,
-    "duracao_min": 7.8,
-    "data_resultado": "2026-07-26T22:07:42.150032+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 1.398,
+    "pnl_pct": 0.143,
+    "duracao_min": 20.4,
+    "data_resultado": "2026-07-26T22:20:18.536195+00:00"
   },
   {
     "page_id": "3a9a5230-de72-817c-87fd-f01e5e3f2933",
