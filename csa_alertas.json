@@ -541484,5 +541484,31 @@
     "zona_sr": 0.008418,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a9a5230-de72-8124-adb8-e4ae63da5c57",
+    "token": "APT",
+    "direccao": "SHORT",
+    "preco_alerta": 0.6269,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00485,
+    "tp1": 0.62496,
+    "tp2": 0.62205,
+    "sl": 0.634175,
+    "componentes": "sr_zone=2/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 46103763.0,
+    "spread_pct": 0.00015952779771873492,
+    "oi_usd": 7321764.7104,
+    "data_alerta": "2026-07-26T10:31:48.731749+00:00",
+    "rsi_1h": 75.68,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.628625,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
