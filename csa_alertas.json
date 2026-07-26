@@ -545161,11 +545161,11 @@
     "estado_cfi": "E1",
     "zona_sr": 195.522,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 196.99,
-    "pnl_pct": 0.377,
-    "duracao_min": 73.7,
-    "data_resultado": "2026-07-26T14:03:26.063773+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 198.15,
+    "pnl_pct": 0.673,
+    "duracao_min": 81.5,
+    "data_resultado": "2026-07-26T14:11:12.566747+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81c7-958b-c982dced3365",
