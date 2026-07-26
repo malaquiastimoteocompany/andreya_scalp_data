@@ -543869,11 +543869,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.6775125,
     "toques_sr": 8,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.6824,
-    "pnl_pct": 0.25,
-    "duracao_min": 32.0,
-    "data_resultado": "2026-07-26T12:29:22.803913+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.6802,
+    "pnl_pct": 0.088,
+    "duracao_min": 59.2,
+    "data_resultado": "2026-07-26T12:56:31.954568+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8125-88b3-d744dfea53f8",
