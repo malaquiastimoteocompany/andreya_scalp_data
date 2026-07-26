@@ -548687,11 +548687,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.060815,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06128,
-    "pnl_pct": 0.674,
-    "duracao_min": 88.1,
-    "data_resultado": "2026-07-26T16:35:27.430472+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.06137,
+    "pnl_pct": 0.747,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-26T17:07:22.949872+00:00"
   },
   {
     "page_id": "3a9a5230-de72-811e-9dc9-db8f8948cd53",
