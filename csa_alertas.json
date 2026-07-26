@@ -528259,7 +528259,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 19.08,
+    "pnl_pct": 0.474,
+    "duracao_min": 103.5,
+    "data_resultado": "2026-07-26T03:12:51.357302+00:00"
   },
   {
     "page_id": "3a9a5230-de72-818b-ae6b-c967d8546746",
