@@ -547239,11 +547239,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0012414,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001248,
-    "pnl_pct": 0.402,
-    "duracao_min": 64.3,
-    "data_resultado": "2026-07-26T15:18:55.924629+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.001255,
+    "pnl_pct": 0.684,
+    "duracao_min": 100.0,
+    "data_resultado": "2026-07-26T15:54:38.584643+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81ae-bb85-f8afeb2c28c2",
