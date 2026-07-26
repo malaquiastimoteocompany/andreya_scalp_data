@@ -543109,7 +543109,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.121175,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.1217,
+    "pnl_pct": 0.413,
+    "duracao_min": 66.3,
+    "data_resultado": "2026-07-26T12:40:49.979584+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81b3-80f5-fdbd0b854802",
