@@ -536089,7 +536089,11 @@
     "estado_cfi": "E2",
     "zona_sr": 19.215,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 19.18,
+    "pnl_pct": -0.052,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-26T08:29:53.727043+00:00"
   },
   {
     "page_id": "3a9a5230-de72-812a-9b21-d026b37dd9d7",
