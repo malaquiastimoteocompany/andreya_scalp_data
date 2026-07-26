@@ -552593,7 +552593,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2217,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.2222,
+    "pnl_pct": 0.543,
+    "duracao_min": 30.2,
+    "data_resultado": "2026-07-26T18:22:25.181830+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8161-a44a-d24a346f4d1a",
