@@ -549709,7 +549709,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.39405,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.3963,
+    "pnl_pct": 0.609,
+    "duracao_min": 8.9,
+    "data_resultado": "2026-07-26T16:01:14.079587+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8100-a416-e1973c3a5e9c",
