@@ -543003,11 +543003,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.052725,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05299,
-    "pnl_pct": 0.799,
-    "duracao_min": 36.9,
-    "data_resultado": "2026-07-26T12:06:44.214097+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.05302,
+    "pnl_pct": 0.827,
+    "duracao_min": 38.7,
+    "data_resultado": "2026-07-26T12:08:27.899943+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81e0-a6e9-e2a65d7159e5",
