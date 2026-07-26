@@ -541203,7 +541203,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.9162,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 2.923,
+    "pnl_pct": -0.137,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-26T12:15:44.839586+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81c7-b296-cffb032c0893",
