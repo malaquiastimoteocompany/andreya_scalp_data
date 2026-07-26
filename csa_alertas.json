@@ -526543,7 +526543,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02353,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.0234,
+    "pnl_pct": 0.341,
+    "duracao_min": 40.8,
+    "data_resultado": "2026-07-26T00:51:01.349344+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8197-98d0-c27d8fbef6d2",
