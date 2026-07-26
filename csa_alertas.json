@@ -542095,11 +542095,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.37306667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3764,
-    "pnl_pct": 0.696,
-    "duracao_min": 40.8,
-    "data_resultado": "2026-07-26T11:28:14.817140+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.3766,
+    "pnl_pct": 0.722,
+    "duracao_min": 74.0,
+    "data_resultado": "2026-07-26T12:01:23.651585+00:00"
   },
   {
     "page_id": "3a9a5230-de72-815c-b5c1-ca3e2e198c90",
