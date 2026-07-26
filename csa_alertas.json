@@ -547681,11 +547681,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.34565,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3456,
-    "pnl_pct": 0.319,
-    "duracao_min": 67.7,
-    "data_resultado": "2026-07-26T15:37:50.987751+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3445,
+    "pnl_pct": 0.16,
+    "duracao_min": 99.6,
+    "data_resultado": "2026-07-26T16:09:40.311346+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81be-8a77-f17a5cd29d71",
