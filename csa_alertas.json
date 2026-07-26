@@ -529160,5 +529160,31 @@
     "zona_sr": 0.3368,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a9a5230-de72-819f-8ac0-f1cfe6c82474",
+    "token": "ONDO",
+    "direccao": "LONG",
+    "preco_alerta": 0.3815,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.0033,
+    "tp1": 0.38282,
+    "tp2": 0.38480000000000003,
+    "sl": 0.37655,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 5206968.0,
+    "spread_pct": 0.00026208884811948366,
+    "oi_usd": 15241007.166000001,
+    "data_alerta": "2026-07-26T02:09:59.916956+00:00",
+    "rsi_1h": 48.51,
+    "funding_rate": -0.0053,
+    "estado_cfi": "E1",
+    "zona_sr": 0.38015,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
