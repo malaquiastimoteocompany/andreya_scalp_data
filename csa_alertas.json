@@ -559815,11 +559815,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04231,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04244,
-    "pnl_pct": 0.189,
-    "duracao_min": 6.0,
-    "data_resultado": "2026-07-26T23:08:46.402496+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.04235,
+    "pnl_pct": 0.083,
+    "duracao_min": 10.8,
+    "data_resultado": "2026-07-26T23:13:39.508402+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81bf-9c4b-d438dce05b2b",
