@@ -542111,7 +542111,11 @@
     "estado_cfi": "E1",
     "zona_sr": 58.7272,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 58.822,
+    "pnl_pct": 0.206,
+    "duracao_min": 40.5,
+    "data_resultado": "2026-07-26T11:32:25.105943+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8154-9e4d-ff7d623dc6ce",
