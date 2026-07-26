@@ -536723,11 +536723,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 5.641e-06,
-    "pnl_pct": 1.725,
-    "duracao_min": 41.6,
-    "data_resultado": "2026-07-26T07:43:30.713311+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 5.53e-06,
+    "pnl_pct": 2.692,
+    "duracao_min": 61.9,
+    "data_resultado": "2026-07-26T08:03:45.721250+00:00"
   },
   {
     "page_id": "3a9a5230-de72-819c-9ef1-e82ecdfa02c2",
