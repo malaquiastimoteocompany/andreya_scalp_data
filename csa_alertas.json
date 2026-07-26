@@ -530013,11 +530013,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3368,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3392,
-    "pnl_pct": 0.444,
-    "duracao_min": 11.3,
-    "data_resultado": "2026-07-26T02:53:30.784702+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.3404,
+    "pnl_pct": 0.622,
+    "duracao_min": 32.9,
+    "data_resultado": "2026-07-26T03:15:07.633434+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81d8-8623-d792dfaa7f34",
