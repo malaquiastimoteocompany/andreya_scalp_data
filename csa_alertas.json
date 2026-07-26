@@ -530271,11 +530271,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00179533,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.001794,
-    "pnl_pct": 0.336,
-    "duracao_min": 0.8,
-    "data_resultado": "2026-07-26T02:55:22.689788+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.001805,
+    "pnl_pct": 0.643,
+    "duracao_min": 6.0,
+    "data_resultado": "2026-07-26T03:00:35.674798+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81f3-a8db-d97c47958ad3",
