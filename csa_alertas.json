@@ -535309,7 +535309,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08268333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.08282,
+    "pnl_pct": -0.145,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-26T08:07:40.703259+00:00"
   },
   {
     "page_id": "3a9a5230-de72-818f-8da7-c7f6262675a7",
