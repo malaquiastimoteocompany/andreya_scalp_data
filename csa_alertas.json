@@ -541023,7 +541023,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00856,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.008643,
+    "pnl_pct": -0.57,
+    "duracao_min": 121.5,
+    "data_resultado": "2026-07-26T12:06:08.439460+00:00"
   },
   {
     "page_id": "3a9a5230-de72-810f-80eb-fbef34ed5113",
