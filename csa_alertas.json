@@ -529495,11 +529495,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3725,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3732,
-    "pnl_pct": 0.323,
-    "duracao_min": 13.7,
-    "data_resultado": "2026-07-26T02:29:08.063063+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.372,
+    "pnl_pct": 0.161,
+    "duracao_min": 20.1,
+    "data_resultado": "2026-07-26T02:35:27.587741+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81fe-b54e-f7975db0c16c",
