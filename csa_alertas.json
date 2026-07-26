@@ -551663,7 +551663,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.014715,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.01471,
+    "pnl_pct": 0.204,
+    "duracao_min": 22.1,
+    "data_resultado": "2026-07-26T17:26:59.197636+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8132-b67d-f15f3bd8aae9",
