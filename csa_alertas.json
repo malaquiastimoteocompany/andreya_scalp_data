@@ -524693,7 +524693,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06819333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.06806,
+    "pnl_pct": -0.308,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-26T00:23:15.868775+00:00"
   },
   {
     "page_id": "3a8a5230-de72-815c-88ac-c35386e65a15",
