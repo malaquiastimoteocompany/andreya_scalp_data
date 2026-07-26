@@ -530543,11 +530543,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01774333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01763,
-    "pnl_pct": 0.452,
-    "duracao_min": 48.3,
-    "data_resultado": "2026-07-26T03:50:30.255062+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01776,
+    "pnl_pct": 0.085,
+    "duracao_min": 57.2,
+    "data_resultado": "2026-07-26T03:59:29.287553+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8111-b709-f03a37b376ea",
