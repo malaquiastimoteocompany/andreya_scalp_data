@@ -537705,11 +537705,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04484667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04478,
-    "pnl_pct": 0.267,
-    "duracao_min": 109.6,
-    "data_resultado": "2026-07-26T09:24:13.698063+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04476,
+    "pnl_pct": 0.29,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-26T09:35:32.195490+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81c6-b0c4-c698b240e1d5",
