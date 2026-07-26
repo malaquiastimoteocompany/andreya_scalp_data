@@ -545592,5 +545592,31 @@
     "zona_sr": 0.0026735,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a9a5230-de72-81da-a9df-c6976e310806",
+    "token": "ILV",
+    "direccao": "LONG",
+    "preco_alerta": 2.913,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.01442857,
+    "tp1": 2.918771428,
+    "tp2": 2.92742857,
+    "sl": 2.8913571449999997,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 37668609.0,
+    "spread_pct": 0.0006868131868131112,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-26T13:14:18.458998+00:00",
+    "rsi_1h": 57.1,
+    "funding_rate": -0.0109,
+    "estado_cfi": "E1",
+    "zona_sr": 2.91516667,
+    "toques_sr": 6,
+    "resultado": "Pendente"
   }
 ]
