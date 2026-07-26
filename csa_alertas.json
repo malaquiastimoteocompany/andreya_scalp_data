@@ -524243,7 +524243,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04472,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.04464,
+    "pnl_pct": -0.045,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-26T00:02:45.792945+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81b4-b09c-d98e2e8ca332",
