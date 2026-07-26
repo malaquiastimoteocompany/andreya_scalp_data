@@ -546129,7 +546129,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3791,
+    "pnl_pct": 0.171,
+    "duracao_min": 50.0,
+    "data_resultado": "2026-07-26T14:19:54.584888+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8150-848c-f26216750fc4",
