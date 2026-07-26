@@ -548443,7 +548443,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05476,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.05348,
+    "pnl_pct": 1.872,
+    "duracao_min": 3.0,
+    "data_resultado": "2026-07-26T15:08:04.741556+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8184-97e1-f622c837fe16",
