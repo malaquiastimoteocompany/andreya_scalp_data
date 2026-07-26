@@ -549237,11 +549237,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01332667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0132,
-    "pnl_pct": 0.528,
-    "duracao_min": 38.1,
-    "data_resultado": "2026-07-26T16:02:31.645462+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01312,
+    "pnl_pct": 0.829,
+    "duracao_min": 103.2,
+    "data_resultado": "2026-07-26T17:07:37.143979+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8191-a1bf-ce7c56170030",
