@@ -530677,11 +530677,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2237125,
     "toques_sr": 8,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2247,
-    "pnl_pct": 0.134,
-    "duracao_min": 5.6,
-    "data_resultado": "2026-07-26T03:15:38.074426+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.2243,
+    "pnl_pct": 0.045,
+    "duracao_min": 8.7,
+    "data_resultado": "2026-07-26T03:18:46.353827+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8179-b3ee-cadb3cc666b7",
