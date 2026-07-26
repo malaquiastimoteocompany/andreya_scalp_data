@@ -550239,7 +550239,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.628625,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.6253,
+    "pnl_pct": 0.784,
+    "duracao_min": 112.2,
+    "data_resultado": "2026-07-26T18:01:38.746122+00:00"
   },
   {
     "page_id": "3a9a5230-de72-816a-abb8-d3eb072559e4",
