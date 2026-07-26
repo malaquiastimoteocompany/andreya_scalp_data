@@ -533359,11 +533359,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.7417,
-    "pnl_pct": 0.323,
-    "duracao_min": 4.7,
-    "data_resultado": "2026-07-26T04:56:36.042389+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.7447,
+    "pnl_pct": 0.121,
+    "duracao_min": 117.0,
+    "data_resultado": "2026-07-26T06:48:49.960919+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8188-b12a-c1428be24bde",
