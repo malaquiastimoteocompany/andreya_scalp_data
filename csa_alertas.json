@@ -540797,11 +540797,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00442944,
     "toques_sr": 9,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004422,
-    "pnl_pct": 0.249,
-    "duracao_min": 28.4,
-    "data_resultado": "2026-07-26T10:25:24.637236+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004411,
+    "pnl_pct": 0.125,
+    "duracao_min": 104.7,
+    "data_resultado": "2026-07-26T11:41:41.484667+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8177-8448-ef4a3b59d292",
