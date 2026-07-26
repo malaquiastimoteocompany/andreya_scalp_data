@@ -558251,11 +558251,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01611333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01605,
-    "pnl_pct": 0.249,
-    "duracao_min": 84.9,
-    "data_resultado": "2026-07-26T23:30:37.708569+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01609,
+    "pnl_pct": 0.124,
+    "duracao_min": 91.2,
+    "data_resultado": "2026-07-26T23:36:53.950618+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8112-8c07-d97c3c82d3cd",
