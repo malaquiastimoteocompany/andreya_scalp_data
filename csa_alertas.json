@@ -539767,11 +539767,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06976333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07008,
-    "pnl_pct": 0.258,
-    "duracao_min": 9.4,
-    "data_resultado": "2026-07-26T09:18:50.087726+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.07011,
+    "pnl_pct": 0.279,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-26T11:09:59.043178+00:00"
   },
   {
     "page_id": "3a9a5230-de72-814b-a8f0-fd612d8ed4c5",
