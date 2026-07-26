@@ -540087,11 +540087,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.001806,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.001825,
-    "pnl_pct": 0.662,
-    "duracao_min": 18.7,
-    "data_resultado": "2026-07-26T09:45:38.398474+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.001808,
+    "pnl_pct": 0.193,
+    "duracao_min": 24.5,
+    "data_resultado": "2026-07-26T09:51:21.984260+00:00"
   },
   {
     "page_id": "3a9a5230-de72-812f-a395-f7c9ed6aef6c",
