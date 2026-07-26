@@ -534123,11 +534123,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.58,
-    "pnl_pct": 0.378,
-    "duracao_min": 93.4,
-    "data_resultado": "2026-07-26T06:53:14.798735+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.586,
+    "pnl_pct": 0.189,
+    "duracao_min": 98.3,
+    "data_resultado": "2026-07-26T06:58:06.867409+00:00"
   },
   {
     "page_id": "3a9a5230-de72-814a-bd33-c5ee2be5902c",
