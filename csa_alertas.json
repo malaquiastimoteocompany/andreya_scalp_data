@@ -544378,5 +544378,31 @@
     "zona_sr": 0.37306667,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3a9a5230-de72-81e9-a3fc-f93e9f67a8f5",
+    "token": "SNX",
+    "direccao": "LONG",
+    "preco_alerta": 0.218,
+    "score": 8,
+    "setup": "B",
+    "prioritario": true,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00202143,
+    "tp1": 0.218808572,
+    "tp2": 0.22002143,
+    "sl": 0.21496785499999999,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 11606562.0,
+    "spread_pct": 0.0004588208304656526,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-26T12:24:24.351226+00:00",
+    "rsi_1h": 54.28,
+    "funding_rate": 0.0062,
+    "estado_cfi": "E1",
+    "zona_sr": 0.21788333,
+    "toques_sr": 6,
+    "resultado": "Pendente"
   }
 ]
