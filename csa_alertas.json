@@ -526751,7 +526751,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2036,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.2022,
+    "pnl_pct": 0.197,
+    "duracao_min": 60.2,
+    "data_resultado": "2026-07-26T01:22:16.047466+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8109-8095-f203eaea9afd",
