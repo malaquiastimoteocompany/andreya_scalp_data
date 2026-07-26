@@ -526457,11 +526457,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01435667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01425,
-    "pnl_pct": 0.28,
-    "duracao_min": 26.6,
-    "data_resultado": "2026-07-26T00:36:18.444097+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0143,
+    "pnl_pct": 0.105,
+    "duracao_min": 44.6,
+    "data_resultado": "2026-07-26T00:54:16.563010+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8171-8a63-ffec7189ffd6",
