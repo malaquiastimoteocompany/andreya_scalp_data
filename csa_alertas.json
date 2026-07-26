@@ -527363,7 +527363,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00179533,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.001779,
+    "pnl_pct": -0.503,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-26T02:49:53.247507+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8150-9b91-d9048f9c1da4",
