@@ -540201,11 +540201,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08148,
-    "pnl_pct": 0.367,
-    "duracao_min": 90.5,
-    "data_resultado": "2026-07-26T10:55:00.374345+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.08179,
+    "pnl_pct": 0.177,
+    "duracao_min": 101.1,
+    "data_resultado": "2026-07-26T11:05:32.470380+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81b4-b867-e163e4e0920f",
