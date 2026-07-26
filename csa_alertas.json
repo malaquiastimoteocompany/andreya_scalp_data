@@ -542709,7 +542709,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004717,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.00468,
+    "pnl_pct": -0.721,
+    "duracao_min": 66.1,
+    "data_resultado": "2026-07-26T12:20:40.266096+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8183-b0a1-da335298d576",
