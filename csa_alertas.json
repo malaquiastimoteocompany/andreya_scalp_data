@@ -526141,11 +526141,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.002408,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.002411,
-    "pnl_pct": 0.291,
-    "duracao_min": 53.1,
-    "data_resultado": "2026-07-26T00:45:21.413640+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.002404,
+    "pnl_pct": 0.146,
+    "duracao_min": 80.1,
+    "data_resultado": "2026-07-26T01:12:19.091066+00:00"
   },
   {
     "page_id": "3a8a5230-de72-8154-bf2c-e90ad962b08f",
