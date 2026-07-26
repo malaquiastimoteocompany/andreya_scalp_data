@@ -540753,11 +540753,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.001806,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001822,
-    "pnl_pct": 0.719,
-    "duracao_min": 115.5,
-    "data_resultado": "2026-07-26T11:47:33.759718+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.001813,
+    "pnl_pct": 0.47,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-26T11:53:18.534452+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81f2-8c14-fcad511c79e6",
