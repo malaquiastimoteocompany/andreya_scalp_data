@@ -531971,11 +531971,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.6495,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 3.669,
-    "pnl_pct": 0.219,
-    "duracao_min": 12.3,
-    "data_resultado": "2026-07-26T04:14:14.747304+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.687,
+    "pnl_pct": 0.464,
+    "duracao_min": 44.3,
+    "data_resultado": "2026-07-26T04:46:13.385660+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8137-9bf1-e31531900d80",
