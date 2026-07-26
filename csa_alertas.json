@@ -540903,7 +540903,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 5.414e-06,
+    "pnl_pct": -0.464,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-26T12:02:51.475262+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81c2-ab57-c848baa26ddd",
