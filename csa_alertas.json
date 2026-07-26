@@ -543399,11 +543399,11 @@
     "estado_cfi": "E1",
     "zona_sr": 8.40933333,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 8.449,
-    "pnl_pct": 0.213,
-    "duracao_min": 23.8,
-    "data_resultado": "2026-07-26T12:08:37.519845+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 8.484,
+    "pnl_pct": 0.421,
+    "duracao_min": 31.5,
+    "data_resultado": "2026-07-26T12:16:16.246271+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81ea-a6ca-eabdd73affea",
