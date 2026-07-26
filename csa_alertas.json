@@ -536551,11 +536551,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01774333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0177,
-    "pnl_pct": 0.618,
-    "duracao_min": 58.8,
-    "data_resultado": "2026-07-26T07:53:32.043228+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01782,
+    "pnl_pct": 0.281,
+    "duracao_min": 81.1,
+    "data_resultado": "2026-07-26T08:15:46.071494+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8104-8da8-d3fad56dfb27",
