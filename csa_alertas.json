@@ -540599,7 +540599,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.0307,
+    "pnl_pct": 0.615,
+    "duracao_min": 10.0,
+    "data_resultado": "2026-07-26T10:02:13.409277+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81d3-8583-f8df29c883c4",
