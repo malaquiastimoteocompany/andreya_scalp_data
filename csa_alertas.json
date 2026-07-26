@@ -558959,11 +558959,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.40755,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.403,
-    "pnl_pct": 0.641,
-    "duracao_min": 3.5,
-    "data_resultado": "2026-07-26T22:23:23.619310+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.4058,
+    "pnl_pct": 0.296,
+    "duracao_min": 47.0,
+    "data_resultado": "2026-07-26T23:06:51.881381+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8106-b784-cd0c9688abaa",
