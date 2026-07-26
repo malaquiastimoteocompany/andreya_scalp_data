@@ -545873,7 +545873,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.713275,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.7147,
+    "pnl_pct": 0.265,
+    "duracao_min": 8.2,
+    "data_resultado": "2026-07-26T13:30:07.625436+00:00"
   },
   {
     "page_id": "3a9a5230-de72-814b-98cf-c75681da9f44",
