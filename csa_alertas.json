@@ -529579,11 +529579,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1762225,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.17743,
-    "pnl_pct": 0.26,
-    "duracao_min": 39.9,
-    "data_resultado": "2026-07-26T02:54:58.330216+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.1773,
+    "pnl_pct": 0.223,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-26T04:15:32.180304+00:00"
   },
   {
     "page_id": "3a9a5230-de72-819b-aa1a-c3927bf67b15",
