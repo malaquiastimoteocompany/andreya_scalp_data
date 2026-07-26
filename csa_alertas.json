@@ -558671,11 +558671,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00442,
     "toques_sr": 7,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004433,
-    "pnl_pct": 0.181,
-    "duracao_min": 4.3,
-    "data_resultado": "2026-07-26T22:19:03.636379+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.004423,
+    "pnl_pct": 0.068,
+    "duracao_min": 13.3,
+    "data_resultado": "2026-07-26T22:28:02.201558+00:00"
   },
   {
     "page_id": "3a9a5230-de72-817b-bd57-f2f2a5e8389f",
