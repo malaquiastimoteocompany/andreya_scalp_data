@@ -553509,7 +553509,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.08265,
+    "pnl_pct": 0.953,
+    "duracao_min": 73.9,
+    "data_resultado": "2026-07-26T19:43:18.237365+00:00"
   },
   {
     "page_id": "3a9a5230-de72-811b-92cf-d1839f6625cd",
