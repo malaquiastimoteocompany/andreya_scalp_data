@@ -526433,11 +526433,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04481,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04448,
-    "pnl_pct": 0.291,
-    "duracao_min": 121.0,
-    "data_resultado": "2026-07-26T02:05:41.972203+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04454,
+    "pnl_pct": 0.224,
+    "duracao_min": 123.0,
+    "data_resultado": "2026-07-26T02:07:42.020501+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81fc-aafa-ed3f4f4f3918",
