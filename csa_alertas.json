@@ -536629,11 +536629,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.6869,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.6823,
-    "pnl_pct": 0.205,
-    "duracao_min": 48.4,
-    "data_resultado": "2026-07-26T07:43:23.510932+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.6812,
+    "pnl_pct": 0.285,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-26T08:55:05.101577+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81af-9e65-c1a1e8035912",
