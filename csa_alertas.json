@@ -531709,7 +531709,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.71246667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.7203,
+    "pnl_pct": -0.685,
+    "duracao_min": 49.1,
+    "data_resultado": "2026-07-26T04:36:03.919415+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8168-8bf2-ed9fb16fbd8f",
