@@ -548929,7 +548929,11 @@
     "estado_cfi": "E1",
     "zona_sr": 47.29666667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 47.53,
+    "pnl_pct": -0.742,
+    "duracao_min": 36.9,
+    "data_resultado": "2026-07-26T15:56:28.389387+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81ad-9857-ee5ff3d77536",
