@@ -558337,11 +558337,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.127425,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.12874,
-    "pnl_pct": 1.274,
-    "duracao_min": 73.9,
-    "data_resultado": "2026-07-26T23:20:54.951201+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.12675,
+    "pnl_pct": 0.492,
+    "duracao_min": 90.1,
+    "data_resultado": "2026-07-26T23:37:05.352883+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81aa-817b-cd721cbcecc2",
