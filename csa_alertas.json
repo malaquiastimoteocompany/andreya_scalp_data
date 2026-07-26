@@ -539947,11 +539947,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0035562,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.003557,
-    "pnl_pct": 0.339,
-    "duracao_min": 77.0,
-    "data_resultado": "2026-07-26T10:29:31.928121+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.003561,
+    "pnl_pct": 0.395,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-26T11:13:17.934040+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8154-90ed-f38b8cabbb2c",
