@@ -534703,11 +534703,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05584,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05568,
-    "pnl_pct": 0.198,
-    "duracao_min": 77.2,
-    "data_resultado": "2026-07-26T07:02:11.877197+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.05553,
+    "pnl_pct": 0.063,
+    "duracao_min": 83.5,
+    "data_resultado": "2026-07-26T07:08:30.732422+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8137-837f-e249210310d4",
