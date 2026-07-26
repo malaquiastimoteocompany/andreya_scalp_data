@@ -535875,11 +535875,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.6296,
     "toques_sr": 8,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.6267,
-    "pnl_pct": 0.127,
-    "duracao_min": 40.5,
-    "data_resultado": "2026-07-26T07:00:42.789686+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.6278,
+    "pnl_pct": 0.04,
+    "duracao_min": 112.8,
+    "data_resultado": "2026-07-26T08:12:58.609668+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8191-b461-cb9aefa8ef3b",
