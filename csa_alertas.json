@@ -524723,7 +524723,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04538176,
     "toques_sr": 17,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.04556,
+    "pnl_pct": -0.22,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-26T00:27:24.485228+00:00"
   },
   {
     "page_id": "3a8a5230-de72-81c0-8440-e1659ff893f7",
