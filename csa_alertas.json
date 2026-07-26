@@ -530689,7 +530689,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 5.526e-06,
+    "pnl_pct": -3.97,
+    "duracao_min": 121.4,
+    "data_resultado": "2026-07-26T05:08:18.247978+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8156-9ba5-daa729c1f183",
