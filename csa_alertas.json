@@ -553559,11 +553559,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0067212,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00681,
-    "pnl_pct": 1.219,
-    "duracao_min": 4.5,
-    "data_resultado": "2026-07-26T18:38:56.783926+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.006723,
+    "pnl_pct": 0.572,
+    "duracao_min": 53.5,
+    "data_resultado": "2026-07-26T19:27:56.338870+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81aa-9e8c-d2bbaa605036",
