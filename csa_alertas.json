@@ -554537,11 +554537,11 @@
     "estado_cfi": "E1",
     "zona_sr": 198.01666667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 197.0,
-    "pnl_pct": 0.294,
-    "duracao_min": 71.6,
-    "data_resultado": "2026-07-26T20:31:10.110338+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 197.02,
+    "pnl_pct": 0.288,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-26T21:20:34.359705+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81b2-8e68-d17a73949b0d",
