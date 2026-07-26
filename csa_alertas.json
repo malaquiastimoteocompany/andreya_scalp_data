@@ -556273,11 +556273,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00054913,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0005549,
-    "pnl_pct": 0.58,
-    "duracao_min": 88.7,
-    "data_resultado": "2026-07-26T22:15:38.109223+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.0005556,
+    "pnl_pct": 0.643,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-26T22:47:03.418344+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8160-9252-d3a305fd4a46",
