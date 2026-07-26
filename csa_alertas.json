@@ -528323,7 +528323,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0035562,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.003524,
+    "pnl_pct": -0.928,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-26T03:30:00.302437+00:00"
   },
   {
     "page_id": "3a9a5230-de72-818f-8db0-da5de127c20e",
