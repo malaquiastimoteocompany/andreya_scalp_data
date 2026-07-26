@@ -527055,11 +527055,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.061205,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06156,
-    "pnl_pct": 0.424,
-    "duracao_min": 29.3,
-    "data_resultado": "2026-07-26T01:06:31.969037+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06126,
+    "pnl_pct": 0.179,
+    "duracao_min": 33.5,
+    "data_resultado": "2026-07-26T01:10:44.683772+00:00"
   },
   {
     "page_id": "3a9a5230-de72-811f-8344-fe99da41c157",
