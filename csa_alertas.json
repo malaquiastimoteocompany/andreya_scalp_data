@@ -544725,11 +544725,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2036,
     "toques_sr": 7,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2032,
-    "pnl_pct": 0.392,
-    "duracao_min": 44.3,
-    "data_resultado": "2026-07-26T13:16:12.692905+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.204,
+    "pnl_pct": 0.196,
+    "duracao_min": 65.8,
+    "data_resultado": "2026-07-26T13:37:44.386579+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8140-bf7c-ee9ee4a32ee3",
