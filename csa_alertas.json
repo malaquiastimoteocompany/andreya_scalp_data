@@ -540573,7 +540573,11 @@
     "estado_cfi": "E1",
     "zona_sr": 8.40933333,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 8.431,
+    "pnl_pct": -0.083,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-26T11:43:03.733378+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8177-9d7e-f21609accff9",
