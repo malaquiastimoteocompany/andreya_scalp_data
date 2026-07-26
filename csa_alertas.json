@@ -552347,11 +552347,11 @@
     "estado_cfi": "E1",
     "zona_sr": 59.383,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 59.001,
-    "pnl_pct": 0.259,
-    "duracao_min": 90.9,
-    "data_resultado": "2026-07-26T18:58:21.004234+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 58.845,
+    "pnl_pct": 0.391,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-26T19:27:34.780420+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81f7-825c-dc577c4429c9",
