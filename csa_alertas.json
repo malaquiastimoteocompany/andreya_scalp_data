@@ -542253,7 +542253,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06825167,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.06821,
+    "pnl_pct": 0.206,
+    "duracao_min": 117.9,
+    "data_resultado": "2026-07-26T12:50:06.506802+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81c2-9fdb-cee26da77722",
