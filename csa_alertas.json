@@ -542669,11 +542669,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07644625,
     "toques_sr": 8,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07658,
-    "pnl_pct": 0.157,
-    "duracao_min": 18.8,
-    "data_resultado": "2026-07-26T11:31:04.941643+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.07676,
+    "pnl_pct": 0.275,
+    "duracao_min": 76.8,
+    "data_resultado": "2026-07-26T12:29:03.354842+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8122-848e-d75320242f10",
