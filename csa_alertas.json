@@ -569415,11 +569415,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 146.86,
-    "pnl_pct": 0.636,
-    "duracao_min": 30.7,
-    "data_resultado": "2026-07-27T05:50:07.983911+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 147.87,
+    "pnl_pct": 0.294,
+    "duracao_min": 57.8,
+    "data_resultado": "2026-07-27T06:17:13.933546+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8157-879b-fd4438ced4d3",
