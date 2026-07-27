@@ -589463,7 +589463,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.38366,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.378,
+    "pnl_pct": -1.073,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-27T18:54:00.015088+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81de-8d40-cbac7fc9c608",
