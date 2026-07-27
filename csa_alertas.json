@@ -562083,7 +562083,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 100.42,
+    "pnl_pct": 0.486,
+    "duracao_min": 41.3,
+    "data_resultado": "2026-07-27T01:11:00.238005+00:00"
   },
   {
     "page_id": "3aaa5230-de72-817b-bf59-e30b04d22068",
