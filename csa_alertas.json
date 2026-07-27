@@ -588193,11 +588193,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06845,
-    "pnl_pct": 0.484,
-    "duracao_min": 14.3,
-    "data_resultado": "2026-07-27T16:24:23.931001+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.06864,
+    "pnl_pct": 0.624,
+    "duracao_min": 60.6,
+    "data_resultado": "2026-07-27T17:10:44.559533+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8113-ab2e-c1d162a134bb",
