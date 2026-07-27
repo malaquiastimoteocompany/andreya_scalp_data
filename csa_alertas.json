@@ -565923,11 +565923,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.8167375,
     "toques_sr": 8,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.8186,
-    "pnl_pct": 0.269,
-    "duracao_min": 32.4,
-    "data_resultado": "2026-07-27T03:24:21.918984+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.8164,
+    "pnl_pct": 0.135,
+    "duracao_min": 64.1,
+    "data_resultado": "2026-07-27T03:56:03.365689+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81a4-a293-fcc0dcbaaf4c",
