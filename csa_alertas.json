@@ -588999,11 +588999,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07986,
-    "pnl_pct": 0.516,
-    "duracao_min": 55.5,
-    "data_resultado": "2026-07-27T17:35:39.778952+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07945,
+    "pnl_pct": 0.258,
+    "duracao_min": 95.5,
+    "data_resultado": "2026-07-27T18:15:36.780159+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81a0-9193-e24b173af923",
