@@ -570719,11 +570719,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.7355,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 6.7,
-    "pnl_pct": 0.194,
-    "duracao_min": 19.0,
-    "data_resultado": "2026-07-27T06:23:30.833151+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 6.676,
+    "pnl_pct": 0.372,
+    "duracao_min": 95.3,
+    "data_resultado": "2026-07-27T07:39:44.884861+00:00"
   },
   {
     "page_id": "3aaa5230-de72-811c-a2f5-d473777921c2",
