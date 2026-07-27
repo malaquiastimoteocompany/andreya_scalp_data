@@ -587647,11 +587647,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06824,
-    "pnl_pct": 0.279,
-    "duracao_min": 20.9,
-    "data_resultado": "2026-07-27T16:06:14.177610+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.06804,
+    "pnl_pct": 0.132,
+    "duracao_min": 22.7,
+    "data_resultado": "2026-07-27T16:08:05.343497+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8156-8608-fc109db6a6b9",
