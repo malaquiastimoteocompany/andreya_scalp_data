@@ -567219,11 +567219,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00054794,
     "toques_sr": 7,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0005507,
-    "pnl_pct": 0.364,
-    "duracao_min": 29.8,
-    "data_resultado": "2026-07-27T04:21:48.654069+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0005487,
+    "pnl_pct": 0.182,
+    "duracao_min": 87.0,
+    "data_resultado": "2026-07-27T05:19:00.328833+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8122-bf3b-e3f17404b62d",
