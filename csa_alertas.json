@@ -592309,11 +592309,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.08443333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 1.0923,
-    "pnl_pct": 0.432,
-    "duracao_min": 28.7,
-    "data_resultado": "2026-07-27T19:13:53.302873+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.0891,
+    "pnl_pct": 0.285,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-27T20:45:52.363985+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81e0-8b34-dd82a3911335",
