@@ -560725,11 +560725,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 147.91,
-    "pnl_pct": 0.428,
-    "duracao_min": 3.5,
-    "data_resultado": "2026-07-26T23:57:57.931506+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 149.41,
+    "pnl_pct": 0.937,
+    "duracao_min": 6.3,
+    "data_resultado": "2026-07-27T00:00:48.290005+00:00"
   },
   {
     "page_id": "3a9a5230-de72-816a-9f02-d1c0296ad9b5",
