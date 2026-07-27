@@ -584733,7 +584733,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.56833333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 1.555,
+    "pnl_pct": -1.018,
+    "duracao_min": 5.7,
+    "data_resultado": "2026-07-27T14:36:20.168339+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8181-bcc3-eb34380a9682",
