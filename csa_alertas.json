@@ -588443,7 +588443,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00604233,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.006072,
+    "pnl_pct": 0.38,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-27T18:15:25.551839+00:00"
   },
   {
     "page_id": "3aaa5230-de72-810a-a008-e4c69365a76c",
