@@ -583159,11 +583159,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 53.4,
-    "pnl_pct": 1.621,
-    "duracao_min": 3.5,
-    "data_resultado": "2026-07-27T13:58:38.459618+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 53.14,
+    "pnl_pct": 1.861,
+    "duracao_min": 5.4,
+    "data_resultado": "2026-07-27T14:00:33.062730+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81e7-b49d-ddd25addf030",
