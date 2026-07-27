@@ -562763,11 +562763,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07717375,
     "toques_sr": 8,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07763,
-    "pnl_pct": 0.155,
-    "duracao_min": 4.8,
-    "data_resultado": "2026-07-27T01:02:27.554481+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.07787,
+    "pnl_pct": 0.31,
+    "duracao_min": 48.8,
+    "data_resultado": "2026-07-27T01:46:27.754226+00:00"
   },
   {
     "page_id": "3aaa5230-de72-818d-afda-f412273b378f",
