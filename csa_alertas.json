@@ -587165,7 +587165,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 4.464,
+    "pnl_pct": 1.998,
+    "duracao_min": 29.2,
+    "data_resultado": "2026-07-27T15:54:57.515909+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8133-bf46-f6911bcaff79",
