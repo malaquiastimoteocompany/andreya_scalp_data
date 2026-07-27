@@ -585785,11 +585785,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.675,
-    "pnl_pct": 0.657,
-    "duracao_min": 63.4,
-    "data_resultado": "2026-07-27T15:45:03.268027+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.649,
+    "pnl_pct": 0.301,
+    "duracao_min": 94.0,
+    "data_resultado": "2026-07-27T16:15:40.278426+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81fe-8e90-dd391c4e569c",
