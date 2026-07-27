@@ -579950,5 +579950,31 @@
     "zona_sr": 0.005458,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aaa5230-de72-818f-b6a3-f398b5f0c264",
+    "token": "ZIL",
+    "direccao": "LONG",
+    "preco_alerta": 0.002332,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 1.714e-05,
+    "tp1": 0.002338856,
+    "tp2": 0.00234914,
+    "sl": 0.00230629,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 13140509.0,
+    "spread_pct": 0.0004289084280504821,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-27T12:24:33.653002+00:00",
+    "rsi_1h": 23.26,
+    "funding_rate": -0.0246,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
