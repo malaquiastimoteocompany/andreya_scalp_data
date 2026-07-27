@@ -573895,11 +573895,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.7168,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.7147,
-    "pnl_pct": 0.251,
-    "duracao_min": 11.2,
-    "data_resultado": "2026-07-27T08:15:38.699066+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.7166,
+    "pnl_pct": 0.119,
+    "duracao_min": 21.3,
+    "data_resultado": "2026-07-27T08:25:47.148720+00:00"
   },
   {
     "page_id": "3aaa5230-de72-812e-b8a7-eaa7c4997439",
