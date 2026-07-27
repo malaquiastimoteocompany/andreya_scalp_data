@@ -586767,11 +586767,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.002408,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.002421,
-    "pnl_pct": 0.373,
-    "duracao_min": 106.4,
-    "data_resultado": "2026-07-27T16:49:23.377340+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.002434,
+    "pnl_pct": 0.643,
+    "duracao_min": 116.7,
+    "data_resultado": "2026-07-27T16:59:42.882044+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81ae-afc1-d71b9c4f68c4",
