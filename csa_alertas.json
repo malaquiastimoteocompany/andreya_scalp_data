@@ -592325,11 +592325,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07464,
-    "pnl_pct": 0.323,
-    "duracao_min": 45.2,
-    "data_resultado": "2026-07-27T19:30:55.148305+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.07504,
+    "pnl_pct": 0.591,
+    "duracao_min": 100.6,
+    "data_resultado": "2026-07-27T20:26:17.021907+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81fc-ba02-d445fca630d5",
