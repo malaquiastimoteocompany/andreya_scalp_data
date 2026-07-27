@@ -589133,7 +589133,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.064235,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.0643,
+    "pnl_pct": -0.093,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-27T18:44:19.761021+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8178-b47a-c90a9fe488e3",
