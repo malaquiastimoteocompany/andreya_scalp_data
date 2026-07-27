@@ -562399,11 +562399,11 @@
     "estado_cfi": "E1",
     "zona_sr": 59.73225,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 59.289,
-    "pnl_pct": 0.261,
-    "duracao_min": 10.4,
-    "data_resultado": "2026-07-27T00:54:55.367992+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 59.471,
+    "pnl_pct": 0.108,
+    "duracao_min": 20.7,
+    "data_resultado": "2026-07-27T01:05:17.997232+00:00"
   },
   {
     "page_id": "3aaa5230-de72-818f-b0b0-c6c40ad72300",
