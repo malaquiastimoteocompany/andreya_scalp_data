@@ -584723,11 +584723,11 @@
     "estado_cfi": "E1",
     "zona_sr": 196.812,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 195.26,
-    "pnl_pct": 0.57,
-    "duracao_min": 5.8,
-    "data_resultado": "2026-07-27T14:36:12.311973+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 194.22,
+    "pnl_pct": 0.835,
+    "duracao_min": 10.7,
+    "data_resultado": "2026-07-27T14:41:08.026316+00:00"
   },
   {
     "page_id": "3aaa5230-de72-811b-9b4b-eea21ea39006",
