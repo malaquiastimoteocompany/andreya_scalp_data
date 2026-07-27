@@ -590779,7 +590779,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.33147,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.33637,
+    "pnl_pct": 1.024,
+    "duracao_min": 8.2,
+    "data_resultado": "2026-07-27T18:11:18.693195+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81af-b3ec-ddc4c325b32f",
