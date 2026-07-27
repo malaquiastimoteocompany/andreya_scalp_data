@@ -595725,7 +595725,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 2.712,
+    "pnl_pct": -0.623,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-27T23:11:25.241768+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8150-92c2-f40d0a392183",
