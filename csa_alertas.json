@@ -580831,11 +580831,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 100.38,
-    "pnl_pct": 0.653,
-    "duracao_min": 41.2,
-    "data_resultado": "2026-07-27T13:26:09.761276+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 101.1,
+    "pnl_pct": 0.297,
+    "duracao_min": 61.3,
+    "data_resultado": "2026-07-27T13:46:10.760561+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8177-a0b5-dc007b89abaa",
