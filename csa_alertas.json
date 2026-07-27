@@ -578937,11 +578937,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.026866,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02681,
-    "pnl_pct": 0.298,
-    "duracao_min": 57.9,
-    "data_resultado": "2026-07-27T12:32:45.576725+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.02689,
+    "pnl_pct": 0.149,
+    "duracao_min": 68.3,
+    "data_resultado": "2026-07-27T12:43:07.496984+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81e6-9dec-f7cbab217f07",
