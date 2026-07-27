@@ -564086,5 +564086,31 @@
     "zona_sr": 0.0024515,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aaa5230-de72-810a-9557-fb4954208a2f",
+    "token": "KAITO",
+    "direccao": "SHORT",
+    "preco_alerta": 1.1852,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.02961429,
+    "tp1": 1.173354284,
+    "tp2": 1.15558571,
+    "sl": 1.229621435,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 9575945.0,
+    "spread_pct": 0.0002532393533954898,
+    "oi_usd": 2109038.3279,
+    "data_alerta": "2026-07-27T01:44:48.415422+00:00",
+    "rsi_1h": 67.96,
+    "funding_rate": 0.0026,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
