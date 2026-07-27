@@ -574133,7 +574133,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.8943,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.907,
+    "pnl_pct": 1.228,
+    "duracao_min": 74.8,
+    "data_resultado": "2026-07-27T09:24:33.077041+00:00"
   },
   {
     "page_id": "3aaa5230-de72-815e-b64f-e75f9f603c85",
