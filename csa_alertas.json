@@ -564833,11 +564833,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01908,
-    "pnl_pct": 1.395,
-    "duracao_min": 9.2,
-    "data_resultado": "2026-07-27T02:16:20.390773+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.01878,
+    "pnl_pct": 2.171,
+    "duracao_min": 29.0,
+    "data_resultado": "2026-07-27T02:36:07.827222+00:00"
   },
   {
     "page_id": "3aaa5230-de72-810b-ab70-ead9def1b3d4",
