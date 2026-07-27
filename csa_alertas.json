@@ -595189,7 +595189,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.14,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 2.119,
+    "pnl_pct": -1.35,
+    "duracao_min": 115.3,
+    "data_resultado": "2026-07-27T22:43:13.919630+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8137-821c-c80bfc7abe2d",
