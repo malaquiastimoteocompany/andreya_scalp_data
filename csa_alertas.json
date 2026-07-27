@@ -595909,11 +595909,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04416333,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04395,
-    "pnl_pct": 0.34,
-    "duracao_min": 9.9,
-    "data_resultado": "2026-07-27T21:30:44.960471+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.04374,
+    "pnl_pct": 0.578,
+    "duracao_min": 41.3,
+    "data_resultado": "2026-07-27T22:02:09.091544+00:00"
   },
   {
     "page_id": "3aaa5230-de72-815e-91e0-dd3ebed5bdfd",
