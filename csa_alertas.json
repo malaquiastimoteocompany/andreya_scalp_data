@@ -590905,7 +590905,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 129.91,
+    "pnl_pct": -6.746,
+    "duracao_min": 92.9,
+    "data_resultado": "2026-07-27T19:30:31.658269+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81b0-9382-c51ec88d965b",
