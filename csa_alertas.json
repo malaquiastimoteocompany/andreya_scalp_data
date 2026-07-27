@@ -575302,5 +575302,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aaa5230-de72-8196-b0fd-fb47283a2379",
+    "token": "ONT",
+    "direccao": "LONG",
+    "preco_alerta": 0.04121,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00021143,
+    "tp1": 0.041294571999999995,
+    "tp2": 0.041421429999999995,
+    "sl": 0.040892855,
+    "componentes": "sr_zone=2/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=0/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 6120356.0,
+    "spread_pct": 0.0002426301103967745,
+    "oi_usd": 1621797.95596,
+    "data_alerta": "2026-07-27T08:57:32.673206+00:00",
+    "rsi_1h": 27.88,
+    "funding_rate": -0.0021,
+    "estado_cfi": "E1",
+    "zona_sr": 0.04126,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
