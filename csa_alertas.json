@@ -573259,7 +573259,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.1914,
+    "pnl_pct": -9.371,
+    "duracao_min": 40.2,
+    "data_resultado": "2026-07-27T08:17:08.428398+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8102-aed2-d9eff6115832",
