@@ -586279,7 +586279,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 2.781,
+    "pnl_pct": 0.323,
+    "duracao_min": 34.4,
+    "data_resultado": "2026-07-27T15:24:28.834221+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81e8-a828-ed657aabfeb6",
