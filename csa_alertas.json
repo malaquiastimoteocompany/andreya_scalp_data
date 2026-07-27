@@ -566229,7 +566229,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.180422,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.18181,
+    "pnl_pct": 0.326,
+    "duracao_min": 41.0,
+    "data_resultado": "2026-07-27T03:53:18.657478+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8176-bc48-c9c0a381e393",
