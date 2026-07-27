@@ -564757,11 +564757,11 @@
     "estado_cfi": "E1",
     "zona_sr": 59.45,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 59.415,
-    "pnl_pct": 0.279,
-    "duracao_min": 8.9,
-    "data_resultado": "2026-07-27T02:13:32.561721+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 59.633,
+    "pnl_pct": 0.096,
+    "duracao_min": 38.2,
+    "data_resultado": "2026-07-27T02:42:49.895892+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8152-93a1-ecb67cc524d1",
