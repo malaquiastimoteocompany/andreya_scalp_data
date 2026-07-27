@@ -585531,11 +585531,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002086,
-    "pnl_pct": 0.997,
-    "duracao_min": 5.5,
-    "data_resultado": "2026-07-27T14:45:42.966007+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.00211,
+    "pnl_pct": 0.427,
+    "duracao_min": 20.8,
+    "data_resultado": "2026-07-27T15:01:01.695051+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8123-99ee-f3550cb431bc",
