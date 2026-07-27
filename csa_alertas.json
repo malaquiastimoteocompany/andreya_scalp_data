@@ -580889,7 +580889,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2129,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.2103,
+    "pnl_pct": 0.942,
+    "duracao_min": 98.2,
+    "data_resultado": "2026-07-27T14:23:30.279887+00:00"
   },
   {
     "page_id": "3aaa5230-de72-814a-b5ec-db1c943d914c",
