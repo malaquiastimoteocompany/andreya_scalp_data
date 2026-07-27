@@ -587213,7 +587213,11 @@
     "estado_cfi": "E1",
     "zona_sr": 57.8715,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 57.751,
+    "pnl_pct": -0.438,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-27T17:20:35.209100+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8122-ac9e-f57e2e608fa4",
