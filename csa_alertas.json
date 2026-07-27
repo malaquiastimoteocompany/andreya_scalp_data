@@ -572660,5 +572660,31 @@
     "zona_sr": 0.0026785,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aaa5230-de72-8168-8384-fc30f8a80f80",
+    "token": "TAC",
+    "direccao": "LONG",
+    "preco_alerta": 0.003229,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 7.986e-05,
+    "tp1": 0.003260944,
+    "tp2": 0.0033088600000000003,
+    "sl": 0.0031092100000000003,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 10196830.0,
+    "spread_pct": 0.0009300883583940364,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-27T07:19:39.557258+00:00",
+    "rsi_1h": 34.34,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
