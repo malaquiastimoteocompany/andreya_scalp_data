@@ -564207,7 +564207,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.87766667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 3.904,
+    "pnl_pct": -0.774,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-27T03:42:34.457963+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81db-90dc-f5a2aa53c396",
