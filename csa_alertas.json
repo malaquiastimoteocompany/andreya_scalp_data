@@ -598157,7 +598157,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.0434,
+    "pnl_pct": 0.868,
+    "duracao_min": 2.6,
+    "data_resultado": "2026-07-27T22:53:17.285050+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8134-aa6a-d8d8b26adba0",
