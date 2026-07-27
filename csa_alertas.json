@@ -578693,11 +578693,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.62196667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.6208,
-    "pnl_pct": 0.433,
-    "duracao_min": 49.5,
-    "data_resultado": "2026-07-27T12:14:04.203109+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.6184,
+    "pnl_pct": 0.626,
+    "duracao_min": 67.9,
+    "data_resultado": "2026-07-27T12:32:25.046254+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8198-af25-eae7c9d982f9",
