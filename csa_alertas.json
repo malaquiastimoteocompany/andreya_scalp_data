@@ -567769,7 +567769,11 @@
     "estado_cfi": "E1",
     "zona_sr": 47.365,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 47.39,
+    "pnl_pct": -0.084,
+    "duracao_min": 122.1,
+    "data_resultado": "2026-07-27T06:19:36.888606+00:00"
   },
   {
     "page_id": "3aaa5230-de72-819d-8f55-dd3742c38569",
