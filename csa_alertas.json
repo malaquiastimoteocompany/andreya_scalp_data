@@ -595848,5 +595848,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aaa5230-de72-8168-a4e8-e27d3c9e5177",
+    "token": "BULLA",
+    "direccao": "SHORT",
+    "preco_alerta": 0.01371,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00052471,
+    "tp1": 0.013500116,
+    "tp2": 0.01318529,
+    "sl": 0.014497065,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 6155459.0,
+    "spread_pct": 0.0002186828005976988,
+    "oi_usd": 532909.59696,
+    "data_alerta": "2026-07-27T21:21:01.949989+00:00",
+    "rsi_1h": 76.07,
+    "funding_rate": 0.071,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
