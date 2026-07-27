@@ -593419,7 +593419,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.008548,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.008586,
+    "pnl_pct": -0.362,
+    "duracao_min": 121.4,
+    "data_resultado": "2026-07-27T21:32:00.601588+00:00"
   },
   {
     "page_id": "3aaa5230-de72-811f-97e4-ec059a41f90d",
