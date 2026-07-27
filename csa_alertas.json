@@ -567419,7 +567419,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04535,
     "toques_sr": 13,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.04522,
+    "pnl_pct": -0.375,
+    "duracao_min": 94.5,
+    "data_resultado": "2026-07-27T05:39:06.265189+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8194-acbb-cb2e7fd27cfa",
