@@ -562111,7 +562111,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06379,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.06372,
+    "pnl_pct": 0.331,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-27T02:28:01.506474+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8180-ad79-ed1ee034d722",
