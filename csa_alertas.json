@@ -566185,11 +566185,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07755,
-    "pnl_pct": 0.206,
-    "duracao_min": 5.9,
-    "data_resultado": "2026-07-27T03:11:11.382409+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07775,
+    "pnl_pct": 0.077,
+    "duracao_min": 91.2,
+    "data_resultado": "2026-07-27T04:36:33.283584+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81fe-aa81-ef864c3e4c0a",
