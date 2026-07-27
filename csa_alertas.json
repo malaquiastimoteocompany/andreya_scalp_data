@@ -570081,11 +570081,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06421,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06448,
-    "pnl_pct": 0.703,
-    "duracao_min": 10.0,
-    "data_resultado": "2026-07-27T05:54:40.932899+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.06474,
+    "pnl_pct": 0.906,
+    "duracao_min": 20.7,
+    "data_resultado": "2026-07-27T06:05:26.224384+00:00"
   },
   {
     "page_id": "3aaa5230-de72-810e-86ff-ef2355f20bc2",
