@@ -589163,7 +589163,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 51.52,
+    "pnl_pct": -0.464,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-27T18:44:28.042084+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81bb-affd-e0ef4d95ebb7",
