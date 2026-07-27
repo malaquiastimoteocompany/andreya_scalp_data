@@ -575891,11 +575891,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 6.624,
-    "pnl_pct": 0.348,
-    "duracao_min": 33.5,
-    "data_resultado": "2026-07-27T09:50:37.123416+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 6.647,
+    "pnl_pct": 0.523,
+    "duracao_min": 70.5,
+    "data_resultado": "2026-07-27T10:27:37.301213+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81a3-8269-fdf5475da693",
