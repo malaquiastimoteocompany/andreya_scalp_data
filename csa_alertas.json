@@ -594873,7 +594873,11 @@
     "estado_cfi": "E1",
     "zona_sr": 192.04333333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 192.06,
+    "pnl_pct": 0.446,
+    "duracao_min": 47.6,
+    "data_resultado": "2026-07-27T21:30:16.442799+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81a8-b0cf-f7370f784a4d",
