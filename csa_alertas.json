@@ -593052,5 +593052,31 @@
     "zona_sr": 46.56,
     "toques_sr": 7,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aaa5230-de72-81cf-87fe-c5313a51030e",
+    "token": "NEWT",
+    "direccao": "LONG",
+    "preco_alerta": 0.04182,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": false,
+    "atr_1h": 0.000755,
+    "tp1": 0.042122,
+    "tp2": 0.042575,
+    "sl": 0.0406875,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 5530473.0,
+    "spread_pct": 0.00023914863087416143,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-27T19:25:36.720199+00:00",
+    "rsi_1h": 32.87,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
