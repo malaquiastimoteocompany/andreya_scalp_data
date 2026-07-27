@@ -597513,7 +597513,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03018,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.0299,
+    "pnl_pct": 0.598,
+    "duracao_min": 4.0,
+    "data_resultado": "2026-07-27T22:41:41.131194+00:00"
   },
   {
     "page_id": "3aaa5230-de72-817d-a706-f6b95b5cc4cc",
