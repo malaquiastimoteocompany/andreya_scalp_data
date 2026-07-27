@@ -588953,11 +588953,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.161,
     "toques_sr": 7,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.151,
-    "pnl_pct": 0.324,
-    "duracao_min": 103.7,
-    "data_resultado": "2026-07-27T18:21:19.244112+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 2.149,
+    "pnl_pct": 0.371,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-27T18:38:33.934402+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8154-b734-d3e36eb94435",
