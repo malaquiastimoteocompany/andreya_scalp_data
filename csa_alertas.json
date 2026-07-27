@@ -574889,11 +574889,11 @@
     "estado_cfi": "E1",
     "zona_sr": 196.958,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 196.67,
-    "pnl_pct": 0.329,
-    "duracao_min": 32.0,
-    "data_resultado": "2026-07-27T09:06:35.682151+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 197.38,
+    "pnl_pct": 0.15,
+    "duracao_min": 60.9,
+    "data_resultado": "2026-07-27T09:35:28.001636+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81a5-8018-dd0ff6d48f2e",
