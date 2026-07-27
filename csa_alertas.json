@@ -566849,11 +566849,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.62947778,
     "toques_sr": 9,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.6275,
-    "pnl_pct": 0.159,
-    "duracao_min": 50.5,
-    "data_resultado": "2026-07-27T04:27:59.252335+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.6286,
+    "pnl_pct": 0.072,
+    "duracao_min": 93.5,
+    "data_resultado": "2026-07-27T05:10:59.251037+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81ad-8792-c713bccbe57c",
