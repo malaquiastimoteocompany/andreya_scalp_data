@@ -576681,11 +576681,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.583,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.583,
-    "pnl_pct": 0.19,
-    "duracao_min": 53.2,
-    "data_resultado": "2026-07-27T10:40:42.396047+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.58,
+    "pnl_pct": 0.095,
+    "duracao_min": 73.5,
+    "data_resultado": "2026-07-27T11:00:56.590064+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8181-9b82-d7c1945b3ba9",
