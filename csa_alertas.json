@@ -578553,11 +578553,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0038125,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.003836,
-    "pnl_pct": 0.366,
-    "duracao_min": 60.2,
-    "data_resultado": "2026-07-27T12:17:16.908737+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.003822,
+    "pnl_pct": 0.183,
+    "duracao_min": 64.0,
+    "data_resultado": "2026-07-27T12:21:03.006866+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81bd-a05c-ef83cf7c5a0c",
