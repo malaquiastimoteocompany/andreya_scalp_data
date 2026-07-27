@@ -598955,11 +598955,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0684,
-    "pnl_pct": 0.455,
-    "duracao_min": 1.5,
-    "data_resultado": "2026-07-27T23:07:02.220626+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06808,
+    "pnl_pct": 0.22,
+    "duracao_min": 37.2,
+    "data_resultado": "2026-07-27T23:42:44.547304+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81a7-a412-cdba35ded1ee",
