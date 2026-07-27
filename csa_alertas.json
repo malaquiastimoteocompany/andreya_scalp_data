@@ -562825,11 +562825,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.003558,
     "toques_sr": 7,
-    "resultado": "TP Hit",
-    "preco_saida": 0.003587,
-    "pnl_pct": 0.336,
-    "duracao_min": 1.1,
-    "data_resultado": "2026-07-27T01:03:57.595298+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.003571,
+    "pnl_pct": 0.112,
+    "duracao_min": 8.4,
+    "data_resultado": "2026-07-27T01:11:18.771448+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8109-b6a8-c4648690c780",
