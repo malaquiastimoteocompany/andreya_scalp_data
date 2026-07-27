@@ -562165,11 +562165,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.1572,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.163,
-    "pnl_pct": 0.497,
-    "duracao_min": 56.7,
-    "data_resultado": "2026-07-27T01:26:55.308214+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.1774,
+    "pnl_pct": 0.832,
+    "duracao_min": 80.8,
+    "data_resultado": "2026-07-27T01:51:01.799452+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8148-b123-fff918424741",
