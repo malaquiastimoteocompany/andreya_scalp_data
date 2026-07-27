@@ -576472,5 +576472,31 @@
     "zona_sr": 0.0045305,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aaa5230-de72-813a-b8b9-e24e6c192f1f",
+    "token": "DIA",
+    "direccao": "SHORT",
+    "preco_alerta": 0.1978,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.01260714,
+    "tp1": 0.192757144,
+    "tp2": 0.18519286000000001,
+    "sl": 0.21671071,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 67025122.0,
+    "spread_pct": 0.0005051780752716177,
+    "oi_usd": 873598.768,
+    "data_alerta": "2026-07-27T09:46:55.452378+00:00",
+    "rsi_1h": 82.83,
+    "funding_rate": -0.0111,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
