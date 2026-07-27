@@ -559129,7 +559129,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.87766667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 3.865,
+    "pnl_pct": 0.668,
+    "duracao_min": 100.1,
+    "data_resultado": "2026-07-27T00:07:03.348265+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8143-9da9-dc31156cd85f",
