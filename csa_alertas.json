@@ -578365,11 +578365,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.86966667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 3.868,
-    "pnl_pct": 0.412,
-    "duracao_min": 12.2,
-    "data_resultado": "2026-07-27T11:21:39.411840+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.842,
+    "pnl_pct": 0.747,
+    "duracao_min": 66.3,
+    "data_resultado": "2026-07-27T12:15:48.304357+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81ff-85c3-c4d035831c15",
