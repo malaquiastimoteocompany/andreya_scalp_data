@@ -576989,7 +576989,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.002126,
+    "pnl_pct": -3.758,
+    "duracao_min": 31.3,
+    "data_resultado": "2026-07-27T10:40:52.015762+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8108-bef9-fcb43aa17abe",
