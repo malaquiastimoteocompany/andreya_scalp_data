@@ -595105,11 +595105,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.34807,
-    "pnl_pct": 1.422,
-    "duracao_min": 7.4,
-    "data_resultado": "2026-07-27T21:00:09.944624+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.34193,
+    "pnl_pct": 2.291,
+    "duracao_min": 18.0,
+    "data_resultado": "2026-07-27T21:10:46.540794+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81a8-ba7a-cb1779b8005d",
