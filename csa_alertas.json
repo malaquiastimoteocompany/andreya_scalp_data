@@ -584525,11 +584525,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0053548,
     "toques_sr": 10,
-    "resultado": "TP Hit",
-    "preco_saida": 0.005278,
-    "pnl_pct": 1.401,
-    "duracao_min": 7.7,
-    "data_resultado": "2026-07-27T14:35:42.057552+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.005264,
+    "pnl_pct": 1.532,
+    "duracao_min": 11.0,
+    "data_resultado": "2026-07-27T14:39:02.210783+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8120-979b-c5f121ae752b",
