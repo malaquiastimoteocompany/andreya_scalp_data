@@ -564327,11 +564327,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.168,
-    "pnl_pct": 1.451,
-    "duracao_min": 82.3,
-    "data_resultado": "2026-07-27T03:07:15.761779+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.177,
+    "pnl_pct": 1.072,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-27T03:45:49.930350+00:00"
   },
   {
     "page_id": "3aaa5230-de72-818d-b386-ff71e63100df",
