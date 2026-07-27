@@ -561161,11 +561161,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.327375,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.33203,
-    "pnl_pct": 1.096,
-    "duracao_min": 76.6,
-    "data_resultado": "2026-07-27T01:21:06.105210+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.32743,
+    "pnl_pct": 0.396,
+    "duracao_min": 80.8,
+    "data_resultado": "2026-07-27T01:25:19.494428+00:00"
   },
   {
     "page_id": "3aaa5230-de72-813a-a190-f3b92ae29fd9",
