@@ -561911,7 +561911,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 1.823,
+    "pnl_pct": 0.654,
+    "duracao_min": 76.5,
+    "data_resultado": "2026-07-27T01:36:31.785794+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8136-a018-e65b280c96b0",
