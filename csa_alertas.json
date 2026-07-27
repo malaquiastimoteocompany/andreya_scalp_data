@@ -574713,7 +574713,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.063818,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.06418,
+    "pnl_pct": 0.438,
+    "duracao_min": 67.0,
+    "data_resultado": "2026-07-27T09:37:16.065158+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81b9-a199-cc4c3983a2e3",
