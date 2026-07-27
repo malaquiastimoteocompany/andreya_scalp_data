@@ -591979,11 +591979,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.4405,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.45,
-    "pnl_pct": 0.416,
-    "duracao_min": 56.0,
-    "data_resultado": "2026-07-27T19:34:22.372475+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.449,
+    "pnl_pct": 0.381,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-27T20:38:53.705487+00:00"
   },
   {
     "page_id": "3aaa5230-de72-812b-bf41-e845108c97bc",
