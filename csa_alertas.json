@@ -595899,11 +595899,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.62451111,
     "toques_sr": 9,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.6239,
-    "pnl_pct": 0.192,
-    "duracao_min": 43.8,
-    "data_resultado": "2026-07-27T22:01:53.888976+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.621,
+    "pnl_pct": 0.424,
+    "duracao_min": 86.6,
+    "data_resultado": "2026-07-27T22:44:38.482146+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8163-a869-d3e8a4da4dbe",
