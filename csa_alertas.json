@@ -565165,11 +565165,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0035034,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00348,
-    "pnl_pct": 0.798,
-    "duracao_min": 10.7,
-    "data_resultado": "2026-07-27T02:25:34.729662+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.003519,
+    "pnl_pct": 0.242,
+    "duracao_min": 40.4,
+    "data_resultado": "2026-07-27T02:55:19.785897+00:00"
   },
   {
     "page_id": "3aaa5230-de72-818b-9013-f7fe24009c31",
