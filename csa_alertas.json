@@ -591499,11 +591499,11 @@
     "estado_cfi": "E1",
     "zona_sr": 483.89,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 488.86,
-    "pnl_pct": 0.707,
-    "duracao_min": 75.9,
-    "data_resultado": "2026-07-27T19:34:03.268690+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 487.87,
+    "pnl_pct": 0.605,
+    "duracao_min": 121.4,
+    "data_resultado": "2026-07-27T20:19:31.364671+00:00"
   },
   {
     "page_id": "3aaa5230-de72-812c-9ae0-f83ea7f53078",
