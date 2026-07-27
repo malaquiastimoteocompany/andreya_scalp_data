@@ -598187,7 +598187,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.063818,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.06321,
+    "pnl_pct": 0.519,
+    "duracao_min": 2.5,
+    "data_resultado": "2026-07-27T22:53:26.597935+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81f3-b585-eaae93955500",
