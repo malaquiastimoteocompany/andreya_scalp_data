@@ -574749,7 +574749,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04126,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.04116,
+    "pnl_pct": -0.724,
+    "duracao_min": 20.5,
+    "data_resultado": "2026-07-27T08:53:15.381777+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8187-ab50-f47efbf48696",
