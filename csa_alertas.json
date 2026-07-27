@@ -588169,11 +588169,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 119.19,
-    "pnl_pct": 1.772,
-    "duracao_min": 70.2,
-    "data_resultado": "2026-07-27T17:17:43.388274+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 121.65,
+    "pnl_pct": 0.758,
+    "duracao_min": 108.0,
+    "data_resultado": "2026-07-27T17:55:31.440165+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8142-ba83-c7d74f3ef49e",
