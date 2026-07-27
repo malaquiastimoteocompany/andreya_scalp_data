@@ -585326,5 +585326,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aaa5230-de72-81b4-894e-fc8356c3d6e1",
+    "token": "QTUM",
+    "direccao": "LONG",
+    "preco_alerta": 0.64,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00728571,
+    "tp1": 0.6429142840000001,
+    "tp2": 0.64728571,
+    "sl": 0.6290714350000001,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 7776393.0,
+    "spread_pct": 0.0001563843928375776,
+    "oi_usd": 606710.3291600001,
+    "data_alerta": "2026-07-27T14:38:55.793700+00:00",
+    "rsi_1h": 13.29,
+    "funding_rate": 0.0096,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
