@@ -560645,7 +560645,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.740475,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.7383,
+    "pnl_pct": 0.484,
+    "duracao_min": 116.1,
+    "data_resultado": "2026-07-27T01:35:36.590873+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81c2-b4d9-d52e9a6149cd",
