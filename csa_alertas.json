@@ -568167,11 +568167,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.583,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.594,
-    "pnl_pct": 0.252,
-    "duracao_min": 50.7,
-    "data_resultado": "2026-07-27T05:22:52.981531+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.59,
+    "pnl_pct": 0.126,
+    "duracao_min": 68.5,
+    "data_resultado": "2026-07-27T05:40:41.792464+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8153-a2a9-f868ceec9c8a",
