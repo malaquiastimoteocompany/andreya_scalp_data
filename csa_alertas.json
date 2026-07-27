@@ -587773,7 +587773,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.08088,
+    "pnl_pct": -2.406,
+    "duracao_min": 68.2,
+    "data_resultado": "2026-07-27T16:53:17.926985+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8187-93d2-ddd12e851bd2",
