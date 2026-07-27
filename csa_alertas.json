@@ -592443,7 +592443,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.04423,
+    "pnl_pct": 0.477,
+    "duracao_min": 16.7,
+    "data_resultado": "2026-07-27T19:11:54.844866+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81f7-8bc8-f56e9bd57292",
