@@ -571255,7 +571255,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 147.2,
+    "pnl_pct": 0.594,
+    "duracao_min": 106.7,
+    "data_resultado": "2026-07-27T08:06:06.494256+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8172-8e39-e743d4968229",
