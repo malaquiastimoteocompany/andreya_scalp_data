@@ -593959,7 +593959,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.131465,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.1286,
+    "pnl_pct": -2.235,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-27T22:06:52.483791+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81bc-b048-dbcf8be88246",
