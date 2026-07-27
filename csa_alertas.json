@@ -569919,7 +569919,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.16,
+    "pnl_pct": 2.32,
+    "duracao_min": 17.4,
+    "data_resultado": "2026-07-27T05:54:33.223429+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8178-ac2e-ca6979d57120",
