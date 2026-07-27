@@ -573193,7 +573193,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1551.21166667,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 1534.22,
+    "pnl_pct": -1.011,
+    "duracao_min": 28.1,
+    "data_resultado": "2026-07-27T08:03:13.419041+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81c4-ab67-d2e3e7f8c88d",
