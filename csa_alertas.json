@@ -568215,11 +568215,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2206,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2194,
-    "pnl_pct": 0.409,
-    "duracao_min": 42.4,
-    "data_resultado": "2026-07-27T05:14:48.218036+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2212,
+    "pnl_pct": -0.0,
+    "duracao_min": 65.0,
+    "data_resultado": "2026-07-27T05:37:24.228537+00:00"
   },
   {
     "page_id": "3aaa5230-de72-816c-8304-c6590067b568",
