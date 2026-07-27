@@ -575546,5 +575546,31 @@
     "zona_sr": 0.045002,
     "toques_sr": 5,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aaa5230-de72-818c-8649-f50e8ee738c8",
+    "token": "ANTHROPIC",
+    "direccao": "LONG",
+    "preco_alerta": 1525.39,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 6.88642857,
+    "tp1": 1528.144571428,
+    "tp2": 1532.27642857,
+    "sl": 1515.0603571450001,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 5120164.0,
+    "spread_pct": 0.0008650235587856666,
+    "oi_usd": 868909.9510600001,
+    "data_alerta": "2026-07-27T09:05:05.442231+00:00",
+    "rsi_1h": 38.77,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 1526.815,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
