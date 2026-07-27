@@ -597587,7 +597587,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.1975,
+    "pnl_pct": -2.373,
+    "duracao_min": 16.2,
+    "data_resultado": "2026-07-27T22:51:37.106596+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81ec-a8a2-f0213ecc1818",
