@@ -561097,11 +561097,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.7905,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.828,
-    "pnl_pct": 0.525,
-    "duracao_min": 48.2,
-    "data_resultado": "2026-07-27T00:50:59.116768+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.807,
+    "pnl_pct": 0.249,
+    "duracao_min": 73.3,
+    "data_resultado": "2026-07-27T01:16:03.083543+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8164-a169-e1705cc24490",
