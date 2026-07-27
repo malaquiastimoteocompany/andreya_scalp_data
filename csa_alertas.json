@@ -572715,11 +572715,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.1932,
-    "pnl_pct": 0.93,
-    "duracao_min": 87.6,
-    "data_resultado": "2026-07-27T08:32:11.523958+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.1807,
+    "pnl_pct": 0.402,
+    "duracao_min": 114.6,
+    "data_resultado": "2026-07-27T08:59:09.413406+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81e8-b9c6-f82fac032110",
