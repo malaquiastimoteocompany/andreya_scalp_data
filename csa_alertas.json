@@ -572339,11 +572339,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004459,
-    "pnl_pct": 0.268,
-    "duracao_min": 100.9,
-    "data_resultado": "2026-07-27T08:35:33.463765+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004504,
+    "pnl_pct": -0.235,
+    "duracao_min": 107.1,
+    "data_resultado": "2026-07-27T08:41:41.182951+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81d6-a6ba-ec0db07e8995",
