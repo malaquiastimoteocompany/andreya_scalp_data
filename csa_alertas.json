@@ -572027,11 +572027,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.785,
-    "pnl_pct": 0.286,
-    "duracao_min": 38.3,
-    "data_resultado": "2026-07-27T07:22:44.241834+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.777,
+    "pnl_pct": 0.43,
+    "duracao_min": 96.4,
+    "data_resultado": "2026-07-27T08:20:53.549613+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8114-9e39-d4d9d951649d",
