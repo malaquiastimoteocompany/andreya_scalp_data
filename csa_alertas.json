@@ -570423,7 +570423,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1825,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.1808,
+    "pnl_pct": 0.605,
+    "duracao_min": 18.1,
+    "data_resultado": "2026-07-27T06:17:56.703701+00:00"
   },
   {
     "page_id": "3aaa5230-de72-810c-9b32-c487169d6330",
