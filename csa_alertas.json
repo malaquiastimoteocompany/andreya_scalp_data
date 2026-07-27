@@ -565122,5 +565122,31 @@
     "pnl_pct": 0.231,
     "duracao_min": 3.8,
     "data_resultado": "2026-07-27T02:21:02.095980+00:00"
+  },
+  {
+    "page_id": "3aaa5230-de72-8180-8fec-e94c4484cca0",
+    "token": "CHZ",
+    "direccao": "LONG",
+    "preco_alerta": 0.01419,
+    "score": 6,
+    "setup": "C",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 7.929e-05,
+    "tp1": 0.014221715999999999,
+    "tp2": 0.014269289999999999,
+    "sl": 0.014071064999999999,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 35191893.0,
+    "spread_pct": 0.0007044734061290122,
+    "oi_usd": 1778010.9590099999,
+    "data_alerta": "2026-07-27T02:24:22.262589+00:00",
+    "rsi_1h": 55.31,
+    "funding_rate": -0.0023,
+    "estado_cfi": "E1",
+    "zona_sr": 0.014185,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
