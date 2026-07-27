@@ -562651,11 +562651,11 @@
     "estado_cfi": "E1",
     "zona_sr": 198.01666667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 197.73,
-    "pnl_pct": 0.313,
-    "duracao_min": 24.4,
-    "data_resultado": "2026-07-27T01:16:37.219730+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 198.51,
+    "pnl_pct": 0.116,
+    "duracao_min": 55.8,
+    "data_resultado": "2026-07-27T01:48:02.677552+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8131-8eb7-f73b27b58ac0",
