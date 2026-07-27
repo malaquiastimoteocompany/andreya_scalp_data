@@ -561065,11 +561065,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.21023333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2105,
-    "pnl_pct": 0.429,
-    "duracao_min": 115.8,
-    "data_resultado": "2026-07-27T01:58:14.595972+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.2104,
+    "pnl_pct": 0.406,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-27T02:02:57.304476+00:00"
   },
   {
     "page_id": "3aaa5230-de72-817d-bc25-fb6db44902c9",
