@@ -568405,11 +568405,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 2.824,
-    "pnl_pct": 0.213,
-    "duracao_min": 12.5,
-    "data_resultado": "2026-07-27T04:56:59.900878+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.835,
+    "pnl_pct": 0.408,
+    "duracao_min": 41.6,
+    "data_resultado": "2026-07-27T05:26:05.151201+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81ab-8a57-d50120d2a5c0",
