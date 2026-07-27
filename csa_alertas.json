@@ -560795,11 +560795,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 8.77,
-    "pnl_pct": 0.386,
-    "duracao_min": 33.6,
-    "data_resultado": "2026-07-27T00:18:13.933658+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 8.763,
+    "pnl_pct": 0.426,
+    "duracao_min": 121.5,
+    "data_resultado": "2026-07-27T01:46:08.413618+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8179-8f48-c6b9ada58d47",
