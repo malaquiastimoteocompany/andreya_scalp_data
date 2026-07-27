@@ -588507,11 +588507,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.348,
-    "pnl_pct": 0.372,
-    "duracao_min": 40.9,
-    "data_resultado": "2026-07-27T17:01:19.324501+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.354,
+    "pnl_pct": 0.596,
+    "duracao_min": 51.8,
+    "data_resultado": "2026-07-27T17:12:13.170022+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81f1-867e-e9b007695048",
