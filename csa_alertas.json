@@ -588311,11 +588311,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.327375,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.33093,
-    "pnl_pct": 1.106,
-    "duracao_min": 47.4,
-    "data_resultado": "2026-07-27T16:58:10.634290+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.33838,
+    "pnl_pct": 2.244,
+    "duracao_min": 83.1,
+    "data_resultado": "2026-07-27T17:33:52.100124+00:00"
   },
   {
     "page_id": "3aaa5230-de72-815a-847d-d954829fb437",
