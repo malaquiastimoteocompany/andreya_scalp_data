@@ -571643,11 +571643,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03129,
-    "pnl_pct": 0.319,
-    "duracao_min": 12.2,
-    "data_resultado": "2026-07-27T06:46:50.253282+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.03142,
+    "pnl_pct": 0.112,
+    "duracao_min": 53.1,
+    "data_resultado": "2026-07-27T07:27:49.794815+00:00"
   },
   {
     "page_id": "3aaa5230-de72-813a-9016-cc2923053461",
