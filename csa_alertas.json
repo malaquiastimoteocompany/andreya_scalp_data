@@ -582803,7 +582803,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00196975,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.001941,
+    "pnl_pct": -1.07,
+    "duracao_min": 27.2,
+    "data_resultado": "2026-07-27T14:12:14.326495+00:00"
   },
   {
     "page_id": "3aaa5230-de72-816c-8511-f81366bde611",
