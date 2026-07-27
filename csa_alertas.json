@@ -599116,5 +599116,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aaa5230-de72-81e6-9450-f5199ce1d5ab",
+    "token": "SKYAI",
+    "direccao": "LONG",
+    "preco_alerta": 0.02376,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00068643,
+    "tp1": 0.024034572,
+    "tp2": 0.024446429999999998,
+    "sl": 0.022730355,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 8054861.0,
+    "spread_pct": 0.000842459983150766,
+    "oi_usd": 814554.7807,
+    "data_alerta": "2026-07-27T23:06:56.683441+00:00",
+    "rsi_1h": 19.28,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
