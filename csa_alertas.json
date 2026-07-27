@@ -570525,11 +570525,11 @@
     "estado_cfi": "E1",
     "zona_sr": 200.215,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 198.6,
-    "pnl_pct": 0.336,
-    "duracao_min": 62.6,
-    "data_resultado": "2026-07-27T07:02:14.462485+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 197.74,
+    "pnl_pct": 0.552,
+    "duracao_min": 112.6,
+    "data_resultado": "2026-07-27T07:52:10.634394+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81a9-986d-e51e07ca7fd8",
