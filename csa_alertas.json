@@ -592549,7 +592549,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00439033,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.004413,
+    "pnl_pct": -0.295,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-27T20:53:02.216792+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81cd-acad-d7dabbb96c92",
