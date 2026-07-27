@@ -581025,11 +581025,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3994,
-    "pnl_pct": 0.647,
-    "duracao_min": 39.8,
-    "data_resultado": "2026-07-27T13:29:54.846026+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.3953,
+    "pnl_pct": 1.157,
+    "duracao_min": 69.9,
+    "data_resultado": "2026-07-27T14:00:02.425567+00:00"
   },
   {
     "page_id": "3aaa5230-de72-810d-82db-edd700caba52",
