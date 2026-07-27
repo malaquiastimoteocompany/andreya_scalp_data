@@ -592543,7 +592543,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 29.7,
+    "pnl_pct": 1.678,
+    "duracao_min": 33.5,
+    "data_resultado": "2026-07-27T19:31:07.999924+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81f9-baa0-d045c4046393",
