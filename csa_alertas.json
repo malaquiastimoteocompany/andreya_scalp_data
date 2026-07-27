@@ -570537,11 +570537,11 @@
     "estado_cfi": "E1",
     "zona_sr": 5.16e-06,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 5.092e-06,
-    "pnl_pct": 0.934,
-    "duracao_min": 33.7,
-    "data_resultado": "2026-07-27T06:35:37.736189+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 5.152e-06,
+    "pnl_pct": 0.35,
+    "duracao_min": 75.8,
+    "data_resultado": "2026-07-27T07:17:44.313180+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81e1-b00e-d695fd6c719e",
