@@ -561053,7 +561053,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.7905,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 3.828,
+    "pnl_pct": 0.525,
+    "duracao_min": 48.2,
+    "data_resultado": "2026-07-27T00:50:59.116768+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8164-a169-e1705cc24490",
