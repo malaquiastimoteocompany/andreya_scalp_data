@@ -566129,11 +566129,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.007065,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.006994,
-    "pnl_pct": 1.061,
-    "duracao_min": 7.2,
-    "data_resultado": "2026-07-27T03:16:46.537894+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.0071,
+    "pnl_pct": 0.311,
+    "duracao_min": 28.7,
+    "data_resultado": "2026-07-27T03:38:15.156449+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8165-8075-ddb247b7fa6c",
