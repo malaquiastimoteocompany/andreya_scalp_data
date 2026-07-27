@@ -584733,11 +584733,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 123.31,
-    "pnl_pct": 1.381,
-    "duracao_min": 21.4,
-    "data_resultado": "2026-07-27T14:51:16.761240+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 120.59,
+    "pnl_pct": 0.263,
+    "duracao_min": 44.7,
+    "data_resultado": "2026-07-27T15:14:37.204108+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8164-a33c-cdf05d848d84",
