@@ -588599,11 +588599,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.23775,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2388,
-    "pnl_pct": 0.59,
-    "duracao_min": 6.4,
-    "data_resultado": "2026-07-27T16:27:20.420468+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2373,
+    "pnl_pct": 0.274,
+    "duracao_min": 90.5,
+    "data_resultado": "2026-07-27T17:51:24.681929+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81c4-95c9-c2cbfbe350cf",
