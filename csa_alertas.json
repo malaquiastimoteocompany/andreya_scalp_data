@@ -585859,11 +585859,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.93e-06,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.9708e-06,
-    "pnl_pct": 0.9,
-    "duracao_min": 38.9,
-    "data_resultado": "2026-07-27T15:21:05.632664+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.9443e-06,
+    "pnl_pct": 0.45,
+    "duracao_min": 77.1,
+    "data_resultado": "2026-07-27T15:59:15.505287+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8147-8187-f4b46c518b21",
