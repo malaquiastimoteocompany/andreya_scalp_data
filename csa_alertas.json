@@ -563011,11 +563011,11 @@
     "estado_cfi": "E1",
     "zona_sr": 59.7634,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 59.174,
-    "pnl_pct": 0.583,
-    "duracao_min": 30.0,
-    "data_resultado": "2026-07-27T01:37:07.954129+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 59.534,
+    "pnl_pct": 0.281,
+    "duracao_min": 54.5,
+    "data_resultado": "2026-07-27T02:01:38.323640+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8194-a579-c9836cbcd157",
