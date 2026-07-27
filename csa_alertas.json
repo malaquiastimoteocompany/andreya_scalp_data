@@ -587599,11 +587599,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 197.68,
-    "pnl_pct": 0.483,
-    "duracao_min": 17.0,
-    "data_resultado": "2026-07-27T15:57:59.793247+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 198.63,
+    "pnl_pct": 0.724,
+    "duracao_min": 30.3,
+    "data_resultado": "2026-07-27T16:11:17.707284+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81d6-8cda-c4e3f63e44a2",
