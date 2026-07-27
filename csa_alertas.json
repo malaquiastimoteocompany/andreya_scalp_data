@@ -572973,11 +572973,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.14199,
-    "pnl_pct": 3.539,
-    "duracao_min": 1.0,
-    "data_resultado": "2026-07-27T07:28:09.015271+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.14764,
+    "pnl_pct": 1.62,
+    "duracao_min": 8.2,
+    "data_resultado": "2026-07-27T07:35:22.221913+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81d2-ad50-dae47cd55f95",
