@@ -579243,11 +579243,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.21015,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2091,
-    "pnl_pct": 0.286,
-    "duracao_min": 35.3,
-    "data_resultado": "2026-07-27T12:24:59.708257+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2097,
+    "pnl_pct": 0.143,
+    "duracao_min": 51.2,
+    "data_resultado": "2026-07-27T12:40:55.362690+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81ae-8111-f2cd6b474add",
