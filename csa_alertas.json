@@ -578765,11 +578765,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.131465,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.13252,
-    "pnl_pct": 0.394,
-    "duracao_min": 20.0,
-    "data_resultado": "2026-07-27T11:50:14.216010+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.13198,
+    "pnl_pct": 0.189,
+    "duracao_min": 48.9,
+    "data_resultado": "2026-07-27T12:19:08.258808+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81ef-bcbf-cae33c8dc94a",
