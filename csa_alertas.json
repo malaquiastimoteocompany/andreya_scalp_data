@@ -569137,11 +569137,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0034658,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0033845,
-    "pnl_pct": 1.964,
-    "duracao_min": 3.1,
-    "data_resultado": "2026-07-27T05:13:15.723221+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.0034552,
+    "pnl_pct": 0.94,
+    "duracao_min": 27.5,
+    "data_resultado": "2026-07-27T05:37:38.720849+00:00"
   },
   {
     "page_id": "3aaa5230-de72-810c-be30-ce09b9b7c0c0",
