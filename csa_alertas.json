@@ -578587,11 +578587,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.14105,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1386,
-    "pnl_pct": 1.841,
-    "duracao_min": 0.9,
-    "data_resultado": "2026-07-27T11:15:43.813035+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1366,
+    "pnl_pct": 2.55,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-27T13:15:53.308176+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8154-b78c-fe276ed32b14",
