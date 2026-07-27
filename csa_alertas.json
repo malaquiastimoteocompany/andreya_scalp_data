@@ -574395,11 +574395,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1853,
-    "pnl_pct": 2.679,
-    "duracao_min": 6.2,
-    "data_resultado": "2026-07-27T08:30:59.750410+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.1904,
+    "pnl_pct": 1.339,
+    "duracao_min": 9.4,
+    "data_resultado": "2026-07-27T08:34:08.251731+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81c3-bdd1-e36501fe2c29",
