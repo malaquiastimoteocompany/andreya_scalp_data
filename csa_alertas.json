@@ -587559,11 +587559,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 1.347,
-    "pnl_pct": 0.373,
-    "duracao_min": 25.6,
-    "data_resultado": "2026-07-27T16:06:06.571198+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.342,
+    "pnl_pct": 0.186,
+    "duracao_min": 37.5,
+    "data_resultado": "2026-07-27T16:17:57.137285+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8122-9e7e-fbb8af388304",
