@@ -568139,7 +568139,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.22285,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.2228,
+    "pnl_pct": 0.451,
+    "duracao_min": 97.4,
+    "data_resultado": "2026-07-27T06:07:00.514510+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8146-a263-d021a2ab4318",
