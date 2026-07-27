@@ -570645,11 +570645,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.7216,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.7175,
-    "pnl_pct": 0.264,
-    "duracao_min": 85.4,
-    "data_resultado": "2026-07-27T07:27:37.146910+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.7164,
+    "pnl_pct": 0.341,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-27T08:02:31.298393+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81e2-b64d-e6161455a01b",
