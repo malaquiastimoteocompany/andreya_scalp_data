@@ -572539,7 +572539,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.15188,
+    "pnl_pct": 1.568,
+    "duracao_min": 1.1,
+    "data_resultado": "2026-07-27T07:10:35.185105+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81e5-ad4f-de6299d0f315",
