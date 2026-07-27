@@ -587677,11 +587677,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.05439,
-    "pnl_pct": 0.351,
-    "duracao_min": 17.0,
-    "data_resultado": "2026-07-27T16:02:41.815067+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.05473,
+    "pnl_pct": 0.664,
+    "duracao_min": 24.0,
+    "data_resultado": "2026-07-27T16:09:38.408547+00:00"
   },
   {
     "page_id": "3aaa5230-de72-812c-93fc-e1dc7da8d5e5",
