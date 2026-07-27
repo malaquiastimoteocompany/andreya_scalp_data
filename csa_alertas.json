@@ -571981,7 +571981,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.6773,
+    "pnl_pct": -0.747,
+    "duracao_min": 88.6,
+    "data_resultado": "2026-07-27T08:11:24.593773+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81be-a3cd-d8cdc93176f3",
