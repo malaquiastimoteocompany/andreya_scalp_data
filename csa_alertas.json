@@ -578677,11 +578677,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00243429,
     "toques_sr": 7,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002432,
-    "pnl_pct": 0.246,
-    "duracao_min": 8.2,
-    "data_resultado": "2026-07-27T11:27:57.878092+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.002425,
+    "pnl_pct": 0.39,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-27T13:20:58.300336+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8137-bd9b-f299ad7df711",
