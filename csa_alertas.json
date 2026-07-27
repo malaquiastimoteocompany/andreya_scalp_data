@@ -588695,11 +588695,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0045305,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004516,
-    "pnl_pct": 0.638,
-    "duracao_min": 1.8,
-    "data_resultado": "2026-07-27T16:32:15.222458+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.004487,
+    "pnl_pct": 0.957,
+    "duracao_min": 23.1,
+    "data_resultado": "2026-07-27T16:53:37.323023+00:00"
   },
   {
     "page_id": "3aaa5230-de72-819d-9bf5-e2179aae7f51",
