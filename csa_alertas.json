@@ -571965,7 +571965,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00244833,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.002447,
+    "pnl_pct": 0.0,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-27T08:43:19.848627+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8199-91ab-f7fc8ee692b5",
