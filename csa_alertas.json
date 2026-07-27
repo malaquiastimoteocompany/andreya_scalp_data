@@ -568325,11 +568325,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.036625,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03697,
-    "pnl_pct": 0.599,
-    "duracao_min": 5.8,
-    "data_resultado": "2026-07-27T04:48:09.926914+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.03645,
+    "pnl_pct": -0.109,
+    "duracao_min": 32.7,
+    "data_resultado": "2026-07-27T05:15:00.976457+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81ce-b0b4-d511d670cf7d",
