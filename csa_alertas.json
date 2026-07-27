@@ -565587,11 +565587,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.127425,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.12833,
-    "pnl_pct": 1.191,
-    "duracao_min": 31.0,
-    "data_resultado": "2026-07-27T03:10:47.339670+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.12674,
+    "pnl_pct": 0.564,
+    "duracao_min": 46.0,
+    "data_resultado": "2026-07-27T03:25:44.848838+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8131-9843-f4cf842cc44d",
