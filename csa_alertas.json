@@ -567289,7 +567289,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1825,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.181,
+    "pnl_pct": 0.385,
+    "duracao_min": 4.7,
+    "data_resultado": "2026-07-27T04:09:25.496541+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81fe-8a04-f346eed575e8",
