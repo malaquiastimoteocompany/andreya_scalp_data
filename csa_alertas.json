@@ -582111,11 +582111,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06915,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06939,
-    "pnl_pct": 0.26,
-    "duracao_min": 5.9,
-    "data_resultado": "2026-07-27T13:35:25.120120+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.06966,
+    "pnl_pct": 0.455,
+    "duracao_min": 13.8,
+    "data_resultado": "2026-07-27T13:43:21.234548+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8145-855e-e2ba8bc91e37",
