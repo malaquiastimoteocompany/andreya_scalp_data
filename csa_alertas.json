@@ -576805,11 +576805,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.17093,
-    "pnl_pct": 1.815,
-    "duracao_min": 15.0,
-    "data_resultado": "2026-07-27T10:17:08.913612+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.17425,
+    "pnl_pct": 0.862,
+    "duracao_min": 21.5,
+    "data_resultado": "2026-07-27T10:23:33.649101+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81d9-9e92-f91b5f1abf30",
