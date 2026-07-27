@@ -571927,7 +571927,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04183833,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.04161,
+    "pnl_pct": -0.597,
+    "duracao_min": 71.1,
+    "data_resultado": "2026-07-27T07:53:43.254605+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8169-b887-ece25a1d3fc7",
