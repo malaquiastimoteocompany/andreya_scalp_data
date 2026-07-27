@@ -577355,7 +577355,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.81045,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "BE Hit",
+    "preco_saida": 0.811,
+    "pnl_pct": 0.148,
+    "duracao_min": 22.8,
+    "data_resultado": "2026-07-27T10:54:50.186885+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81dc-8efd-c9e6e393f094",
