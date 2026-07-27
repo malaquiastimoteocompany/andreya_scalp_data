@@ -581681,11 +581681,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04093333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04085,
-    "pnl_pct": 0.269,
-    "duracao_min": 7.1,
-    "data_resultado": "2026-07-27T13:14:43.761790+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04098,
+    "pnl_pct": 0.11,
+    "duracao_min": 30.3,
+    "data_resultado": "2026-07-27T13:37:54.302644+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8140-95c6-d9e61c580e2d",
