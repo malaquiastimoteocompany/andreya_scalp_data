@@ -575279,11 +575279,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0045305,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004494,
-    "pnl_pct": 0.377,
-    "duracao_min": 17.0,
-    "data_resultado": "2026-07-27T09:06:55.000237+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004513,
+    "pnl_pct": 0.166,
+    "duracao_min": 53.3,
+    "data_resultado": "2026-07-27T09:43:14.344050+00:00"
   },
   {
     "page_id": "3aaa5230-de72-813a-be92-eb00adffe85a",
