@@ -596183,7 +596183,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.1185,
+    "pnl_pct": -1.66,
+    "duracao_min": 76.7,
+    "data_resultado": "2026-07-27T22:44:53.837153+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81af-b3da-f96d0b3735a9",
