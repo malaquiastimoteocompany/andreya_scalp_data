@@ -587579,7 +587579,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3375,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.3378,
+    "pnl_pct": 0.476,
+    "duracao_min": 58.0,
+    "data_resultado": "2026-07-27T16:36:12.220936+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81f4-83c7-c99de3443c02",
