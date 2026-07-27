@@ -586229,11 +586229,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.043225,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04354,
-    "pnl_pct": 0.323,
-    "duracao_min": 0.7,
-    "data_resultado": "2026-07-27T14:49:58.908426+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.04337,
+    "pnl_pct": 0.127,
+    "duracao_min": 19.8,
+    "data_resultado": "2026-07-27T15:09:02.940100+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8166-90f1-f006606b8c96",
