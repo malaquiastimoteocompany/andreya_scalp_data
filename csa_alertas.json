@@ -587192,5 +587192,31 @@
     "zona_sr": 0.043225,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aaa5230-de72-8194-bac1-ea1ee082cd81",
+    "token": "POL",
+    "direccao": "LONG",
+    "preco_alerta": 0.07556,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00048929,
+    "tp1": 0.075755716,
+    "tp2": 0.07604929,
+    "sl": 0.074826065,
+    "componentes": "sr_zone=2/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 5777033.0,
+    "spread_pct": 0.00013235391436696608,
+    "oi_usd": 2177223.3054,
+    "data_alerta": "2026-07-27T15:30:57.818044+00:00",
+    "rsi_1h": 26.3,
+    "funding_rate": -0.0102,
+    "estado_cfi": "E1",
+    "zona_sr": 0.07588,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
