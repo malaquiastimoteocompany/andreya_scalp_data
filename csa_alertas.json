@@ -572079,7 +572079,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.878925,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.9078,
+    "pnl_pct": -3.077,
+    "duracao_min": 50.6,
+    "data_resultado": "2026-07-27T07:40:07.223481+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8120-aeb2-ea464ea6d766",
