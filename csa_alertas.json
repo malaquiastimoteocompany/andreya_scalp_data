@@ -589193,7 +589193,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.72235,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.7193,
+    "pnl_pct": -0.773,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-27T18:46:08.183609+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81f1-a9ce-dabed12a2cc6",
