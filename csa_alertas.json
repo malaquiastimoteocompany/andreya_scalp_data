@@ -582451,11 +582451,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02298,
-    "pnl_pct": 0.613,
-    "duracao_min": 6.0,
-    "data_resultado": "2026-07-27T13:43:35.183790+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.02281,
+    "pnl_pct": 0.241,
+    "duracao_min": 34.4,
+    "data_resultado": "2026-07-27T14:12:01.219449+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8161-a51e-f28a2e170ccb",
