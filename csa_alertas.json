@@ -597441,11 +597441,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.578,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 3.568,
-    "pnl_pct": 0.696,
-    "duracao_min": 13.1,
-    "data_resultado": "2026-07-27T22:41:17.928681+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 3.52,
+    "pnl_pct": 1.364,
+    "duracao_min": 23.2,
+    "data_resultado": "2026-07-27T22:51:22.130053+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8136-b96a-c5a2a683eed8",
