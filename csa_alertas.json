@@ -562195,11 +562195,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00055534,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0005515,
-    "pnl_pct": 0.523,
-    "duracao_min": 50.7,
-    "data_resultado": "2026-07-27T01:22:41.571673+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.000547,
+    "pnl_pct": 0.929,
+    "duracao_min": 66.7,
+    "data_resultado": "2026-07-27T01:38:40.576950+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81f4-8f69-e8ab91b2b9bc",
