@@ -582575,11 +582575,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.133625,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.13267,
-    "pnl_pct": 0.532,
-    "duracao_min": 26.7,
-    "data_resultado": "2026-07-27T14:06:59.074064+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.13199,
+    "pnl_pct": 0.787,
+    "duracao_min": 39.6,
+    "data_resultado": "2026-07-27T14:19:52.040800+00:00"
   },
   {
     "page_id": "3aaa5230-de72-819f-868f-c9dd93b5cbd0",
