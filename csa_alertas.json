@@ -597703,7 +597703,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2342,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.229,
+    "pnl_pct": -2.387,
+    "duracao_min": 10.9,
+    "data_resultado": "2026-07-27T22:51:44.105266+00:00"
   },
   {
     "page_id": "3aaa5230-de72-816c-92bb-ee811069432c",
