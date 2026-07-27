@@ -567883,7 +567883,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0294,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.02914,
+    "pnl_pct": 0.783,
+    "duracao_min": 14.4,
+    "data_resultado": "2026-07-27T04:37:04.156475+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81ef-8884-ce0cb9cf9afa",
