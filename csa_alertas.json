@@ -571395,11 +571395,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.35103333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3496,
-    "pnl_pct": 0.879,
-    "duracao_min": 79.3,
-    "data_resultado": "2026-07-27T07:41:42.147704+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.3492,
+    "pnl_pct": 0.936,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-27T08:22:31.338807+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81b7-ac8f-ce5ce9badf8b",
