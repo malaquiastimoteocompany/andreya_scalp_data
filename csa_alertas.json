@@ -578005,11 +578005,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0794,
-    "pnl_pct": 0.685,
-    "duracao_min": 67.5,
-    "data_resultado": "2026-07-27T12:04:31.739275+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07869,
+    "pnl_pct": 0.235,
+    "duracao_min": 97.9,
+    "data_resultado": "2026-07-27T12:34:59.072653+00:00"
   },
   {
     "page_id": "3aaa5230-de72-818a-adb6-dd7398b9384f",
