@@ -584893,7 +584893,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.6242,
     "toques_sr": 8,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.6248,
+    "pnl_pct": -0.418,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-27T16:31:43.088084+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81b6-9d64-e6bfe82a5d33",
