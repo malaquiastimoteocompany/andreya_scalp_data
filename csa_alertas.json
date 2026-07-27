@@ -567777,7 +567777,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.92366667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 3.893,
+    "pnl_pct": 0.587,
+    "duracao_min": 27.0,
+    "data_resultado": "2026-07-27T04:46:34.413708+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81f5-95e9-e234948a969b",
