@@ -561557,11 +561557,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07743,
-    "pnl_pct": 0.168,
-    "duracao_min": 23.1,
-    "data_resultado": "2026-07-27T00:35:57.226846+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07759,
+    "pnl_pct": 0.064,
+    "duracao_min": 36.6,
+    "data_resultado": "2026-07-27T00:49:31.377742+00:00"
   },
   {
     "page_id": "3aaa5230-de72-810e-931a-fac91ac68f0a",
