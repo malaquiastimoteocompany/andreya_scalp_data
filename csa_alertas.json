@@ -568193,7 +568193,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.68615,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.6839,
+    "pnl_pct": 0.219,
+    "duracao_min": 30.4,
+    "data_resultado": "2026-07-27T05:03:12.622862+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81fe-932b-c7a24728f58f",
