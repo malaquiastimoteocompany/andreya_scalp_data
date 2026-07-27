@@ -568941,11 +568941,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.014915,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0149,
-    "pnl_pct": 0.269,
-    "duracao_min": 6.3,
-    "data_resultado": "2026-07-27T05:11:19.791836+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01486,
+    "pnl_pct": 0.135,
+    "duracao_min": 44.9,
+    "data_resultado": "2026-07-27T05:49:58.691655+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8151-8231-ed3a8810385e",
