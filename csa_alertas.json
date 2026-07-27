@@ -562861,7 +562861,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00830962,
     "toques_sr": 8,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.008297,
+    "pnl_pct": -0.12,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-27T03:00:50.104413+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81e1-87b0-d5791aa207eb",
