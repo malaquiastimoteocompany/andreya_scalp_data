@@ -573693,11 +573693,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.1775,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 2.169,
-    "pnl_pct": 0.276,
-    "duracao_min": 17.9,
-    "data_resultado": "2026-07-27T08:09:54.244966+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 2.175,
+    "pnl_pct": 0.138,
+    "duracao_min": 27.2,
+    "data_resultado": "2026-07-27T08:19:10.427587+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8128-b0fe-e467880a3b83",
