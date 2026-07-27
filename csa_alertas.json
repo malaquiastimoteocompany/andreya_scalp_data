@@ -588349,7 +588349,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04518167,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.04516,
+    "pnl_pct": 0.155,
+    "duracao_min": 104.3,
+    "data_resultado": "2026-07-27T17:56:59.628860+00:00"
   },
   {
     "page_id": "3aaa5230-de72-814f-9f7b-dedd2cd0e5da",
