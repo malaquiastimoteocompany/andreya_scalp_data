@@ -585185,11 +585185,11 @@
     "estado_cfi": "E1",
     "zona_sr": 8.5665,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 8.57,
-    "pnl_pct": 0.453,
-    "duracao_min": 6.0,
-    "data_resultado": "2026-07-27T14:41:34.065768+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 8.616,
+    "pnl_pct": 0.186,
+    "duracao_min": 45.3,
+    "data_resultado": "2026-07-27T15:20:55.270346+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8152-baed-f8191d5de11a",
