@@ -585781,11 +585781,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01557,
-    "pnl_pct": 0.907,
-    "duracao_min": 5.9,
-    "data_resultado": "2026-07-27T14:47:55.248813+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.01513,
+    "pnl_pct": -0.518,
+    "duracao_min": 19.2,
+    "data_resultado": "2026-07-27T15:01:18.277162+00:00"
   },
   {
     "page_id": "3aaa5230-de72-817c-84e8-ed5ef54dc0db",
