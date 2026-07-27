@@ -571225,11 +571225,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07979,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08072,
-    "pnl_pct": 0.711,
-    "duracao_min": 5.9,
-    "data_resultado": "2026-07-27T06:28:05.827691+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.07992,
+    "pnl_pct": 0.212,
+    "duracao_min": 26.7,
+    "data_resultado": "2026-07-27T06:48:57.086317+00:00"
   },
   {
     "page_id": "3aaa5230-de72-814f-9898-d03759fa4d52",
