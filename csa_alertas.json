@@ -590717,11 +590717,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004611,
-    "pnl_pct": 0.305,
-    "duracao_min": 83.6,
-    "data_resultado": "2026-07-27T19:08:40.956329+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.004632,
+    "pnl_pct": 0.533,
+    "duracao_min": 90.0,
+    "data_resultado": "2026-07-27T19:15:09.249435+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8181-9ee1-da2b59b39e3e",
