@@ -573603,11 +573603,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.001986,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.001983,
-    "pnl_pct": 0.302,
-    "duracao_min": 17.8,
-    "data_resultado": "2026-07-27T08:04:50.448468+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.001977,
+    "pnl_pct": 0.452,
+    "duracao_min": 58.0,
+    "data_resultado": "2026-07-27T08:45:03.581699+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8166-a214-d1f436e6e92a",
