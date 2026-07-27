@@ -589703,11 +589703,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06391,
-    "pnl_pct": 1.601,
-    "duracao_min": 47.8,
-    "data_resultado": "2026-07-27T17:48:34.987937+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.06255,
+    "pnl_pct": 2.648,
+    "duracao_min": 119.6,
+    "data_resultado": "2026-07-27T19:00:25.836161+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81f3-bb70-d75b4341284a",
