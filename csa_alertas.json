@@ -592427,11 +592427,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1201,
-    "pnl_pct": 0.586,
-    "duracao_min": 21.1,
-    "data_resultado": "2026-07-27T19:11:46.587541+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1207,
+    "pnl_pct": 0.838,
+    "duracao_min": 70.4,
+    "data_resultado": "2026-07-27T20:01:07.021909+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8189-890c-e9908cd1700b",
