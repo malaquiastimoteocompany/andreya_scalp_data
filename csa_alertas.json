@@ -580607,11 +580607,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.6242,
     "toques_sr": 8,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.6244,
-    "pnl_pct": 0.144,
-    "duracao_min": 49.8,
-    "data_resultado": "2026-07-27T13:29:34.387303+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.6253,
+    "pnl_pct": 0.072,
+    "duracao_min": 57.2,
+    "data_resultado": "2026-07-27T13:36:56.181157+00:00"
   },
   {
     "page_id": "3aaa5230-de72-818c-acd7-df0baaa4cead",
