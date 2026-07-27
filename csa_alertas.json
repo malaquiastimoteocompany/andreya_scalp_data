@@ -581931,11 +581931,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 1.8756,
-    "pnl_pct": 2.548,
-    "duracao_min": 18.7,
-    "data_resultado": "2026-07-27T13:38:11.156587+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.8253,
+    "pnl_pct": 1.173,
+    "duracao_min": 47.0,
+    "data_resultado": "2026-07-27T14:06:33.025080+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81fd-ac29-d3e81752a48f",
