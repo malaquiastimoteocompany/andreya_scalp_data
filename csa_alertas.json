@@ -584683,11 +584683,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.86966667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 3.856,
-    "pnl_pct": 0.593,
-    "duracao_min": 6.4,
-    "data_resultado": "2026-07-27T14:36:03.953633+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 3.814,
+    "pnl_pct": 1.134,
+    "duracao_min": 15.3,
+    "data_resultado": "2026-07-27T14:45:02.590526+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8173-8830-f752675daa95",
