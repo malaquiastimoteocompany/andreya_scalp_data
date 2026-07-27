@@ -567289,11 +567289,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2152,
-    "pnl_pct": 0.555,
-    "duracao_min": 11.7,
-    "data_resultado": "2026-07-27T04:09:18.547164+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2138,
+    "pnl_pct": 0.878,
+    "duracao_min": 62.2,
+    "data_resultado": "2026-07-27T04:59:49.607771+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81f5-a347-c788e958dace",
