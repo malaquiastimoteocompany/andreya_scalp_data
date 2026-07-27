@@ -595675,11 +595675,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00532125,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00529,
-    "pnl_pct": 0.639,
-    "duracao_min": 20.2,
-    "data_resultado": "2026-07-27T21:28:25.492393+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.005202,
+    "pnl_pct": 1.465,
+    "duracao_min": 95.9,
+    "data_resultado": "2026-07-27T22:44:11.982578+00:00"
   },
   {
     "page_id": "3aaa5230-de72-815f-99a2-d62bd08d4c26",
