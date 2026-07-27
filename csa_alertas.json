@@ -570423,11 +570423,11 @@
     "estado_cfi": "E1",
     "zona_sr": 500.12333333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 505.2,
-    "pnl_pct": 0.601,
-    "duracao_min": 13.7,
-    "data_resultado": "2026-07-27T06:08:14.702460+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 501.86,
+    "pnl_pct": 0.269,
+    "duracao_min": 103.5,
+    "data_resultado": "2026-07-27T07:38:04.536972+00:00"
   },
   {
     "page_id": "3aaa5230-de72-818c-b5ef-d8ee912f09a8",
