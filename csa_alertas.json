@@ -592489,11 +592489,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.044384,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04452,
-    "pnl_pct": 0.451,
-    "duracao_min": 20.9,
-    "data_resultado": "2026-07-27T19:09:18.693732+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04446,
+    "pnl_pct": 0.384,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-27T20:49:38.551125+00:00"
   },
   {
     "page_id": "3aaa5230-de72-813e-bc3c-ca4441761301",
