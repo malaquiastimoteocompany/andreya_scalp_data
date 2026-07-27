@@ -575393,11 +575393,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.4113,
-    "pnl_pct": 0.604,
-    "duracao_min": 11.3,
-    "data_resultado": "2026-07-27T09:08:43.324045+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.4142,
+    "pnl_pct": 0.254,
+    "duracao_min": 30.6,
+    "data_resultado": "2026-07-27T09:27:58.788254+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8196-b0fd-fb47283a2379",
