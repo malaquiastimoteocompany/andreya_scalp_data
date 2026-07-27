@@ -561593,7 +561593,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004409,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.004387,
+    "pnl_pct": 0.544,
+    "duracao_min": 5.1,
+    "data_resultado": "2026-07-27T00:20:16.486729+00:00"
   },
   {
     "page_id": "3aaa5230-de72-818b-bdc2-ce7e5f6051f7",
