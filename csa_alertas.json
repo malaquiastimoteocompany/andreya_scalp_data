@@ -576399,7 +576399,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2129,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.2116,
+    "pnl_pct": 0.564,
+    "duracao_min": 58.2,
+    "data_resultado": "2026-07-27T10:36:01.855821+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8134-bbfe-dbd9d3564e7c",
