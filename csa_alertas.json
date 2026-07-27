@@ -589969,11 +589969,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.1572,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.1781,
-    "pnl_pct": 1.016,
-    "duracao_min": 77.1,
-    "data_resultado": "2026-07-27T18:24:52.563697+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 2.1848,
+    "pnl_pct": 1.171,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-27T19:08:05.158993+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81ce-89bd-d8684586812a",
