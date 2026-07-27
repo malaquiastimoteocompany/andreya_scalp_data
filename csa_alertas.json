@@ -575109,11 +575109,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1858,
-    "pnl_pct": 3.128,
-    "duracao_min": 30.2,
-    "data_resultado": "2026-07-27T09:14:51.437780+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1927,
+    "pnl_pct": 1.33,
+    "duracao_min": 43.2,
+    "data_resultado": "2026-07-27T09:27:49.550259+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81c3-a5d2-e93f7a0d1c25",
