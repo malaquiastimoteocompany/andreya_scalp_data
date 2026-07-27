@@ -591937,11 +591937,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2048,
-    "pnl_pct": 0.837,
-    "duracao_min": 24.1,
-    "data_resultado": "2026-07-27T19:02:07.169542+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2066,
+    "pnl_pct": 1.28,
+    "duracao_min": 111.1,
+    "data_resultado": "2026-07-27T20:29:11.766852+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8101-a31d-d228dd3239bc",
