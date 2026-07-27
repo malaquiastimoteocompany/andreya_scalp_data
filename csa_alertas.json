@@ -567695,11 +567695,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.8943,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.9035,
-    "pnl_pct": 0.961,
-    "duracao_min": 20.9,
-    "data_resultado": "2026-07-27T04:38:32.505114+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.894,
+    "pnl_pct": 0.43,
+    "duracao_min": 33.2,
+    "data_resultado": "2026-07-27T04:50:49.270374+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8182-9a5f-c7d9949fb662",
