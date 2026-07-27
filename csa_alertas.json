@@ -587845,11 +587845,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.543,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.545,
-    "pnl_pct": 0.325,
-    "duracao_min": 8.5,
-    "data_resultado": "2026-07-27T16:11:25.537380+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 1.555,
+    "pnl_pct": 0.649,
+    "duracao_min": 24.1,
+    "data_resultado": "2026-07-27T16:27:00.527340+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81e6-81a8-dc28cfc0f717",
