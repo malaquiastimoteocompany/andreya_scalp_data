@@ -561295,11 +561295,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0192,
-    "pnl_pct": 1.031,
-    "duracao_min": 13.9,
-    "data_resultado": "2026-07-27T00:23:37.257163+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01944,
+    "pnl_pct": 0.412,
+    "duracao_min": 66.5,
+    "data_resultado": "2026-07-27T01:16:11.164773+00:00"
   },
   {
     "page_id": "3aaa5230-de72-811a-8136-c1c39d555578",
