@@ -592341,11 +592341,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 57.019,
-    "pnl_pct": 0.835,
-    "duracao_min": 41.4,
-    "data_resultado": "2026-07-27T19:29:12.309975+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 57.295,
+    "pnl_pct": 1.079,
+    "duracao_min": 71.6,
+    "data_resultado": "2026-07-27T19:59:29.309792+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8109-b433-c24447a1d211",
