@@ -571787,11 +571787,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2154,
-    "pnl_pct": 0.462,
-    "duracao_min": 7.2,
-    "data_resultado": "2026-07-27T06:46:58.413811+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2139,
+    "pnl_pct": 0.809,
+    "duracao_min": 56.9,
+    "data_resultado": "2026-07-27T07:36:38.440954+00:00"
   },
   {
     "page_id": "3aaa5230-de72-817d-a570-e976d5b415f9",
