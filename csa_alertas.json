@@ -569681,11 +569681,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 2.826,
-    "pnl_pct": 0.282,
-    "duracao_min": 29.3,
-    "data_resultado": "2026-07-27T05:56:17.178734+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.82,
+    "pnl_pct": 0.388,
+    "duracao_min": 54.7,
+    "data_resultado": "2026-07-27T06:21:36.938533+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81c5-9751-ed75cd32ba89",
