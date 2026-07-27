@@ -563123,7 +563123,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.38335,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.3899,
+    "pnl_pct": 0.909,
+    "duracao_min": 46.2,
+    "data_resultado": "2026-07-27T01:58:33.641276+00:00"
   },
   {
     "page_id": "3aaa5230-de72-819d-adba-d88762843de8",
