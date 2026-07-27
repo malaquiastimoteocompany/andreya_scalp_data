@@ -559685,11 +559685,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 198.49,
-    "pnl_pct": 0.366,
-    "duracao_min": 99.6,
-    "data_resultado": "2026-07-27T00:29:09.602560+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 198.35,
+    "pnl_pct": 0.402,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-27T00:50:45.736752+00:00"
   },
   {
     "page_id": "3a9a5230-de72-8188-b4e6-d070a65c8a32",
