@@ -560045,11 +560045,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
+    "resultado": "Falhado",
     "preco_saida": 0.4029,
     "pnl_pct": 0.617,
-    "duracao_min": 53.8,
-    "data_resultado": "2026-07-27T00:03:35.795305+00:00"
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-27T01:10:42.407039+00:00"
   },
   {
     "page_id": "3a9a5230-de72-814f-9f79-e7edcd0e70a3",
