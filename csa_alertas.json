@@ -594113,11 +594113,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03177,
-    "pnl_pct": 0.857,
-    "duracao_min": 31.0,
-    "data_resultado": "2026-07-27T20:46:35.689284+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.03144,
+    "pnl_pct": 0.333,
+    "duracao_min": 76.7,
+    "data_resultado": "2026-07-27T21:32:16.834080+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81e8-9943-f838eb1f41c4",
