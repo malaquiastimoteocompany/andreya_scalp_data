@@ -567613,7 +567613,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.6271,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.6266,
+    "pnl_pct": 0.302,
+    "duracao_min": 30.8,
+    "data_resultado": "2026-07-27T04:47:57.337511+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8165-86d0-e9f2d6357849",
