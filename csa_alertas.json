@@ -574811,11 +574811,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1538.42777778,
     "toques_sr": 9,
-    "resultado": "TP Hit",
-    "preco_saida": 1527.51,
-    "pnl_pct": 0.368,
-    "duracao_min": 23.4,
-    "data_resultado": "2026-07-27T08:56:16.281907+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1525.33,
+    "pnl_pct": 0.439,
+    "duracao_min": 30.9,
+    "data_resultado": "2026-07-27T09:03:50.936613+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81e2-8eb9-c7c6ddfd2546",
