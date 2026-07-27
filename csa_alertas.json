@@ -588242,5 +588242,31 @@
     "zona_sr": 0.33856667,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aaa5230-de72-819c-a986-f4612799b39b",
+    "token": "CRV",
+    "direccao": "LONG",
+    "preco_alerta": 0.2038,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.0019,
+    "tp1": 0.20456000000000002,
+    "tp2": 0.20570000000000002,
+    "sl": 0.20095000000000002,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 61667773.0,
+    "spread_pct": 0.0004905567819474564,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-27T16:17:39.929950+00:00",
+    "rsi_1h": 34.85,
+    "funding_rate": 0.0064,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
