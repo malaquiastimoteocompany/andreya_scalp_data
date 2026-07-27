@@ -580489,11 +580489,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.131465,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.13176,
-    "pnl_pct": 0.412,
-    "duracao_min": 3.4,
-    "data_resultado": "2026-07-27T12:41:33.302656+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.13247,
+    "pnl_pct": 0.682,
+    "duracao_min": 10.7,
+    "data_resultado": "2026-07-27T12:48:48.985080+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8191-92ae-d8bccc2c40a7",
