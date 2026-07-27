@@ -567559,7 +567559,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.2109,
+    "pnl_pct": -0.285,
+    "duracao_min": 122.6,
+    "data_resultado": "2026-07-27T06:09:43.530563+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8153-90f9-e02c90d50a63",
