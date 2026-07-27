@@ -597935,11 +597935,11 @@
     "estado_cfi": "E1",
     "zona_sr": 98.145,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 97.83,
-    "pnl_pct": 0.529,
-    "duracao_min": 6.6,
-    "data_resultado": "2026-07-27T22:51:52.673434+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 97.21,
+    "pnl_pct": 0.844,
+    "duracao_min": 13.2,
+    "data_resultado": "2026-07-27T22:58:25.265068+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81d0-820b-cc6fca8fafa1",
