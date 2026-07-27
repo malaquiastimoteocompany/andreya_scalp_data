@@ -592669,7 +592669,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 1465.81,
+    "pnl_pct": 0.563,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-27T20:56:10.151477+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81e4-9ff4-c82637bb24a6",
