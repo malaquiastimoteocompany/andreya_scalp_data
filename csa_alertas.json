@@ -563863,11 +563863,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.8167375,
     "toques_sr": 8,
-    "resultado": "TP Hit",
-    "preco_saida": 0.8198,
-    "pnl_pct": 0.269,
-    "duracao_min": 19.2,
-    "data_resultado": "2026-07-27T01:58:45.493726+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.8171,
+    "pnl_pct": 0.104,
+    "duracao_min": 51.8,
+    "data_resultado": "2026-07-27T02:31:21.612114+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81e1-8494-f39bcde69ce4",
