@@ -573269,11 +573269,11 @@
     "estado_cfi": "E1",
     "zona_sr": 5.17e-06,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 5.104e-06,
-    "pnl_pct": 0.893,
-    "duracao_min": 56.2,
-    "data_resultado": "2026-07-27T08:30:37.484361+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 5e-06,
+    "pnl_pct": 1.903,
+    "duracao_min": 100.0,
+    "data_resultado": "2026-07-27T09:14:26.037014+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81a2-90b7-d865b5b38de8",
