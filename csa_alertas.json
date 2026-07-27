@@ -567393,11 +567393,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08262333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08177,
-    "pnl_pct": 0.608,
-    "duracao_min": 61.0,
-    "data_resultado": "2026-07-27T05:02:59.910201+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.0811,
+    "pnl_pct": 1.015,
+    "duracao_min": 100.2,
+    "data_resultado": "2026-07-27T05:42:10.951438+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81ef-9049-f4d1bdadd57f",
