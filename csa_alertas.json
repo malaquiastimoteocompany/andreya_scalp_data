@@ -593839,7 +593839,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08447,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.08409,
+    "pnl_pct": -0.532,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-27T21:58:39.197561+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8163-9c20-daff682ba357",
