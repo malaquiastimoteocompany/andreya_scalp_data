@@ -570973,11 +570973,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0074655,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.007408,
-    "pnl_pct": 0.283,
-    "duracao_min": 3.6,
-    "data_resultado": "2026-07-27T06:18:29.716051+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.00743,
+    "pnl_pct": 0.135,
+    "duracao_min": 20.9,
+    "data_resultado": "2026-07-27T06:35:48.342079+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8117-96b9-d9ffbf5f5482",
