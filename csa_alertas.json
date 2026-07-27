@@ -580669,7 +580669,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.044144,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.04388,
+    "pnl_pct": 0.227,
+    "duracao_min": 47.2,
+    "data_resultado": "2026-07-27T13:29:43.595696+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81ff-85f2-fea50f947637",
