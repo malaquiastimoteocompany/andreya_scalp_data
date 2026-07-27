@@ -563021,7 +563021,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08491375,
     "toques_sr": 8,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.08424,
+    "pnl_pct": 0.319,
+    "duracao_min": 29.9,
+    "data_resultado": "2026-07-27T01:37:14.192975+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8142-bb52-c3e3f3c9c0be",
