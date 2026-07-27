@@ -567191,7 +567191,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.81638889,
     "toques_sr": 9,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.819,
+    "pnl_pct": 0.331,
+    "duracao_min": 23.1,
+    "data_resultado": "2026-07-27T04:20:05.084588+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8199-8fdf-ca5ba7519449",
