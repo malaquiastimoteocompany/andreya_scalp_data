@@ -585421,11 +585421,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 51.62,
-    "pnl_pct": 1.335,
-    "duracao_min": 12.7,
-    "data_resultado": "2026-07-27T14:51:35.128400+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 50.86,
+    "pnl_pct": 0.589,
+    "duracao_min": 53.9,
+    "data_resultado": "2026-07-27T15:32:46.072888+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81b4-894e-fc8356c3d6e1",
