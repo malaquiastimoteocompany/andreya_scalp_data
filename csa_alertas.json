@@ -578047,11 +578047,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03363,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03412,
-    "pnl_pct": 1.007,
-    "duracao_min": 81.6,
-    "data_resultado": "2026-07-27T12:18:55.639178+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.03434,
+    "pnl_pct": 1.332,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-27T12:57:43.906120+00:00"
   },
   {
     "page_id": "3aaa5230-de72-812e-a2c9-e99a133ea4a6",
