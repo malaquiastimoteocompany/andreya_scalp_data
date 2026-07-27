@@ -570233,7 +570233,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.155,
+    "pnl_pct": -5.759,
+    "duracao_min": 79.4,
+    "data_resultado": "2026-07-27T07:06:36.815534+00:00"
   },
   {
     "page_id": "3aaa5230-de72-816b-9522-eb35f52fe4c8",
