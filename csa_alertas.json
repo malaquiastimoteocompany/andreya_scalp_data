@@ -588769,7 +588769,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.55375,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 1.561,
+    "pnl_pct": 0.45,
+    "duracao_min": 115.9,
+    "data_resultado": "2026-07-27T18:26:13.205315+00:00"
   },
   {
     "page_id": "3aaa5230-de72-813b-961e-e93387134b92",
