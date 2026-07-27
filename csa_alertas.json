@@ -591795,11 +591795,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0840375,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08315,
-    "pnl_pct": 0.669,
-    "duracao_min": 9.0,
-    "data_resultado": "2026-07-27T18:41:37.961320+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.08374,
+    "pnl_pct": 0.317,
+    "duracao_min": 111.6,
+    "data_resultado": "2026-07-27T20:24:12.144357+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8141-8a5c-ec77f35aaa98",
