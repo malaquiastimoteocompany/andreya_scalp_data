@@ -577638,5 +577638,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aaa5230-de72-8128-8682-e3c46a21af5b",
+    "token": "ZAMA",
+    "direccao": "SHORT",
+    "preco_alerta": 0.05962,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.0022,
+    "tp1": 0.05874,
+    "tp2": 0.05742,
+    "sl": 0.06292,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 7143978.0,
+    "spread_pct": 0.0001684778030494998,
+    "oi_usd": 1124035.1689000002,
+    "data_alerta": "2026-07-27T10:49:44.407019+00:00",
+    "rsi_1h": 61.28,
+    "funding_rate": 0.0028,
+    "estado_cfi": "E1",
+    "zona_sr": 0.059625,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
