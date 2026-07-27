@@ -591559,11 +591559,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.704,
-    "pnl_pct": 0.385,
-    "duracao_min": 74.1,
-    "data_resultado": "2026-07-27T19:34:11.211009+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.7022,
+    "pnl_pct": 0.257,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-27T20:20:58.947429+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8127-9aaa-ffd8a488b356",
