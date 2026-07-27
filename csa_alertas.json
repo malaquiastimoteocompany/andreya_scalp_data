@@ -584400,5 +584400,31 @@
     "zona_sr": 0.34295,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aaa5230-de72-8166-ae6f-e2ba9ab3d4f5",
+    "token": "ROSE",
+    "direccao": "SHORT",
+    "preco_alerta": 0.005353,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 6.479e-05,
+    "tp1": 0.005327084,
+    "tp2": 0.00528821,
+    "sl": 0.005450185,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 6393430.0,
+    "spread_pct": 0.00018682858477349516,
+    "oi_usd": 2472308.3364,
+    "data_alerta": "2026-07-27T14:27:53.064738+00:00",
+    "rsi_1h": 45.87,
+    "funding_rate": 0.0083,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0053548,
+    "toques_sr": 10,
+    "resultado": "Pendente"
   }
 ]
