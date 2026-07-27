@@ -571089,11 +571089,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00246767,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002455,
-    "pnl_pct": 0.284,
-    "duracao_min": 4.5,
-    "data_resultado": "2026-07-27T06:22:00.795937+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.002445,
+    "pnl_pct": 0.487,
+    "duracao_min": 23.0,
+    "data_resultado": "2026-07-27T06:40:31.016373+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8187-bac7-ec17af7474a1",
