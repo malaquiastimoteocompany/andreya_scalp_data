@@ -582751,11 +582751,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0064875,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.006415,
-    "pnl_pct": 0.666,
-    "duracao_min": 10.9,
-    "data_resultado": "2026-07-27T13:55:31.027501+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.006384,
+    "pnl_pct": 0.906,
+    "duracao_min": 35.4,
+    "data_resultado": "2026-07-27T14:20:03.229855+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8172-9585-fceb66ed0171",
