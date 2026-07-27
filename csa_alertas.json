@@ -593119,7 +593119,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00464825,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.004627,
+    "pnl_pct": 0.0,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-27T21:18:51.047587+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8134-9a06-e6949987d2fe",
