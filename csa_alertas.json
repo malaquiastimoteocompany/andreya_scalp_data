@@ -580135,11 +580135,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.709,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.744,
-    "pnl_pct": 0.591,
-    "duracao_min": 48.7,
-    "data_resultado": "2026-07-27T13:11:24.044279+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.775,
+    "pnl_pct": 1.008,
+    "duracao_min": 86.8,
+    "data_resultado": "2026-07-27T13:49:33.065719+00:00"
   },
   {
     "page_id": "3aaa5230-de72-811b-a83f-f9c6edf2375e",
