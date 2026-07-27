@@ -579397,11 +579397,11 @@
     "estado_cfi": "E1",
     "zona_sr": 500.12333333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 505.65,
-    "pnl_pct": 0.601,
-    "duracao_min": 105.9,
-    "data_resultado": "2026-07-27T13:40:26.914276+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 504.26,
+    "pnl_pct": 0.463,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-27T13:54:38.966686+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8188-919d-df1f26f172c5",
