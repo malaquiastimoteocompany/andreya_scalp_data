@@ -594535,11 +594535,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06603333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0668,
-    "pnl_pct": 0.663,
-    "duracao_min": 1.0,
-    "data_resultado": "2026-07-27T20:29:38.183282+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.06698,
+    "pnl_pct": 0.799,
+    "duracao_min": 75.5,
+    "data_resultado": "2026-07-27T21:44:09.978877+00:00"
   },
   {
     "page_id": "3aaa5230-de72-810b-9589-e4d98d613e13",
