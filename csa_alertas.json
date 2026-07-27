@@ -574913,11 +574913,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.32182,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.32536,
-    "pnl_pct": 1.235,
-    "duracao_min": 6.5,
-    "data_resultado": "2026-07-27T08:43:50.000408+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.32982,
+    "pnl_pct": 1.929,
+    "duracao_min": 16.0,
+    "data_resultado": "2026-07-27T08:53:23.014369+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8177-9d2d-d744b57f5626",
