@@ -582877,11 +582877,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.351175,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3483,
-    "pnl_pct": 0.486,
-    "duracao_min": 8.2,
-    "data_resultado": "2026-07-27T13:55:38.482334+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.3466,
+    "pnl_pct": 0.729,
+    "duracao_min": 20.1,
+    "data_resultado": "2026-07-27T14:07:29.884628+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81b8-9aec-d32cc9bd6737",
