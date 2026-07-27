@@ -594649,7 +594649,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2064,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.2024,
+    "pnl_pct": -1.985,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-27T22:31:20.713638+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81c6-9d95-e61cec04c6c2",
