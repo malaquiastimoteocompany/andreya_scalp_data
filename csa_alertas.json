@@ -591409,7 +591409,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.07928,
+    "pnl_pct": -0.227,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-27T20:17:47.202969+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81a7-8df7-c8239602429c",
