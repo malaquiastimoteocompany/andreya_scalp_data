@@ -585210,5 +585210,31 @@
     "zona_sr": 0.081575,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aaa5230-de72-81bc-a266-ef2d0da718eb",
+    "token": "LTC",
+    "direccao": "LONG",
+    "preco_alerta": 46.67,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.27928571,
+    "tp1": 46.781714284,
+    "tp2": 46.949285710000005,
+    "sl": 46.251071435,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 22089548.0,
+    "spread_pct": 0.0004286326618088969,
+    "oi_usd": 8491246.007100001,
+    "data_alerta": "2026-07-27T14:37:49.779667+00:00",
+    "rsi_1h": 36.5,
+    "funding_rate": -0.0003,
+    "estado_cfi": "E1",
+    "zona_sr": 46.55333333,
+    "toques_sr": 6,
+    "resultado": "Pendente"
   }
 ]
