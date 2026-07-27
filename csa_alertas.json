@@ -585549,11 +585549,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.003308,
-    "pnl_pct": 0.608,
-    "duracao_min": 106.4,
-    "data_resultado": "2026-07-27T16:25:45.564151+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.003317,
+    "pnl_pct": 0.745,
+    "duracao_min": 121.6,
+    "data_resultado": "2026-07-27T16:40:58.572309+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81f1-ba86-c3258e130e81",
