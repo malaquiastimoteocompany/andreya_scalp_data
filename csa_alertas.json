@@ -563457,11 +563457,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.388,
     "toques_sr": 7,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.395,
-    "pnl_pct": 0.288,
-    "duracao_min": 84.1,
-    "data_resultado": "2026-07-27T02:44:19.591835+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.396,
+    "pnl_pct": 0.324,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-27T03:20:52.822707+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81bf-88a6-dcb862180028",
