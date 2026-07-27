@@ -589733,7 +589733,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.791,
+    "pnl_pct": -0.566,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-27T19:03:23.690990+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8147-a3a2-eb9448b96f7a",
