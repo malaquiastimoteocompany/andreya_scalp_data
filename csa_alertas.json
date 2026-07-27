@@ -558335,11 +558335,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.4278,
-    "pnl_pct": 0.604,
-    "duracao_min": 84.5,
-    "data_resultado": "2026-07-26T23:30:44.978937+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.4269,
+    "pnl_pct": 0.709,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-27T00:06:47.052166+00:00"
   },
   {
     "page_id": "3a9a5230-de72-811a-8310-ccf90d2be745",
