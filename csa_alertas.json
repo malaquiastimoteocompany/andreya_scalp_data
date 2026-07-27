@@ -576086,5 +576086,31 @@
     "zona_sr": 1.37825,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aaa5230-de72-81a3-9358-d6c49b770701",
+    "token": "CFX",
+    "direccao": "SHORT",
+    "preco_alerta": 0.04434,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00023857,
+    "tp1": 0.044244571999999996,
+    "tp2": 0.04410143,
+    "sl": 0.044697854999999995,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 6597833.0,
+    "spread_pct": 0.00022555543024689576,
+    "oi_usd": 1248518.27088,
+    "data_alerta": "2026-07-27T09:32:18.780930+00:00",
+    "rsi_1h": 50.51,
+    "funding_rate": 0.0096,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0444325,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
