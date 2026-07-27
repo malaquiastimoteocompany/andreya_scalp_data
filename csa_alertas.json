@@ -581771,11 +581771,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00260875,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002602,
-    "pnl_pct": 0.573,
-    "duracao_min": 11.5,
-    "data_resultado": "2026-07-27T13:21:31.091123+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.00263,
+    "pnl_pct": 0.038,
+    "duracao_min": 28.0,
+    "data_resultado": "2026-07-27T13:38:02.631423+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8135-b17f-ccb8e9e7c359",
