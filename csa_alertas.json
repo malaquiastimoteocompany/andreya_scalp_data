@@ -585729,7 +585729,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.089485,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.08945,
+    "pnl_pct": 0.485,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-27T16:41:15.097922+00:00"
   },
   {
     "page_id": "3aaa5230-de72-818b-92af-f9cff3a2e287",
