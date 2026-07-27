@@ -593197,11 +593197,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.71585,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.7178,
-    "pnl_pct": 0.448,
-    "duracao_min": 63.9,
-    "data_resultado": "2026-07-27T20:26:30.834549+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.7133,
+    "pnl_pct": 0.133,
+    "duracao_min": 114.8,
+    "data_resultado": "2026-07-27T21:17:25.728922+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8127-b051-ce522b5311ba",
