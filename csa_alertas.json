@@ -569419,11 +569419,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.007096,
-    "pnl_pct": 0.991,
-    "duracao_min": 5.7,
-    "data_resultado": "2026-07-27T05:27:47.290457+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.007018,
+    "pnl_pct": 1.535,
+    "duracao_min": 26.6,
+    "data_resultado": "2026-07-27T05:48:36.552314+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81ef-8b5d-fa390ccfd09a",
