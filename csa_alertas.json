@@ -575565,11 +575565,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0043155,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004316,
-    "pnl_pct": 0.489,
-    "duracao_min": 99.7,
-    "data_resultado": "2026-07-27T10:37:34.394125+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.00431,
+    "pnl_pct": 0.419,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-27T10:59:04.850839+00:00"
   },
   {
     "page_id": "3aaa5230-de72-814d-afcf-e88a6319a53e",
