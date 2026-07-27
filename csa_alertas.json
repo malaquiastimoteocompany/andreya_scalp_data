@@ -569293,11 +569293,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.036625,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03681,
-    "pnl_pct": 0.822,
-    "duracao_min": 7.2,
-    "data_resultado": "2026-07-27T05:24:32.227016+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.03698,
+    "pnl_pct": 1.055,
+    "duracao_min": 12.3,
+    "data_resultado": "2026-07-27T05:29:38.166155+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8179-98c9-e14e56ab1d2b",
