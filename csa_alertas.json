@@ -578113,7 +578113,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.583,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 1.584,
+    "pnl_pct": 0.19,
+    "duracao_min": 6.7,
+    "data_resultado": "2026-07-27T11:11:32.032157+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8194-a72d-e9ff6a0b2ac6",
