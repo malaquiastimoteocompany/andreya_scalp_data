@@ -598341,11 +598341,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.011422,
-    "pnl_pct": 2.75,
-    "duracao_min": 21.8,
-    "data_resultado": "2026-07-27T23:14:26.292237+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.010853,
+    "pnl_pct": 5.172,
+    "duracao_min": 59.1,
+    "data_resultado": "2026-07-27T23:51:43.809350+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8160-9a65-ceb3c9fb7c73",
