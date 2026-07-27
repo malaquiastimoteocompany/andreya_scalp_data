@@ -584953,7 +584953,11 @@
     "estado_cfi": "E1",
     "zona_sr": 57.8715,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 58.275,
+    "pnl_pct": 0.448,
+    "duracao_min": 24.8,
+    "data_resultado": "2026-07-27T14:57:19.737938+00:00"
   },
   {
     "page_id": "3aaa5230-de72-810b-9478-e7cbc67d98c1",
