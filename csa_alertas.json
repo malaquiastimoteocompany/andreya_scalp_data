@@ -573369,7 +573369,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07720111,
     "toques_sr": 9,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.07776,
+    "pnl_pct": 0.232,
+    "duracao_min": 50.1,
+    "data_resultado": "2026-07-27T08:27:44.022670+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81a9-8a89-e572d8aab4cb",
