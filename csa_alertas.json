@@ -572193,11 +572193,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.32182,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.32621,
-    "pnl_pct": 1.238,
-    "duracao_min": 73.2,
-    "data_resultado": "2026-07-27T08:02:52.474848+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.32114,
+    "pnl_pct": 0.452,
+    "duracao_min": 105.8,
+    "data_resultado": "2026-07-27T08:35:26.427284+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8191-ab97-e10bbfc808f8",
