@@ -582633,7 +582633,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.005458,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.005414,
+    "pnl_pct": 0.46,
+    "duracao_min": 17.6,
+    "data_resultado": "2026-07-27T14:00:20.219136+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81b0-8513-f5f1ca82bedc",
