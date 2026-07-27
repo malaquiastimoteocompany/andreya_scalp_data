@@ -579869,7 +579869,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.828,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 3.926,
+    "pnl_pct": -2.08,
+    "duracao_min": 84.0,
+    "data_resultado": "2026-07-27T13:40:58.373772+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8126-9c75-f3f2720f612b",
