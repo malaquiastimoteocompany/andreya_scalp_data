@@ -562211,11 +562211,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01361,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01356,
-    "pnl_pct": 0.441,
-    "duracao_min": 13.3,
-    "data_resultado": "2026-07-27T00:48:06.483558+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01351,
+    "pnl_pct": 0.624,
+    "duracao_min": 41.6,
+    "data_resultado": "2026-07-27T01:16:28.718159+00:00"
   },
   {
     "page_id": "3aaa5230-de72-811c-a88e-c91e859cf91f",
