@@ -592653,11 +592653,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01836,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01849,
-    "pnl_pct": 0.489,
-    "duracao_min": 6.6,
-    "data_resultado": "2026-07-27T19:12:11.353073+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.01837,
+    "pnl_pct": 0.163,
+    "duracao_min": 20.2,
+    "data_resultado": "2026-07-27T19:25:48.394904+00:00"
   },
   {
     "page_id": "3aaa5230-de72-816e-8245-ed58ac50ea1e",
