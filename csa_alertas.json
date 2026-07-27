@@ -569469,11 +569469,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04536,
-    "pnl_pct": 0.373,
-    "duracao_min": 3.8,
-    "data_resultado": "2026-07-27T05:26:19.124821+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04554,
+    "pnl_pct": 0.176,
+    "duracao_min": 39.9,
+    "data_resultado": "2026-07-27T06:02:24.139473+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81db-92f8-cdeb38d300d5",
