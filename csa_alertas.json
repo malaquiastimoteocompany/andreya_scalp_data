@@ -581391,11 +581391,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01389,
-    "pnl_pct": 0.434,
-    "duracao_min": 42.4,
-    "data_resultado": "2026-07-27T13:42:00.080641+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01383,
+    "pnl_pct": 0.217,
+    "duracao_min": 57.8,
+    "data_resultado": "2026-07-27T13:57:22.725103+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81cd-91d4-dd0cfa0ad9b2",
