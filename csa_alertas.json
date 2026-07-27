@@ -595299,7 +595299,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.010911,
+    "pnl_pct": 3.794,
+    "duracao_min": 11.4,
+    "data_resultado": "2026-07-27T21:14:09.839233+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8152-9821-e0bfd138a599",
