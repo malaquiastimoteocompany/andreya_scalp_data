@@ -594383,7 +594383,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.86033333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 2.888,
+    "pnl_pct": 0.522,
+    "duracao_min": 22.3,
+    "data_resultado": "2026-07-27T20:50:14.977067+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81f7-babf-db2b0ec61b73",
