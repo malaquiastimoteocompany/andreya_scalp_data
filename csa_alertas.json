@@ -576161,11 +576161,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03187,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03203,
-    "pnl_pct": 0.502,
-    "duracao_min": 41.6,
-    "data_resultado": "2026-07-27T10:06:27.296291+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.03191,
+    "pnl_pct": 0.314,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-27T11:25:40.584550+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8184-a01e-f9c3c12f92ef",
