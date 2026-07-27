@@ -568995,11 +568995,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01908,
-    "pnl_pct": 1.395,
-    "duracao_min": 95.3,
-    "data_resultado": "2026-07-27T06:40:05.651920+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01936,
+    "pnl_pct": 0.672,
+    "duracao_min": 112.6,
+    "data_resultado": "2026-07-27T06:57:23.547220+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8199-9fdc-e3f2fd46e6fc",
