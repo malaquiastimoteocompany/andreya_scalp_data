@@ -565229,11 +565229,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07762,
-    "pnl_pct": 0.231,
-    "duracao_min": 3.8,
-    "data_resultado": "2026-07-27T02:21:02.095980+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0778,
+    "pnl_pct": 0.116,
+    "duracao_min": 42.3,
+    "data_resultado": "2026-07-27T02:59:37.440962+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8180-8fec-e94c4484cca0",
