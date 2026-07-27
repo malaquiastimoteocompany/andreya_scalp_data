@@ -572325,7 +572325,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0043155,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.004295,
+    "pnl_pct": -0.694,
+    "duracao_min": 121.8,
+    "data_resultado": "2026-07-27T08:54:32.581081+00:00"
   },
   {
     "page_id": "3aaa5230-de72-817b-b6bf-c07dd686a5b8",
