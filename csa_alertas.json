@@ -574489,7 +574489,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08372889,
     "toques_sr": 9,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.08363,
+    "pnl_pct": 0.215,
+    "duracao_min": 33.0,
+    "data_resultado": "2026-07-27T08:57:54.424850+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81ea-af02-f970331497a8",
