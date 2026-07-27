@@ -565489,11 +565489,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08972,
-    "pnl_pct": 0.587,
-    "duracao_min": 83.3,
-    "data_resultado": "2026-07-27T03:50:28.682341+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.09027,
+    "pnl_pct": 0.283,
+    "duracao_min": 115.8,
+    "data_resultado": "2026-07-27T04:23:02.766336+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8124-924f-e3dda4f21f95",
