@@ -567383,7 +567383,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0444325,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.04451,
+    "pnl_pct": -0.045,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-27T06:00:41.600538+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81ba-9e54-d9f24bb1aff1",
