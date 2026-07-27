@@ -564679,11 +564679,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.10685,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.1054,
-    "pnl_pct": 0.19,
-    "duracao_min": 32.1,
-    "data_resultado": "2026-07-27T02:31:33.163058+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.1075,
+    "pnl_pct": 0.095,
+    "duracao_min": 106.6,
+    "data_resultado": "2026-07-27T03:46:04.053687+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8167-b6bc-e8e9e2e46b9f",
