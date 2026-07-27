@@ -597113,7 +597113,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08156333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.08027,
+    "pnl_pct": -1.279,
+    "duracao_min": 38.3,
+    "data_resultado": "2026-07-27T22:51:06.033958+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81e9-a69c-d8ac131552b5",
