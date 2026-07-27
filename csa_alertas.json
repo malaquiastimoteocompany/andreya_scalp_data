@@ -574896,5 +574896,31 @@
     "zona_sr": 0.00734867,
     "toques_sr": 6,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aaa5230-de72-816b-8070-dab5dd0f5cf5",
+    "token": "DEXE",
+    "direccao": "LONG",
+    "preco_alerta": 2.687,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.22378571,
+    "tp1": 2.7765142839999997,
+    "tp2": 2.91078571,
+    "sl": 2.351321435,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 7857135.0,
+    "spread_pct": 0.0007440476190477024,
+    "oi_usd": 1783342.2499999998,
+    "data_alerta": "2026-07-27T08:42:20.415454+00:00",
+    "rsi_1h": 31.95,
+    "funding_rate": -0.2097,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
