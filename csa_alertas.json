@@ -567011,11 +567011,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.008831,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.008796,
-    "pnl_pct": 0.879,
-    "duracao_min": 59.1,
-    "data_resultado": "2026-07-27T04:41:35.065087+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.008874,
+    "pnl_pct": 0.439,
+    "duracao_min": 110.3,
+    "data_resultado": "2026-07-27T05:32:43.515158+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8156-b86b-dcd055f495b0",
