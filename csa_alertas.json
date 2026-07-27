@@ -558845,11 +558845,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0822,
-    "pnl_pct": 0.785,
-    "duracao_min": 8.0,
-    "data_resultado": "2026-07-26T22:24:58.485852+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.08188,
+    "pnl_pct": 0.589,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-27T00:17:44.383238+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81f0-a9ad-fbdab6ce17ea",
