@@ -577331,11 +577331,11 @@
     "estado_cfi": "E2",
     "zona_sr": 19.67,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 19.41,
-    "pnl_pct": 1.171,
-    "duracao_min": 55.6,
-    "data_resultado": "2026-07-27T11:20:05.417275+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 19.2,
+    "pnl_pct": 1.706,
+    "duracao_min": 122.1,
+    "data_resultado": "2026-07-27T12:26:38.098918+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81f4-99d7-f3217dc71bed",
