@@ -571815,11 +571815,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004201,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004169,
-    "pnl_pct": 0.287,
-    "duracao_min": 20.6,
-    "data_resultado": "2026-07-27T06:57:43.721956+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.004161,
+    "pnl_pct": 0.383,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-27T08:38:22.241807+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8182-8295-cc25f105d0d8",
