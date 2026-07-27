@@ -563729,11 +563729,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1804025,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.18181,
-    "pnl_pct": 0.309,
-    "duracao_min": 71.0,
-    "data_resultado": "2026-07-27T02:41:01.531778+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.18123,
+    "pnl_pct": 0.149,
+    "duracao_min": 100.2,
+    "data_resultado": "2026-07-27T03:10:15.600508+00:00"
   },
   {
     "page_id": "3aaa5230-de72-811e-83d6-fc3bf3d11df7",
