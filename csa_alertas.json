@@ -564060,5 +564060,31 @@
     "zona_sr": 0.14125,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aaa5230-de72-81e1-8cc1-fcafc9ff478e",
+    "token": "LINEA",
+    "direccao": "SHORT",
+    "preco_alerta": 0.002454,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 1.621e-05,
+    "tp1": 0.002447516,
+    "tp2": 0.00243779,
+    "sl": 0.002478315,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 9605356.0,
+    "spread_pct": 0.0004075810067251407,
+    "oi_usd": 627252.0768,
+    "data_alerta": "2026-07-27T01:44:41.283145+00:00",
+    "rsi_1h": 54.08,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0024515,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
