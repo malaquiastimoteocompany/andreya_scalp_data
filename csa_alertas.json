@@ -562593,7 +562593,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 19.45,
+    "pnl_pct": -2.064,
+    "duracao_min": 5.1,
+    "data_resultado": "2026-07-27T00:59:37.144121+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81e4-91dc-e00460dd37dc",
