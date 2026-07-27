@@ -579577,11 +579577,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.91688889,
     "toques_sr": 9,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.924,
-    "pnl_pct": 0.274,
-    "duracao_min": 96.1,
-    "data_resultado": "2026-07-27T13:40:42.493119+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.916,
+    "pnl_pct": 0.137,
+    "duracao_min": 117.2,
+    "data_resultado": "2026-07-27T14:01:48.196922+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8126-97ae-fa1d26959537",
