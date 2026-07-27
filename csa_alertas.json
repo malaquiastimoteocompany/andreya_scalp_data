@@ -560517,11 +560517,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.11275,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.1081,
-    "pnl_pct": 0.216,
-    "duracao_min": 47.7,
-    "data_resultado": "2026-07-27T00:19:43.597755+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.1059,
+    "pnl_pct": 0.315,
+    "duracao_min": 103.9,
+    "data_resultado": "2026-07-27T01:15:53.829691+00:00"
   },
   {
     "page_id": "3a9a5230-de72-81d6-9714-d3eb08ebe45c",
