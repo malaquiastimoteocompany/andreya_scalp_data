@@ -561027,11 +561027,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0063415,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.006351,
-    "pnl_pct": 0.345,
-    "duracao_min": 52.1,
-    "data_resultado": "2026-07-27T00:54:11.131570+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.006321,
+    "pnl_pct": 0.581,
+    "duracao_min": 93.7,
+    "data_resultado": "2026-07-27T01:35:50.874088+00:00"
   },
   {
     "page_id": "3aaa5230-de72-818e-a29c-f3a138d553ff",
