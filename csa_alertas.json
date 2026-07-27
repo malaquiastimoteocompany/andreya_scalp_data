@@ -587483,11 +587483,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02596,
-    "pnl_pct": 0.737,
-    "duracao_min": 66.5,
-    "data_resultado": "2026-07-27T16:39:33.000273+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.02592,
+    "pnl_pct": 0.66,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-27T17:33:42.548713+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8178-97b4-d2688c473c7a",
