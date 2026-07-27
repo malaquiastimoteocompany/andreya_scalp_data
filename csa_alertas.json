@@ -565527,7 +565527,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.68615,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.6853,
+    "pnl_pct": -0.102,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-27T04:30:33.347933+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8116-9175-dc1b57195621",
