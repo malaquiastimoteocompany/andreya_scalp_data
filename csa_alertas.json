@@ -562363,7 +562363,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.73,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 6.687,
+    "pnl_pct": 0.358,
+    "duracao_min": 57.1,
+    "data_resultado": "2026-07-27T01:36:40.522415+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8101-b15b-df07db643b84",
