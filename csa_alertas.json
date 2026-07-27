@@ -589521,11 +589521,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.20485,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.205,
-    "pnl_pct": 0.389,
-    "duracao_min": 6.3,
-    "data_resultado": "2026-07-27T17:06:44.516860+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.206,
+    "pnl_pct": 0.146,
+    "duracao_min": 23.0,
+    "data_resultado": "2026-07-27T17:23:24.523629+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8160-b521-ce0090e4d7f2",
