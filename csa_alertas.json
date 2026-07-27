@@ -581301,11 +581301,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.00758,
-    "pnl_pct": 1.289,
-    "duracao_min": 89.2,
-    "data_resultado": "2026-07-27T14:24:08.211576+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.007573,
+    "pnl_pct": 1.335,
+    "duracao_min": 93.8,
+    "data_resultado": "2026-07-27T14:28:44.771589+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81e5-8194-c2378fb4daa9",
