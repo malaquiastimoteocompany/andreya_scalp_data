@@ -592579,11 +592579,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00249767,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.002491,
-    "pnl_pct": 0.559,
-    "duracao_min": 102.9,
-    "data_resultado": "2026-07-27T20:35:45.823575+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.002502,
+    "pnl_pct": 0.339,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-27T20:53:13.176316+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81a3-98cc-c138c756c534",
