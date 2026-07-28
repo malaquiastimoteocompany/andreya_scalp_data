@@ -628405,11 +628405,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.001965,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001981,
-    "pnl_pct": 1.226,
-    "duracao_min": 42.1,
-    "data_resultado": "2026-07-28T21:35:24.168680+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.001953,
+    "pnl_pct": 0.511,
+    "duracao_min": 116.6,
+    "data_resultado": "2026-07-28T22:49:50.022796+00:00"
   },
   {
     "page_id": "3aba5230-de72-8117-96cc-f66422f06769",
