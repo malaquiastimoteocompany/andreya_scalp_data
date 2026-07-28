@@ -602409,7 +602409,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.04221,
+    "pnl_pct": 0.788,
+    "duracao_min": 20.5,
+    "data_resultado": "2026-07-28T01:34:25.664269+00:00"
   },
   {
     "page_id": "3aba5230-de72-8107-8b5f-f19ce39a710d",
