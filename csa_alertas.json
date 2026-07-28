@@ -610909,7 +610909,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.060995,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.06038,
+    "pnl_pct": -1.308,
+    "duracao_min": 87.0,
+    "data_resultado": "2026-07-28T09:00:19.815988+00:00"
   },
   {
     "page_id": "3aba5230-de72-81aa-a93c-d00df24465dd",
