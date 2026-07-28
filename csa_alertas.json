@@ -623298,5 +623298,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aba5230-de72-8167-9aca-e016713537ab",
+    "token": "MUU",
+    "direccao": "LONG",
+    "preco_alerta": 24.9,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 1.06642857,
+    "tp1": 25.326571427999998,
+    "tp2": 25.966428569999998,
+    "sl": 23.300357145,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 49703375.0,
+    "spread_pct": 0.0004013646397752986,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-28T16:08:11.042186+00:00",
+    "rsi_1h": 30.36,
+    "funding_rate": 0.0057,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
