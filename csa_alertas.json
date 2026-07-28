@@ -608889,11 +608889,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.511,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 3.512,
-    "pnl_pct": 0.486,
-    "duracao_min": 26.5,
-    "data_resultado": "2026-07-28T06:32:26.530817+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 3.516,
+    "pnl_pct": 0.544,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-28T08:06:08.454141+00:00"
   },
   {
     "page_id": "3aba5230-de72-8177-b4b7-f75d3b5aeb6d",
