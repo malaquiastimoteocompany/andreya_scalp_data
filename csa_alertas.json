@@ -614187,7 +614187,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 1.1676,
+    "pnl_pct": 1.885,
+    "duracao_min": 8.1,
+    "data_resultado": "2026-07-28T10:21:45.852685+00:00"
   },
   {
     "page_id": "3aba5230-de72-81f3-b7a9-d583efbc3842",
