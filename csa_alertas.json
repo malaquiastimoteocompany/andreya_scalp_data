@@ -629651,11 +629651,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01369,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01358,
-    "pnl_pct": 0.44,
-    "duracao_min": 26.1,
-    "data_resultado": "2026-07-28T22:31:54.631234+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01351,
+    "pnl_pct": 0.696,
+    "duracao_min": 58.6,
+    "data_resultado": "2026-07-28T23:04:25.824275+00:00"
   },
   {
     "page_id": "3aba5230-de72-81bc-80d9-c9adad080954",
