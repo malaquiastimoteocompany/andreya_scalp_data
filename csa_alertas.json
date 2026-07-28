@@ -613041,11 +613041,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.58275,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.5862,
-    "pnl_pct": 0.377,
-    "duracao_min": 29.8,
-    "data_resultado": "2026-07-28T09:50:41.091955+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.5837,
+    "pnl_pct": 0.163,
+    "duracao_min": 35.9,
+    "data_resultado": "2026-07-28T09:56:47.682681+00:00"
   },
   {
     "page_id": "3aba5230-de72-814d-9e96-e9a2602ca1cf",
