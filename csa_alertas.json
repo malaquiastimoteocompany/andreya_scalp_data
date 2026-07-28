@@ -610783,7 +610783,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 117.87,
+    "pnl_pct": 1.15,
+    "duracao_min": 55.0,
+    "data_resultado": "2026-07-28T08:25:35.257838+00:00"
   },
   {
     "page_id": "3aba5230-de72-8121-b4d4-d87982ce23aa",
