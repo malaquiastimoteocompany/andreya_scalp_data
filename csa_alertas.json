@@ -603347,11 +603347,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.8943,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.9055,
-    "pnl_pct": 1.309,
-    "duracao_min": 89.7,
-    "data_resultado": "2026-07-28T03:18:06.743050+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.9037,
+    "pnl_pct": 1.208,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-28T03:49:03.058573+00:00"
   },
   {
     "page_id": "3aba5230-de72-816d-828a-e41e9fececfc",
