@@ -616279,7 +616279,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.1805,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 3.161,
+    "pnl_pct": -0.378,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-28T13:49:08.585822+00:00"
   },
   {
     "page_id": "3aba5230-de72-8137-8659-d68f10838957",
