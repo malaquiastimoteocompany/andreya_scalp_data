@@ -612949,7 +612949,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.87285,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.8444,
+    "pnl_pct": -3.387,
+    "duracao_min": 54.2,
+    "data_resultado": "2026-07-28T10:09:57.412791+00:00"
   },
   {
     "page_id": "3aba5230-de72-8149-bd13-c81afc70e4f9",
