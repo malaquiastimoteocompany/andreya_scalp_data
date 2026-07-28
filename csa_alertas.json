@@ -630489,7 +630489,11 @@
     "estado_cfi": "E1",
     "zona_sr": 740.49952381,
     "toques_sr": 21,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 743.19,
+    "pnl_pct": -0.403,
+    "duracao_min": 57.5,
+    "data_resultado": "2026-07-28T23:46:42.884551+00:00"
   },
   {
     "page_id": "3aba5230-de72-818a-99ce-c15d783af031",
