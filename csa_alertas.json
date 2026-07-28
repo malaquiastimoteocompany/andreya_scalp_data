@@ -624995,11 +624995,11 @@
     "estado_cfi": "E1",
     "zona_sr": 8.372,
     "toques_sr": 7,
-    "resultado": "TP Hit",
-    "preco_saida": 8.311,
-    "pnl_pct": 0.312,
-    "duracao_min": 19.5,
-    "data_resultado": "2026-07-28T17:55:18.046601+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 8.338,
+    "pnl_pct": 0.15,
+    "duracao_min": 26.4,
+    "data_resultado": "2026-07-28T18:02:10.514466+00:00"
   },
   {
     "page_id": "3aba5230-de72-8119-990f-f3885ea9bfeb",
