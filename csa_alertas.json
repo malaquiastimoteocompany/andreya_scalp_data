@@ -605309,7 +605309,11 @@
     "estado_cfi": "E1",
     "zona_sr": 472.64,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 475.81,
+    "pnl_pct": 0.598,
+    "duracao_min": 28.7,
+    "data_resultado": "2026-07-28T03:44:49.532796+00:00"
   },
   {
     "page_id": "3aba5230-de72-81a3-af11-dd691046ae12",
