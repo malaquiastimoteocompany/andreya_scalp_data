@@ -612797,7 +612797,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.38386667,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.3871,
+    "pnl_pct": 0.65,
+    "duracao_min": 21.6,
+    "data_resultado": "2026-07-28T09:34:59.589179+00:00"
   },
   {
     "page_id": "3aba5230-de72-8189-9b11-fe535090f6a1",
