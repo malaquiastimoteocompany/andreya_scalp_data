@@ -613913,7 +613913,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.1409,
+    "pnl_pct": 0.142,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-28T11:56:48.206549+00:00"
   },
   {
     "page_id": "3aba5230-de72-81d2-8e21-ee60f5ff2d93",
