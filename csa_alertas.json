@@ -620585,11 +620585,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.042035,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04218,
-    "pnl_pct": 0.596,
-    "duracao_min": 4.9,
-    "data_resultado": "2026-07-28T14:25:46.686130+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.04231,
+    "pnl_pct": 0.751,
+    "duracao_min": 20.2,
+    "data_resultado": "2026-07-28T14:41:05.555849+00:00"
   },
   {
     "page_id": "3aba5230-de72-818d-b93f-d2afb47417ee",
