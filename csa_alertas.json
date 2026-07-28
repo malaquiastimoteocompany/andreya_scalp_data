@@ -601107,7 +601107,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06523667,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.06424,
+    "pnl_pct": 1.2,
+    "duracao_min": 17.7,
+    "data_resultado": "2026-07-28T00:49:06.484912+00:00"
   },
   {
     "page_id": "3aba5230-de72-81ce-92e1-ed6588006639",
