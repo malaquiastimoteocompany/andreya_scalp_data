@@ -606459,11 +606459,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2097,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2092,
-    "pnl_pct": 0.57,
-    "duracao_min": 13.9,
-    "data_resultado": "2026-07-28T04:34:34.553598+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.2105,
+    "pnl_pct": 0.261,
+    "duracao_min": 27.0,
+    "data_resultado": "2026-07-28T04:47:40.371452+00:00"
   },
   {
     "page_id": "3aba5230-de72-8163-ac96-eca708bc20f9",
