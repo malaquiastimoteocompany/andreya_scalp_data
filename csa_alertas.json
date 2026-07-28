@@ -614449,11 +614449,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.028585,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0288,
-    "pnl_pct": 0.418,
-    "duracao_min": 97.1,
-    "data_resultado": "2026-07-28T11:55:17.113574+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.02877,
+    "pnl_pct": 0.366,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-28T12:18:48.076218+00:00"
   },
   {
     "page_id": "3aba5230-de72-81b0-8e91-d90f00668aee",
