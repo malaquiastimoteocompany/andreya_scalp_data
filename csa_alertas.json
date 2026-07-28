@@ -620257,11 +620257,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1394,
-    "pnl_pct": 0.65,
-    "duracao_min": 31.0,
-    "data_resultado": "2026-07-28T14:36:46.011781+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1414,
+    "pnl_pct": 1.372,
+    "duracao_min": 77.9,
+    "data_resultado": "2026-07-28T15:23:40.901542+00:00"
   },
   {
     "page_id": "3aba5230-de72-81d3-90bd-f5782a9b08d3",
