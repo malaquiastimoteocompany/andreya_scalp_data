@@ -618759,7 +618759,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0045705,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.004512,
+    "pnl_pct": -0.901,
+    "duracao_min": 7.3,
+    "data_resultado": "2026-07-28T13:42:54.208185+00:00"
   },
   {
     "page_id": "3aba5230-de72-81e8-af2e-cdeb26452b9d",
