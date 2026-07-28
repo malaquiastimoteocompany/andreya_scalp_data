@@ -613937,11 +613937,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.58275,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.5867,
-    "pnl_pct": 0.445,
-    "duracao_min": 21.5,
-    "data_resultado": "2026-07-28T10:19:47.617243+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.5831,
+    "pnl_pct": 0.137,
+    "duracao_min": 65.4,
+    "data_resultado": "2026-07-28T11:03:42.293418+00:00"
   },
   {
     "page_id": "3aba5230-de72-8175-aecf-e54fe5497029",
