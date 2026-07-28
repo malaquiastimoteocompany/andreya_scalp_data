@@ -615229,11 +615229,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.2575,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.347,
-    "pnl_pct": 2.953,
-    "duracao_min": 103.6,
-    "data_resultado": "2026-07-28T12:47:13.993177+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 3.354,
+    "pnl_pct": 3.061,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-28T13:04:48.852171+00:00"
   },
   {
     "page_id": "3aba5230-de72-81e5-9f40-c3e81037f48b",
