@@ -627415,11 +627415,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 3.341,
-    "pnl_pct": 0.565,
-    "duracao_min": 26.6,
-    "data_resultado": "2026-07-28T20:27:40.478520+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 3.328,
+    "pnl_pct": 0.759,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-28T22:02:07.590506+00:00"
   },
   {
     "page_id": "3aba5230-de72-814a-a861-c27f176a9fed",
