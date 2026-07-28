@@ -623373,7 +623373,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.03,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 3.024,
+    "pnl_pct": -0.624,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-28T18:01:45.644250+00:00"
   },
   {
     "page_id": "3aba5230-de72-817b-833f-e8b5a41b8251",
