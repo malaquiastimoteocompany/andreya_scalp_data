@@ -624237,11 +624237,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.27813,
-    "pnl_pct": 4.093,
-    "duracao_min": 12.1,
-    "data_resultado": "2026-07-28T17:13:05.563201+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.291,
+    "pnl_pct": 1.874,
+    "duracao_min": 27.5,
+    "data_resultado": "2026-07-28T17:28:31.966707+00:00"
   },
   {
     "page_id": "3aba5230-de72-8166-98c7-f0ae91b016d6",
