@@ -625505,11 +625505,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.683,
-    "pnl_pct": 0.562,
-    "duracao_min": 51.7,
-    "data_resultado": "2026-07-28T18:55:18.780062+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.698,
+    "pnl_pct": 0.843,
+    "duracao_min": 60.7,
+    "data_resultado": "2026-07-28T19:04:17.318599+00:00"
   },
   {
     "page_id": "3aba5230-de72-8119-acbc-e10582881be3",
