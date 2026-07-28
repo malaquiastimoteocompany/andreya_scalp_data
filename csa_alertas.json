@@ -608879,11 +608879,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.141,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.143,
-    "pnl_pct": 0.989,
-    "duracao_min": 38.9,
-    "data_resultado": "2026-07-28T06:47:42.955676+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1416,
+    "pnl_pct": 0.494,
+    "duracao_min": 51.1,
+    "data_resultado": "2026-07-28T06:59:57.993550+00:00"
   },
   {
     "page_id": "3aba5230-de72-8172-9357-e26a5ba33600",
