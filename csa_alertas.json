@@ -616189,7 +616189,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00316767,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.003134,
+    "pnl_pct": -1.26,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-28T13:44:26.450137+00:00"
   },
   {
     "page_id": "3aba5230-de72-81dd-856f-dd847b6420fd",
