@@ -610385,11 +610385,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0175275,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01734,
-    "pnl_pct": 0.914,
-    "duracao_min": 32.9,
-    "data_resultado": "2026-07-28T07:46:21.948411+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.01741,
+    "pnl_pct": 0.714,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-28T09:13:37.987308+00:00"
   },
   {
     "page_id": "3aba5230-de72-8195-8ef8-e09f054bf734",
