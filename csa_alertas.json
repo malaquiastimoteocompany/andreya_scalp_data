@@ -629289,7 +629289,11 @@
     "estado_cfi": "E1",
     "zona_sr": 740.49952381,
     "toques_sr": 21,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 741.38,
+    "pnl_pct": 0.11,
+    "duracao_min": 27.2,
+    "data_resultado": "2026-07-28T22:18:18.263409+00:00"
   },
   {
     "page_id": "3aba5230-de72-81e9-8e07-f9e3bbda9e7d",
