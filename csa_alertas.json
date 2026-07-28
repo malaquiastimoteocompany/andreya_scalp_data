@@ -608319,7 +608319,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.751,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 3.714,
+    "pnl_pct": -0.669,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-28T07:40:44.844046+00:00"
   },
   {
     "page_id": "3aba5230-de72-8149-9c4d-f41717a0be3a",
