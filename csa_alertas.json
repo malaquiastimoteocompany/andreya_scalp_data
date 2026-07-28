@@ -609675,11 +609675,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0083855,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.008501,
-    "pnl_pct": 0.914,
-    "duracao_min": 90.3,
-    "data_resultado": "2026-07-28T08:11:03.575060+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.008423,
+    "pnl_pct": 0.451,
+    "duracao_min": 96.7,
+    "data_resultado": "2026-07-28T08:17:31.568055+00:00"
   },
   {
     "page_id": "3aba5230-de72-81bc-988c-d080df3c3b74",
