@@ -614101,11 +614101,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 4.673e-06,
-    "pnl_pct": 0.624,
-    "duracao_min": 18.6,
-    "data_resultado": "2026-07-28T10:21:37.560262+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 4.644e-06,
+    "pnl_pct": 0.312,
+    "duracao_min": 58.9,
+    "data_resultado": "2026-07-28T11:01:57.088159+00:00"
   },
   {
     "page_id": "3aba5230-de72-8145-912d-eb1c1406ed96",
