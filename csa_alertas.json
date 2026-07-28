@@ -622127,11 +622127,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.123,
     "toques_sr": 7,
-    "resultado": "TP Hit",
-    "preco_saida": 2.126,
-    "pnl_pct": 0.33,
-    "duracao_min": 24.7,
-    "data_resultado": "2026-07-28T15:47:59.962358+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 2.116,
+    "pnl_pct": 0.094,
+    "duracao_min": 28.6,
+    "data_resultado": "2026-07-28T15:51:55.069800+00:00"
   },
   {
     "page_id": "3aba5230-de72-8171-a6f8-cdc08e69cda7",
