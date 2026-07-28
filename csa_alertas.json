@@ -606437,11 +606437,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.835,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.939,
-    "pnl_pct": 3.449,
-    "duracao_min": 60.5,
-    "data_resultado": "2026-07-28T05:14:20.165457+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.05,
+    "pnl_pct": 5.403,
+    "duracao_min": 68.7,
+    "data_resultado": "2026-07-28T05:22:34.603271+00:00"
   },
   {
     "page_id": "3aba5230-de72-81f8-a7a5-d76e487993f2",
