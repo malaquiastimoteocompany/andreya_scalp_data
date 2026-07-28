@@ -617083,11 +617083,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08193,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08202,
-    "pnl_pct": 0.552,
-    "duracao_min": 28.1,
-    "data_resultado": "2026-07-28T12:56:18.479655+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.08037,
+    "pnl_pct": -0.46,
+    "duracao_min": 71.6,
+    "data_resultado": "2026-07-28T13:39:50.713433+00:00"
   },
   {
     "page_id": "3aba5230-de72-8140-89bf-d7c3ac2ccd9a",
