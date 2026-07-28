@@ -602906,5 +602906,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aba5230-de72-81b2-ab95-f0d7cb250ee9",
+    "token": "REZ",
+    "direccao": "SHORT",
+    "preco_alerta": 0.00262,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00011043,
+    "tp1": 0.002575828,
+    "tp2": 0.00250957,
+    "sl": 0.002785645,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 30296273.0,
+    "spread_pct": 0.0007621951219513207,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-28T01:40:38.774000+00:00",
+    "rsi_1h": 51.48,
+    "funding_rate": -0.0565,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0026086,
+    "toques_sr": 5,
+    "resultado": "Pendente"
   }
 ]
