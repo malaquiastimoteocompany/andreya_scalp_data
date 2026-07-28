@@ -605807,7 +605807,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.74533333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 3.732,
+    "pnl_pct": 0.08,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-28T05:38:19.646552+00:00"
   },
   {
     "page_id": "3aba5230-de72-8103-ae55-dd7f0cff2a98",
