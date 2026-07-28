@@ -602259,7 +602259,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00824,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.008587,
+    "pnl_pct": -3.72,
+    "duracao_min": 58.7,
+    "data_resultado": "2026-07-28T02:09:35.936564+00:00"
   },
   {
     "page_id": "3aba5230-de72-8146-802b-f8dcad56bd19",
