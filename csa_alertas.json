@@ -619355,11 +619355,11 @@
     "estado_cfi": "E1",
     "zona_sr": 96.215,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 97.39,
-    "pnl_pct": 0.807,
-    "duracao_min": 1.8,
-    "data_resultado": "2026-07-28T13:50:12.840820+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 97.85,
+    "pnl_pct": 1.045,
+    "duracao_min": 18.2,
+    "data_resultado": "2026-07-28T14:06:35.515008+00:00"
   },
   {
     "page_id": "3aba5230-de72-81d3-bde2-fef56af756d0",
