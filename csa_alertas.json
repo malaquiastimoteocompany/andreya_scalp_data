@@ -629941,7 +629941,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0044405,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.004398,
+    "pnl_pct": 1.146,
+    "duracao_min": 94.1,
+    "data_resultado": "2026-07-28T23:54:46.562007+00:00"
   },
   {
     "page_id": "3aba5230-de72-81cd-a2a9-c78f6b587da3",
