@@ -600589,11 +600589,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00406,
-    "pnl_pct": 0.645,
-    "duracao_min": 23.6,
-    "data_resultado": "2026-07-28T00:37:10.020208+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004026,
+    "pnl_pct": 0.223,
+    "duracao_min": 52.6,
+    "data_resultado": "2026-07-28T01:06:06.439755+00:00"
   },
   {
     "page_id": "3aba5230-de72-8195-895f-e8da41b5c3fb",
