@@ -616415,11 +616415,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 467.32,
-    "pnl_pct": 0.521,
-    "duracao_min": 26.9,
-    "data_resultado": "2026-07-28T12:27:45.530293+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 464.78,
+    "pnl_pct": 0.247,
+    "duracao_min": 38.5,
+    "data_resultado": "2026-07-28T12:39:23.507974+00:00"
   },
   {
     "page_id": "3aba5230-de72-8161-91b6-d7792e2bb2cf",
