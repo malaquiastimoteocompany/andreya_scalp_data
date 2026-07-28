@@ -604667,11 +604667,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.412,
-    "pnl_pct": 0.498,
-    "duracao_min": 113.7,
-    "data_resultado": "2026-07-28T04:47:18.402345+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.414,
+    "pnl_pct": 0.569,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-28T04:54:38.694606+00:00"
   },
   {
     "page_id": "3aba5230-de72-8110-a534-cea07195040e",
