@@ -602207,11 +602207,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004486,
-    "pnl_pct": 0.47,
-    "duracao_min": 7.1,
-    "data_resultado": "2026-07-28T01:15:54.487009+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.004513,
+    "pnl_pct": 0.773,
+    "duracao_min": 72.0,
+    "data_resultado": "2026-07-28T02:20:44.721741+00:00"
   },
   {
     "page_id": "3aba5230-de72-81df-90bc-d55629a5648f",
