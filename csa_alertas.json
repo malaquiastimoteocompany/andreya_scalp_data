@@ -601073,7 +601073,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 2.754,
+    "pnl_pct": -2.097,
+    "duracao_min": 47.3,
+    "data_resultado": "2026-07-28T01:15:24.923519+00:00"
   },
   {
     "page_id": "3aba5230-de72-81f4-8c3a-fb8dc356d680",
