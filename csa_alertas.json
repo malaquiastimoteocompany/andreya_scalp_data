@@ -620573,11 +620573,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.6964,
-    "pnl_pct": 0.346,
-    "duracao_min": 21.9,
-    "data_resultado": "2026-07-28T14:37:27.644977+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.6936,
+    "pnl_pct": 0.144,
+    "duracao_min": 52.4,
+    "data_resultado": "2026-07-28T15:07:55.312909+00:00"
   },
   {
     "page_id": "3aba5230-de72-8199-bbc1-f41fe3b8ff8b",
