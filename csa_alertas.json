@@ -616809,11 +616809,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.17097,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.17077,
-    "pnl_pct": 0.276,
-    "duracao_min": 24.5,
-    "data_resultado": "2026-07-28T12:42:47.429236+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.17168,
+    "pnl_pct": 0.543,
+    "duracao_min": 30.1,
+    "data_resultado": "2026-07-28T12:48:21.709045+00:00"
   },
   {
     "page_id": "3aba5230-de72-81a6-8804-e6a0818d961f",
