@@ -613167,11 +613167,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02167,
-    "pnl_pct": 0.65,
-    "duracao_min": 117.9,
-    "data_resultado": "2026-07-28T11:19:07.641072+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.02173,
+    "pnl_pct": 0.79,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-28T11:21:39.936718+00:00"
   },
   {
     "page_id": "3aba5230-de72-81c0-bb7a-f9d8d5c216ef",
