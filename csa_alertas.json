@@ -619631,11 +619631,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.0535,
-    "pnl_pct": 0.247,
-    "duracao_min": 45.2,
-    "data_resultado": "2026-07-28T14:36:05.577711+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.0594,
+    "pnl_pct": 0.528,
+    "duracao_min": 91.8,
+    "data_resultado": "2026-07-28T15:22:43.142683+00:00"
   },
   {
     "page_id": "3aba5230-de72-8184-974e-d20e8b16c9a3",
