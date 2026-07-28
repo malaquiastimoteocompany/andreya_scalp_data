@@ -615049,7 +615049,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 113.53,
+    "pnl_pct": -0.543,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-28T13:00:43.089332+00:00"
   },
   {
     "page_id": "3aba5230-de72-818a-9cb3-deb00f95ab69",
