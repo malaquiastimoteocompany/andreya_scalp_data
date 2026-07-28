@@ -606985,11 +606985,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 14.86,
-    "pnl_pct": 2.201,
-    "duracao_min": 20.9,
-    "data_resultado": "2026-07-28T05:01:31.443681+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 14.45,
+    "pnl_pct": 0.791,
+    "duracao_min": 38.9,
+    "data_resultado": "2026-07-28T05:19:29.831274+00:00"
   },
   {
     "page_id": "3aba5230-de72-8166-bbfa-e9bf5d9cd855",
