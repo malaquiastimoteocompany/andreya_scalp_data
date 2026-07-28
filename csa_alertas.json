@@ -625139,7 +625139,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.0283,
+    "pnl_pct": -0.497,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-28T19:38:33.149076+00:00"
   },
   {
     "page_id": "3aba5230-de72-81b8-b9a7-cfd25b882298",
