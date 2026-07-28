@@ -621505,7 +621505,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 1.658,
+    "pnl_pct": 0.607,
+    "duracao_min": 35.7,
+    "data_resultado": "2026-07-28T15:26:32.943966+00:00"
   },
   {
     "page_id": "3aba5230-de72-81fe-a135-d431b311a8b0",
