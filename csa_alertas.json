@@ -619233,7 +619233,11 @@
     "estado_cfi": "E1",
     "zona_sr": 186.58,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 186.93,
+    "pnl_pct": 0.473,
+    "duracao_min": 6.5,
+    "data_resultado": "2026-07-28T13:52:37.795245+00:00"
   },
   {
     "page_id": "3aba5230-de72-81d6-a554-e0c2f465e09c",
