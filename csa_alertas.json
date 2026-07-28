@@ -626671,7 +626671,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.012494,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.011903,
+    "pnl_pct": 4.432,
+    "duracao_min": 81.3,
+    "data_resultado": "2026-07-28T20:39:32.542533+00:00"
   },
   {
     "page_id": "3aba5230-de72-8140-8001-c2f15f046244",
