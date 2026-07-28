@@ -600877,7 +600877,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 1.5504,
+    "pnl_pct": -6.939,
+    "duracao_min": 28.0,
+    "data_resultado": "2026-07-28T00:53:41.434140+00:00"
   },
   {
     "page_id": "3aba5230-de72-8169-9219-fd1b98855816",
