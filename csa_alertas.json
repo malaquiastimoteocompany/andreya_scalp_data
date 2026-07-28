@@ -599241,11 +599241,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3249,
-    "pnl_pct": 0.807,
-    "duracao_min": 8.1,
-    "data_resultado": "2026-07-27T23:14:43.440393+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.3275,
+    "pnl_pct": 1.21,
+    "duracao_min": 74.7,
+    "data_resultado": "2026-07-28T00:21:21.551441+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81b3-b260-fa444a0f88aa",
