@@ -609269,7 +609269,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.028825,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.02879,
+    "pnl_pct": 0.518,
+    "duracao_min": 84.8,
+    "data_resultado": "2026-07-28T07:45:40.389596+00:00"
   },
   {
     "page_id": "3aba5230-de72-81e8-b667-e6cac8368bfb",
