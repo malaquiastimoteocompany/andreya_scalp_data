@@ -621717,7 +621717,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.025575,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.02561,
+    "pnl_pct": 0.353,
+    "duracao_min": 12.2,
+    "data_resultado": "2026-07-28T15:13:41.229229+00:00"
   },
   {
     "page_id": "3aba5230-de72-81b5-8944-dea71cc7264f",
