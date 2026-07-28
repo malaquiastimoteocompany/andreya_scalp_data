@@ -612615,11 +612615,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.21067,
-    "pnl_pct": 4.206,
-    "duracao_min": 16.1,
-    "data_resultado": "2026-07-28T09:19:15.817274+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.22003,
+    "pnl_pct": 2.078,
+    "duracao_min": 111.0,
+    "data_resultado": "2026-07-28T10:54:09.889152+00:00"
   },
   {
     "page_id": "3aba5230-de72-81d4-96b0-c07f89328554",
