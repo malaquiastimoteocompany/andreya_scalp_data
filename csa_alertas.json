@@ -630519,7 +630519,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.005943,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.005948,
+    "pnl_pct": 0.575,
+    "duracao_min": 56.1,
+    "data_resultado": "2026-07-28T23:46:49.671382+00:00"
   },
   {
     "page_id": "3aba5230-de72-8157-ba53-d07c881a38d1",
