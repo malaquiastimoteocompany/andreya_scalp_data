@@ -627054,5 +627054,31 @@
     "zona_sr": 0.5822,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aba5230-de72-8145-aa7c-fe47e0f29036",
+    "token": "BLESS",
+    "direccao": "LONG",
+    "preco_alerta": 0.008262,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00026007,
+    "tp1": 0.008366028000000001,
+    "tp2": 0.00852207,
+    "sl": 0.007871895,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 9998116.0,
+    "spread_pct": 0.0008475089291119393,
+    "oi_usd": 1643973.2459500001,
+    "data_alerta": "2026-07-28T19:43:34.257867+00:00",
+    "rsi_1h": 39.85,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0082585,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
