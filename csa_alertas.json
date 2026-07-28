@@ -611817,11 +611817,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 194.14,
-    "pnl_pct": 0.331,
-    "duracao_min": 2.2,
-    "data_resultado": "2026-07-28T08:18:04.258768+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 194.42,
+    "pnl_pct": 0.403,
+    "duracao_min": 4.9,
+    "data_resultado": "2026-07-28T08:20:50.466711+00:00"
   },
   {
     "page_id": "3aba5230-de72-8186-a529-e57616f28691",
