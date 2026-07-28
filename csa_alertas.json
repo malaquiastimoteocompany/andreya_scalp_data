@@ -617089,11 +617089,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00170567,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001718,
-    "pnl_pct": 0.999,
-    "duracao_min": 107.1,
-    "data_resultado": "2026-07-28T14:15:09.667107+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.001737,
+    "pnl_pct": 1.558,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-28T14:28:42.369175+00:00"
   },
   {
     "page_id": "3aba5230-de72-8135-aac9-d613730f1d8f",
