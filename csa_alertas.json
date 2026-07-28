@@ -603015,11 +603015,11 @@
     "estado_cfi": "E1",
     "zona_sr": 98.145,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 97.14,
-    "pnl_pct": 0.553,
-    "duracao_min": 16.8,
-    "data_resultado": "2026-07-28T01:52:26.583619+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 97.86,
+    "pnl_pct": 0.184,
+    "duracao_min": 81.6,
+    "data_resultado": "2026-07-28T02:57:17.684036+00:00"
   },
   {
     "page_id": "3aba5230-de72-81cc-9cb3-c99f74275276",
