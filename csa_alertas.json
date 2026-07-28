@@ -614989,11 +614989,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.5947,
-    "pnl_pct": 2.655,
-    "duracao_min": 64.7,
-    "data_resultado": "2026-07-28T12:03:07.243889+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.6156,
+    "pnl_pct": 2.017,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-28T12:58:58.277304+00:00"
   },
   {
     "page_id": "3aba5230-de72-81b6-99a1-efa342a5c91c",
