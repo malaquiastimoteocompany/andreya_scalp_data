@@ -615359,11 +615359,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0023705,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.002391,
-    "pnl_pct": 0.631,
-    "duracao_min": 79.1,
-    "data_resultado": "2026-07-28T12:27:21.396933+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.002413,
+    "pnl_pct": 1.094,
+    "duracao_min": 107.7,
+    "data_resultado": "2026-07-28T12:56:00.387572+00:00"
   },
   {
     "page_id": "3aba5230-de72-816b-8eb5-dadd184ea858",
