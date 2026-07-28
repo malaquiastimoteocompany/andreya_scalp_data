@@ -606643,7 +606643,11 @@
     "estado_cfi": "E1",
     "zona_sr": 46.07,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 46.37,
+    "pnl_pct": 0.238,
+    "duracao_min": 41.7,
+    "data_resultado": "2026-07-28T05:07:29.463094+00:00"
   },
   {
     "page_id": "3aba5230-de72-8150-9e04-c8360aeb569a",
