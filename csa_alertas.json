@@ -608185,11 +608185,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0679,
-    "pnl_pct": 0.411,
-    "duracao_min": 86.6,
-    "data_resultado": "2026-07-28T06:59:46.299024+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06826,
+    "pnl_pct": 0.147,
+    "duracao_min": 94.5,
+    "data_resultado": "2026-07-28T07:07:38.915648+00:00"
   },
   {
     "page_id": "3aba5230-de72-819d-bf2d-eda1d28cd09e",
