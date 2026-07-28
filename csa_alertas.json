@@ -624663,7 +624663,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.067755,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.06829,
+    "pnl_pct": 0.294,
+    "duracao_min": 41.1,
+    "data_resultado": "2026-07-28T18:01:59.821389+00:00"
   },
   {
     "page_id": "3aba5230-de72-8130-ae90-e95def08f986",
