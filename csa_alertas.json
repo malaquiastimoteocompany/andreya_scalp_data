@@ -613255,11 +613255,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04248,
-    "pnl_pct": 0.449,
-    "duracao_min": 12.2,
-    "data_resultado": "2026-07-28T09:40:25.530144+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04229,
+    "pnl_pct": 0.225,
+    "duracao_min": 101.7,
+    "data_resultado": "2026-07-28T11:09:55.004570+00:00"
   },
   {
     "page_id": "3aba5230-de72-812e-a562-e457c3aa7630",
