@@ -605749,7 +605749,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1453.45,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 1435.56,
+    "pnl_pct": -1.536,
+    "duracao_min": 95.9,
+    "data_resultado": "2026-07-28T05:09:23.684841+00:00"
   },
   {
     "page_id": "3aba5230-de72-813e-b42b-c7edf563148e",
