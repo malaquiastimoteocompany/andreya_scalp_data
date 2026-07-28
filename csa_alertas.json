@@ -617220,5 +617220,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aba5230-de72-8112-a1a3-f07962399911",
+    "token": "BERA",
+    "direccao": "LONG",
+    "preco_alerta": 0.1639,
+    "score": 8,
+    "setup": "A",
+    "prioritario": true,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00172143,
+    "tp1": 0.164588572,
+    "tp2": 0.16562143,
+    "sl": 0.16131785499999998,
+    "componentes": "sr_zone=2/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 18722376.0,
+    "spread_pct": 0.0006103143118705461,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-28T12:40:42.238633+00:00",
+    "rsi_1h": 26.16,
+    "funding_rate": 0.0033,
+    "estado_cfi": "E1",
+    "zona_sr": 0.1635,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
