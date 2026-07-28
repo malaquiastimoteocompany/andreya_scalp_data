@@ -600527,11 +600527,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.1354,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.1132,
-    "pnl_pct": 0.831,
-    "duracao_min": 61.3,
-    "data_resultado": "2026-07-28T01:09:47.976301+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 2.1208,
+    "pnl_pct": 0.652,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-28T02:09:18.395383+00:00"
   },
   {
     "page_id": "3aba5230-de72-8140-a0a4-f619748b12d1",
