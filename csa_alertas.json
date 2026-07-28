@@ -605717,11 +605717,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03966,
-    "pnl_pct": 0.38,
-    "duracao_min": 108.1,
-    "data_resultado": "2026-07-28T05:09:16.712945+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.03972,
+    "pnl_pct": 0.456,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-28T05:22:22.022921+00:00"
   },
   {
     "page_id": "3aba5230-de72-8195-8f33-ca1e25208910",
