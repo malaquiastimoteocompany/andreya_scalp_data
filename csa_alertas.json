@@ -613343,7 +613343,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00235733,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.002405,
+    "pnl_pct": -2.253,
+    "duracao_min": 80.1,
+    "data_resultado": "2026-07-28T10:55:49.662969+00:00"
   },
   {
     "page_id": "3aba5230-de72-81dd-b44e-c8197dfa706b",
