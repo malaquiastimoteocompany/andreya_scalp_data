@@ -626039,11 +626039,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1185,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.119,
-    "pnl_pct": 0.422,
-    "duracao_min": 55.1,
-    "data_resultado": "2026-07-28T19:31:02.887756+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.1187,
+    "pnl_pct": 0.295,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-28T20:36:43.976817+00:00"
   },
   {
     "page_id": "3aba5230-de72-8146-9a95-c16b70af516b",
