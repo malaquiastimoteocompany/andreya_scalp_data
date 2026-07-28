@@ -618237,11 +618237,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3191,
-    "pnl_pct": 0.901,
-    "duracao_min": 19.4,
-    "data_resultado": "2026-07-28T13:32:28.774522+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.3173,
+    "pnl_pct": 1.18,
+    "duracao_min": 29.1,
+    "data_resultado": "2026-07-28T13:42:10.719806+00:00"
   },
   {
     "page_id": "3aba5230-de72-8155-90b5-f7eda57c2b2f",
