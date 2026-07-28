@@ -612823,7 +612823,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.6389,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.6411,
+    "pnl_pct": 0.297,
+    "duracao_min": 78.7,
+    "data_resultado": "2026-07-28T10:30:03.404158+00:00"
   },
   {
     "page_id": "3aba5230-de72-81e4-ba84-d1fac5adef64",
