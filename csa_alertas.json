@@ -608783,11 +608783,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 55.428,
-    "pnl_pct": 0.555,
-    "duracao_min": 31.6,
-    "data_resultado": "2026-07-28T06:35:17.283426+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 55.072,
+    "pnl_pct": 0.232,
+    "duracao_min": 100.3,
+    "data_resultado": "2026-07-28T07:43:56.527476+00:00"
   },
   {
     "page_id": "3aba5230-de72-8178-b308-f69f2684f273",
