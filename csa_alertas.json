@@ -622407,11 +622407,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1166,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1157,
-    "pnl_pct": 0.43,
-    "duracao_min": 37.5,
-    "data_resultado": "2026-07-28T16:09:17.642100+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1164,
+    "pnl_pct": 0.129,
+    "duracao_min": 48.3,
+    "data_resultado": "2026-07-28T16:20:02.105770+00:00"
   },
   {
     "page_id": "3aba5230-de72-812d-9aa2-ea9030f01e7d",
