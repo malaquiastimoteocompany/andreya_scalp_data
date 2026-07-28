@@ -598403,7 +598403,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.07746,
+    "pnl_pct": 0.545,
+    "duracao_min": 83.3,
+    "data_resultado": "2026-07-28T00:16:05.639013+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8184-ba87-e65f8066efdf",
