@@ -609469,11 +609469,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.073,
-    "pnl_pct": 0.454,
-    "duracao_min": 16.6,
-    "data_resultado": "2026-07-28T06:44:55.537124+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.07334,
+    "pnl_pct": 0.688,
+    "duracao_min": 101.1,
+    "data_resultado": "2026-07-28T08:09:25.881897+00:00"
   },
   {
     "page_id": "3aba5230-de72-8100-885d-cde668164174",
