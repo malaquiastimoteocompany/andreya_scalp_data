@@ -607487,11 +607487,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07795,
-    "pnl_pct": 0.399,
-    "duracao_min": 88.8,
-    "data_resultado": "2026-07-28T06:31:55.854623+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.07809,
+    "pnl_pct": 0.489,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-28T07:04:13.567937+00:00"
   },
   {
     "page_id": "3aba5230-de72-81e1-88ff-de14eb0384d5",
