@@ -608443,7 +608443,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.20964,
+    "pnl_pct": 4.444,
+    "duracao_min": 6.0,
+    "data_resultado": "2026-07-28T06:06:36.112967+00:00"
   },
   {
     "page_id": "3aba5230-de72-8131-b085-fee32db0e1bf",
