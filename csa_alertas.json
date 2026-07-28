@@ -624273,11 +624273,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.37716667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3743,
-    "pnl_pct": 0.769,
-    "duracao_min": 17.0,
-    "data_resultado": "2026-07-28T17:12:57.467689+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.3745,
+    "pnl_pct": 0.742,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-28T18:56:32.879885+00:00"
   },
   {
     "page_id": "3aba5230-de72-8120-b121-f26e27b4d7fe",
