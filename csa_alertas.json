@@ -598117,11 +598117,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.141,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1427,
-    "pnl_pct": 1.421,
-    "duracao_min": 75.9,
-    "data_resultado": "2026-07-28T00:01:25.855436+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1446,
+    "pnl_pct": 2.097,
+    "duracao_min": 108.2,
+    "data_resultado": "2026-07-28T00:33:44.744777+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8198-88c0-eab348fccde1",
