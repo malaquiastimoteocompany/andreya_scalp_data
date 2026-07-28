@@ -631291,11 +631291,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01499,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01512,
-    "pnl_pct": 0.398,
-    "duracao_min": 15.5,
-    "data_resultado": "2026-07-28T23:33:49.707181+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.0152,
+    "pnl_pct": 0.664,
+    "duracao_min": 32.4,
+    "data_resultado": "2026-07-28T23:50:42.548872+00:00"
   },
   {
     "page_id": "3aba5230-de72-810f-9b54-fe99a0274073",
