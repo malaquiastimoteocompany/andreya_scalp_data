@@ -602544,5 +602544,31 @@
     "zona_sr": 0.002355,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aba5230-de72-81d2-ae57-c6ce3abfc880",
+    "token": "WOO",
+    "direccao": "LONG",
+    "preco_alerta": 0.01239,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00022,
+    "tp1": 0.012478,
+    "tp2": 0.01261,
+    "sl": 0.01206,
+    "componentes": "sr_zone=2/2 | rsi_1h=1/1 | cluster=0/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 9045515.0,
+    "spread_pct": 0.0008074283407347269,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-28T01:16:04.729191+00:00",
+    "rsi_1h": 34.23,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0124,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
