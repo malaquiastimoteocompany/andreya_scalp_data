@@ -619729,11 +619729,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 47.73,
-    "pnl_pct": 0.952,
-    "duracao_min": 13.0,
-    "data_resultado": "2026-07-28T14:07:01.030842+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 47.17,
+    "pnl_pct": 0.36,
+    "duracao_min": 14.9,
+    "data_resultado": "2026-07-28T14:08:54.726738+00:00"
   },
   {
     "page_id": "3aba5230-de72-814b-9bf2-cb5eb72566c9",
