@@ -616639,7 +616639,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05135,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.05164,
+    "pnl_pct": 0.722,
+    "duracao_min": 59.5,
+    "data_resultado": "2026-07-28T13:02:57.615907+00:00"
   },
   {
     "page_id": "3aba5230-de72-8124-9d4c-eb9ccd36f701",
