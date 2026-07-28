@@ -618703,7 +618703,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.1945,
+    "pnl_pct": 0.562,
+    "duracao_min": 9.3,
+    "data_resultado": "2026-07-28T13:42:45.962628+00:00"
   },
   {
     "page_id": "3aba5230-de72-8109-abde-c78f07823f53",
