@@ -620147,11 +620147,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0487,
-    "pnl_pct": 0.371,
-    "duracao_min": 21.1,
-    "data_resultado": "2026-07-28T14:25:13.626690+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.04896,
+    "pnl_pct": 0.639,
+    "duracao_min": 32.5,
+    "data_resultado": "2026-07-28T14:36:38.275480+00:00"
   },
   {
     "page_id": "3aba5230-de72-8183-b7a0-e7df69358d32",
