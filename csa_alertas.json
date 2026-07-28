@@ -618671,11 +618671,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00408125,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004183,
-    "pnl_pct": 2.149,
-    "duracao_min": 56.7,
-    "data_resultado": "2026-07-28T14:24:48.203224+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.004312,
+    "pnl_pct": 3.724,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-28T15:29:03.574068+00:00"
   },
   {
     "page_id": "3aba5230-de72-8152-a96d-e96aea6a7320",
