@@ -602027,7 +602027,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.017665,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.01739,
+    "pnl_pct": -1.751,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-28T03:02:22.029524+00:00"
   },
   {
     "page_id": "3aba5230-de72-8127-9d6e-ffacf3d3f413",
