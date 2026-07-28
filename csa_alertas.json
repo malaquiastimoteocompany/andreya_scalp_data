@@ -615479,11 +615479,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001822,
-    "pnl_pct": 0.6,
-    "duracao_min": 100.9,
-    "data_resultado": "2026-07-28T12:51:40.227983+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.001809,
+    "pnl_pct": 0.955,
+    "duracao_min": 108.4,
+    "data_resultado": "2026-07-28T12:59:12.127529+00:00"
   },
   {
     "page_id": "3aba5230-de72-8101-a287-c0d55e364342",
