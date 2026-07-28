@@ -629385,11 +629385,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004385,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004403,
-    "pnl_pct": 0.388,
-    "duracao_min": 2.6,
-    "data_resultado": "2026-07-28T22:00:55.563922+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004384,
+    "pnl_pct": 0.171,
+    "duracao_min": 33.5,
+    "data_resultado": "2026-07-28T22:31:45.759728+00:00"
   },
   {
     "page_id": "3aba5230-de72-8190-9e8f-dc1976f975c9",
