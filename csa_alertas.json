@@ -624935,11 +624935,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.20423333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2056,
-    "pnl_pct": 0.44,
-    "duracao_min": 15.9,
-    "data_resultado": "2026-07-28T17:49:35.706494+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2068,
+    "pnl_pct": 0.733,
+    "duracao_min": 33.1,
+    "data_resultado": "2026-07-28T18:06:42.550746+00:00"
   },
   {
     "page_id": "3aba5230-de72-813e-872a-c78db0d663af",
