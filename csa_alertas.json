@@ -607891,11 +607891,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1441.88,
-    "pnl_pct": 0.437,
-    "duracao_min": 40.1,
-    "data_resultado": "2026-07-28T05:51:52.964421+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1454.11,
+    "pnl_pct": 0.863,
+    "duracao_min": 118.9,
+    "data_resultado": "2026-07-28T07:10:40.732042+00:00"
   },
   {
     "page_id": "3aba5230-de72-8187-8526-dd7dc4caf802",
