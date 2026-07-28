@@ -600617,11 +600617,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0173,
-    "pnl_pct": 0.992,
-    "duracao_min": 94.8,
-    "data_resultado": "2026-07-28T01:47:54.999436+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.0174,
+    "pnl_pct": 1.284,
+    "duracao_min": 119.3,
+    "data_resultado": "2026-07-28T02:12:25.295875+00:00"
   },
   {
     "page_id": "3aba5230-de72-810c-95df-dec22de27bd0",
