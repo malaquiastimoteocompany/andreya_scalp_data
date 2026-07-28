@@ -616161,7 +616161,11 @@
     "estado_cfi": "E1",
     "zona_sr": 195.475,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 195.29,
+    "pnl_pct": 0.231,
+    "duracao_min": 8.5,
+    "data_resultado": "2026-07-28T11:57:18.869281+00:00"
   },
   {
     "page_id": "3aba5230-de72-8128-955b-dd61f2ef291c",
