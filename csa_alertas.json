@@ -608919,7 +608919,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.7588,
+    "pnl_pct": -1.288,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-28T08:09:02.514408+00:00"
   },
   {
     "page_id": "3aba5230-de72-816d-8de9-c6654f33a409",
