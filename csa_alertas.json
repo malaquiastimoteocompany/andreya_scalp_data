@@ -601967,7 +601967,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.6967,
+    "pnl_pct": 0.375,
+    "duracao_min": 121.7,
+    "data_resultado": "2026-07-28T03:02:14.799909+00:00"
   },
   {
     "page_id": "3aba5230-de72-819e-b41d-fac0d845de29",
