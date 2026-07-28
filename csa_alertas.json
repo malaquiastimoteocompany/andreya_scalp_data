@@ -603557,11 +603557,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.38306667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3856,
-    "pnl_pct": 0.81,
-    "duracao_min": 81.9,
-    "data_resultado": "2026-07-28T03:20:05.329367+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.3884,
+    "pnl_pct": 1.176,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-28T03:58:49.051227+00:00"
   },
   {
     "page_id": "3aba5230-de72-81e8-94de-e9a58c729ab1",
