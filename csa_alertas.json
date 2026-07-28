@@ -604127,7 +604127,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.6397,
+    "pnl_pct": 0.451,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-28T04:21:57.997958+00:00"
   },
   {
     "page_id": "3aba5230-de72-8118-b244-f8685329a3f3",
