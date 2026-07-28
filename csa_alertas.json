@@ -622517,11 +622517,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.9275,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 3.894,
-    "pnl_pct": 0.562,
-    "duracao_min": 16.4,
-    "data_resultado": "2026-07-28T15:49:30.079961+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.86,
+    "pnl_pct": 0.996,
+    "duracao_min": 104.0,
+    "data_resultado": "2026-07-28T17:17:09.160203+00:00"
   },
   {
     "page_id": "3aba5230-de72-81ac-93ca-fbff8834e3ca",
