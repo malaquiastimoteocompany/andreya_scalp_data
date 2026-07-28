@@ -617899,7 +617899,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 112.04,
+    "pnl_pct": 1.252,
+    "duracao_min": 27.6,
+    "data_resultado": "2026-07-28T13:30:43.072200+00:00"
   },
   {
     "page_id": "3aba5230-de72-8154-824b-f1746e62d2a9",
