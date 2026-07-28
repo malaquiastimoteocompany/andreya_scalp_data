@@ -621131,11 +621131,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.067755,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06805,
-    "pnl_pct": 0.28,
-    "duracao_min": 8.6,
-    "data_resultado": "2026-07-28T14:49:16.189921+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.06786,
+    "pnl_pct": 0.14,
+    "duracao_min": 27.6,
+    "data_resultado": "2026-07-28T15:08:15.598516+00:00"
   },
   {
     "page_id": "3aba5230-de72-8190-8f6a-dda6b748e0c7",
