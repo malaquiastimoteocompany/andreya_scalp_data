@@ -615139,11 +615139,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0669,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0677,
-    "pnl_pct": 0.984,
-    "duracao_min": 92.9,
-    "data_resultado": "2026-07-28T12:34:08.252471+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.06736,
+    "pnl_pct": 0.731,
+    "duracao_min": 121.5,
+    "data_resultado": "2026-07-28T13:02:39.906111+00:00"
   },
   {
     "page_id": "3aba5230-de72-810e-afe7-fc6ac9a6247b",
