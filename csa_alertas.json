@@ -612507,7 +612507,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 114.72,
+    "pnl_pct": -2.78,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-28T10:58:25.184322+00:00"
   },
   {
     "page_id": "3aba5230-de72-81e1-ab31-e04db1dc0990",
