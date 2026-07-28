@@ -622067,11 +622067,11 @@
     "estado_cfi": "E1",
     "zona_sr": 4.61e-06,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 4.637e-06,
-    "pnl_pct": 0.433,
-    "duracao_min": 8.0,
-    "data_resultado": "2026-07-28T15:21:01.172565+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 4.674e-06,
+    "pnl_pct": 0.834,
+    "duracao_min": 19.7,
+    "data_resultado": "2026-07-28T15:32:45.278251+00:00"
   },
   {
     "page_id": "3aba5230-de72-8143-91b6-f8f3aa7be560",
