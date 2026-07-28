@@ -608169,11 +608169,11 @@
     "estado_cfi": "E1",
     "zona_sr": 46.07,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 46.36,
-    "pnl_pct": 0.26,
-    "duracao_min": 76.3,
-    "data_resultado": "2026-07-28T06:44:38.477470+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 46.39,
+    "pnl_pct": 0.292,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-28T07:28:21.413639+00:00"
   },
   {
     "page_id": "3aba5230-de72-81bb-ac30-eb7897cb4bde",
