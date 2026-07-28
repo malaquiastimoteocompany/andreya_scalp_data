@@ -628033,7 +628033,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.072435,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.0727,
+    "pnl_pct": 0.304,
+    "duracao_min": 63.5,
+    "data_resultado": "2026-07-28T21:39:32.729276+00:00"
   },
   {
     "page_id": "3aba5230-de72-81b4-901a-eafccf586a87",
