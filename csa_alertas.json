@@ -623959,7 +623959,11 @@
     "estado_cfi": "E1",
     "zona_sr": 46.54714286,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 46.42,
+    "pnl_pct": 0.236,
+    "duracao_min": 23.1,
+    "data_resultado": "2026-07-28T17:09:25.569359+00:00"
   },
   {
     "page_id": "3aba5230-de72-8126-a9e7-da022ecc2d31",
