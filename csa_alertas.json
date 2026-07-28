@@ -621839,7 +621839,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 3.456,
+    "pnl_pct": 0.465,
+    "duracao_min": 4.1,
+    "data_resultado": "2026-07-28T15:10:21.647800+00:00"
   },
   {
     "page_id": "3aba5230-de72-8106-92ca-c7a7eca45bc4",
