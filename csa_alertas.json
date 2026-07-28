@@ -629159,11 +629159,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.307,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.309,
-    "pnl_pct": 0.305,
-    "duracao_min": 45.8,
-    "data_resultado": "2026-07-28T22:21:33.509383+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.302,
+    "pnl_pct": 0.571,
+    "duracao_min": 70.5,
+    "data_resultado": "2026-07-28T22:46:19.520711+00:00"
   },
   {
     "page_id": "3aba5230-de72-81c6-9be3-ee98012db0a8",
