@@ -624090,5 +624090,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aba5230-de72-81a6-a066-e7e52a9c08c1",
+    "token": "VET",
+    "direccao": "LONG",
+    "preco_alerta": 0.004572,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 3.529e-05,
+    "tp1": 0.0045861159999999995,
+    "tp2": 0.00460729,
+    "sl": 0.004519065,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 73862622.0,
+    "spread_pct": 0.00021874658208449423,
+    "oi_usd": 4177974.757572,
+    "data_alerta": "2026-07-28T16:55:38.104628+00:00",
+    "rsi_1h": 52.0,
+    "funding_rate": 0.0032,
+    "estado_cfi": "E1",
+    "zona_sr": 0.004572,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
