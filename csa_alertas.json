@@ -620197,11 +620197,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.37716667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3719,
-    "pnl_pct": 1.038,
-    "duracao_min": 60.8,
-    "data_resultado": "2026-07-28T15:04:39.578450+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3759,
+    "pnl_pct": 0.506,
+    "duracao_min": 97.0,
+    "data_resultado": "2026-07-28T15:40:53.910225+00:00"
   },
   {
     "page_id": "3aba5230-de72-8176-9671-e6209487bbbc",
