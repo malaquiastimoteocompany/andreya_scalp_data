@@ -627029,7 +627029,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.07331,
+    "pnl_pct": 0.973,
+    "duracao_min": 66.2,
+    "data_resultado": "2026-07-28T20:42:13.520119+00:00"
   },
   {
     "page_id": "3aba5230-de72-81ea-b04c-f195f0a4a2b6",
