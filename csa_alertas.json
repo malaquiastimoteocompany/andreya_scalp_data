@@ -619511,11 +619511,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 2.681,
-    "pnl_pct": 0.941,
-    "duracao_min": 1.4,
-    "data_resultado": "2026-07-28T13:50:20.008520+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.693,
+    "pnl_pct": 1.167,
+    "duracao_min": 109.9,
+    "data_resultado": "2026-07-28T15:38:50.819127+00:00"
   },
   {
     "page_id": "3aba5230-de72-8110-9404-e04fa6d10875",
