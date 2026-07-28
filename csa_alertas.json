@@ -608427,11 +608427,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.4209,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.4168,
-    "pnl_pct": 0.62,
-    "duracao_min": 18.2,
-    "data_resultado": "2026-07-28T06:04:35.955771+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.413,
+    "pnl_pct": 1.073,
+    "duracao_min": 112.9,
+    "data_resultado": "2026-07-28T07:39:18.670888+00:00"
   },
   {
     "page_id": "3aba5230-de72-813c-bd06-c83e7d771264",
