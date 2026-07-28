@@ -608471,11 +608471,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.20964,
-    "pnl_pct": 4.444,
-    "duracao_min": 6.0,
-    "data_resultado": "2026-07-28T06:06:36.112967+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.20224,
+    "pnl_pct": 6.131,
+    "duracao_min": 18.0,
+    "data_resultado": "2026-07-28T06:18:39.151544+00:00"
   },
   {
     "page_id": "3aba5230-de72-8131-b085-fee32db0e1bf",
