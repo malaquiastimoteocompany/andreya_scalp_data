@@ -605363,11 +605363,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08012,
-    "pnl_pct": 0.78,
-    "duracao_min": 21.3,
-    "data_resultado": "2026-07-28T03:37:02.043691+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.079,
+    "pnl_pct": 0.075,
+    "duracao_min": 80.1,
+    "data_resultado": "2026-07-28T04:35:50.789350+00:00"
   },
   {
     "page_id": "3aba5230-de72-81b0-ae9a-cefcd0aa24d0",
