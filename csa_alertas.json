@@ -602267,11 +602267,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 2.083,
-    "pnl_pct": 0.434,
-    "duracao_min": 4.3,
-    "data_resultado": "2026-07-28T01:12:36.516192+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 2.094,
+    "pnl_pct": 0.699,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-28T03:08:49.718057+00:00"
   },
   {
     "page_id": "3aba5230-de72-8131-9127-e1f8f16fa29f",
