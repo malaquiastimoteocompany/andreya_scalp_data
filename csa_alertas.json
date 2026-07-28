@@ -602087,7 +602087,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.04238,
+    "pnl_pct": -0.54,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-28T03:02:37.807083+00:00"
   },
   {
     "page_id": "3aba5230-de72-8182-8cf2-d634b0714bc4",
