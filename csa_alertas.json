@@ -616903,11 +616903,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.028825,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02865,
-    "pnl_pct": 0.417,
-    "duracao_min": 13.4,
-    "data_resultado": "2026-07-28T12:34:28.274652+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.02879,
+    "pnl_pct": 0.174,
+    "duracao_min": 33.6,
+    "data_resultado": "2026-07-28T12:54:40.541148+00:00"
   },
   {
     "page_id": "3aba5230-de72-8144-bebc-dbf2d1472eaa",
