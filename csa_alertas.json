@@ -623627,11 +623627,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.147,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1444,
-    "pnl_pct": 1.299,
-    "duracao_min": 2.9,
-    "data_resultado": "2026-07-28T16:24:13.702488+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1465,
+    "pnl_pct": 0.581,
+    "duracao_min": 42.5,
+    "data_resultado": "2026-07-28T17:03:51.319116+00:00"
   },
   {
     "page_id": "3aba5230-de72-8125-8edc-dbe2fe38df23",
