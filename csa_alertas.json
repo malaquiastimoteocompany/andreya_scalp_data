@@ -628861,11 +628861,11 @@
     "estado_cfi": "E1",
     "zona_sr": 4.61e-06,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 4.642e-06,
-    "pnl_pct": 0.672,
-    "duracao_min": 12.4,
-    "data_resultado": "2026-07-28T21:38:05.162055+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 4.651e-06,
+    "pnl_pct": 0.77,
+    "duracao_min": 19.7,
+    "data_resultado": "2026-07-28T21:45:23.178244+00:00"
   },
   {
     "page_id": "3aba5230-de72-81cc-ab5c-e560e569eda5",
