@@ -628885,7 +628885,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2164,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.2123,
+    "pnl_pct": -1.667,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-28T23:16:39.134329+00:00"
   },
   {
     "page_id": "3aba5230-de72-8199-afd1-e5b616542a62",
