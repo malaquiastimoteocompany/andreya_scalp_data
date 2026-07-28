@@ -629359,11 +629359,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0549875,
     "toques_sr": 8,
-    "resultado": "TP Hit",
-    "preco_saida": 0.05513,
-    "pnl_pct": 0.218,
-    "duracao_min": 6.7,
-    "data_resultado": "2026-07-28T22:05:22.143519+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.05498,
+    "pnl_pct": 0.082,
+    "duracao_min": 9.8,
+    "data_resultado": "2026-07-28T22:08:26.136228+00:00"
   },
   {
     "page_id": "3aba5230-de72-8143-875d-deb70b9f1ba5",
