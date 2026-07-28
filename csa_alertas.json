@@ -608629,11 +608629,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.003172,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.003201,
-    "pnl_pct": 0.629,
-    "duracao_min": 53.6,
-    "data_resultado": "2026-07-28T06:54:47.812167+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.003181,
+    "pnl_pct": 0.314,
+    "duracao_min": 96.2,
+    "data_resultado": "2026-07-28T07:37:20.689751+00:00"
   },
   {
     "page_id": "3aba5230-de72-812c-800e-dac42a6dd240",
