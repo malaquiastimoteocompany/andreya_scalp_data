@@ -618841,11 +618841,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 47.5,
-    "pnl_pct": 1.288,
-    "duracao_min": 1.7,
-    "data_resultado": "2026-07-28T13:37:52.766942+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 47.13,
+    "pnl_pct": 1.673,
+    "duracao_min": 6.9,
+    "data_resultado": "2026-07-28T13:43:02.717302+00:00"
   },
   {
     "page_id": "3aba5230-de72-8157-9336-e33e227fb52a",
