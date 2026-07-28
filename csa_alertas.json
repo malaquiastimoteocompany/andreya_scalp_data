@@ -614790,5 +614790,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aba5230-de72-81b6-99a1-efa342a5c91c",
+    "token": "UMA",
+    "direccao": "LONG",
+    "preco_alerta": 0.3583,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00995,
+    "tp1": 0.36228,
+    "tp2": 0.36825,
+    "sl": 0.343375,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 9169785.0,
+    "spread_pct": 0.0002792906018712163,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-28T10:58:34.234174+00:00",
+    "rsi_1h": 46.04,
+    "funding_rate": -0.0866,
+    "estado_cfi": "E1",
+    "zona_sr": 0.3577,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
