@@ -624969,11 +624969,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.009056,
-    "pnl_pct": 1.2,
-    "duracao_min": 25.3,
-    "data_resultado": "2026-07-28T17:59:13.667583+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.009179,
+    "pnl_pct": 0.529,
+    "duracao_min": 36.7,
+    "data_resultado": "2026-07-28T18:10:35.965081+00:00"
   },
   {
     "page_id": "3aba5230-de72-8103-9a70-fae9b3911157",
