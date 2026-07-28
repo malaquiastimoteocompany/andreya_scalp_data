@@ -607607,11 +607607,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.306,
-    "pnl_pct": 0.539,
-    "duracao_min": 38.9,
-    "data_resultado": "2026-07-28T05:44:34.388110+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.305,
+    "pnl_pct": 0.5,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-28T07:05:56.375638+00:00"
   },
   {
     "page_id": "3aba5230-de72-81cb-92b1-dfe39fffd7af",
