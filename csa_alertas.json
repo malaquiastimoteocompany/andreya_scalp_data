@@ -622507,11 +622507,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.003206,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.003186,
-    "pnl_pct": 0.531,
-    "duracao_min": 51.3,
-    "data_resultado": "2026-07-28T16:23:20.868444+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.003162,
+    "pnl_pct": 0.905,
+    "duracao_min": 119.4,
+    "data_resultado": "2026-07-28T17:31:30.251832+00:00"
   },
   {
     "page_id": "3aba5230-de72-81ca-a357-f7cccd7b4088",
