@@ -621543,7 +621543,11 @@
     "estado_cfi": "E1",
     "zona_sr": 739.5175,
     "toques_sr": 16,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 741.41,
+    "pnl_pct": 0.184,
+    "duracao_min": 26.7,
+    "data_resultado": "2026-07-28T15:20:17.993550+00:00"
   },
   {
     "page_id": "3aba5230-de72-819a-8862-d7c3ace72640",
