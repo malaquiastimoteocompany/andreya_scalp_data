@@ -605987,11 +605987,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 118.42,
-    "pnl_pct": 1.669,
-    "duracao_min": 39.8,
-    "data_resultado": "2026-07-28T04:32:48.553443+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 116.96,
+    "pnl_pct": 2.275,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-28T05:53:04.690096+00:00"
   },
   {
     "page_id": "3aba5230-de72-8147-8583-d59e0c8b5a48",
