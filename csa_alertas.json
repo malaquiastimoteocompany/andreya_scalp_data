@@ -616307,11 +616307,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.39023333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3917,
-    "pnl_pct": 0.746,
-    "duracao_min": 30.7,
-    "data_resultado": "2026-07-28T12:19:36.117493+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.395,
+    "pnl_pct": 1.17,
+    "duracao_min": 50.3,
+    "data_resultado": "2026-07-28T12:39:12.180708+00:00"
   },
   {
     "page_id": "3aba5230-de72-8133-aab1-de5ff6921b7c",
