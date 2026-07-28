@@ -628839,11 +628839,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.76486667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.7616,
-    "pnl_pct": 0.34,
-    "duracao_min": 97.3,
-    "data_resultado": "2026-07-28T22:47:59.857665+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.7583,
+    "pnl_pct": 0.556,
+    "duracao_min": 111.7,
+    "data_resultado": "2026-07-28T23:02:25.991023+00:00"
   },
   {
     "page_id": "3aba5230-de72-811b-8829-d847f8483393",
