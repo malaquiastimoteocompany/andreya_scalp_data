@@ -605267,11 +605267,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.589,
-    "pnl_pct": 0.461,
-    "duracao_min": 12.7,
-    "data_resultado": "2026-07-28T03:23:23.231882+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.5901,
+    "pnl_pct": 0.554,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-28T05:10:46.484996+00:00"
   },
   {
     "page_id": "3aba5230-de72-81ec-9308-ce552b49303b",
