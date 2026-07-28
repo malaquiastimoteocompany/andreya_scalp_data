@@ -610029,11 +610029,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07482,
-    "pnl_pct": 0.795,
-    "duracao_min": 55.9,
-    "data_resultado": "2026-07-28T07:56:48.931166+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.07488,
+    "pnl_pct": 0.835,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-28T09:01:58.534816+00:00"
   },
   {
     "page_id": "3aba5230-de72-814d-aa4f-dd30a3703f4b",
