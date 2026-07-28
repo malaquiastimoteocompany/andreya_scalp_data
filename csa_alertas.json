@@ -623771,7 +623771,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 112.31,
+    "pnl_pct": 2.1,
+    "duracao_min": 10.1,
+    "data_resultado": "2026-07-28T16:43:13.127373+00:00"
   },
   {
     "page_id": "3aba5230-de72-8183-934a-ea72f425d931",
