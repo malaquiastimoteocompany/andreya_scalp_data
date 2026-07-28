@@ -609239,11 +609239,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01311,
-    "pnl_pct": 0.46,
-    "duracao_min": 31.5,
-    "data_resultado": "2026-07-28T06:52:01.272382+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01304,
+    "pnl_pct": 0.192,
+    "duracao_min": 82.0,
+    "data_resultado": "2026-07-28T07:42:32.741771+00:00"
   },
   {
     "page_id": "3aba5230-de72-8157-ab0c-f4654b78c236",
