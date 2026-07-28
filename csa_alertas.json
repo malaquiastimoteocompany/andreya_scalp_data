@@ -615269,11 +615269,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 194.9,
-    "pnl_pct": 0.293,
-    "duracao_min": 7.7,
-    "data_resultado": "2026-07-28T11:16:21.916750+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 194.28,
+    "pnl_pct": 0.134,
+    "duracao_min": 34.0,
+    "data_resultado": "2026-07-28T11:42:37.403541+00:00"
   },
   {
     "page_id": "3aba5230-de72-81d1-a42d-f0c9bbe1a586",
