@@ -615199,7 +615199,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.62344167,
     "toques_sr": 12,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.6202,
+    "pnl_pct": -0.161,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-28T13:04:38.043945+00:00"
   },
   {
     "page_id": "3aba5230-de72-8152-9625-edbafb567020",
