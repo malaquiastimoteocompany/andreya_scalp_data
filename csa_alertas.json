@@ -626489,7 +626489,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.7011,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.7049,
+    "pnl_pct": -0.513,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-28T21:05:43.425110+00:00"
   },
   {
     "page_id": "3aba5230-de72-8199-80be-c91a9f7d510d",
