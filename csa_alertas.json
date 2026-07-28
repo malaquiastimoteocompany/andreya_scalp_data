@@ -626865,11 +626865,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.123625,
     "toques_sr": 8,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.122,
-    "pnl_pct": 0.331,
-    "duracao_min": 41.0,
-    "data_resultado": "2026-07-28T20:11:48.522403+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.131,
+    "pnl_pct": 0.544,
+    "duracao_min": 74.3,
+    "data_resultado": "2026-07-28T20:45:05.466418+00:00"
   },
   {
     "page_id": "3aba5230-de72-8134-a1d8-e75a76d2f1dc",
