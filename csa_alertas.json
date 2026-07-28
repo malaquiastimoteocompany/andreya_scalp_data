@@ -598981,11 +598981,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 2.104,
-    "pnl_pct": 0.67,
-    "duracao_min": 1.5,
-    "data_resultado": "2026-07-27T23:06:49.843684+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.09,
+    "pnl_pct": 0.335,
+    "duracao_min": 67.7,
+    "data_resultado": "2026-07-28T00:13:03.924275+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81ab-81ca-c143d4bb21c1",
