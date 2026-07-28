@@ -618585,11 +618585,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.6823,
-    "pnl_pct": 0.294,
-    "duracao_min": 40.6,
-    "data_resultado": "2026-07-28T14:06:13.814106+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.6802,
+    "pnl_pct": 0.14,
+    "duracao_min": 45.0,
+    "data_resultado": "2026-07-28T14:10:34.987583+00:00"
   },
   {
     "page_id": "3aba5230-de72-81cd-bcea-d29e7d486b43",
