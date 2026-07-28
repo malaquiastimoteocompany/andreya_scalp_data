@@ -604313,7 +604313,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.000513,
+    "pnl_pct": 0.569,
+    "duracao_min": 62.7,
+    "data_resultado": "2026-07-28T03:30:43.351943+00:00"
   },
   {
     "page_id": "3aba5230-de72-812d-b899-c99b5a93b605",
