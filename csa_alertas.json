@@ -625799,7 +625799,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03145,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.0314,
+    "pnl_pct": 0.633,
+    "duracao_min": 39.1,
+    "data_resultado": "2026-07-28T18:58:01.820555+00:00"
   },
   {
     "page_id": "3aba5230-de72-81d3-92d2-c8928613886c",
