@@ -603229,11 +603229,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06695667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06622,
-    "pnl_pct": 0.645,
-    "duracao_min": 11.7,
-    "data_resultado": "2026-07-28T02:04:59.028325+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.06669,
+    "pnl_pct": 0.293,
+    "duracao_min": 17.9,
+    "data_resultado": "2026-07-28T02:11:14.614306+00:00"
   },
   {
     "page_id": "3aba5230-de72-81e7-bfaa-d4331bade0c9",
