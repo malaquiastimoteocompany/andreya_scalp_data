@@ -604533,11 +604533,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01311,
-    "pnl_pct": 0.614,
-    "duracao_min": 56.9,
-    "data_resultado": "2026-07-28T03:47:28.654951+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01303,
+    "pnl_pct": 0.307,
+    "duracao_min": 85.2,
+    "data_resultado": "2026-07-28T04:15:46.928776+00:00"
   },
   {
     "page_id": "3aba5230-de72-81f5-88be-c8efd7c0af86",
