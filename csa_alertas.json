@@ -626179,7 +626179,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0059862,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.006023,
+    "pnl_pct": 0.585,
+    "duracao_min": 53.7,
+    "data_resultado": "2026-07-28T19:49:28.526398+00:00"
   },
   {
     "page_id": "3aba5230-de72-81a5-8421-c48dc592a4b4",
