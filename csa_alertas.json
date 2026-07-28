@@ -610775,11 +610775,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.82e-06,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 2.8068e-06,
-    "pnl_pct": 0.546,
-    "duracao_min": 20.2,
-    "data_resultado": "2026-07-28T07:46:31.820426+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 2.8151e-06,
+    "pnl_pct": 0.399,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-28T09:26:35.386889+00:00"
   },
   {
     "page_id": "3aba5230-de72-819a-a9ea-d72d342b2c8a",
