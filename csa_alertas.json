@@ -604017,7 +604017,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.0128,
+    "pnl_pct": 5.374,
+    "duracao_min": 57.9,
+    "data_resultado": "2026-07-28T03:18:21.748238+00:00"
   },
   {
     "page_id": "3aba5230-de72-8100-ab47-ffcf2a7b3f6a",
