@@ -605237,11 +605237,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.12189,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.12314,
-    "pnl_pct": 0.819,
-    "duracao_min": 114.9,
-    "data_resultado": "2026-07-28T05:03:25.910005+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.12332,
+    "pnl_pct": 0.892,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-28T05:09:07.777984+00:00"
   },
   {
     "page_id": "3aba5230-de72-8187-96ff-e3de6a482885",
