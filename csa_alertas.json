@@ -622011,11 +622011,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.067755,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06836,
-    "pnl_pct": 0.574,
-    "duracao_min": 17.3,
-    "data_resultado": "2026-07-28T15:27:54.162308+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.0684,
+    "pnl_pct": 0.603,
+    "duracao_min": 31.8,
+    "data_resultado": "2026-07-28T15:42:22.333045+00:00"
   },
   {
     "page_id": "3aba5230-de72-8158-b428-fb53eddef0d0",
