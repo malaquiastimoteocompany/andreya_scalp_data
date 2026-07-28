@@ -603377,11 +603377,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 119.38,
-    "pnl_pct": 2.268,
-    "duracao_min": 11.5,
-    "data_resultado": "2026-07-28T02:01:56.822272+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 121.03,
+    "pnl_pct": 1.592,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-28T03:50:29.737548+00:00"
   },
   {
     "page_id": "3aba5230-de72-81c3-948d-ede5954cf602",
