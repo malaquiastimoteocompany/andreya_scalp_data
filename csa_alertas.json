@@ -626447,11 +626447,11 @@
     "estado_cfi": "E1",
     "zona_sr": 198.39,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 196.9,
-    "pnl_pct": 0.334,
-    "duracao_min": 58.5,
-    "data_resultado": "2026-07-28T20:02:01.340591+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 197.67,
+    "pnl_pct": 0.139,
+    "duracao_min": 83.9,
+    "data_resultado": "2026-07-28T20:27:26.062188+00:00"
   },
   {
     "page_id": "3aba5230-de72-8124-9272-fc70fe6e1311",
