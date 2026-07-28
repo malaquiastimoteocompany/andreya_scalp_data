@@ -629185,11 +629185,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.021815,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02162,
-    "pnl_pct": 0.415,
-    "duracao_min": 63.6,
-    "data_resultado": "2026-07-28T22:37:11.832122+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.02163,
+    "pnl_pct": 0.392,
+    "duracao_min": 121.5,
+    "data_resultado": "2026-07-28T23:35:04.780548+00:00"
   },
   {
     "page_id": "3aba5230-de72-8140-916c-efc821d320b7",
