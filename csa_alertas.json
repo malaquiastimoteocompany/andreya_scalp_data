@@ -612109,7 +612109,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.6389,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.6419,
+    "pnl_pct": 0.375,
+    "duracao_min": 23.2,
+    "data_resultado": "2026-07-28T08:59:03.806560+00:00"
   },
   {
     "page_id": "3aba5230-de72-81ff-990a-fcd71531cf67",
