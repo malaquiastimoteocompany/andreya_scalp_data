@@ -602824,5 +602824,31 @@
     "pnl_pct": 1.086,
     "duracao_min": 3.6,
     "data_resultado": "2026-07-28T01:34:42.341233+00:00"
+  },
+  {
+    "page_id": "3aba5230-de72-81ad-bf61-d3e523908467",
+    "token": "ON",
+    "direccao": "LONG",
+    "preco_alerta": 0.18409,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.01052214,
+    "tp1": 0.18829885600000001,
+    "tp2": 0.19461214,
+    "sl": 0.16830679,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 69336334.0,
+    "spread_pct": 0.0008716495968620259,
+    "oi_usd": 2492504.0062,
+    "data_alerta": "2026-07-28T01:35:23.888078+00:00",
+    "rsi_1h": 65.81,
+    "funding_rate": 0.0457,
+    "estado_cfi": "E1",
+    "zona_sr": 0.183955,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
