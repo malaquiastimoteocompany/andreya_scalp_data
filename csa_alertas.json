@@ -618491,11 +618491,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.001801,
-    "pnl_pct": 0.552,
-    "duracao_min": 17.1,
-    "data_resultado": "2026-07-28T13:37:42.087998+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.001794,
+    "pnl_pct": 0.745,
+    "duracao_min": 22.0,
+    "data_resultado": "2026-07-28T13:42:35.732782+00:00"
   },
   {
     "page_id": "3aba5230-de72-818f-9908-ce36669f2b1f",
