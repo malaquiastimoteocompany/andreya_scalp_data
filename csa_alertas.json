@@ -615439,11 +615439,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3232,
-    "pnl_pct": 0.717,
-    "duracao_min": 68.5,
-    "data_resultado": "2026-07-28T12:19:01.735441+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.3221,
+    "pnl_pct": 0.545,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-28T13:11:23.684566+00:00"
   },
   {
     "page_id": "3aba5230-de72-81f7-984b-f3e0e24116d6",
