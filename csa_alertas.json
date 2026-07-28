@@ -624629,7 +624629,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.8555,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 3.859,
+    "pnl_pct": 0.026,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-28T19:19:04.993153+00:00"
   },
   {
     "page_id": "3aba5230-de72-8135-bc2d-f0a1d847cd60",
