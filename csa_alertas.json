@@ -622541,11 +622541,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004535,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00456,
-    "pnl_pct": 0.308,
-    "duracao_min": 11.7,
-    "data_resultado": "2026-07-28T15:45:15.641686+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.004542,
+    "pnl_pct": 0.11,
+    "duracao_min": 18.6,
+    "data_resultado": "2026-07-28T15:52:07.661870+00:00"
   },
   {
     "page_id": "3aba5230-de72-810c-9234-c7d8d4fd2253",
