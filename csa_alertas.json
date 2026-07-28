@@ -602417,11 +602417,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.7595,
-    "pnl_pct": 0.529,
-    "duracao_min": 21.3,
-    "data_resultado": "2026-07-28T01:34:17.611614+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.7593,
+    "pnl_pct": 0.516,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-28T03:13:30.754991+00:00"
   },
   {
     "page_id": "3aba5230-de72-8123-b358-cff8d18e0fb4",
