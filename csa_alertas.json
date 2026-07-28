@@ -607385,11 +607385,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 30.75,
-    "pnl_pct": 0.49,
-    "duracao_min": 16.2,
-    "data_resultado": "2026-07-28T05:17:40.779729+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 30.6,
+    "pnl_pct": 0.245,
+    "duracao_min": 64.6,
+    "data_resultado": "2026-07-28T06:06:07.417453+00:00"
   },
   {
     "page_id": "3aba5230-de72-81e3-bd29-c99d1a9b5ee0",
