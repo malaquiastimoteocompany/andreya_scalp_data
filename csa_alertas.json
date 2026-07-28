@@ -602507,7 +602507,11 @@
     "estado_cfi": "E1",
     "zona_sr": 473.54,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 473.07,
+    "pnl_pct": -0.186,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-28T03:13:45.024882+00:00"
   },
   {
     "page_id": "3aba5230-de72-81a0-8d70-d50036d2031e",
