@@ -622853,11 +622853,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.37716667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3745,
-    "pnl_pct": 0.716,
-    "duracao_min": 27.3,
-    "data_resultado": "2026-07-28T16:10:46.076669+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3773,
+    "pnl_pct": 0.345,
+    "duracao_min": 70.7,
+    "data_resultado": "2026-07-28T16:54:08.956355+00:00"
   },
   {
     "page_id": "3aba5230-de72-815e-92de-df1b31fd0e83",
