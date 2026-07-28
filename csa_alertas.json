@@ -615619,11 +615619,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1805,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
+    "resultado": "Falhado",
     "preco_saida": 0.1815,
     "pnl_pct": 0.498,
-    "duracao_min": 93.8,
-    "data_resultado": "2026-07-28T12:47:22.895988+00:00"
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-28T13:14:51.848778+00:00"
   },
   {
     "page_id": "3aba5230-de72-8189-9180-fbcdf95e3888",
