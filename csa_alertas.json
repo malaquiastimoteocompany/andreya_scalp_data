@@ -609759,7 +609759,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.006588,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.006625,
+    "pnl_pct": 0.638,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-28T08:51:26.487163+00:00"
   },
   {
     "page_id": "3aba5230-de72-813f-96ef-f500b005a7c4",
