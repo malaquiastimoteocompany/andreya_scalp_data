@@ -613793,7 +613793,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 54.509,
+    "pnl_pct": -1.178,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-28T11:52:14.684211+00:00"
   },
   {
     "page_id": "3aba5230-de72-819b-841b-c87881281ce5",
