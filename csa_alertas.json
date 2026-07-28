@@ -612113,7 +612113,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 14.22,
+    "pnl_pct": 2.201,
+    "duracao_min": 68.6,
+    "data_resultado": "2026-07-28T09:36:41.178002+00:00"
   },
   {
     "page_id": "3aba5230-de72-8117-831a-fc87e129c007",
