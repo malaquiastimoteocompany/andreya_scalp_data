@@ -625109,11 +625109,11 @@
     "estado_cfi": "E1",
     "zona_sr": 46.04,
     "toques_sr": 7,
-    "resultado": "TP Tardio",
-    "preco_saida": 46.42,
-    "pnl_pct": 0.324,
-    "duracao_min": 116.9,
-    "data_resultado": "2026-07-28T19:32:55.387947+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 46.43,
+    "pnl_pct": 0.335,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-28T19:37:10.692766+00:00"
   },
   {
     "page_id": "3aba5230-de72-81d7-9450-e259e8de7882",
