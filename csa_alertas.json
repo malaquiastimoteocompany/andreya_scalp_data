@@ -624165,11 +624165,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2153,
-    "pnl_pct": 0.554,
-    "duracao_min": 19.4,
-    "data_resultado": "2026-07-28T17:12:48.495641+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2136,
+    "pnl_pct": 0.947,
+    "duracao_min": 46.6,
+    "data_resultado": "2026-07-28T17:40:00.448892+00:00"
   },
   {
     "page_id": "3aba5230-de72-81a6-a066-e7e52a9c08c1",
