@@ -615259,11 +615259,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.58275,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.5852,
-    "pnl_pct": 0.377,
-    "duracao_min": 77.0,
-    "data_resultado": "2026-07-28T12:22:35.624589+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.5844,
+    "pnl_pct": 0.309,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-28T13:06:33.084251+00:00"
   },
   {
     "page_id": "3aba5230-de72-81a3-8d37-d4e3233c8aa0",
