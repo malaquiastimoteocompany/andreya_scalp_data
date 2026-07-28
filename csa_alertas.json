@@ -606041,7 +606041,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.015509,
+    "pnl_pct": -4.579,
+    "duracao_min": 41.0,
+    "data_resultado": "2026-07-28T04:44:36.142517+00:00"
   },
   {
     "page_id": "3aba5230-de72-81dd-8483-dc684e0d4ed9",
