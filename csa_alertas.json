@@ -614063,7 +614063,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.003825,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.003789,
+    "pnl_pct": -0.993,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-28T11:58:34.253974+00:00"
   },
   {
     "page_id": "3aba5230-de72-8143-92db-c78bf8fcfc24",
