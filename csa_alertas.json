@@ -629597,11 +629597,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.4245,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.414,
-    "pnl_pct": 0.352,
-    "duracao_min": 58.0,
-    "data_resultado": "2026-07-28T22:59:23.060482+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.42,
+    "pnl_pct": 0.141,
+    "duracao_min": 107.1,
+    "data_resultado": "2026-07-28T23:48:26.519293+00:00"
   },
   {
     "page_id": "3aba5230-de72-81cb-8b32-f059a17ba85d",
