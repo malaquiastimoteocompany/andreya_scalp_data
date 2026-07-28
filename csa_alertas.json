@@ -598729,7 +598729,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.008411,
+    "pnl_pct": 1.631,
+    "duracao_min": 64.2,
+    "data_resultado": "2026-07-28T00:03:00.007196+00:00"
   },
   {
     "page_id": "3aaa5230-de72-8182-b559-e3deb21e289e",
