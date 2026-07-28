@@ -617259,7 +617259,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 13.86,
+    "pnl_pct": 3.009,
+    "duracao_min": 64.9,
+    "data_resultado": "2026-07-28T13:40:27.303450+00:00"
   },
   {
     "page_id": "3aba5230-de72-818e-a268-d5c19f0fb9df",
