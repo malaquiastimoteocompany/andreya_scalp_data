@@ -605417,7 +605417,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.7657,
+    "pnl_pct": 0.665,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-28T05:15:40.023195+00:00"
   },
   {
     "page_id": "3aba5230-de72-81af-b485-f7a142093a48",
