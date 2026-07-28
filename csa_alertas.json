@@ -622933,11 +622933,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0023916,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002407,
-    "pnl_pct": 0.627,
-    "duracao_min": 11.7,
-    "data_resultado": "2026-07-28T16:02:37.716780+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.002382,
+    "pnl_pct": 0.105,
+    "duracao_min": 26.5,
+    "data_resultado": "2026-07-28T16:17:26.252794+00:00"
   },
   {
     "page_id": "3aba5230-de72-81bf-85a3-c98c9f6ed818",
