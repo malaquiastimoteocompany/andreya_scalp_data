@@ -628553,7 +628553,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.139,
+    "pnl_pct": 0.324,
+    "duracao_min": 90.4,
+    "data_resultado": "2026-07-28T22:31:24.868618+00:00"
   },
   {
     "page_id": "3aba5230-de72-81cd-8b16-d73d1034f341",
