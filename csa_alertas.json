@@ -614599,11 +614599,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.4745,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 6.466,
-    "pnl_pct": 0.341,
-    "duracao_min": 30.7,
-    "data_resultado": "2026-07-28T10:58:46.317949+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 6.47,
+    "pnl_pct": 0.372,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-28T12:28:58.171250+00:00"
   },
   {
     "page_id": "3aba5230-de72-818e-8a87-dd912db781f5",
