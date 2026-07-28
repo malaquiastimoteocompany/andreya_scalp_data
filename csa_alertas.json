@@ -624869,7 +624869,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04881,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.04897,
+    "pnl_pct": -0.102,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-28T19:27:36.316677+00:00"
   },
   {
     "page_id": "3aba5230-de72-8102-b6a1-cc129fe62532",
