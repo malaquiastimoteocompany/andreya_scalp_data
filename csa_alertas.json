@@ -616059,7 +616059,11 @@
     "estado_cfi": "E1",
     "zona_sr": 186.58,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 187.91,
+    "pnl_pct": 0.395,
+    "duracao_min": 26.3,
+    "data_resultado": "2026-07-28T12:11:54.577156+00:00"
   },
   {
     "page_id": "3aba5230-de72-8128-9825-fa9e1ead0440",
