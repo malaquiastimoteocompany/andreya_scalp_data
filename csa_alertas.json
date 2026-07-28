@@ -618275,7 +618275,11 @@
     "estado_cfi": "E1",
     "zona_sr": 8.28333333,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 8.255,
+    "pnl_pct": -0.817,
+    "duracao_min": 14.3,
+    "data_resultado": "2026-07-28T13:32:38.444072+00:00"
   },
   {
     "page_id": "3aba5230-de72-8113-8b4d-daa49a55b58c",
