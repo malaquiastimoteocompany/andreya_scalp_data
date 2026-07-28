@@ -614993,7 +614993,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 47.75,
+    "pnl_pct": 1.083,
+    "duracao_min": 41.5,
+    "data_resultado": "2026-07-28T11:42:27.844444+00:00"
   },
   {
     "page_id": "3aba5230-de72-81e0-9a3e-fc3d04fe60cb",
