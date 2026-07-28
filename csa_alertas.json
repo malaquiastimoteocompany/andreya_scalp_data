@@ -608829,11 +608829,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.712,
-    "pnl_pct": 0.706,
-    "duracao_min": 60.6,
-    "data_resultado": "2026-07-28T07:04:39.988635+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 2.711,
+    "pnl_pct": 0.687,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-28T08:04:40.942026+00:00"
   },
   {
     "page_id": "3aba5230-de72-8142-a29d-c6475e22db6c",
