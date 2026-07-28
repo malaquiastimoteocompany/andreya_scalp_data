@@ -611941,11 +611941,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.991,
-    "pnl_pct": 0.673,
-    "duracao_min": 112.9,
-    "data_resultado": "2026-07-28T10:04:01.336068+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 2.982,
+    "pnl_pct": 0.522,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-28T10:11:23.728194+00:00"
   },
   {
     "page_id": "3aba5230-de72-815f-ad13-c5aaaf809ccf",
