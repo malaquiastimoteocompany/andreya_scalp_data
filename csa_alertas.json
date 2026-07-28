@@ -617457,11 +617457,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.005148,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.005195,
-    "pnl_pct": 0.425,
-    "duracao_min": 2.9,
-    "data_resultado": "2026-07-28T12:48:51.373351+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.005172,
+    "pnl_pct": 0.203,
+    "duracao_min": 27.3,
+    "data_resultado": "2026-07-28T13:13:16.797424+00:00"
   },
   {
     "page_id": "3aba5230-de72-819f-9ca0-c6f9f07bdb15",
