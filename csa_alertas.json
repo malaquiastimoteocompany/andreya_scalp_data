@@ -629733,7 +629733,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1425,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.1376,
+    "pnl_pct": -3.574,
+    "duracao_min": 51.9,
+    "data_resultado": "2026-07-28T23:02:46.887048+00:00"
   },
   {
     "page_id": "3aba5230-de72-8104-a792-c7f9bf9aa421",
