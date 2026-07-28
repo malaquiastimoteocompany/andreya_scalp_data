@@ -618882,5 +618882,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aba5230-de72-81eb-813c-c7a0fb307d2d",
+    "token": "MANA",
+    "direccao": "LONG",
+    "preco_alerta": 0.06621,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00105929,
+    "tp1": 0.06663371600000001,
+    "tp2": 0.06726929000000001,
+    "sl": 0.064621065,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=0/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 10643284.0,
+    "spread_pct": 0.00030197795560912345,
+    "oi_usd": 3615405.5313,
+    "data_alerta": "2026-07-28T13:41:14.589645+00:00",
+    "rsi_1h": 41.35,
+    "funding_rate": -0.0031,
+    "estado_cfi": "E1",
+    "zona_sr": 0.066065,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
