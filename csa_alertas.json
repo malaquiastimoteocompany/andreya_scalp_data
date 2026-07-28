@@ -611255,7 +611255,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.38384,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.3874,
+    "pnl_pct": 0.65,
+    "duracao_min": 8.8,
+    "data_resultado": "2026-07-28T07:57:14.577351+00:00"
   },
   {
     "page_id": "3aba5230-de72-817c-a0f7-cbdbcdc95f26",
