@@ -619789,11 +619789,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3961,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3971,
-    "pnl_pct": 0.659,
-    "duracao_min": 12.8,
-    "data_resultado": "2026-07-28T14:07:09.813310+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.3945,
+    "pnl_pct": 0.33,
+    "duracao_min": 16.6,
+    "data_resultado": "2026-07-28T14:11:02.091099+00:00"
   },
   {
     "page_id": "3aba5230-de72-8135-9a22-c66a55559749",
