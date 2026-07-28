@@ -604427,11 +604427,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.054992,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05511,
-    "pnl_pct": 0.401,
-    "duracao_min": 93.7,
-    "data_resultado": "2026-07-28T04:02:04.026036+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.05501,
+    "pnl_pct": 0.31,
+    "duracao_min": 121.5,
+    "data_resultado": "2026-07-28T04:29:47.930593+00:00"
   },
   {
     "page_id": "3aba5230-de72-8180-938e-d110eccabd56",
