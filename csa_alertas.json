@@ -604784,5 +604784,31 @@
     "zona_sr": 0.62257143,
     "toques_sr": 7,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aba5230-de72-8118-a769-c50bb8759bdc",
+    "token": "RON",
+    "direccao": "LONG",
+    "preco_alerta": 0.04915,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00066714,
+    "tp1": 0.049416856,
+    "tp2": 0.049817139999999996,
+    "sl": 0.04814929,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 7041357.0,
+    "spread_pct": 0.0004068348250610087,
+    "oi_usd": 1398566.26885,
+    "data_alerta": "2026-07-28T03:03:32.716971+00:00",
+    "rsi_1h": 32.81,
+    "funding_rate": 0.0004,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
