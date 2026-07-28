@@ -619633,11 +619633,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.12189,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.12248,
-    "pnl_pct": 0.715,
-    "duracao_min": 9.6,
-    "data_resultado": "2026-07-28T14:01:15.929359+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.12132,
+    "pnl_pct": 0.238,
+    "duracao_min": 26.1,
+    "data_resultado": "2026-07-28T14:17:42.819038+00:00"
   },
   {
     "page_id": "3aba5230-de72-8108-9836-c11b71e22bc1",
