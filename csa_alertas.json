@@ -627333,7 +627333,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.31471,
+    "pnl_pct": 5.516,
+    "duracao_min": 12.0,
+    "data_resultado": "2026-07-28T20:15:16.756513+00:00"
   },
   {
     "page_id": "3aba5230-de72-81aa-8fcc-e58c6f8f3a7f",
