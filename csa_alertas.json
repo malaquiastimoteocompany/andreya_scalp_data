@@ -602147,7 +602147,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0066435,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.006641,
+    "pnl_pct": -0.375,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-28T03:04:08.420681+00:00"
   },
   {
     "page_id": "3aba5230-de72-8155-8fcc-cce71e38aaf7",
