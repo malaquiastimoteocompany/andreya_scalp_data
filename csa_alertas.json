@@ -611261,11 +611261,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.001681,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.001716,
-    "pnl_pct": 1.719,
-    "duracao_min": 21.7,
-    "data_resultado": "2026-07-28T08:09:49.638189+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.001732,
+    "pnl_pct": 2.193,
+    "duracao_min": 23.4,
+    "data_resultado": "2026-07-28T08:11:28.721354+00:00"
   },
   {
     "page_id": "3aba5230-de72-81ed-8fa4-f175c01196f7",
