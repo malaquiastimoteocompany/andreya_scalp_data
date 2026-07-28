@@ -602409,11 +602409,11 @@
     "estado_cfi": "E1",
     "zona_sr": 46.07,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 46.12,
-    "pnl_pct": 0.348,
-    "duracao_min": 15.7,
-    "data_resultado": "2026-07-28T01:29:23.464188+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 46.38,
+    "pnl_pct": 0.631,
+    "duracao_min": 67.2,
+    "data_resultado": "2026-07-28T02:20:53.346995+00:00"
   },
   {
     "page_id": "3aba5230-de72-8143-8c9a-ee3f8840f649",
