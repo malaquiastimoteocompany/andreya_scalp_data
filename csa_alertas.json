@@ -627955,11 +627955,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.36255,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3598,
-    "pnl_pct": 1.045,
-    "duracao_min": 19.5,
-    "data_resultado": "2026-07-28T20:45:20.962475+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.3577,
+    "pnl_pct": 1.334,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-28T22:26:44.152327+00:00"
   },
   {
     "page_id": "3aba5230-de72-81fd-800d-c602abcee1ab",
