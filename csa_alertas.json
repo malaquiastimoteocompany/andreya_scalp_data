@@ -610403,11 +610403,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.33147,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.336,
-    "pnl_pct": 1.324,
-    "duracao_min": 77.5,
-    "data_resultado": "2026-07-28T08:31:10.291205+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.3439,
+    "pnl_pct": 2.515,
+    "duracao_min": 110.1,
+    "data_resultado": "2026-07-28T09:03:44.188714+00:00"
   },
   {
     "page_id": "3aba5230-de72-8153-9f48-cd054144c350",
