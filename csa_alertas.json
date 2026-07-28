@@ -603871,11 +603871,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07331,
-    "pnl_pct": 0.507,
-    "duracao_min": 29.8,
-    "data_resultado": "2026-07-28T02:45:52.616792+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07293,
+    "pnl_pct": 0.247,
+    "duracao_min": 44.8,
+    "data_resultado": "2026-07-28T03:00:56.990359+00:00"
   },
   {
     "page_id": "3aba5230-de72-8110-b2aa-cc93150603b4",
