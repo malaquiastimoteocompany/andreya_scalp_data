@@ -619456,5 +619456,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aba5230-de72-8184-974e-d20e8b16c9a3",
+    "token": "XLM",
+    "direccao": "LONG",
+    "preco_alerta": 0.17041,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00108071,
+    "tp1": 0.170842284,
+    "tp2": 0.17149071000000002,
+    "sl": 0.168788935,
+    "componentes": "sr_zone=2/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=0/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 18168102.0,
+    "spread_pct": 5.868028049163657e-05,
+    "oi_usd": 7092214.037099999,
+    "data_alerta": "2026-07-28T13:51:08.191670+00:00",
+    "rsi_1h": 32.36,
+    "funding_rate": -0.0223,
+    "estado_cfi": "E1",
+    "zona_sr": 0.17097,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
