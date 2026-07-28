@@ -628075,11 +628075,11 @@
     "estado_cfi": "E1",
     "zona_sr": 48.855,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 48.55,
-    "pnl_pct": 0.918,
-    "duracao_min": 3.6,
-    "data_resultado": "2026-07-28T20:34:23.026015+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 48.59,
+    "pnl_pct": 0.878,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-28T22:31:13.982976+00:00"
   },
   {
     "page_id": "3aba5230-de72-81f7-9160-f01847af0683",
