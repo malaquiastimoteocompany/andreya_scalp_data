@@ -617929,7 +617929,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.333975,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.34362,
+    "pnl_pct": -2.463,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-28T15:01:07.249554+00:00"
   },
   {
     "page_id": "3aba5230-de72-8192-ab0c-ecb1f5d86dd1",
