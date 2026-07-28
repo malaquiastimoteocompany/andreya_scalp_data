@@ -606108,5 +606108,31 @@
     "zona_sr": 0.06846857,
     "toques_sr": 7,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aba5230-de72-81a1-b3c6-cfa17a8ef1ac",
+    "token": "NVIDIA",
+    "direccao": "LONG",
+    "preco_alerta": 194.69,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": false,
+    "atr_1h": 1.23928571,
+    "tp1": 195.185714284,
+    "tp2": 195.92928571,
+    "sl": 192.83107143499998,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 7607358.0,
+    "spread_pct": 5.137558118636147e-05,
+    "oi_usd": 4791782.6418,
+    "data_alerta": "2026-07-28T04:08:36.004342+00:00",
+    "rsi_1h": 19.84,
+    "funding_rate": 0.0,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
