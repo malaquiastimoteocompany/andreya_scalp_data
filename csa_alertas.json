@@ -624959,11 +624959,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.695,
-    "pnl_pct": 0.407,
-    "duracao_min": 73.7,
-    "data_resultado": "2026-07-28T18:44:26.725240+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 2.697,
+    "pnl_pct": 0.37,
+    "duracao_min": 122.1,
+    "data_resultado": "2026-07-28T19:32:46.207206+00:00"
   },
   {
     "page_id": "3aba5230-de72-8106-8ff4-cb4034c633f5",
