@@ -620383,11 +620383,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 195.97,
-    "pnl_pct": 0.839,
-    "duracao_min": 25.8,
-    "data_resultado": "2026-07-28T14:37:01.468856+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 195.96,
+    "pnl_pct": 0.836,
+    "duracao_min": 29.5,
+    "data_resultado": "2026-07-28T14:40:48.325023+00:00"
   },
   {
     "page_id": "3aba5230-de72-81c4-ba35-f340a2878540",
