@@ -620853,7 +620853,11 @@
     "estado_cfi": "E1",
     "zona_sr": 98.17666667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 99.43,
+    "pnl_pct": -1.656,
+    "duracao_min": 29.5,
+    "data_resultado": "2026-07-28T14:55:30.650409+00:00"
   },
   {
     "page_id": "3aba5230-de72-8122-9bb5-eff5a6582cdd",
