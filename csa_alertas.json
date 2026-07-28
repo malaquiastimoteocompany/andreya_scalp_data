@@ -613751,11 +613751,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.727,
-    "pnl_pct": 0.59,
-    "duracao_min": 43.3,
-    "data_resultado": "2026-07-28T10:34:36.809772+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.71,
+    "pnl_pct": 0.277,
+    "duracao_min": 80.5,
+    "data_resultado": "2026-07-28T11:11:47.916379+00:00"
   },
   {
     "page_id": "3aba5230-de72-81fb-93b6-e02cbd972823",
