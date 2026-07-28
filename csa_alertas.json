@@ -604220,5 +604220,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aba5230-de72-81b2-ba94-d1d11b8bf50f",
+    "token": "KORU",
+    "direccao": "LONG",
+    "preco_alerta": 14.97,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.79785714,
+    "tp1": 15.289142856000002,
+    "tp2": 15.76785714,
+    "sl": 13.77321429,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=1/1",
+    "volume_24h": 1479718329.0,
+    "spread_pct": 0.000668225860340781,
+    "oi_usd": 1863040.27888,
+    "data_alerta": "2026-07-28T02:37:51.802981+00:00",
+    "rsi_1h": 23.43,
+    "funding_rate": 0.0,
+    "estado_cfi": "E2",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
