@@ -601829,7 +601829,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.183955,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.18732,
+    "pnl_pct": 2.288,
+    "duracao_min": 14.7,
+    "data_resultado": "2026-07-28T01:15:38.919573+00:00"
   },
   {
     "page_id": "3aba5230-de72-8161-acd7-dcb0788631ea",
