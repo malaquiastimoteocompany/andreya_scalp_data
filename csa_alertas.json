@@ -611809,11 +611809,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.727,
-    "pnl_pct": 0.59,
-    "duracao_min": 48.9,
-    "data_resultado": "2026-07-28T08:54:47.475262+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.711,
+    "pnl_pct": 0.295,
+    "duracao_min": 102.0,
+    "data_resultado": "2026-07-28T09:47:49.642048+00:00"
   },
   {
     "page_id": "3aba5230-de72-81f4-baca-dd4e26dddf8c",
