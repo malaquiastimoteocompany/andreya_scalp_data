@@ -625169,7 +625169,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.3194,
+    "pnl_pct": 0.063,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-28T19:41:17.236234+00:00"
   },
   {
     "page_id": "3aba5230-de72-8166-873a-d14952bb5302",
