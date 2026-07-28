@@ -616241,11 +616241,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.4065,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.416,
-    "pnl_pct": 0.354,
-    "duracao_min": 37.1,
-    "data_resultado": "2026-07-28T12:23:00.152295+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.404,
+    "pnl_pct": -0.071,
+    "duracao_min": 113.3,
+    "data_resultado": "2026-07-28T13:39:15.671058+00:00"
   },
   {
     "page_id": "3aba5230-de72-8197-a1a3-d26e45aa8287",
