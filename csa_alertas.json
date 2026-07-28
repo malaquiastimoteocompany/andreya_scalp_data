@@ -619493,7 +619493,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.8555,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 3.923,
+    "pnl_pct": -2.082,
+    "duracao_min": 14.0,
+    "data_resultado": "2026-07-28T14:04:46.112280+00:00"
   },
   {
     "page_id": "3aba5230-de72-81d9-abc3-f4a4298ba5f9",
