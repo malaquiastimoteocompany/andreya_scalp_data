@@ -600733,7 +600733,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 14.99,
+    "pnl_pct": -6.952,
+    "duracao_min": 105.9,
+    "data_resultado": "2026-07-28T02:01:20.689723+00:00"
   },
   {
     "page_id": "3aba5230-de72-8157-9ee8-c53d3cdb3fea",
