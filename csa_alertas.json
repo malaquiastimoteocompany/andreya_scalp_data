@@ -619341,11 +619341,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.4065,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.407,
-    "pnl_pct": 0.357,
-    "duracao_min": 5.3,
-    "data_resultado": "2026-07-28T13:52:51.859516+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 1.401,
+    "pnl_pct": 0.143,
+    "duracao_min": 30.0,
+    "data_resultado": "2026-07-28T14:17:33.581352+00:00"
   },
   {
     "page_id": "3aba5230-de72-81ab-9c27-ea37293cec2d",
