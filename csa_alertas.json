@@ -623761,11 +623761,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.062625,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06212,
-    "pnl_pct": 0.433,
-    "duracao_min": 73.8,
-    "data_resultado": "2026-07-28T17:37:34.323624+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06242,
+    "pnl_pct": 0.192,
+    "duracao_min": 77.7,
+    "data_resultado": "2026-07-28T17:41:24.612532+00:00"
   },
   {
     "page_id": "3aba5230-de72-8147-98f5-e5f207f02436",
