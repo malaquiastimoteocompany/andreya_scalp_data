@@ -621535,11 +621535,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.4065,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.43,
-    "pnl_pct": 1.275,
-    "duracao_min": 35.6,
-    "data_resultado": "2026-07-28T15:26:41.467882+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.428,
+    "pnl_pct": 1.204,
+    "duracao_min": 39.0,
+    "data_resultado": "2026-07-28T15:30:09.385502+00:00"
   },
   {
     "page_id": "3aba5230-de72-812d-9816-eadd91b56b0e",
