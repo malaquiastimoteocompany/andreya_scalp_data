@@ -611985,11 +611985,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.261,
-    "pnl_pct": 4.788,
-    "duracao_min": 43.7,
-    "data_resultado": "2026-07-28T09:07:10.254535+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.228,
+    "pnl_pct": 5.27,
+    "duracao_min": 45.7,
+    "data_resultado": "2026-07-28T09:09:06.498133+00:00"
   },
   {
     "page_id": "3aba5230-de72-8124-a15c-e47a1f2797ba",
