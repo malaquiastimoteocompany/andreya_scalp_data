@@ -607989,7 +607989,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 14.53,
+    "pnl_pct": 0.693,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-28T07:20:50.212978+00:00"
   },
   {
     "page_id": "3aba5230-de72-81dc-8e36-ecd1f1eaa82e",
