@@ -629017,7 +629017,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.82e-06,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 2.7934e-06,
+    "pnl_pct": 0.499,
+    "duracao_min": 79.6,
+    "data_resultado": "2026-07-28T22:48:08.140175+00:00"
   },
   {
     "page_id": "3aba5230-de72-8162-922e-d43f6a6be8e7",
