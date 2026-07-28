@@ -618775,11 +618775,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1945,
-    "pnl_pct": 0.562,
-    "duracao_min": 9.3,
-    "data_resultado": "2026-07-28T13:42:45.962628+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.196,
+    "pnl_pct": 0.179,
+    "duracao_min": 32.9,
+    "data_resultado": "2026-07-28T14:06:23.807638+00:00"
   },
   {
     "page_id": "3aba5230-de72-8109-abde-c78f07823f53",
