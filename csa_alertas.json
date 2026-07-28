@@ -631194,5 +631194,31 @@
     "zona_sr": 0.13805,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aba5230-de72-81db-8248-dcfed6358f2d",
+    "token": "GRT",
+    "direccao": "LONG",
+    "preco_alerta": 0.01506,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00013143,
+    "tp1": 0.015112572000000001,
+    "tp2": 0.01519143,
+    "sl": 0.014862855000000001,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 43988946.0,
+    "spread_pct": 0.0006637902422834114,
+    "oi_usd": 534937.6005000001,
+    "data_alerta": "2026-07-28T23:18:09.527058+00:00",
+    "rsi_1h": 41.97,
+    "funding_rate": -0.0079,
+    "estado_cfi": "E1",
+    "zona_sr": 0.01499,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
