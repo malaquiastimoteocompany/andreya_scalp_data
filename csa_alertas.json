@@ -614359,7 +614359,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.07739,
+    "pnl_pct": 0.348,
+    "duracao_min": 51.4,
+    "data_resultado": "2026-07-28T11:11:58.074416+00:00"
   },
   {
     "page_id": "3aba5230-de72-812d-86ba-e021de29bdfd",
