@@ -609033,11 +609033,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 1.0593,
-    "pnl_pct": 0.294,
-    "duracao_min": 26.3,
-    "data_resultado": "2026-07-28T06:37:01.234019+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.0554,
+    "pnl_pct": 0.109,
+    "duracao_min": 86.9,
+    "data_resultado": "2026-07-28T07:37:38.058799+00:00"
   },
   {
     "page_id": "3aba5230-de72-81ff-9bd4-eab6fcc58587",
