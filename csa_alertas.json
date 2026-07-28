@@ -606863,7 +606863,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 1.0587,
+    "pnl_pct": 0.275,
+    "duracao_min": 32.1,
+    "data_resultado": "2026-07-28T05:07:39.319006+00:00"
   },
   {
     "page_id": "3aba5230-de72-81f6-a900-c20d3b2e945e",
