@@ -624979,7 +624979,11 @@
     "estado_cfi": "E1",
     "zona_sr": 8.372,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 8.311,
+    "pnl_pct": 0.312,
+    "duracao_min": 19.5,
+    "data_resultado": "2026-07-28T17:55:18.046601+00:00"
   },
   {
     "page_id": "3aba5230-de72-8119-990f-f3885ea9bfeb",
