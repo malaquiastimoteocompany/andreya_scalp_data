@@ -603317,11 +603317,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06769,
-    "pnl_pct": 0.341,
-    "duracao_min": 105.7,
-    "data_resultado": "2026-07-28T03:33:40.936167+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.06775,
+    "pnl_pct": 0.385,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-28T03:48:53.953226+00:00"
   },
   {
     "page_id": "3aba5230-de72-8155-9a7b-d8b92dc8bdda",
