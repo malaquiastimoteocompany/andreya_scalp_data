@@ -609401,7 +609401,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.004805,
+    "pnl_pct": -5.512,
+    "duracao_min": 5.9,
+    "data_resultado": "2026-07-28T06:41:43.313703+00:00"
   },
   {
     "page_id": "3aba5230-de72-818f-b77f-f4de2ac51ea9",
