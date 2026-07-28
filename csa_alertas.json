@@ -600439,7 +600439,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.061565,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.06175,
+    "pnl_pct": 0.619,
+    "duracao_min": 3.1,
+    "data_resultado": "2026-07-28T00:16:27.212007+00:00"
   },
   {
     "page_id": "3aba5230-de72-81e8-a7b3-ca64c974fed3",
