@@ -627603,7 +627603,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004299,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.004335,
+    "pnl_pct": 0.347,
+    "duracao_min": 20.9,
+    "data_resultado": "2026-07-28T20:34:12.083073+00:00"
   },
   {
     "page_id": "3aba5230-de72-817f-9b44-f2fa2e685176",
