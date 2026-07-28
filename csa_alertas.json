@@ -614239,7 +614239,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.511,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 3.488,
+    "pnl_pct": -0.172,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-28T12:11:25.459500+00:00"
   },
   {
     "page_id": "3aba5230-de72-8121-acc4-e888e90c4347",
