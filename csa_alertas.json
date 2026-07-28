@@ -630429,11 +630429,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.017585,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01751,
-    "pnl_pct": 0.681,
-    "duracao_min": 5.1,
-    "data_resultado": "2026-07-28T22:53:54.365151+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01763,
+    "pnl_pct": 0.34,
+    "duracao_min": 53.6,
+    "data_resultado": "2026-07-28T23:42:23.270429+00:00"
   },
   {
     "page_id": "3aba5230-de72-81fd-8ff4-fb1a101108c8",
