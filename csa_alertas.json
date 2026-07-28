@@ -602345,11 +602345,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 185.78,
-    "pnl_pct": 0.732,
-    "duracao_min": 15.9,
-    "data_resultado": "2026-07-28T01:29:15.724961+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 186.98,
+    "pnl_pct": 1.057,
+    "duracao_min": 59.4,
+    "data_resultado": "2026-07-28T02:12:45.145928+00:00"
   },
   {
     "page_id": "3aba5230-de72-81a9-8f35-dc7454d70156",
