@@ -615919,7 +615919,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.38381429,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.3874,
+    "pnl_pct": 0.807,
+    "duracao_min": 41.1,
+    "data_resultado": "2026-07-28T12:19:24.805960+00:00"
   },
   {
     "page_id": "3aba5230-de72-81f0-8c72-c553994bf7ee",
