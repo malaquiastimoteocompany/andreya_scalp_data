@@ -607319,7 +607319,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.5648,
+    "pnl_pct": 3.533,
+    "duracao_min": 43.5,
+    "data_resultado": "2026-07-28T05:44:26.330689+00:00"
   },
   {
     "page_id": "3aba5230-de72-81c3-a417-d7a95b727b2f",
