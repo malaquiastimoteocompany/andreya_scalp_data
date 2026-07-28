@@ -619591,11 +619591,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03097,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03124,
-    "pnl_pct": 0.612,
-    "duracao_min": 3.3,
-    "data_resultado": "2026-07-28T13:54:47.269605+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.03101,
+    "pnl_pct": 0.242,
+    "duracao_min": 19.3,
+    "data_resultado": "2026-07-28T14:10:47.743697+00:00"
   },
   {
     "page_id": "3aba5230-de72-811b-b713-d3288313072d",
