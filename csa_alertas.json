@@ -617723,7 +617723,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.028825,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.02869,
+    "pnl_pct": 0.347,
+    "duracao_min": 26.0,
+    "data_resultado": "2026-07-28T13:21:39.880031+00:00"
   },
   {
     "page_id": "3aba5230-de72-8186-bfc9-e3c8a29de14e",
