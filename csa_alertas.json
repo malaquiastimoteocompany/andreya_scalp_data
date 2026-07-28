@@ -606285,11 +606285,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02388,
-    "pnl_pct": 1.315,
-    "duracao_min": 79.0,
-    "data_resultado": "2026-07-28T05:25:24.520935+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.02445,
+    "pnl_pct": 2.524,
+    "duracao_min": 100.9,
+    "data_resultado": "2026-07-28T05:47:16.554411+00:00"
   },
   {
     "page_id": "3aba5230-de72-8162-8faf-c1d7c256f216",
