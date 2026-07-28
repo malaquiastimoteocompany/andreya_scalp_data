@@ -619181,11 +619181,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06331333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06383,
-    "pnl_pct": 0.885,
-    "duracao_min": 52.4,
-    "data_resultado": "2026-07-28T14:34:27.594931+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.06463,
+    "pnl_pct": 1.517,
+    "duracao_min": 100.3,
+    "data_resultado": "2026-07-28T15:22:17.633421+00:00"
   },
   {
     "page_id": "3aba5230-de72-8198-b4ed-f95339de8f0d",
