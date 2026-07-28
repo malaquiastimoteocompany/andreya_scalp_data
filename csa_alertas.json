@@ -604595,7 +604595,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00205767,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.002027,
+    "pnl_pct": 1.074,
+    "duracao_min": 8.8,
+    "data_resultado": "2026-07-28T03:09:25.818588+00:00"
   },
   {
     "page_id": "3aba5230-de72-81d6-b4cc-f2424e60a6eb",
