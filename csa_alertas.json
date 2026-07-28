@@ -619661,11 +619661,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.17097,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.17165,
-    "pnl_pct": 0.728,
-    "duracao_min": 91.6,
-    "data_resultado": "2026-07-28T15:22:50.643502+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.17176,
+    "pnl_pct": 0.76,
+    "duracao_min": 98.1,
+    "data_resultado": "2026-07-28T15:29:20.622869+00:00"
   },
   {
     "page_id": "3aba5230-de72-8154-9501-d85a06e06834",
