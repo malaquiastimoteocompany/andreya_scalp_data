@@ -624003,7 +624003,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.002561,
+    "pnl_pct": 1.651,
+    "duracao_min": 1.8,
+    "data_resultado": "2026-07-28T16:52:46.884769+00:00"
   },
   {
     "page_id": "3aba5230-de72-8115-8ff6-e4094689538d",
