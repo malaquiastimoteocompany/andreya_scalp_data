@@ -626309,11 +626309,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 1.645,
-    "pnl_pct": 0.612,
-    "duracao_min": 24.9,
-    "data_resultado": "2026-07-28T19:23:20.325926+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.649,
+    "pnl_pct": 0.734,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-28T20:58:37.854017+00:00"
   },
   {
     "page_id": "3aba5230-de72-81d9-9d9c-e9d49a5fc080",
