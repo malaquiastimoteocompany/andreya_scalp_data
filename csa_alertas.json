@@ -615629,7 +615629,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.064605,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.0632,
+    "pnl_pct": 1.772,
+    "duracao_min": 14.3,
+    "data_resultado": "2026-07-28T11:35:08.091807+00:00"
   },
   {
     "page_id": "3aba5230-de72-8190-bd29-d6c6c4996b1d",
