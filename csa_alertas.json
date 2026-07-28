@@ -614899,11 +614899,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004535,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
+    "resultado": "Falhado",
     "preco_saida": 0.004549,
     "pnl_pct": 0.309,
-    "duracao_min": 68.2,
-    "data_resultado": "2026-07-28T11:53:46.850659+00:00"
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-28T12:45:40.153227+00:00"
   },
   {
     "page_id": "3aba5230-de72-8118-a3ec-fd2d26aee671",
