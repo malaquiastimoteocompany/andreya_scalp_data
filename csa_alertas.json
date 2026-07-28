@@ -600053,11 +600053,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04217,
-    "pnl_pct": 0.596,
-    "duracao_min": 57.8,
-    "data_resultado": "2026-07-28T00:38:32.478262+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04174,
+    "pnl_pct": 0.083,
+    "duracao_min": 88.7,
+    "data_resultado": "2026-07-28T01:09:23.094797+00:00"
   },
   {
     "page_id": "3aaa5230-de72-81a2-8ff2-d0d44aa65cba",
