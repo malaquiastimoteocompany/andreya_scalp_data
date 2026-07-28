@@ -626519,11 +626519,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.5895,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 6.598,
-    "pnl_pct": 0.564,
-    "duracao_min": 51.9,
-    "data_resultado": "2026-07-28T19:57:47.211807+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 6.602,
+    "pnl_pct": 0.594,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-28T21:05:55.242706+00:00"
   },
   {
     "page_id": "3aba5230-de72-81fd-afe0-ee55e2bdd385",
