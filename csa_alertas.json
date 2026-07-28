@@ -621317,11 +621317,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 3.46,
-    "pnl_pct": 0.406,
-    "duracao_min": 6.8,
-    "data_resultado": "2026-07-28T14:52:44.359446+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 3.441,
+    "pnl_pct": 0.131,
+    "duracao_min": 19.1,
+    "data_resultado": "2026-07-28T15:05:01.728612+00:00"
   },
   {
     "page_id": "3aba5230-de72-8140-98c8-e1cf022699ec",
