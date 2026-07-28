@@ -599349,11 +599349,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04324,
-    "pnl_pct": 0.46,
-    "duracao_min": 34.5,
-    "data_resultado": "2026-07-27T23:42:53.497704+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04346,
+    "pnl_pct": 0.207,
+    "duracao_min": 54.9,
+    "data_resultado": "2026-07-28T00:03:13.126574+00:00"
   },
   {
     "page_id": "3aaa5230-de72-819b-bbde-ea4fe3662f99",
