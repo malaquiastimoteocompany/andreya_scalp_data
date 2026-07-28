@@ -603017,7 +603017,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.2093,
+    "pnl_pct": 0.191,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-28T03:32:03.233412+00:00"
   },
   {
     "page_id": "3aba5230-de72-81f2-8f5e-d8ae2538c343",
