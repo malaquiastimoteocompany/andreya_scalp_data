@@ -618105,11 +618105,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.008831,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.008693,
-    "pnl_pct": 1.261,
-    "duracao_min": 73.0,
-    "data_resultado": "2026-07-28T14:16:52.608109+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.008631,
+    "pnl_pct": 1.613,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-28T15:04:16.396679+00:00"
   },
   {
     "page_id": "3aba5230-de72-81d0-a3b9-e379ad95753e",
