@@ -628171,11 +628171,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0043415,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004366,
-    "pnl_pct": 0.414,
-    "duracao_min": 11.7,
-    "data_resultado": "2026-07-28T21:00:16.337882+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.004348,
+    "pnl_pct": 0.207,
+    "duracao_min": 19.0,
+    "data_resultado": "2026-07-28T21:07:38.084065+00:00"
   },
   {
     "page_id": "3aba5230-de72-81b8-b1cb-f3522d74aca2",
