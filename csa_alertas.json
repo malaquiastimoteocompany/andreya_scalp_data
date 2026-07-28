@@ -611939,11 +611939,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1425,
-    "pnl_pct": 0.778,
-    "duracao_min": 28.8,
-    "data_resultado": "2026-07-28T08:44:33.120762+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1414,
+    "pnl_pct": 0.389,
+    "duracao_min": 67.9,
+    "data_resultado": "2026-07-28T09:23:38.298890+00:00"
   },
   {
     "page_id": "3aba5230-de72-819c-8f79-c998664c26c0",
