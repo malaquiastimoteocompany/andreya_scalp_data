@@ -613733,7 +613733,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.39023333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.3884,
+    "pnl_pct": -0.282,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-28T11:46:44.567964+00:00"
   },
   {
     "page_id": "3aba5230-de72-81a3-8a70-faa653eb8182",
