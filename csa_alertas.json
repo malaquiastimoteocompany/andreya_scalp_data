@@ -621325,11 +621325,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08423,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08488,
-    "pnl_pct": 1.228,
-    "duracao_min": 42.2,
-    "data_resultado": "2026-07-28T15:26:04.525242+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.08481,
+    "pnl_pct": 1.187,
+    "duracao_min": 45.9,
+    "data_resultado": "2026-07-28T15:29:47.427094+00:00"
   },
   {
     "page_id": "3aba5230-de72-81d2-ab63-d4ee23e132ac",
