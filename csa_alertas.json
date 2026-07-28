@@ -630171,11 +630171,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 106.01,
-    "pnl_pct": 2.133,
-    "duracao_min": 6.1,
-    "data_resultado": "2026-07-28T22:46:48.768312+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 103.1,
+    "pnl_pct": 3.476,
+    "duracao_min": 13.0,
+    "data_resultado": "2026-07-28T22:53:45.697890+00:00"
   },
   {
     "page_id": "3aba5230-de72-812e-8fee-ff8d00585ea2",
