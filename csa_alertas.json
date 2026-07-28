@@ -609495,11 +609495,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 118.04,
-    "pnl_pct": 1.14,
-    "duracao_min": 22.8,
-    "data_resultado": "2026-07-28T06:58:22.381468+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 116.51,
+    "pnl_pct": 0.484,
+    "duracao_min": 53.1,
+    "data_resultado": "2026-07-28T07:28:39.682691+00:00"
   },
   {
     "page_id": "3aba5230-de72-81eb-b781-d9911bb02df6",
