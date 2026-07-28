@@ -629751,11 +629751,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.12533,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.12407,
-    "pnl_pct": 0.633,
-    "duracao_min": 27.9,
-    "data_resultado": "2026-07-28T22:38:56.363284+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.12303,
+    "pnl_pct": 1.049,
+    "duracao_min": 48.6,
+    "data_resultado": "2026-07-28T22:59:38.457109+00:00"
   },
   {
     "page_id": "3aba5230-de72-8152-9fec-e8a315867d4b",
