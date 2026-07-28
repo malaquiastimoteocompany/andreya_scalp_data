@@ -620929,11 +620929,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.061565,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06189,
-    "pnl_pct": 0.373,
-    "duracao_min": 20.7,
-    "data_resultado": "2026-07-28T14:49:03.218012+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06155,
+    "pnl_pct": 0.097,
+    "duracao_min": 36.5,
+    "data_resultado": "2026-07-28T15:04:51.313665+00:00"
   },
   {
     "page_id": "3aba5230-de72-8158-8f42-cae9bac06889",
