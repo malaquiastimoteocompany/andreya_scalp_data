@@ -609789,7 +609789,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.061565,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.0616,
+    "pnl_pct": -0.227,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-28T08:51:34.103748+00:00"
   },
   {
     "page_id": "3aba5230-de72-8178-a42b-e93386612f02",
