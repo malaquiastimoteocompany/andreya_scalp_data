@@ -628563,7 +628563,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06767375,
     "toques_sr": 8,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.06777,
+    "pnl_pct": 0.489,
+    "duracao_min": 42.9,
+    "data_resultado": "2026-07-28T21:46:45.012335+00:00"
   },
   {
     "page_id": "3aba5230-de72-8184-8d84-e437d2db6a2f",
