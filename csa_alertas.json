@@ -608139,7 +608139,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.005941,
+    "pnl_pct": -0.525,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-28T07:26:53.130442+00:00"
   },
   {
     "page_id": "3aba5230-de72-81ce-9fa3-d7ff7b269e0d",
