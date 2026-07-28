@@ -621069,7 +621069,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.4139,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.4151,
+    "pnl_pct": 0.752,
+    "duracao_min": 15.6,
+    "data_resultado": "2026-07-28T14:54:07.710115+00:00"
   },
   {
     "page_id": "3aba5230-de72-819b-875a-d7f379a5545d",
