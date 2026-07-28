@@ -602273,7 +602273,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 185.78,
+    "pnl_pct": 0.732,
+    "duracao_min": 15.9,
+    "data_resultado": "2026-07-28T01:29:15.724961+00:00"
   },
   {
     "page_id": "3aba5230-de72-81a9-8f35-dc7454d70156",
