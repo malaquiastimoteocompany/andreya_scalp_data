@@ -615889,11 +615889,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00408125,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004154,
-    "pnl_pct": 2.139,
-    "duracao_min": 59.6,
-    "data_resultado": "2026-07-28T12:22:49.439416+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.004094,
+    "pnl_pct": 1.402,
+    "duracao_min": 121.5,
+    "data_resultado": "2026-07-28T13:24:44.390863+00:00"
   },
   {
     "page_id": "3aba5230-de72-81f7-9227-d2d70f88449d",
