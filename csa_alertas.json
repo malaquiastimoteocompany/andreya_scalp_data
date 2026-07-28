@@ -617271,11 +617271,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 13.86,
-    "pnl_pct": 3.009,
-    "duracao_min": 64.9,
-    "data_resultado": "2026-07-28T13:40:27.303450+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 13.55,
+    "pnl_pct": 4.094,
+    "duracao_min": 70.7,
+    "data_resultado": "2026-07-28T13:46:12.037287+00:00"
   },
   {
     "page_id": "3aba5230-de72-818e-a268-d5c19f0fb9df",
