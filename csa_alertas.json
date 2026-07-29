@@ -630411,11 +630411,11 @@
     "estado_cfi": "E1",
     "zona_sr": 4.61e-06,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 4.644e-06,
-    "pnl_pct": 0.519,
-    "duracao_min": 62.1,
-    "data_resultado": "2026-07-28T23:50:21.940991+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 4.617e-06,
+    "pnl_pct": 0.227,
+    "duracao_min": 107.1,
+    "data_resultado": "2026-07-29T00:35:19.387404+00:00"
   },
   {
     "page_id": "3aba5230-de72-811d-bf84-c69c1d8e2e1a",
