@@ -649783,11 +649783,11 @@
     "estado_cfi": "E1",
     "zona_sr": 192.995,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 193.17,
-    "pnl_pct": 0.489,
-    "duracao_min": 31.1,
-    "data_resultado": "2026-07-29T15:02:44.678260+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 192.13,
+    "pnl_pct": 0.218,
+    "duracao_min": 68.8,
+    "data_resultado": "2026-07-29T15:40:28.574906+00:00"
   },
   {
     "page_id": "3aca5230-de72-81ef-ae76-e590930cffd9",
