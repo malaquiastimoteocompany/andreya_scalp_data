@@ -631603,7 +631603,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.5895,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 6.601,
+    "pnl_pct": 0.671,
+    "duracao_min": 19.3,
+    "data_resultado": "2026-07-29T00:02:36.470493+00:00"
   },
   {
     "page_id": "3aba5230-de72-818a-af0f-e71287f5e620",
