@@ -653059,7 +653059,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.13735,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.1378,
+    "pnl_pct": 0.805,
+    "duracao_min": 12.1,
+    "data_resultado": "2026-07-29T17:46:04.794547+00:00"
   },
   {
     "page_id": "3aca5230-de72-8180-9e73-f95a782d646b",
