@@ -660547,7 +660547,11 @@
     "estado_cfi": "E1",
     "zona_sr": 4.67e-06,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 4.627e-06,
+    "pnl_pct": 0.708,
+    "duracao_min": 27.2,
+    "data_resultado": "2026-07-29T22:34:11.285250+00:00"
   },
   {
     "page_id": "3aca5230-de72-819b-8823-ce1031844079",
