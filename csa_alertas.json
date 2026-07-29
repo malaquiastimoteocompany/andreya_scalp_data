@@ -635739,11 +635739,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 145.17,
-    "pnl_pct": 1.248,
-    "duracao_min": 11.1,
-    "data_resultado": "2026-07-29T03:09:41.124076+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 142.72,
+    "pnl_pct": 0.394,
+    "duracao_min": 17.5,
+    "data_resultado": "2026-07-29T03:16:06.833070+00:00"
   },
   {
     "page_id": "3aca5230-de72-81ec-8207-f7e086a40f23",
