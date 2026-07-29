@@ -656135,11 +656135,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.002507,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.002478,
-    "pnl_pct": 1.589,
-    "duracao_min": 67.3,
-    "data_resultado": "2026-07-29T20:26:39.442911+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.002507,
+    "pnl_pct": 1.013,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-29T21:19:23.712903+00:00"
   },
   {
     "page_id": "3aca5230-de72-8193-b65e-f1f9efebccff",
