@@ -635923,7 +635923,11 @@
     "estado_cfi": "E1",
     "zona_sr": 99.38,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 97.83,
+    "pnl_pct": -2.013,
+    "duracao_min": 64.0,
+    "data_resultado": "2026-07-29T04:07:39.951582+00:00"
   },
   {
     "page_id": "3aca5230-de72-8133-a589-c6a32086658e",
