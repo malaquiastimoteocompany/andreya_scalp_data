@@ -630341,11 +630341,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004535,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004552,
-    "pnl_pct": 0.353,
-    "duracao_min": 59.3,
-    "data_resultado": "2026-07-28T23:45:03.711622+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.004582,
+    "pnl_pct": 0.683,
+    "duracao_min": 78.3,
+    "data_resultado": "2026-07-29T00:04:05.344393+00:00"
   },
   {
     "page_id": "3aba5230-de72-81b2-83e3-dce76f098215",
