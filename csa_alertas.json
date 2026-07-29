@@ -639413,11 +639413,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02138,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0214,
-    "pnl_pct": 0.469,
-    "duracao_min": 54.6,
-    "data_resultado": "2026-07-29T06:30:53.200976+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0213,
+    "pnl_pct": 0.235,
+    "duracao_min": 87.1,
+    "data_resultado": "2026-07-29T07:03:24.280365+00:00"
   },
   {
     "page_id": "3aca5230-de72-8180-9693-d3dd96e91fb9",
