@@ -653177,7 +653177,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0042585,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.00428,
+    "pnl_pct": 0.517,
+    "duracao_min": 12.4,
+    "data_resultado": "2026-07-29T17:53:55.504194+00:00"
   },
   {
     "page_id": "3aca5230-de72-816c-a190-e2a67d5d4b59",
