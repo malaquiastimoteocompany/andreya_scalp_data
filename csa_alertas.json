@@ -659999,11 +659999,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.071225,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07137,
-    "pnl_pct": 0.394,
-    "duracao_min": 21.7,
-    "data_resultado": "2026-07-29T21:59:02.271976+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.07174,
+    "pnl_pct": 0.654,
+    "duracao_min": 83.8,
+    "data_resultado": "2026-07-29T23:01:10.147383+00:00"
   },
   {
     "page_id": "3aca5230-de72-81be-8832-e77732246f92",
