@@ -638691,11 +638691,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 30.69,
-    "pnl_pct": 0.425,
-    "duracao_min": 48.1,
-    "data_resultado": "2026-07-29T05:41:57.183716+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 30.72,
+    "pnl_pct": 0.474,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-29T06:53:53.229236+00:00"
   },
   {
     "page_id": "3aca5230-de72-81af-9d55-f34a931a15a5",
