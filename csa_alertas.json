@@ -645673,7 +645673,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 4.049,
+    "pnl_pct": -1.25,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-29T13:08:39.388167+00:00"
   },
   {
     "page_id": "3aca5230-de72-81bd-a472-f6eec955c08c",
