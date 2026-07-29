@@ -658133,7 +658133,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 731.96,
+    "pnl_pct": 0.203,
+    "duracao_min": 111.6,
+    "data_resultado": "2026-07-29T22:08:42.410606+00:00"
   },
   {
     "page_id": "3aca5230-de72-813b-9f1f-e27f047c4749",
