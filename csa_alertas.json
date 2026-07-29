@@ -647147,11 +647147,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1807,
-    "pnl_pct": 0.725,
-    "duracao_min": 18.0,
-    "data_resultado": "2026-07-29T12:39:43.753198+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1822,
+    "pnl_pct": 1.143,
+    "duracao_min": 53.1,
+    "data_resultado": "2026-07-29T13:14:54.241124+00:00"
   },
   {
     "page_id": "3aca5230-de72-8153-8435-eab19e0d6573",
