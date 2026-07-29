@@ -634539,7 +634539,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07944,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.07887,
+    "pnl_pct": -1.153,
+    "duracao_min": 109.5,
+    "data_resultado": "2026-07-29T03:42:58.206812+00:00"
   },
   {
     "page_id": "3aca5230-de72-8175-8e8c-c01306fcd433",
