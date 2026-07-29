@@ -653339,7 +653339,11 @@
     "estado_cfi": "E1",
     "zona_sr": 192.995,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 193.27,
+    "pnl_pct": 0.536,
+    "duracao_min": 15.4,
+    "data_resultado": "2026-07-29T18:04:22.369845+00:00"
   },
   {
     "page_id": "3aca5230-de72-81c8-ac66-d3f096e006be",
