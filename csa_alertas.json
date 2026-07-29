@@ -648067,11 +648067,11 @@
     "estado_cfi": "E1",
     "zona_sr": 149.19,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 150.69,
-    "pnl_pct": 1.182,
-    "duracao_min": 6.7,
-    "data_resultado": "2026-07-29T13:35:42.658897+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 148.78,
+    "pnl_pct": 0.541,
+    "duracao_min": 11.0,
+    "data_resultado": "2026-07-29T13:40:01.011861+00:00"
   },
   {
     "page_id": "3aca5230-de72-81af-bd11-dc94a7f8afdc",
