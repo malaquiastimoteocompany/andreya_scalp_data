@@ -639533,11 +639533,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.078,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07757,
-    "pnl_pct": 0.372,
-    "duracao_min": 22.0,
-    "data_resultado": "2026-07-29T06:10:25.332814+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07787,
+    "pnl_pct": 0.18,
+    "duracao_min": 35.0,
+    "data_resultado": "2026-07-29T06:23:26.230160+00:00"
   },
   {
     "page_id": "3aca5230-de72-8192-8484-dd2bb81c1213",
