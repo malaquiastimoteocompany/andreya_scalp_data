@@ -647889,11 +647889,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.5982,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.6031,
-    "pnl_pct": 0.316,
-    "duracao_min": 15.4,
-    "data_resultado": "2026-07-29T13:26:59.027863+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.6056,
+    "pnl_pct": 0.524,
+    "duracao_min": 37.1,
+    "data_resultado": "2026-07-29T13:48:38.521834+00:00"
   },
   {
     "page_id": "3aca5230-de72-8115-a006-c2fa9a84232c",
