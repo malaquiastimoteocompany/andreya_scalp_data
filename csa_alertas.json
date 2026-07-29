@@ -653135,11 +653135,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.3309,
-    "pnl_pct": 1.546,
-    "duracao_min": 75.6,
-    "data_resultado": "2026-07-29T18:44:32.914606+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.3536,
+    "pnl_pct": 0.706,
+    "duracao_min": 106.8,
+    "data_resultado": "2026-07-29T19:15:44.711883+00:00"
   },
   {
     "page_id": "3aca5230-de72-813d-813d-f981eab4eafb",
