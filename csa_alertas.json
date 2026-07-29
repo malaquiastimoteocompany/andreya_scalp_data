@@ -641323,11 +641323,11 @@
     "estado_cfi": "E2",
     "zona_sr": 2.707,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 2.695,
-    "pnl_pct": 0.222,
-    "duracao_min": 16.5,
-    "data_resultado": "2026-07-29T07:47:19.914120+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 2.688,
+    "pnl_pct": 0.352,
+    "duracao_min": 27.1,
+    "data_resultado": "2026-07-29T07:57:51.778115+00:00"
   },
   {
     "page_id": "3aca5230-de72-811e-8ae6-f1a289006db1",
