@@ -642353,11 +642353,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07944,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07963,
-    "pnl_pct": 0.328,
-    "duracao_min": 25.6,
-    "data_resultado": "2026-07-29T08:41:56.044179+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.07998,
+    "pnl_pct": 0.548,
+    "duracao_min": 85.2,
+    "data_resultado": "2026-07-29T09:41:30.668422+00:00"
   },
   {
     "page_id": "3aca5230-de72-816c-880e-c26fb265ceaf",
