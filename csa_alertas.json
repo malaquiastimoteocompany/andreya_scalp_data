@@ -647679,11 +647679,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04196333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04195,
-    "pnl_pct": 0.455,
-    "duracao_min": 31.7,
-    "data_resultado": "2026-07-29T13:28:28.556445+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.0422,
+    "pnl_pct": 0.754,
+    "duracao_min": 46.2,
+    "data_resultado": "2026-07-29T13:43:00.510239+00:00"
   },
   {
     "page_id": "3aca5230-de72-816b-8843-c9171e2bcf3c",
