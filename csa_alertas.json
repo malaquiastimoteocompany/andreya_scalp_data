@@ -649369,7 +649369,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07941,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.07689,
+    "pnl_pct": -3.538,
+    "duracao_min": 106.5,
+    "data_resultado": "2026-07-29T16:03:02.989924+00:00"
   },
   {
     "page_id": "3aca5230-de72-8149-9338-ef41fcd75335",
