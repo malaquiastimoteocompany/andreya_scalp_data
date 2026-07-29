@@ -638399,7 +638399,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.327375,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.33048,
+    "pnl_pct": 1.006,
+    "duracao_min": 2.6,
+    "data_resultado": "2026-07-29T04:48:39.763033+00:00"
   },
   {
     "page_id": "3aca5230-de72-8171-8389-d57e1cb74506",
