@@ -648266,5 +648266,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aca5230-de72-8115-864c-e38b43c2b100",
+    "token": "EWY",
+    "direccao": "LONG",
+    "preco_alerta": 149.73,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 3.85357143,
+    "tp1": 151.271428572,
+    "tp2": 153.58357142999998,
+    "sl": 143.94964285499998,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 6171278.0,
+    "spread_pct": 6.675790246683351e-05,
+    "oi_usd": 1508459.1505999998,
+    "data_alerta": "2026-07-29T13:46:25.212871+00:00",
+    "rsi_1h": 50.31,
+    "funding_rate": 0.0,
+    "estado_cfi": "E1",
+    "zona_sr": 149.19,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
