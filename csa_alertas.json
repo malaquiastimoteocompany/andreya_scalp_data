@@ -641105,7 +641105,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07944,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.07974,
+    "pnl_pct": 0.403,
+    "duracao_min": 43.8,
+    "data_resultado": "2026-07-29T08:02:10.018774+00:00"
   },
   {
     "page_id": "3aca5230-de72-81ea-b0fd-ca5aaf4564e6",
