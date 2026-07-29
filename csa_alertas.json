@@ -632307,11 +632307,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0001685,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0001686,
-    "pnl_pct": 0.477,
-    "duracao_min": 10.5,
-    "data_resultado": "2026-07-29T00:19:07.522382+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0001678,
+    "pnl_pct": 0.238,
+    "duracao_min": 77.0,
+    "data_resultado": "2026-07-29T01:25:38.371935+00:00"
   },
   {
     "page_id": "3aca5230-de72-81bc-bdd1-c918567a9c3b",
