@@ -659454,5 +659454,31 @@
     "zona_sr": 0.002507,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aca5230-de72-81b9-8b1c-db40aff9acf6",
+    "token": "KAVA",
+    "direccao": "LONG",
+    "preco_alerta": 0.04316,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": false,
+    "atr_1h": 0.00033643,
+    "tp1": 0.043294571999999996,
+    "tp2": 0.043496429999999996,
+    "sl": 0.042655355,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 26759325.0,
+    "spread_pct": 0.0004637143519591742,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-29T21:24:21.763435+00:00",
+    "rsi_1h": 23.87,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
