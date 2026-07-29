@@ -631855,11 +631855,11 @@
     "estado_cfi": "E1",
     "zona_sr": 48.855,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 47.77,
-    "pnl_pct": 1.768,
-    "duracao_min": 85.6,
-    "data_resultado": "2026-07-29T01:14:08.860555+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 47.06,
+    "pnl_pct": 2.498,
+    "duracao_min": 113.9,
+    "data_resultado": "2026-07-29T01:42:21.738460+00:00"
   },
   {
     "page_id": "3aba5230-de72-81ce-b7ed-eed50287de9e",
