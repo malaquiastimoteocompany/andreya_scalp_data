@@ -646955,11 +646955,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.20935,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.209,
-    "pnl_pct": 0.618,
-    "duracao_min": 6.6,
-    "data_resultado": "2026-07-29T12:17:58.941202+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.2094,
+    "pnl_pct": 0.523,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-29T14:11:50.381780+00:00"
   },
   {
     "page_id": "3aca5230-de72-811e-8e6f-c93f2c3ee17c",
