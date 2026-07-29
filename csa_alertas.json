@@ -643293,11 +643293,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06719,
-    "pnl_pct": 1.118,
-    "duracao_min": 53.5,
-    "data_resultado": "2026-07-29T09:57:24.535451+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.06614,
+    "pnl_pct": 1.891,
+    "duracao_min": 60.0,
+    "data_resultado": "2026-07-29T10:03:49.502638+00:00"
   },
   {
     "page_id": "3aca5230-de72-81b3-bc31-e03bdc63a2ce",
