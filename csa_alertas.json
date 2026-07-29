@@ -636289,7 +636289,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.5683,
+    "pnl_pct": -1.32,
+    "duracao_min": 43.3,
+    "data_resultado": "2026-07-29T04:04:00.937047+00:00"
   },
   {
     "page_id": "3aca5230-de72-816c-8f46-c4b875bcfd49",
