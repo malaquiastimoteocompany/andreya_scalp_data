@@ -646775,11 +646775,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.14485,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1445,
-    "pnl_pct": 0.687,
-    "duracao_min": 5.9,
-    "data_resultado": "2026-07-29T12:10:37.607097+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.1446,
+    "pnl_pct": 0.653,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-29T14:05:11.090033+00:00"
   },
   {
     "page_id": "3aca5230-de72-81e6-be24-cf6603775791",
