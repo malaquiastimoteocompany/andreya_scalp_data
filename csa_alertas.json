@@ -658247,11 +658247,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00183025,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.001819,
-    "pnl_pct": 0.818,
-    "duracao_min": 21.5,
-    "data_resultado": "2026-07-29T20:51:20.800368+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.001835,
+    "pnl_pct": 0.382,
+    "duracao_min": 49.8,
+    "data_resultado": "2026-07-29T21:19:39.383442+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a5-854d-cccfbf52daf1",
