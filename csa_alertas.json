@@ -649403,7 +649403,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01736,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.01742,
+    "pnl_pct": 0.519,
+    "duracao_min": 34.7,
+    "data_resultado": "2026-07-29T14:53:38.760507+00:00"
   },
   {
     "page_id": "3aca5230-de72-81e9-93b8-fc6e62b2b4dd",
