@@ -656159,7 +656159,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.122495,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.12025,
+    "pnl_pct": -2.077,
+    "duracao_min": 24.7,
+    "data_resultado": "2026-07-29T19:46:45.087611+00:00"
   },
   {
     "page_id": "3aca5230-de72-81ab-9739-c1e1322a78ec",
