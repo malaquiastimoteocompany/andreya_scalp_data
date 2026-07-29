@@ -638001,11 +638001,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01348,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
+    "resultado": "Falhado",
     "preco_saida": 0.01348,
     "pnl_pct": 0.443,
-    "duracao_min": 47.0,
-    "data_resultado": "2026-07-29T04:53:07.353370+00:00"
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-29T06:07:28.886161+00:00"
   },
   {
     "page_id": "3aca5230-de72-8153-b756-d2937c472691",
