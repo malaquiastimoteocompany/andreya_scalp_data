@@ -641871,11 +641871,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0035814,
-    "pnl_pct": 3.709,
-    "duracao_min": 88.9,
-    "data_resultado": "2026-07-29T09:27:32.833847+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.0036814,
+    "pnl_pct": 5.157,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-29T09:59:56.551655+00:00"
   },
   {
     "page_id": "3aca5230-de72-8107-8ede-ee5e829c815a",
