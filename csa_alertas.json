@@ -653809,7 +653809,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.068555,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.06804,
+    "pnl_pct": 0.278,
+    "duracao_min": 10.5,
+    "data_resultado": "2026-07-29T18:17:49.536623+00:00"
   },
   {
     "page_id": "3aca5230-de72-819d-a45b-cae7b5f5d53c",
