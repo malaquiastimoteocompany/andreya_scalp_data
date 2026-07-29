@@ -647849,7 +647849,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.02881,
+    "pnl_pct": -4.12,
+    "duracao_min": 76.8,
+    "data_resultado": "2026-07-29T14:23:06.284601+00:00"
   },
   {
     "page_id": "3aca5230-de72-813b-9fab-ccf4de6be0bb",
