@@ -659033,11 +659033,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 95.86,
-    "pnl_pct": 0.672,
-    "duracao_min": 61.5,
-    "data_resultado": "2026-07-29T22:03:51.154252+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 96.74,
+    "pnl_pct": 1.134,
+    "duracao_min": 103.2,
+    "data_resultado": "2026-07-29T22:45:31.547900+00:00"
   },
   {
     "page_id": "3aca5230-de72-8176-898f-cba41ea5ced6",
