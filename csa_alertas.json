@@ -644613,7 +644613,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00439925,
     "toques_sr": 8,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.004353,
+    "pnl_pct": 0.752,
+    "duracao_min": 4.7,
+    "data_resultado": "2026-07-29T10:20:32.317362+00:00"
   },
   {
     "page_id": "3aca5230-de72-81cc-b156-edbf6173c47e",
