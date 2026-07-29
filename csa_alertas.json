@@ -642561,11 +642561,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00120633,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001214,
-    "pnl_pct": 0.414,
-    "duracao_min": 46.6,
-    "data_resultado": "2026-07-29T09:17:31.396557+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.001221,
+    "pnl_pct": 0.703,
+    "duracao_min": 113.3,
+    "data_resultado": "2026-07-29T10:24:18.121167+00:00"
   },
   {
     "page_id": "3aca5230-de72-8196-8d2e-c97dd8ac8646",
