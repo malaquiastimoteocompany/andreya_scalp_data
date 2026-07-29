@@ -659315,11 +659315,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04095,
-    "pnl_pct": 0.54,
-    "duracao_min": 6.3,
-    "data_resultado": "2026-07-29T21:13:50.850214+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.04118,
+    "pnl_pct": 0.822,
+    "duracao_min": 53.3,
+    "data_resultado": "2026-07-29T22:00:48.759830+00:00"
   },
   {
     "page_id": "3aca5230-de72-81bc-b09e-e7f1249587b5",
