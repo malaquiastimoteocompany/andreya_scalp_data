@@ -652703,11 +652703,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04224,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04236,
-    "pnl_pct": 0.332,
-    "duracao_min": 71.2,
-    "data_resultado": "2026-07-29T18:12:34.653964+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04221,
+    "pnl_pct": 0.154,
+    "duracao_min": 80.9,
+    "data_resultado": "2026-07-29T18:22:22.206006+00:00"
   },
   {
     "page_id": "3aca5230-de72-8180-90fb-cd1371dc4d68",
