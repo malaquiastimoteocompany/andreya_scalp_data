@@ -659663,11 +659663,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 2.529,
-    "pnl_pct": 0.757,
-    "duracao_min": 3.5,
-    "data_resultado": "2026-07-29T21:30:38.174343+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.553,
+    "pnl_pct": 1.235,
+    "duracao_min": 34.0,
+    "data_resultado": "2026-07-29T22:01:05.029104+00:00"
   },
   {
     "page_id": "3aca5230-de72-8119-be06-cec658551c90",
