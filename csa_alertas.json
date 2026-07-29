@@ -640663,7 +640663,11 @@
     "estado_cfi": "E2",
     "zona_sr": 2.707,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 2.698,
+    "pnl_pct": 0.185,
+    "duracao_min": 6.0,
+    "data_resultado": "2026-07-29T07:06:51.676208+00:00"
   },
   {
     "page_id": "3aca5230-de72-8177-a243-fc3204295d38",
