@@ -647915,11 +647915,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 1.587,
-    "pnl_pct": 0.57,
-    "duracao_min": 20.2,
-    "data_resultado": "2026-07-29T13:26:50.549624+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.582,
+    "pnl_pct": 0.412,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-29T15:06:48.272350+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a7-b611-d2f3596d5e12",
