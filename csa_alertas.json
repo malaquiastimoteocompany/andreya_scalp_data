@@ -651607,7 +651607,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.4504,
+    "pnl_pct": -6.831,
+    "duracao_min": 6.8,
+    "data_resultado": "2026-07-29T16:30:36.600560+00:00"
   },
   {
     "page_id": "3aca5230-de72-81c4-975a-d925f9a0c0a2",
