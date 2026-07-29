@@ -650963,11 +650963,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.17102667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.17253,
-    "pnl_pct": 0.437,
-    "duracao_min": 26.9,
-    "data_resultado": "2026-07-29T16:23:29.743273+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1717,
+    "pnl_pct": 0.195,
+    "duracao_min": 41.5,
+    "data_resultado": "2026-07-29T16:38:06.839487+00:00"
   },
   {
     "page_id": "3aca5230-de72-812a-9790-ca0215d23d57",
