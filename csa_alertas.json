@@ -646199,11 +646199,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 1.59,
-    "pnl_pct": 0.633,
-    "duracao_min": 20.5,
-    "data_resultado": "2026-07-29T11:57:05.546333+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.579,
+    "pnl_pct": 0.285,
+    "duracao_min": 88.0,
+    "data_resultado": "2026-07-29T13:04:31.344540+00:00"
   },
   {
     "page_id": "3aca5230-de72-814d-a39c-fd65f7ac329c",
