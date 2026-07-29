@@ -659075,11 +659075,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 188.03,
-    "pnl_pct": 0.685,
-    "duracao_min": 6.2,
-    "data_resultado": "2026-07-29T21:10:41.387981+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 188.88,
+    "pnl_pct": 0.913,
+    "duracao_min": 54.1,
+    "data_resultado": "2026-07-29T21:58:34.681150+00:00"
   },
   {
     "page_id": "3aca5230-de72-818b-bf48-e0d978e3bee9",
