@@ -645823,11 +645823,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.081,
-    "pnl_pct": 0.528,
-    "duracao_min": 91.4,
-    "data_resultado": "2026-07-29T12:42:23.279945+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.08087,
+    "pnl_pct": 0.608,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-29T13:11:51.347395+00:00"
   },
   {
     "page_id": "3aca5230-de72-812d-b6c7-ed62643b884f",
