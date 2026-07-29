@@ -650639,7 +650639,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.040955,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.0412,
+    "pnl_pct": 0.39,
+    "duracao_min": 51.8,
+    "data_resultado": "2026-07-29T16:15:40.579365+00:00"
   },
   {
     "page_id": "3aca5230-de72-81d6-be23-d9f37efc2b55",
