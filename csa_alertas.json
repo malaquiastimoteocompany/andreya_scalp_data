@@ -647535,11 +647535,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3183,
-    "pnl_pct": 0.473,
-    "duracao_min": 54.3,
-    "data_resultado": "2026-07-29T13:33:25.782773+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3166,
+    "pnl_pct": 0.205,
+    "duracao_min": 75.4,
+    "data_resultado": "2026-07-29T13:54:32.561646+00:00"
   },
   {
     "page_id": "3aca5230-de72-81b6-bd31-d4f5ad3e06fe",
