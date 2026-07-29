@@ -654517,7 +654517,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04224,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.04161,
+    "pnl_pct": -1.351,
+    "duracao_min": 81.7,
+    "data_resultado": "2026-07-29T19:46:15.800376+00:00"
   },
   {
     "page_id": "3aca5230-de72-8168-9953-f61b311ef6f4",
