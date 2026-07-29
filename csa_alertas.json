@@ -638869,11 +638869,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 45.26,
-    "pnl_pct": 0.333,
-    "duracao_min": 20.2,
-    "data_resultado": "2026-07-29T05:26:15.665429+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 45.45,
+    "pnl_pct": 0.543,
+    "duracao_min": 74.5,
+    "data_resultado": "2026-07-29T06:20:35.212300+00:00"
   },
   {
     "page_id": "3aca5230-de72-81d3-8b0c-d039e7145802",
