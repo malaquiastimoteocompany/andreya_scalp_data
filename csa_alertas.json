@@ -647975,11 +647975,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 4.02,
-    "pnl_pct": 0.593,
-    "duracao_min": 73.6,
-    "data_resultado": "2026-07-29T14:24:55.432038+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 3.991,
+    "pnl_pct": 0.952,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-29T15:12:06.110355+00:00"
   },
   {
     "page_id": "3aca5230-de72-8160-8afe-fcba3fc0ec13",
