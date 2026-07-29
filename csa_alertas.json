@@ -632323,7 +632323,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07728333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.078,
+    "pnl_pct": 0.658,
+    "duracao_min": 53.3,
+    "data_resultado": "2026-07-29T01:06:39.191929+00:00"
   },
   {
     "page_id": "3aca5230-de72-8172-8288-ec1c2abf1f82",
