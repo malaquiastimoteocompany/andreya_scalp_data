@@ -643143,11 +643143,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.2473,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 2.2357,
-    "pnl_pct": 0.838,
-    "duracao_min": 16.6,
-    "data_resultado": "2026-07-29T09:17:45.110971+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 2.2557,
+    "pnl_pct": 0.395,
+    "duracao_min": 23.5,
+    "data_resultado": "2026-07-29T09:24:40.216452+00:00"
   },
   {
     "page_id": "3aca5230-de72-81f5-a3ac-e0421d8c7ace",
