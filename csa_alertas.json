@@ -641489,7 +641489,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 1.577,
+    "pnl_pct": -1.989,
+    "duracao_min": 53.2,
+    "data_resultado": "2026-07-29T08:29:18.651015+00:00"
   },
   {
     "page_id": "3aca5230-de72-8159-9c15-e9bd9cba6780",
