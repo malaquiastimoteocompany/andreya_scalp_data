@@ -657695,11 +657695,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.17008,
-    "pnl_pct": 0.449,
-    "duracao_min": 12.7,
-    "data_resultado": "2026-07-29T20:17:16.875691+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.16883,
+    "pnl_pct": 0.08,
+    "duracao_min": 23.1,
+    "data_resultado": "2026-07-29T20:27:37.364731+00:00"
   },
   {
     "page_id": "3aca5230-de72-819d-9448-ef77e13bf8ef",
