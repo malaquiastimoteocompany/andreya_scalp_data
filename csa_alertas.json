@@ -630025,11 +630025,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.026725,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02705,
-    "pnl_pct": 1.692,
-    "duracao_min": 102.8,
-    "data_resultado": "2026-07-29T00:03:54.991053+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.0268,
+    "pnl_pct": 1.222,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-29T00:21:55.168446+00:00"
   },
   {
     "page_id": "3aba5230-de72-8175-9e90-c90165c17f60",
