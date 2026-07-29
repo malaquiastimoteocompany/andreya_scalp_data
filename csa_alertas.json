@@ -644265,11 +644265,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1872,
-    "pnl_pct": 0.531,
-    "duracao_min": 61.8,
-    "data_resultado": "2026-07-29T10:50:26.239830+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1836,
+    "pnl_pct": 1.488,
+    "duracao_min": 87.4,
+    "data_resultado": "2026-07-29T11:16:00.226585+00:00"
   },
   {
     "page_id": "3aca5230-de72-81ab-9cf7-c37dca47a826",
