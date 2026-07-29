@@ -646185,11 +646185,11 @@
     "estado_cfi": "E2",
     "zona_sr": 2.6825,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.693,
-    "pnl_pct": 0.335,
-    "duracao_min": 34.4,
-    "data_resultado": "2026-07-29T12:15:42.900239+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.684,
+    "pnl_pct": 0.168,
+    "duracao_min": 45.7,
+    "data_resultado": "2026-07-29T12:27:00.463817+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a4-b4d1-d2ec046eb50c",
