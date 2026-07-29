@@ -636801,11 +636801,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.68646667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.6804,
-    "pnl_pct": 0.439,
-    "duracao_min": 32.7,
-    "data_resultado": "2026-07-29T04:05:52.475591+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.684,
+    "pnl_pct": 0.176,
+    "duracao_min": 64.1,
+    "data_resultado": "2026-07-29T04:37:17.858096+00:00"
   },
   {
     "page_id": "3aca5230-de72-818d-ba19-f8734ac5eb7b",
