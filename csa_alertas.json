@@ -644859,7 +644859,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.02759,
+    "pnl_pct": 0.433,
+    "duracao_min": 26.1,
+    "data_resultado": "2026-07-29T10:52:08.055238+00:00"
   },
   {
     "page_id": "3aca5230-de72-81d8-865e-f57b35fc8e15",
