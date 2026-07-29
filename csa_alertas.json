@@ -645451,11 +645451,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.042005,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04229,
-    "pnl_pct": 0.404,
-    "duracao_min": 15.9,
-    "data_resultado": "2026-07-29T11:10:09.744123+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04212,
+    "pnl_pct": 0.202,
+    "duracao_min": 68.3,
+    "data_resultado": "2026-07-29T12:02:36.743633+00:00"
   },
   {
     "page_id": "3aca5230-de72-81cc-aee5-f18706145bf2",
