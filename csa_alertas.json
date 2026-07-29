@@ -638966,5 +638966,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aca5230-de72-81e5-805c-ebc5d8287708",
+    "token": "LDO",
+    "direccao": "LONG",
+    "preco_alerta": 0.3627,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00407857,
+    "tp1": 0.364331428,
+    "tp2": 0.36677857,
+    "sl": 0.356582145,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 12751263.0,
+    "spread_pct": 0.0002759001241550255,
+    "oi_usd": 2098713.1347000003,
+    "data_alerta": "2026-07-29T05:20:52.964426+00:00",
+    "rsi_1h": 34.46,
+    "funding_rate": 0.0009,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
