@@ -660351,11 +660351,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0781,
-    "pnl_pct": 0.567,
-    "duracao_min": 57.8,
-    "data_resultado": "2026-07-29T22:59:44.781714+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07759,
+    "pnl_pct": 0.238,
+    "duracao_min": 72.7,
+    "data_resultado": "2026-07-29T23:14:41.527877+00:00"
   },
   {
     "page_id": "3aca5230-de72-8198-8622-f496f3a48396",
