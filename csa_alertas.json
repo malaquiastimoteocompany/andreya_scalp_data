@@ -637419,11 +637419,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.065228,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06495,
-    "pnl_pct": 0.87,
-    "duracao_min": 60.7,
-    "data_resultado": "2026-07-29T04:57:19.394586+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06571,
+    "pnl_pct": 0.29,
+    "duracao_min": 65.7,
+    "data_resultado": "2026-07-29T05:02:21.783816+00:00"
   },
   {
     "page_id": "3aca5230-de72-8116-a33b-ce281194f6e5",
