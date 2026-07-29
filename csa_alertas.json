@@ -646275,11 +646275,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3152,
-    "pnl_pct": 0.599,
-    "duracao_min": 33.4,
-    "data_resultado": "2026-07-29T12:17:38.846760+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3171,
+    "pnl_pct": 0.3,
+    "duracao_min": 52.3,
+    "data_resultado": "2026-07-29T12:36:30.487993+00:00"
   },
   {
     "page_id": "3aca5230-de72-81fd-ae5a-e798641c6f5b",
