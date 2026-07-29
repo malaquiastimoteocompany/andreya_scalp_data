@@ -648875,11 +648875,11 @@
     "estado_cfi": "E1",
     "zona_sr": 98.17666667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 97.64,
-    "pnl_pct": 0.692,
-    "duracao_min": 101.2,
-    "data_resultado": "2026-07-29T15:40:14.244550+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 98.33,
+    "pnl_pct": 0.341,
+    "duracao_min": 119.3,
+    "data_resultado": "2026-07-29T15:58:22.562604+00:00"
   },
   {
     "page_id": "3aca5230-de72-8144-9894-f1adcf996d37",
