@@ -632245,11 +632245,11 @@
     "estado_cfi": "E1",
     "zona_sr": 101.825,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 100.71,
-    "pnl_pct": 0.69,
-    "duracao_min": 65.7,
-    "data_resultado": "2026-07-29T01:12:04.120816+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 100.38,
+    "pnl_pct": 0.853,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-29T02:07:14.072262+00:00"
   },
   {
     "page_id": "3aca5230-de72-811e-9f68-c0048eae5565",
