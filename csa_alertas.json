@@ -647833,11 +647833,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.071895,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07234,
-    "pnl_pct": 0.5,
-    "duracao_min": 3.0,
-    "data_resultado": "2026-07-29T13:12:14.299762+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07195,
+    "pnl_pct": 0.229,
+    "duracao_min": 43.6,
+    "data_resultado": "2026-07-29T13:52:51.683444+00:00"
   },
   {
     "page_id": "3aca5230-de72-81aa-b496-e26190145cb8",
