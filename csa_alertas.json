@@ -658805,11 +658805,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.001759,
-    "pnl_pct": 0.457,
-    "duracao_min": 20.2,
-    "data_resultado": "2026-07-29T21:19:49.542153+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.001771,
+    "pnl_pct": 0.8,
+    "duracao_min": 30.2,
+    "data_resultado": "2026-07-29T21:29:52.638095+00:00"
   },
   {
     "page_id": "3aca5230-de72-814e-a27d-ca682a0b95d8",
