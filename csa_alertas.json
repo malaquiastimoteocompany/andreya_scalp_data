@@ -650353,11 +650353,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06743,
-    "pnl_pct": 0.838,
-    "duracao_min": 66.2,
-    "data_resultado": "2026-07-29T16:07:56.581651+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06805,
+    "pnl_pct": 0.382,
+    "duracao_min": 83.8,
+    "data_resultado": "2026-07-29T16:25:31.756490+00:00"
   },
   {
     "page_id": "3aca5230-de72-81b5-b82a-dba9fed26162",
