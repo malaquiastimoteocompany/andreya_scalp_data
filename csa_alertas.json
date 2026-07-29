@@ -660093,11 +660093,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 29.24,
-    "pnl_pct": 0.55,
-    "duracao_min": 43.3,
-    "data_resultado": "2026-07-29T22:30:22.093100+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 29.49,
+    "pnl_pct": 0.98,
+    "duracao_min": 91.5,
+    "data_resultado": "2026-07-29T23:18:34.926992+00:00"
   },
   {
     "page_id": "3aca5230-de72-8140-8bb3-cfc22548fa5a",
