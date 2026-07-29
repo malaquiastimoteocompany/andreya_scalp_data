@@ -651375,11 +651375,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.071895,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07177,
-    "pnl_pct": 0.293,
-    "duracao_min": 20.0,
-    "data_resultado": "2026-07-29T16:27:20.696973+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07144,
+    "pnl_pct": 0.063,
+    "duracao_min": 37.3,
+    "data_resultado": "2026-07-29T16:44:39.956456+00:00"
   },
   {
     "page_id": "3aca5230-de72-817b-a820-ddd8e95c82b5",
