@@ -635577,11 +635577,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.001232,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.001227,
-    "pnl_pct": 0.567,
-    "duracao_min": 18.4,
-    "data_resultado": "2026-07-29T03:01:44.339007+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.001234,
+    "pnl_pct": 0.284,
+    "duracao_min": 42.1,
+    "data_resultado": "2026-07-29T03:25:23.887373+00:00"
   },
   {
     "page_id": "3aca5230-de72-8159-89bc-d703847fe0aa",
