@@ -635019,11 +635019,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0042585,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004294,
-    "pnl_pct": 0.539,
-    "duracao_min": 10.0,
-    "data_resultado": "2026-07-29T02:30:48.126148+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004271,
+    "pnl_pct": 0.269,
+    "duracao_min": 34.9,
+    "data_resultado": "2026-07-29T02:55:44.558886+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a5-b17a-f2f731c17455",
