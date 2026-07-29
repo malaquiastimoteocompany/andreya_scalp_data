@@ -650555,11 +650555,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.591,
-    "pnl_pct": 0.505,
-    "duracao_min": 113.5,
-    "data_resultado": "2026-07-29T17:02:33.353864+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.59,
+    "pnl_pct": 0.474,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-29T17:09:44.756208+00:00"
   },
   {
     "page_id": "3aca5230-de72-8129-b63f-c7bd20a1ea48",
