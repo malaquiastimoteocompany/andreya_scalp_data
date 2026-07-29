@@ -659361,11 +659361,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.571,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.587,
-    "pnl_pct": 0.57,
-    "duracao_min": 13.8,
-    "data_resultado": "2026-07-29T21:21:33.479035+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.603,
+    "pnl_pct": 1.077,
+    "duracao_min": 56.4,
+    "data_resultado": "2026-07-29T22:04:07.388133+00:00"
   },
   {
     "page_id": "3aca5230-de72-81e6-bb00-fd07b4f0daa1",
