@@ -642609,7 +642609,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.02677,
+    "pnl_pct": 0.943,
+    "duracao_min": 16.7,
+    "data_resultado": "2026-07-29T08:50:07.730461+00:00"
   },
   {
     "page_id": "3aca5230-de72-815b-aca1-f64005d75afa",
