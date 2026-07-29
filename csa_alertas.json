@@ -656941,11 +656941,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.30175,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
+    "resultado": "Falhado",
     "preco_saida": 0.3035,
     "pnl_pct": 0.663,
-    "duracao_min": 104.8,
-    "data_resultado": "2026-07-29T21:32:02.012229+00:00"
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-29T21:47:23.260432+00:00"
   },
   {
     "page_id": "3aca5230-de72-81d4-8e8a-f9d2e1c90aca",
