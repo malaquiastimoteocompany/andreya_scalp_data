@@ -658435,7 +658435,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.2705,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 1.275,
+    "pnl_pct": 0.394,
+    "duracao_min": 7.6,
+    "data_resultado": "2026-07-29T20:40:11.852938+00:00"
   },
   {
     "page_id": "3aca5230-de72-81b6-9c00-ce29f1caa1f5",
