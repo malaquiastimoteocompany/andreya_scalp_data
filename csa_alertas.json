@@ -639223,11 +639223,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.078745,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07909,
-    "pnl_pct": 0.406,
-    "duracao_min": 54.2,
-    "data_resultado": "2026-07-29T06:17:46.770263+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.07942,
+    "pnl_pct": 0.616,
+    "duracao_min": 113.8,
+    "data_resultado": "2026-07-29T07:17:22.842787+00:00"
   },
   {
     "page_id": "3aca5230-de72-8184-9d93-c0565666faa7",
