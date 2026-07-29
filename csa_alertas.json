@@ -632825,11 +632825,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.6585,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.661,
-    "pnl_pct": 0.606,
-    "duracao_min": 3.5,
-    "data_resultado": "2026-07-29T00:39:36.429917+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.651,
+    "pnl_pct": 0.303,
+    "duracao_min": 36.3,
+    "data_resultado": "2026-07-29T01:12:28.902817+00:00"
   },
   {
     "page_id": "3aca5230-de72-81c7-9375-cc3974c1e6fd",
