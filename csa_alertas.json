@@ -653309,11 +653309,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3302,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3311,
-    "pnl_pct": 0.73,
-    "duracao_min": 10.3,
-    "data_resultado": "2026-07-29T17:57:02.346661+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.3335,
+    "pnl_pct": 1.095,
+    "duracao_min": 17.5,
+    "data_resultado": "2026-07-29T18:04:14.765127+00:00"
   },
   {
     "page_id": "3aca5230-de72-8181-a233-fcf2e7577f3b",
