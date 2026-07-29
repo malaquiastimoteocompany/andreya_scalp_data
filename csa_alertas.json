@@ -650287,11 +650287,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.5612,
-    "pnl_pct": 0.483,
-    "duracao_min": 1.8,
-    "data_resultado": "2026-07-29T15:05:38.872050+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.5585,
+    "pnl_pct": 0.242,
+    "duracao_min": 44.1,
+    "data_resultado": "2026-07-29T15:47:55.917576+00:00"
   },
   {
     "page_id": "3aca5230-de72-8120-a945-f67e79392adb",
