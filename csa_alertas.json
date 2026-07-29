@@ -652639,11 +652639,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 2.062,
-    "pnl_pct": 0.438,
-    "duracao_min": 15.5,
-    "data_resultado": "2026-07-29T17:11:51.043674+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.087,
+    "pnl_pct": 1.047,
+    "duracao_min": 66.6,
+    "data_resultado": "2026-07-29T18:02:56.435775+00:00"
   },
   {
     "page_id": "3aca5230-de72-8147-b080-e5ccf8c4224d",
