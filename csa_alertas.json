@@ -639807,7 +639807,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.11,
+    "pnl_pct": -1.873,
+    "duracao_min": 94.9,
+    "data_resultado": "2026-07-29T07:36:05.520209+00:00"
   },
   {
     "page_id": "3aca5230-de72-81c4-a8e8-ea1c6e60775e",
