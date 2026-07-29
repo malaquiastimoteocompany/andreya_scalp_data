@@ -659493,7 +659493,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 91.47,
+    "pnl_pct": 3.379,
+    "duracao_min": 67.6,
+    "data_resultado": "2026-07-29T22:19:28.638751+00:00"
   },
   {
     "page_id": "3aca5230-de72-8119-b8a8-f05e22099586",
