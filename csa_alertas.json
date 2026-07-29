@@ -634415,11 +634415,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1919,
-    "pnl_pct": 0.577,
-    "duracao_min": 50.0,
-    "data_resultado": "2026-07-29T02:41:25.965612+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1908,
+    "pnl_pct": 0.288,
+    "duracao_min": 57.2,
+    "data_resultado": "2026-07-29T02:48:40.382137+00:00"
   },
   {
     "page_id": "3aca5230-de72-818b-ad99-e843690c24c9",
