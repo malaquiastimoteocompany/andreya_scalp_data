@@ -646807,7 +646807,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07941,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.08042,
+    "pnl_pct": 0.777,
+    "duracao_min": 97.8,
+    "data_resultado": "2026-07-29T13:44:15.483675+00:00"
   },
   {
     "page_id": "3aca5230-de72-81ce-8543-ebf6e0a28948",
