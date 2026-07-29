@@ -641617,11 +641617,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.618,
-    "pnl_pct": 1.738,
-    "duracao_min": 44.3,
-    "data_resultado": "2026-07-29T08:27:58.888193+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.692,
+    "pnl_pct": 0.733,
+    "duracao_min": 61.5,
+    "data_resultado": "2026-07-29T08:45:10.263243+00:00"
   },
   {
     "page_id": "3aca5230-de72-81b4-bad8-d782ca392977",
