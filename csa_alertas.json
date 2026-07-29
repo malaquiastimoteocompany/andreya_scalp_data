@@ -640781,11 +640781,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07958,
-    "pnl_pct": 1.092,
-    "duracao_min": 10.2,
-    "data_resultado": "2026-07-29T07:13:36.747177+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.08001,
+    "pnl_pct": 1.366,
+    "duracao_min": 23.3,
+    "data_resultado": "2026-07-29T07:26:41.967360+00:00"
   },
   {
     "page_id": "3aca5230-de72-81b7-8f62-f92d73a2c03a",
