@@ -633647,11 +633647,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.60785,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.589,
-    "pnl_pct": 1.476,
-    "duracao_min": 7.5,
-    "data_resultado": "2026-07-29T01:18:25.803586+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 1.6226,
+    "pnl_pct": 0.434,
+    "duracao_min": 10.4,
+    "data_resultado": "2026-07-29T01:21:14.056933+00:00"
   },
   {
     "page_id": "3aca5230-de72-81ee-af6f-e6fd2f5d43fa",
