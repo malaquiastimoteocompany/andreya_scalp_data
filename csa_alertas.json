@@ -656217,11 +656217,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0051165,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.005196,
-    "pnl_pct": 1.326,
-    "duracao_min": 79.9,
-    "data_resultado": "2026-07-29T20:39:50.434432+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.005211,
+    "pnl_pct": 1.472,
+    "duracao_min": 84.3,
+    "data_resultado": "2026-07-29T20:44:17.544855+00:00"
   },
   {
     "page_id": "3aca5230-de72-8176-be3d-dde10e9c592b",
