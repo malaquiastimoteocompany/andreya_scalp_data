@@ -656953,7 +656953,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004464,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.004418,
+    "pnl_pct": -1.34,
+    "duracao_min": 41.6,
+    "data_resultado": "2026-07-29T20:30:59.839515+00:00"
   },
   {
     "page_id": "3aca5230-de72-81e7-8e00-c3ceb53fc1e5",
