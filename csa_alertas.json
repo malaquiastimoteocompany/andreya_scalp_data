@@ -653933,7 +653933,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.17266,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.17277,
+    "pnl_pct": 0.381,
+    "duracao_min": 12.9,
+    "data_resultado": "2026-07-29T18:21:09.478237+00:00"
   },
   {
     "page_id": "3aca5230-de72-81d2-9d73-e6bdc2483d21",
