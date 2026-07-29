@@ -658729,7 +658729,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.5982,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.5975,
+    "pnl_pct": 0.37,
+    "duracao_min": 16.5,
+    "data_resultado": "2026-07-29T21:13:29.936139+00:00"
   },
   {
     "page_id": "3aca5230-de72-811c-b90e-fcb3c1390e5b",
