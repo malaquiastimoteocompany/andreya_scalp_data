@@ -641115,11 +641115,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.32766667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3283,
-    "pnl_pct": 0.582,
-    "duracao_min": 45.7,
-    "data_resultado": "2026-07-29T08:02:01.475260+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3263,
+    "pnl_pct": 0.276,
+    "duracao_min": 69.6,
+    "data_resultado": "2026-07-29T08:25:57.379885+00:00"
   },
   {
     "page_id": "3aca5230-de72-813e-9ab8-ecf09ecfc7bc",
