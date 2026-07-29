@@ -642495,11 +642495,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.32766667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3283,
-    "pnl_pct": 0.644,
-    "duracao_min": 14.8,
-    "data_resultado": "2026-07-29T08:43:27.849554+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.3309,
+    "pnl_pct": 1.042,
+    "duracao_min": 73.0,
+    "data_resultado": "2026-07-29T09:41:38.663638+00:00"
   },
   {
     "page_id": "3aca5230-de72-81fe-a237-e7108163684a",
