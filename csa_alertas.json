@@ -660339,7 +660339,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.0781,
+    "pnl_pct": 0.567,
+    "duracao_min": 57.8,
+    "data_resultado": "2026-07-29T22:59:44.781714+00:00"
   },
   {
     "page_id": "3aca5230-de72-8198-8622-f496f3a48396",
