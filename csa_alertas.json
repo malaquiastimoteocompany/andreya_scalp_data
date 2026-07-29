@@ -647267,7 +647267,11 @@
     "estado_cfi": "E1",
     "zona_sr": 740.04736842,
     "toques_sr": 19,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 738.22,
+    "pnl_pct": -0.406,
+    "duracao_min": 91.9,
+    "data_resultado": "2026-07-29T13:55:59.723960+00:00"
   },
   {
     "page_id": "3aca5230-de72-8172-825b-c22318970d08",
