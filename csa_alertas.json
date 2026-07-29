@@ -652053,11 +652053,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06006667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06004,
-    "pnl_pct": 0.368,
-    "duracao_min": 35.0,
-    "data_resultado": "2026-07-29T17:11:25.290778+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.06038,
+    "pnl_pct": 0.652,
+    "duracao_min": 79.5,
+    "data_resultado": "2026-07-29T17:55:53.058836+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a3-98c0-e9584a80d9ea",
