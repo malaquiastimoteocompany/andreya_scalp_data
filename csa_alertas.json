@@ -636933,7 +636933,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.030915,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.0311,
+    "pnl_pct": 0.712,
+    "duracao_min": 79.6,
+    "data_resultado": "2026-07-29T04:55:43.730341+00:00"
   },
   {
     "page_id": "3aca5230-de72-81fe-8c61-e6d0ccff448c",
