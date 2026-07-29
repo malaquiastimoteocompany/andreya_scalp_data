@@ -635537,11 +635537,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.2559,
-    "pnl_pct": 1.336,
-    "duracao_min": 70.7,
-    "data_resultado": "2026-07-29T03:46:52.234843+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.2341,
+    "pnl_pct": 2.192,
+    "duracao_min": 87.6,
+    "data_resultado": "2026-07-29T04:03:48.951403+00:00"
   },
   {
     "page_id": "3aca5230-de72-8145-861a-f9c7cddcbd79",
