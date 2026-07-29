@@ -640281,7 +640281,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.078,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.07794,
+    "pnl_pct": 0.0,
+    "duracao_min": 121.7,
+    "data_resultado": "2026-07-29T08:27:30.235692+00:00"
   },
   {
     "page_id": "3aca5230-de72-81ca-81ac-f652c25de6b0",
