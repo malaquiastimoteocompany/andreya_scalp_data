@@ -659483,7 +659483,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 53.525,
+    "pnl_pct": 0.611,
+    "duracao_min": 46.8,
+    "data_resultado": "2026-07-29T21:58:51.357181+00:00"
   },
   {
     "page_id": "3aca5230-de72-8122-af2b-d2e91a7c1825",
