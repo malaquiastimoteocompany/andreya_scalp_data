@@ -635449,7 +635449,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04291667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.04257,
+    "pnl_pct": 0.421,
+    "duracao_min": 22.5,
+    "data_resultado": "2026-07-29T03:03:33.549967+00:00"
   },
   {
     "page_id": "3aca5230-de72-8190-927d-e944b393dc0b",
