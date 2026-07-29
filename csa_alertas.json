@@ -634095,11 +634095,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.20444,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2063,
-    "pnl_pct": 0.487,
-    "duracao_min": 7.0,
-    "data_resultado": "2026-07-29T01:38:05.061124+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.2052,
+    "pnl_pct": 0.219,
+    "duracao_min": 15.2,
+    "data_resultado": "2026-07-29T01:46:13.432728+00:00"
   },
   {
     "page_id": "3aca5230-de72-8139-b9be-f9866f1fc20a",
