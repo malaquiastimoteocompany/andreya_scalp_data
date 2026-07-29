@@ -659199,11 +659199,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 2.6876e-06,
-    "pnl_pct": 0.554,
-    "duracao_min": 22.2,
-    "data_resultado": "2026-07-29T21:27:37.690524+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.7049e-06,
+    "pnl_pct": 0.877,
+    "duracao_min": 55.2,
+    "data_resultado": "2026-07-29T22:00:41.712062+00:00"
   },
   {
     "page_id": "3aca5230-de72-811a-82ed-c46e1803279b",
