@@ -640341,11 +640341,11 @@
     "estado_cfi": "E1",
     "zona_sr": 8.396,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 8.395,
-    "pnl_pct": 0.368,
-    "duracao_min": 113.1,
-    "data_resultado": "2026-07-29T08:24:05.904464+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 8.393,
+    "pnl_pct": 0.38,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-29T08:32:05.080678+00:00"
   },
   {
     "page_id": "3aca5230-de72-8193-8225-df6f223eafc5",
