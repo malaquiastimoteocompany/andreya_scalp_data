@@ -633003,7 +633003,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04293,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.04255,
+    "pnl_pct": 0.445,
+    "duracao_min": 61.5,
+    "data_resultado": "2026-07-29T01:42:35.084899+00:00"
   },
   {
     "page_id": "3aca5230-de72-8190-ba69-eff097b3c45d",
