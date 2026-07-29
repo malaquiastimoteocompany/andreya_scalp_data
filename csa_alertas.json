@@ -651641,11 +651641,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 734.64,
-    "pnl_pct": 0.17,
-    "duracao_min": 2.7,
-    "data_resultado": "2026-07-29T16:24:10.844662+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 735.61,
+    "pnl_pct": 0.237,
+    "duracao_min": 31.8,
+    "data_resultado": "2026-07-29T16:53:17.678123+00:00"
   },
   {
     "page_id": "3aca5230-de72-8166-8413-fcd56e8f2609",
