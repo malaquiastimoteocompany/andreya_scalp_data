@@ -651841,11 +651841,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.28266667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.282,
-    "pnl_pct": 0.313,
-    "duracao_min": 91.1,
-    "data_resultado": "2026-07-29T17:55:38.052099+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.289,
+    "pnl_pct": 0.587,
+    "duracao_min": 96.2,
+    "data_resultado": "2026-07-29T18:00:47.247940+00:00"
   },
   {
     "page_id": "3aca5230-de72-8103-b437-c4750dbbb09f",
