@@ -652229,11 +652229,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.040955,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04115,
-    "pnl_pct": 0.366,
-    "duracao_min": 31.4,
-    "data_resultado": "2026-07-29T17:13:10.930484+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.04138,
+    "pnl_pct": 0.646,
+    "duracao_min": 74.2,
+    "data_resultado": "2026-07-29T17:56:01.076937+00:00"
   },
   {
     "page_id": "3aca5230-de72-8161-9fd4-fc32d9cc715b",
