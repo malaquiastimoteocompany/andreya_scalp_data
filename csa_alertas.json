@@ -659607,11 +659607,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04335,
-    "pnl_pct": 0.44,
-    "duracao_min": 8.8,
-    "data_resultado": "2026-07-29T21:33:18.114518+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.04355,
+    "pnl_pct": 0.672,
+    "duracao_min": 36.5,
+    "data_resultado": "2026-07-29T22:00:57.410609+00:00"
   },
   {
     "page_id": "3aca5230-de72-8190-891f-e2c0c85d33f5",
