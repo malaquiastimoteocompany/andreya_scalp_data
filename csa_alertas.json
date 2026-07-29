@@ -642945,11 +642945,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.68646667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.6871,
-    "pnl_pct": 0.29,
-    "duracao_min": 6.3,
-    "data_resultado": "2026-07-29T08:54:40.367226+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.6896,
+    "pnl_pct": 0.109,
+    "duracao_min": 30.9,
+    "data_resultado": "2026-07-29T09:19:17.217288+00:00"
   },
   {
     "page_id": "3aca5230-de72-81b2-a646-cb61eda13e2f",
