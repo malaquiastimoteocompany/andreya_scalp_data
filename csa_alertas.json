@@ -634941,11 +634941,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.60785,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.5649,
-    "pnl_pct": 3.0,
-    "duracao_min": 13.6,
-    "data_resultado": "2026-07-29T02:26:58.861890+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.6149,
+    "pnl_pct": 1.45,
+    "duracao_min": 47.9,
+    "data_resultado": "2026-07-29T03:01:20.375834+00:00"
   },
   {
     "page_id": "3aca5230-de72-81c0-a8f7-f7a978ebcc9e",
