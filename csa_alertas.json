@@ -651991,7 +651991,11 @@
     "estado_cfi": "E1",
     "zona_sr": 467.48,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 472.92,
+    "pnl_pct": 1.635,
+    "duracao_min": 92.2,
+    "data_resultado": "2026-07-29T18:01:11.632721+00:00"
   },
   {
     "page_id": "3aca5230-de72-8144-aa65-d59a8f0cc916",
