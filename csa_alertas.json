@@ -644653,11 +644653,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.21115,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.21,
-    "pnl_pct": 0.521,
-    "duracao_min": 42.3,
-    "data_resultado": "2026-07-29T10:50:36.733450+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.2102,
+    "pnl_pct": 0.474,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-29T12:08:24.919281+00:00"
   },
   {
     "page_id": "3aca5230-de72-817b-8d22-cd2ba3670df9",
