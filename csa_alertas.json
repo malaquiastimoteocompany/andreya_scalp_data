@@ -633459,11 +633459,11 @@
     "estado_cfi": "E1",
     "zona_sr": 31.22,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 31.11,
-    "pnl_pct": 0.416,
-    "duracao_min": 11.3,
-    "data_resultado": "2026-07-29T01:12:43.149830+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 30.97,
+    "pnl_pct": 0.64,
+    "duracao_min": 50.6,
+    "data_resultado": "2026-07-29T01:52:00.090066+00:00"
   },
   {
     "page_id": "3aca5230-de72-8192-be9a-d6b5fd1e2c2a",
