@@ -644584,5 +644584,31 @@
     "zona_sr": 4.67e-06,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aca5230-de72-812c-95e3-f0f033e59ab8",
+    "token": "JASMY",
+    "direccao": "SHORT",
+    "preco_alerta": 0.004386,
+    "score": 8,
+    "setup": "B",
+    "prioritario": true,
+    "enviado": true,
+    "executavel": true,
+    "atr_1h": 4.814e-05,
+    "tp1": 0.0043667440000000005,
+    "tp2": 0.00433786,
+    "sl": 0.00445821,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 26903115.0,
+    "spread_pct": 0.0004558924093914441,
+    "oi_usd": 5399023.73739,
+    "data_alerta": "2026-07-29T10:15:45.966411+00:00",
+    "rsi_1h": 60.01,
+    "funding_rate": -0.0438,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00439925,
+    "toques_sr": 8,
+    "resultado": "Pendente"
   }
 ]
