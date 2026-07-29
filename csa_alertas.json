@@ -659153,11 +659153,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07663,
-    "pnl_pct": 0.948,
-    "duracao_min": 54.1,
-    "data_resultado": "2026-07-29T21:58:42.132862+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.0773,
+    "pnl_pct": 1.39,
+    "duracao_min": 113.6,
+    "data_resultado": "2026-07-29T22:58:12.585888+00:00"
   },
   {
     "page_id": "3aca5230-de72-8142-a3f2-fc48981709cc",
