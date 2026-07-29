@@ -657269,11 +657269,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07616,
-    "pnl_pct": 0.488,
-    "duracao_min": 24.2,
-    "data_resultado": "2026-07-29T20:16:53.134711+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.07663,
+    "pnl_pct": 0.798,
+    "duracao_min": 96.3,
+    "data_resultado": "2026-07-29T21:29:00.467521+00:00"
   },
   {
     "page_id": "3aca5230-de72-8153-b52a-f0e6be518929",
