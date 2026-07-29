@@ -651255,7 +651255,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.68603333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.6735,
+    "pnl_pct": -1.42,
+    "duracao_min": 35.0,
+    "data_resultado": "2026-07-29T16:41:22.321847+00:00"
   },
   {
     "page_id": "3aca5230-de72-81d1-aca4-e8900ddf0404",
