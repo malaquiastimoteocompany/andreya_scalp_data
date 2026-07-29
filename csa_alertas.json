@@ -656831,11 +656831,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.6602,
-    "pnl_pct": 1.108,
-    "duracao_min": 16.3,
-    "data_resultado": "2026-07-29T20:03:19.365998+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.6591,
+    "pnl_pct": 1.191,
+    "duracao_min": 22.1,
+    "data_resultado": "2026-07-29T20:09:07.891638+00:00"
   },
   {
     "page_id": "3aca5230-de72-814f-90f1-dfd62c0e2802",
