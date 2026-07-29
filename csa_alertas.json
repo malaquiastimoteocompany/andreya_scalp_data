@@ -652167,11 +652167,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.4367,
-    "pnl_pct": 1.865,
-    "duracao_min": 17.4,
-    "data_resultado": "2026-07-29T16:58:40.749392+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.4152,
+    "pnl_pct": 4.281,
+    "duracao_min": 59.0,
+    "data_resultado": "2026-07-29T17:40:14.222483+00:00"
   },
   {
     "page_id": "3aca5230-de72-817a-bf8e-d9280ad8331a",
