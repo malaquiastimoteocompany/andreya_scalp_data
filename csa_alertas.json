@@ -655459,7 +655459,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0033395,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.003319,
+    "pnl_pct": 0.27,
+    "duracao_min": 4.2,
+    "data_resultado": "2026-07-29T19:06:16.434880+00:00"
   },
   {
     "page_id": "3aca5230-de72-81f4-b793-f4684532623a",
