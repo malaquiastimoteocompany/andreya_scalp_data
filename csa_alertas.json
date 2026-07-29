@@ -657889,11 +657889,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.6649,
-    "pnl_pct": 0.605,
-    "duracao_min": 5.9,
-    "data_resultado": "2026-07-29T20:17:44.620249+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.6585,
+    "pnl_pct": 0.121,
+    "duracao_min": 16.0,
+    "data_resultado": "2026-07-29T20:27:53.026056+00:00"
   },
   {
     "page_id": "3aca5230-de72-8184-ac84-dfdfa64fe52d",
