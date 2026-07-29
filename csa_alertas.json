@@ -654219,7 +654219,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.40445,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.4055,
+    "pnl_pct": 0.695,
+    "duracao_min": 39.3,
+    "data_resultado": "2026-07-29T18:49:27.529885+00:00"
   },
   {
     "page_id": "3aca5230-de72-817b-9fe2-e965a7d6047c",
