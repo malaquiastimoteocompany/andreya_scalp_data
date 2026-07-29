@@ -634665,11 +634665,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004535,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004536,
-    "pnl_pct": 0.465,
-    "duracao_min": 27.6,
-    "data_resultado": "2026-07-29T02:28:22.773243+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004515,
+    "pnl_pct": 0.233,
+    "duracao_min": 81.6,
+    "data_resultado": "2026-07-29T03:22:21.931664+00:00"
   },
   {
     "page_id": "3aca5230-de72-8137-ae6f-d24a035778a4",
