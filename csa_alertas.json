@@ -651982,5 +651982,31 @@
     "zona_sr": 0.39145,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aca5230-de72-81f8-a38f-d5c6a85becde",
+    "token": "BEAT",
+    "direccao": "SHORT",
+    "preco_alerta": 4.115,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.15342857,
+    "tp1": 4.053628572,
+    "tp2": 3.9615714300000002,
+    "sl": 4.345142855000001,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 12404510.0,
+    "spread_pct": 0.0009718172983480194,
+    "oi_usd": 3735764.7990000006,
+    "data_alerta": "2026-07-29T16:38:50.733606+00:00",
+    "rsi_1h": 79.96,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
