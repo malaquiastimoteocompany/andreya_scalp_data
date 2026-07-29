@@ -643973,7 +643973,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.004935,
+    "pnl_pct": -4.246,
+    "duracao_min": 5.2,
+    "data_resultado": "2026-07-29T09:43:34.955571+00:00"
   },
   {
     "page_id": "3aca5230-de72-8106-88e4-d11baa48334e",
