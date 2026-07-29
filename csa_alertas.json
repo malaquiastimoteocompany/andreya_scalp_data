@@ -637325,11 +637325,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1882,
-    "pnl_pct": 0.912,
-    "duracao_min": 46.0,
-    "data_resultado": "2026-07-29T04:37:40.567905+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1891,
+    "pnl_pct": 1.153,
+    "duracao_min": 67.3,
+    "data_resultado": "2026-07-29T04:58:59.207390+00:00"
   },
   {
     "page_id": "3aca5230-de72-81ef-8b2b-d591610ea0ed",
