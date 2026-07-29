@@ -637807,11 +637807,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3981,
-    "pnl_pct": 0.759,
-    "duracao_min": 9.3,
-    "data_resultado": "2026-07-29T04:13:47.671265+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.395,
+    "pnl_pct": 0.367,
+    "duracao_min": 53.0,
+    "data_resultado": "2026-07-29T04:57:30.752259+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a1-8993-dbd904b169b7",
