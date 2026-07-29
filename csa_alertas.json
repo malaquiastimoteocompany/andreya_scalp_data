@@ -638747,11 +638747,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1899,
-    "pnl_pct": 0.476,
-    "duracao_min": 77.9,
-    "data_resultado": "2026-07-29T06:19:12.971760+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1889,
+    "pnl_pct": 0.212,
+    "duracao_min": 112.7,
+    "data_resultado": "2026-07-29T06:54:00.310872+00:00"
   },
   {
     "page_id": "3aca5230-de72-8162-bb2d-e7087e08f0ed",
