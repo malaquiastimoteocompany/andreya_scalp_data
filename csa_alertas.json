@@ -646595,11 +646595,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.07833333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.088,
-    "pnl_pct": 0.385,
-    "duracao_min": 91.3,
-    "data_resultado": "2026-07-29T13:32:37.383896+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 2.089,
+    "pnl_pct": 0.409,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-29T14:01:48.611965+00:00"
   },
   {
     "page_id": "3aca5230-de72-81fc-84f8-dfd6c3f2c882",
