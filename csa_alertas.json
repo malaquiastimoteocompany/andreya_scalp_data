@@ -652800,5 +652800,31 @@
     "zona_sr": 0.00117,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aca5230-de72-81e4-9d74-f0f2ccace6ca",
+    "token": "HOME",
+    "direccao": "LONG",
+    "preco_alerta": 0.005159,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 8.75e-05,
+    "tp1": 0.005194000000000001,
+    "tp2": 0.0052465,
+    "sl": 0.00502775,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 5400876.0,
+    "spread_pct": 0.00019377967251237916,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-29T17:18:54.560818+00:00",
+    "rsi_1h": 32.57,
+    "funding_rate": -0.0121,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
