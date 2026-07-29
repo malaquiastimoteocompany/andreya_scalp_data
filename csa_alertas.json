@@ -635153,11 +635153,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.078,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07804,
-    "pnl_pct": 0.421,
-    "duracao_min": 53.7,
-    "data_resultado": "2026-07-29T03:19:25.560201+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.07753,
+    "pnl_pct": 0.746,
+    "duracao_min": 77.5,
+    "data_resultado": "2026-07-29T03:43:13.917842+00:00"
   },
   {
     "page_id": "3aca5230-de72-8116-8bfb-dbb65d8d9b31",
