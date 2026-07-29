@@ -655293,7 +655293,11 @@
     "estado_cfi": "E1",
     "zona_sr": 55.60375,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 54.392,
+    "pnl_pct": -1.947,
+    "duracao_min": 23.9,
+    "data_resultado": "2026-07-29T19:18:45.572301+00:00"
   },
   {
     "page_id": "3aca5230-de72-812a-9c6e-e104f492cef7",
