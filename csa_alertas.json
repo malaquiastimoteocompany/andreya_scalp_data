@@ -647703,7 +647703,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.364,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 6.404,
+    "pnl_pct": 0.36,
+    "duracao_min": 86.6,
+    "data_resultado": "2026-07-29T14:22:56.674928+00:00"
   },
   {
     "page_id": "3aca5230-de72-8165-b757-f79512774f86",
