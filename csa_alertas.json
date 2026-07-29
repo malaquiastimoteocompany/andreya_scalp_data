@@ -644833,11 +644833,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07065,
-    "pnl_pct": 0.871,
-    "duracao_min": 98.9,
-    "data_resultado": "2026-07-29T11:59:41.395132+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.07066,
+    "pnl_pct": 0.878,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-29T12:20:48.860002+00:00"
   },
   {
     "page_id": "3aca5230-de72-81b1-878c-c90d8b53bd27",
