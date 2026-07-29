@@ -643101,11 +643101,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04726,
-    "pnl_pct": 0.789,
-    "duracao_min": 19.3,
-    "data_resultado": "2026-07-29T09:08:09.576549+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04775,
+    "pnl_pct": 1.312,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-29T10:48:52.831385+00:00"
   },
   {
     "page_id": "3aca5230-de72-810a-9f53-f11257140d48",
