@@ -651237,11 +651237,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.12037333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.12143,
-    "pnl_pct": 0.571,
-    "duracao_min": 8.3,
-    "data_resultado": "2026-07-29T16:12:30.137400+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.12228,
+    "pnl_pct": 0.923,
+    "duracao_min": 111.1,
+    "data_resultado": "2026-07-29T17:55:21.766139+00:00"
   },
   {
     "page_id": "3aca5230-de72-818a-b78a-d64a1057e72e",
