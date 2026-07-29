@@ -643683,11 +643683,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.17439,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.17461,
-    "pnl_pct": 0.362,
-    "duracao_min": 10.2,
-    "data_resultado": "2026-07-29T09:31:18.136545+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.17381,
+    "pnl_pct": 0.132,
+    "duracao_min": 78.3,
+    "data_resultado": "2026-07-29T10:39:24.354709+00:00"
   },
   {
     "page_id": "3aca5230-de72-81dd-b3c3-f105e1bb49a6",
