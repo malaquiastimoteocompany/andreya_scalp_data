@@ -647287,7 +647287,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.00488,
+    "pnl_pct": 1.394,
+    "duracao_min": 1.2,
+    "data_resultado": "2026-07-29T12:35:07.606959+00:00"
   },
   {
     "page_id": "3aca5230-de72-81b2-8975-cc7bb976591f",
