@@ -635743,7 +635743,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.6122,
+    "pnl_pct": 0.39,
+    "duracao_min": 38.3,
+    "data_resultado": "2026-07-29T03:31:51.096375+00:00"
   },
   {
     "page_id": "3aca5230-de72-8133-94e7-c8687b9c9f95",
