@@ -639861,11 +639861,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.20935,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2091,
-    "pnl_pct": 0.429,
-    "duracao_min": 108.0,
-    "data_resultado": "2026-07-29T07:51:21.286958+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.21,
+    "pnl_pct": 0.214,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-29T08:03:24.980267+00:00"
   },
   {
     "page_id": "3aca5230-de72-81e7-bfa5-f7c2ddba5829",
