@@ -658227,7 +658227,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.31538,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.31105,
+    "pnl_pct": -1.097,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-29T22:25:16.283877+00:00"
   },
   {
     "page_id": "3aca5230-de72-812f-b0c7-f60d72b8e0a0",
