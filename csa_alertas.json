@@ -658333,7 +658333,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.1786,
+    "pnl_pct": 1.018,
+    "duracao_min": 4.6,
+    "data_resultado": "2026-07-29T20:35:27.046911+00:00"
   },
   {
     "page_id": "3aca5230-de72-8196-a588-c337e55f4cfe",
