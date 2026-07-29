@@ -648753,7 +648753,11 @@
     "estado_cfi": "E1",
     "zona_sr": 30.425,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 30.62,
+    "pnl_pct": 0.361,
+    "duracao_min": 6.6,
+    "data_resultado": "2026-07-29T14:06:08.952130+00:00"
   },
   {
     "page_id": "3aca5230-de72-810d-9664-d4a60701fe35",
