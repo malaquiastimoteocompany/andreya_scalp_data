@@ -652023,11 +652023,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03371,
-    "pnl_pct": 0.747,
-    "duracao_min": 21.9,
-    "data_resultado": "2026-07-29T16:58:33.055217+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.03394,
+    "pnl_pct": 1.091,
+    "duracao_min": 34.9,
+    "data_resultado": "2026-07-29T17:11:32.472086+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a3-bfa1-f53df31ea0c9",
