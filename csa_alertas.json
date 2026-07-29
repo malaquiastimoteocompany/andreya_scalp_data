@@ -644119,7 +644119,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.0138,
+    "pnl_pct": 5.66,
+    "duracao_min": 3.6,
+    "data_resultado": "2026-07-29T09:51:53.105242+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a3-b8b1-e247262ff9c4",
