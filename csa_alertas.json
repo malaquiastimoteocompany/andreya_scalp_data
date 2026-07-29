@@ -640131,11 +640131,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.3605,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 6.423,
-    "pnl_pct": 0.501,
-    "duracao_min": 11.1,
-    "data_resultado": "2026-07-29T06:22:07.133151+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 6.39,
+    "pnl_pct": 0.243,
+    "duracao_min": 121.5,
+    "data_resultado": "2026-07-29T08:12:26.479687+00:00"
   },
   {
     "page_id": "3aca5230-de72-818e-8a1b-cf2c2821ecff",
