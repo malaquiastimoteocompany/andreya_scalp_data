@@ -650285,7 +650285,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.07833333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 2.054,
+    "pnl_pct": -0.964,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-29T16:51:37.644483+00:00"
   },
   {
     "page_id": "3aca5230-de72-81ea-9620-e54845f386e0",
