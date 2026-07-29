@@ -646157,7 +646157,11 @@
     "estado_cfi": "E2",
     "zona_sr": 2.6825,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 2.693,
+    "pnl_pct": 0.335,
+    "duracao_min": 34.4,
+    "data_resultado": "2026-07-29T12:15:42.900239+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a4-b4d1-d2ec046eb50c",
