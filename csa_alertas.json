@@ -634377,11 +634377,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.017355,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0173,
-    "pnl_pct": 0.575,
-    "duracao_min": 12.0,
-    "data_resultado": "2026-07-29T02:03:11.003598+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0174,
+    "pnl_pct": 0.287,
+    "duracao_min": 39.2,
+    "data_resultado": "2026-07-29T02:30:27.418567+00:00"
   },
   {
     "page_id": "3aca5230-de72-81cd-b061-dddd155e8180",
