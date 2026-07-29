@@ -641949,11 +641949,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.68646667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.6856,
-    "pnl_pct": 0.305,
-    "duracao_min": 21.1,
-    "data_resultado": "2026-07-29T08:24:30.834846+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.6878,
+    "pnl_pct": 0.145,
+    "duracao_min": 41.9,
+    "data_resultado": "2026-07-29T08:45:19.364281+00:00"
   },
   {
     "page_id": "3aca5230-de72-81da-992c-c212e2c2f9b5",
