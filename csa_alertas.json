@@ -648019,11 +648019,11 @@
     "estado_cfi": "E1",
     "zona_sr": 54.62533333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 55.166,
-    "pnl_pct": 0.56,
-    "duracao_min": 12.2,
-    "data_resultado": "2026-07-29T13:33:45.364585+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 55.452,
+    "pnl_pct": 0.82,
+    "duracao_min": 24.3,
+    "data_resultado": "2026-07-29T13:45:47.125010+00:00"
   },
   {
     "page_id": "3aca5230-de72-8127-8942-ca20c7ad9663",
