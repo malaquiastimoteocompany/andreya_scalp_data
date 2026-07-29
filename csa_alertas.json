@@ -636533,7 +636533,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.3236,
+    "pnl_pct": 3.496,
+    "duracao_min": 75.1,
+    "data_resultado": "2026-07-29T04:41:15.306038+00:00"
   },
   {
     "page_id": "3aca5230-de72-81f1-acc8-cba283c8a71a",
