@@ -645184,5 +645184,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aca5230-de72-816b-9780-e56cebe3e537",
+    "token": "AVAX",
+    "direccao": "LONG",
+    "preco_alerta": 6.39,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.05907143,
+    "tp1": 6.4136285719999995,
+    "tp2": 6.44907143,
+    "sl": 6.301392855,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 105652391.0,
+    "spread_pct": 0.0003129890453833771,
+    "oi_usd": 10990107.324000001,
+    "data_alerta": "2026-07-29T10:53:10.594457+00:00",
+    "rsi_1h": 37.86,
+    "funding_rate": -0.0059,
+    "estado_cfi": "E1",
+    "zona_sr": 6.364,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
