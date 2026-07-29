@@ -636367,11 +636367,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1141,
-    "pnl_pct": 0.869,
-    "duracao_min": 8.5,
-    "data_resultado": "2026-07-29T03:32:09.097670+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.1137,
+    "pnl_pct": 1.043,
+    "duracao_min": 21.5,
+    "data_resultado": "2026-07-29T03:45:13.387467+00:00"
   },
   {
     "page_id": "3aca5230-de72-81fc-8554-d05ca933dfb1",
