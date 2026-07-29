@@ -632809,7 +632809,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03140333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.03122,
+    "pnl_pct": 0.92,
+    "duracao_min": 77.0,
+    "data_resultado": "2026-07-29T01:50:33.559693+00:00"
   },
   {
     "page_id": "3aca5230-de72-81c8-9128-ce3f372c478d",
