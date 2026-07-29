@@ -651631,11 +651631,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.20935,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2092,
-    "pnl_pct": 0.381,
-    "duracao_min": 16.0,
-    "data_resultado": "2026-07-29T16:34:46.914691+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2111,
+    "pnl_pct": -0.071,
+    "duracao_min": 101.6,
+    "data_resultado": "2026-07-29T18:00:21.516264+00:00"
   },
   {
     "page_id": "3aca5230-de72-81d5-b03c-da6da9401589",
