@@ -649885,7 +649885,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.12207,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.12235,
+    "pnl_pct": 0.617,
+    "duracao_min": 26.1,
+    "data_resultado": "2026-07-29T15:05:25.537932+00:00"
   },
   {
     "page_id": "3aca5230-de72-811f-ade5-cda6a58949ab",
