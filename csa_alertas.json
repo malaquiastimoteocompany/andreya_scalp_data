@@ -641599,11 +641599,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.068555,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06832,
-    "pnl_pct": 0.292,
-    "duracao_min": 39.5,
-    "data_resultado": "2026-07-29T08:22:49.555227+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06854,
+    "pnl_pct": 0.131,
+    "duracao_min": 89.2,
+    "data_resultado": "2026-07-29T09:12:33.992566+00:00"
   },
   {
     "page_id": "3aca5230-de72-8101-b34a-eedd46cff652",
