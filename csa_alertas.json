@@ -656053,7 +656053,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 1.3386,
+    "pnl_pct": 1.079,
+    "duracao_min": 36.9,
+    "data_resultado": "2026-07-29T19:53:57.546567+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a1-920c-e677ab63d2fe",
