@@ -653059,7 +653059,11 @@
     "estado_cfi": "E1",
     "zona_sr": 4.72e-06,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 4.702e-06,
+    "pnl_pct": 0.634,
+    "duracao_min": 68.7,
+    "data_resultado": "2026-07-29T18:34:59.507223+00:00"
   },
   {
     "page_id": "3aca5230-de72-8174-827b-eb4a348e3664",
