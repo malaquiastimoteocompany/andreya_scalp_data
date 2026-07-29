@@ -648527,11 +648527,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3288,
-    "pnl_pct": 0.581,
-    "duracao_min": 16.3,
-    "data_resultado": "2026-07-29T14:05:46.391357+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3266,
+    "pnl_pct": 0.245,
+    "duracao_min": 46.1,
+    "data_resultado": "2026-07-29T14:35:33.990691+00:00"
   },
   {
     "page_id": "3aca5230-de72-815a-aa29-f5967fcb561b",
