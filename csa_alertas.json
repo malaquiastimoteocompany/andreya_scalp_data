@@ -651395,11 +651395,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0774,
-    "pnl_pct": 0.808,
-    "duracao_min": 86.1,
-    "data_resultado": "2026-07-29T17:32:51.913007+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.07881,
+    "pnl_pct": 1.726,
+    "duracao_min": 119.5,
+    "data_resultado": "2026-07-29T18:06:13.601752+00:00"
   },
   {
     "page_id": "3aca5230-de72-81c0-b10f-d042dfcece9a",
