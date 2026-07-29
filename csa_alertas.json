@@ -642051,11 +642051,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.285,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.288,
-    "pnl_pct": 0.39,
-    "duracao_min": 61.1,
-    "data_resultado": "2026-07-29T09:04:46.364247+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.289,
+    "pnl_pct": 0.429,
+    "duracao_min": 121.4,
+    "data_resultado": "2026-07-29T10:05:05.207766+00:00"
   },
   {
     "page_id": "3aca5230-de72-8133-a045-cd93335508c4",
