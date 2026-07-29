@@ -640033,11 +640033,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00446433,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0045,
-    "pnl_pct": 0.402,
-    "duracao_min": 4.3,
-    "data_resultado": "2026-07-29T06:15:08.099290+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004482,
+    "pnl_pct": 0.201,
+    "duracao_min": 59.8,
+    "data_resultado": "2026-07-29T07:10:37.737030+00:00"
   },
   {
     "page_id": "3aca5230-de72-81ce-a2cc-f2e94d47357f",
