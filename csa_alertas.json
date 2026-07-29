@@ -636079,11 +636079,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06633,
-    "pnl_pct": 0.733,
-    "duracao_min": 36.2,
-    "data_resultado": "2026-07-29T03:45:02.603189+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.06544,
+    "pnl_pct": 1.399,
+    "duracao_min": 45.6,
+    "data_resultado": "2026-07-29T03:54:31.317404+00:00"
   },
   {
     "page_id": "3aca5230-de72-81e6-bd90-c62fd69aa0a8",
