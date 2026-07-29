@@ -637731,11 +637731,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04217,
-    "pnl_pct": 0.453,
-    "duracao_min": 36.4,
-    "data_resultado": "2026-07-29T04:37:50.539944+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04225,
+    "pnl_pct": 0.548,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-29T06:01:34.897565+00:00"
   },
   {
     "page_id": "3aca5230-de72-81c1-8cdf-e712fd6f8acf",
