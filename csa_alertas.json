@@ -645433,11 +645433,11 @@
     "estado_cfi": "E1",
     "zona_sr": 44.965,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 45.32,
-    "pnl_pct": 0.332,
-    "duracao_min": 18.3,
-    "data_resultado": "2026-07-29T11:11:59.199523+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 45.24,
+    "pnl_pct": 0.244,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-29T12:54:50.767194+00:00"
   },
   {
     "page_id": "3aca5230-de72-8178-a4f4-e3f4a2e203bd",
