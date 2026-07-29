@@ -653168,5 +653168,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aca5230-de72-81ee-8939-fecdac21b5ae",
+    "token": "SPX",
+    "direccao": "LONG",
+    "preco_alerta": 0.3287,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00399286,
+    "tp1": 0.330297144,
+    "tp2": 0.33269286,
+    "sl": 0.32271071,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 5742314.0,
+    "spread_pct": 0.00030436767615275905,
+    "oi_usd": 1343562.2360999999,
+    "data_alerta": "2026-07-29T17:46:35.960598+00:00",
+    "rsi_1h": 52.3,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.3302,
+    "toques_sr": 5,
+    "resultado": "Pendente"
   }
 ]
