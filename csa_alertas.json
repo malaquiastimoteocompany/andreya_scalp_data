@@ -653709,7 +653709,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.001925,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.001868,
+    "pnl_pct": -2.759,
+    "duracao_min": 29.6,
+    "data_resultado": "2026-07-29T18:33:20.377017+00:00"
   },
   {
     "page_id": "3aca5230-de72-8158-b1a7-f5dae3a92d17",
