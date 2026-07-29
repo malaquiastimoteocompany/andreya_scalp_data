@@ -632439,11 +632439,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.084384,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08366,
-    "pnl_pct": 0.747,
-    "duracao_min": 17.5,
-    "data_resultado": "2026-07-29T00:35:45.319900+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.08259,
+    "pnl_pct": 1.382,
+    "duracao_min": 92.2,
+    "data_resultado": "2026-07-29T01:50:25.060308+00:00"
   },
   {
     "page_id": "3aca5230-de72-8145-8279-c798745fe777",
