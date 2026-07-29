@@ -657493,11 +657493,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 2.496,
-    "pnl_pct": 0.524,
-    "duracao_min": 19.5,
-    "data_resultado": "2026-07-29T20:15:02.603253+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.479,
+    "pnl_pct": 0.181,
+    "duracao_min": 72.2,
+    "data_resultado": "2026-07-29T21:07:44.441597+00:00"
   },
   {
     "page_id": "3aca5230-de72-816a-8310-d73ea43dc761",
