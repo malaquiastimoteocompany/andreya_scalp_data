@@ -642261,7 +642261,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02815,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.02775,
+    "pnl_pct": -0.928,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-29T10:09:32.357513+00:00"
   },
   {
     "page_id": "3aca5230-de72-8177-b491-e59d27be1bac",
