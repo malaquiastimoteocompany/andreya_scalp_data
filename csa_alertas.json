@@ -658137,11 +658137,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 731.96,
-    "pnl_pct": 0.203,
-    "duracao_min": 111.6,
-    "data_resultado": "2026-07-29T22:08:42.410606+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 733.08,
+    "pnl_pct": 0.279,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-29T22:17:58.816300+00:00"
   },
   {
     "page_id": "3aca5230-de72-813b-9f1f-e27f047c4749",
