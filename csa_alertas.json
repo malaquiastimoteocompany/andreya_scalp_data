@@ -640401,11 +640401,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.017355,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01723,
-    "pnl_pct": 0.577,
-    "duracao_min": 104.1,
-    "data_resultado": "2026-07-29T08:15:37.130261+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01734,
+    "pnl_pct": 0.26,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-29T08:32:12.638259+00:00"
   },
   {
     "page_id": "3aca5230-de72-8157-aa41-e7bdfae89663",
