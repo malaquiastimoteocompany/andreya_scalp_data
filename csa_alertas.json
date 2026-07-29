@@ -631869,11 +631869,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.6585,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.661,
-    "pnl_pct": 0.545,
-    "duracao_min": 17.6,
-    "data_resultado": "2026-07-29T00:08:40.170039+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.652,
+    "pnl_pct": 0.272,
+    "duracao_min": 43.0,
+    "data_resultado": "2026-07-29T00:34:02.215999+00:00"
   },
   {
     "page_id": "3aca5230-de72-81fe-84e3-dad8a0d8905b",
