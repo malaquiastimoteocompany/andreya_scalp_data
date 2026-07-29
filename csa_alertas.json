@@ -654273,7 +654273,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07254,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.07153,
+    "pnl_pct": -1.051,
+    "duracao_min": 75.2,
+    "data_resultado": "2026-07-29T19:25:32.686172+00:00"
   },
   {
     "page_id": "3aca5230-de72-81dc-a5c3-c38514d2d703",
