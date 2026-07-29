@@ -634013,7 +634013,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.7884,
+    "pnl_pct": -2.811,
+    "duracao_min": 42.6,
+    "data_resultado": "2026-07-29T02:05:56.222551+00:00"
   },
   {
     "page_id": "3aca5230-de72-81f0-81f3-e8b5a0c71b0e",
