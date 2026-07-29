@@ -637285,11 +637285,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05418,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05408,
-    "pnl_pct": 0.278,
-    "duracao_min": 69.7,
-    "data_resultado": "2026-07-29T05:00:38.430866+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.05426,
+    "pnl_pct": 0.445,
+    "duracao_min": 76.4,
+    "data_resultado": "2026-07-29T05:07:17.735146+00:00"
   },
   {
     "page_id": "3aca5230-de72-81df-8348-dbf4ee495ff0",
