@@ -654645,7 +654645,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.927375,
     "toques_sr": 8,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 3.917,
+    "pnl_pct": 0.659,
+    "duracao_min": 77.4,
+    "data_resultado": "2026-07-29T19:51:50.081718+00:00"
   },
   {
     "page_id": "3aca5230-de72-8151-b0a7-da738d1bf488",
