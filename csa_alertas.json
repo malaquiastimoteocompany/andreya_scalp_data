@@ -645463,11 +645463,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.030625,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03046,
-    "pnl_pct": 0.975,
-    "duracao_min": 113.8,
-    "data_resultado": "2026-07-29T12:47:41.948831+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.03053,
+    "pnl_pct": 0.862,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-29T12:54:59.481780+00:00"
   },
   {
     "page_id": "3aca5230-de72-8126-9001-d5d10f11fcfd",
