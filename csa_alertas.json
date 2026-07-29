@@ -637959,11 +637959,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.05993,
-    "pnl_pct": 0.385,
-    "duracao_min": 20.8,
-    "data_resultado": "2026-07-29T04:27:05.546173+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.06034,
+    "pnl_pct": 0.729,
+    "duracao_min": 76.8,
+    "data_resultado": "2026-07-29T05:23:11.246627+00:00"
   },
   {
     "page_id": "3aca5230-de72-818a-8561-e0501d2e4dfb",
