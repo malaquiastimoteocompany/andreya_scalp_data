@@ -631915,11 +631915,11 @@
     "estado_cfi": "E1",
     "zona_sr": 745.3925,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 742.51,
-    "pnl_pct": 0.129,
-    "duracao_min": 82.9,
-    "data_resultado": "2026-07-29T01:11:52.725897+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 741.47,
+    "pnl_pct": 0.199,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-29T01:50:08.518911+00:00"
   },
   {
     "page_id": "3aba5230-de72-812e-b649-c17e7b5c8d56",
