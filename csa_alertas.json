@@ -643727,11 +643727,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.060075,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06053,
-    "pnl_pct": 0.448,
-    "duracao_min": 18.8,
-    "data_resultado": "2026-07-29T09:42:09.204364+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06024,
+    "pnl_pct": 0.207,
+    "duracao_min": 68.0,
+    "data_resultado": "2026-07-29T10:31:16.888099+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a9-9381-ca643ecdcc14",
