@@ -637179,11 +637179,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001792,
-    "pnl_pct": 0.448,
-    "duracao_min": 51.5,
-    "data_resultado": "2026-07-29T04:39:48.401910+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.001784,
+    "pnl_pct": 0.224,
+    "duracao_min": 58.5,
+    "data_resultado": "2026-07-29T04:46:47.599042+00:00"
   },
   {
     "page_id": "3aca5230-de72-81c1-9d3a-dfba929bead1",
