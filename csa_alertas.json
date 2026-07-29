@@ -639771,11 +639771,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3182,
-    "pnl_pct": 0.469,
-    "duracao_min": 83.2,
-    "data_resultado": "2026-07-29T07:22:04.810870+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.3196,
+    "pnl_pct": 0.25,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-29T07:59:20.555203+00:00"
   },
   {
     "page_id": "3aca5230-de72-81aa-8644-f1f167d628fd",
