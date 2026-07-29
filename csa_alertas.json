@@ -638181,11 +638181,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0042095,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004245,
-    "pnl_pct": 0.473,
-    "duracao_min": 44.8,
-    "data_resultado": "2026-07-29T04:55:59.691364+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.004251,
+    "pnl_pct": 0.544,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-29T06:11:48.044583+00:00"
   },
   {
     "page_id": "3aca5230-de72-811c-8303-c2e6240c61ff",
