@@ -645223,11 +645223,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.17339,
-    "pnl_pct": 0.396,
-    "duracao_min": 93.8,
-    "data_resultado": "2026-07-29T12:17:18.130926+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.17388,
+    "pnl_pct": 0.256,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-29T12:43:44.192403+00:00"
   },
   {
     "page_id": "3aca5230-de72-811b-99c7-ffaac87765b6",
