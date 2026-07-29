@@ -647195,11 +647195,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.32735,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3313,
-    "pnl_pct": 0.914,
-    "duracao_min": 54.2,
-    "data_resultado": "2026-07-29T13:13:30.790256+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.3366,
+    "pnl_pct": 1.721,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-29T14:20:07.195133+00:00"
   },
   {
     "page_id": "3aca5230-de72-8143-ab07-ee3d46fa4426",
