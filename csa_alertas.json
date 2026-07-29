@@ -641521,11 +641521,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.157,
-    "pnl_pct": 0.577,
-    "duracao_min": 22.1,
-    "data_resultado": "2026-07-29T08:00:23.209392+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.156,
+    "pnl_pct": 0.256,
+    "duracao_min": 42.7,
+    "data_resultado": "2026-07-29T08:21:01.847467+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a5-bd36-c69499ffb19d",
