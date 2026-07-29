@@ -651983,11 +651983,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.3217,
-    "pnl_pct": 1.754,
-    "duracao_min": 36.8,
-    "data_resultado": "2026-07-29T17:08:31.060865+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.3512,
+    "pnl_pct": 0.658,
+    "duracao_min": 55.8,
+    "data_resultado": "2026-07-29T17:27:30.986987+00:00"
   },
   {
     "page_id": "3aca5230-de72-81e4-9446-f4ec8e9458da",
