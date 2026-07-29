@@ -658911,11 +658911,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.005707,
-    "pnl_pct": 0.528,
-    "duracao_min": 25.5,
-    "data_resultado": "2026-07-29T21:27:27.905232+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.005745,
+    "pnl_pct": 0.863,
+    "duracao_min": 58.6,
+    "data_resultado": "2026-07-29T22:00:31.933661+00:00"
   },
   {
     "page_id": "3aca5230-de72-8159-a44e-d789409f9fb6",
