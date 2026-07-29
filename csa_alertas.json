@@ -638331,11 +638331,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.80305,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.7643,
-    "pnl_pct": 2.255,
-    "duracao_min": 106.1,
-    "data_resultado": "2026-07-29T06:04:27.709942+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.7672,
+    "pnl_pct": 2.175,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-29T06:19:03.092493+00:00"
   },
   {
     "page_id": "3aca5230-de72-8139-b40e-f012ba65abe2",
