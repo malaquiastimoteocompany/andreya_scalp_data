@@ -640363,7 +640363,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.005233,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.005295,
+    "pnl_pct": 1.359,
+    "duracao_min": 6.3,
+    "data_resultado": "2026-07-29T06:44:50.191438+00:00"
   },
   {
     "page_id": "3aca5230-de72-811e-9082-e248f5929553",
