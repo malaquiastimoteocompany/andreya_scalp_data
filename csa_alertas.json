@@ -645285,7 +645285,11 @@
     "estado_cfi": "E1",
     "zona_sr": 744.78285714,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 741.08,
+    "pnl_pct": 0.256,
+    "duracao_min": 89.0,
+    "data_resultado": "2026-07-29T12:17:25.212677+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a0-935b-e0a0132cc023",
