@@ -633053,7 +633053,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.82e-06,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 2.7945e-06,
+    "pnl_pct": 0.438,
+    "duracao_min": 8.7,
+    "data_resultado": "2026-07-29T00:57:37.185784+00:00"
   },
   {
     "page_id": "3aca5230-de72-8151-8a54-ed6cccb191c9",
