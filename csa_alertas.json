@@ -643129,7 +643129,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.012494,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.014935,
+    "pnl_pct": -19.394,
+    "duracao_min": 26.9,
+    "data_resultado": "2026-07-29T09:27:48.781514+00:00"
   },
   {
     "page_id": "3aca5230-de72-81dd-adc8-d8b6304ef142",
