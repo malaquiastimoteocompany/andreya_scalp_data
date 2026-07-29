@@ -650685,11 +650685,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.407,
-    "pnl_pct": 2.163,
-    "duracao_min": 31.9,
-    "data_resultado": "2026-07-29T16:10:41.790347+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.425,
+    "pnl_pct": 0.0,
+    "duracao_min": 41.8,
+    "data_resultado": "2026-07-29T16:20:33.084660+00:00"
   },
   {
     "page_id": "3aca5230-de72-818e-bf78-e1d9a459f75f",
