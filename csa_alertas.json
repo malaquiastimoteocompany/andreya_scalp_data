@@ -660193,11 +660193,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07825,
-    "pnl_pct": 0.527,
-    "duracao_min": 9.6,
-    "data_resultado": "2026-07-29T22:01:51.400576+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.07873,
+    "pnl_pct": 0.835,
+    "duracao_min": 50.7,
+    "data_resultado": "2026-07-29T22:42:57.389947+00:00"
   },
   {
     "page_id": "3aca5230-de72-81be-a686-d048b7c1ecce",
