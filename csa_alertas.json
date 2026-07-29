@@ -653133,11 +653133,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02105,
-    "pnl_pct": 0.525,
-    "duracao_min": 21.8,
-    "data_resultado": "2026-07-29T17:50:54.949943+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.02124,
+    "pnl_pct": 0.979,
+    "duracao_min": 34.7,
+    "data_resultado": "2026-07-29T18:03:49.519699+00:00"
   },
   {
     "page_id": "3aca5230-de72-8125-aff8-ff223862119d",
