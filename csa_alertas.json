@@ -630865,11 +630865,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.08247,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08339,
-    "pnl_pct": 0.64,
-    "duracao_min": 52.7,
-    "data_resultado": "2026-07-28T23:48:44.344453+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.08326,
+    "pnl_pct": 0.561,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-29T00:57:06.348542+00:00"
   },
   {
     "page_id": "3aba5230-de72-81b8-acf6-c3afc6b2fdf7",
