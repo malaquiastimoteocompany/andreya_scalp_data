@@ -647375,11 +647375,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.39903333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.4016,
-    "pnl_pct": 0.753,
-    "duracao_min": 97.8,
-    "data_resultado": "2026-07-29T14:02:19.297858+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.398,
+    "pnl_pct": 0.301,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-29T14:24:43.986807+00:00"
   },
   {
     "page_id": "3aca5230-de72-8161-afc7-d297f6799ca9",
