@@ -653503,7 +653503,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0173,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.01733,
+    "pnl_pct": 0.464,
+    "duracao_min": 5.3,
+    "data_resultado": "2026-07-29T18:04:38.865807+00:00"
   },
   {
     "page_id": "3aca5230-de72-8111-8091-ed5973ddae6a",
