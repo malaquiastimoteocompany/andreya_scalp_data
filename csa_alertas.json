@@ -643999,11 +643999,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 4.016,
-    "pnl_pct": 0.551,
-    "duracao_min": 51.5,
-    "data_resultado": "2026-07-29T10:27:12.314194+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.993,
+    "pnl_pct": 0.263,
+    "duracao_min": 91.2,
+    "data_resultado": "2026-07-29T11:06:56.025630+00:00"
   },
   {
     "page_id": "3aca5230-de72-81ab-914a-c02818983cb6",
