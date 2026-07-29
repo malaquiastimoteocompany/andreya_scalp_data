@@ -634877,7 +634877,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.068555,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.06809,
+    "pnl_pct": 0.59,
+    "duracao_min": 116.2,
+    "data_resultado": "2026-07-29T04:02:01.218183+00:00"
   },
   {
     "page_id": "3aca5230-de72-818d-b2a1-ef7b0ea7008a",
