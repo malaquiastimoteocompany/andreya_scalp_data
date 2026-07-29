@@ -645159,11 +645159,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04474667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04481,
-    "pnl_pct": 0.269,
-    "duracao_min": 16.5,
-    "data_resultado": "2026-07-29T11:02:31.000816+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.04468,
+    "pnl_pct": 0.123,
+    "duracao_min": 23.8,
+    "data_resultado": "2026-07-29T11:09:50.975311+00:00"
   },
   {
     "page_id": "3aca5230-de72-8192-ac55-d68e26f38b62",
