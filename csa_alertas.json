@@ -654537,11 +654537,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0173,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01734,
-    "pnl_pct": 0.463,
-    "duracao_min": 22.5,
-    "data_resultado": "2026-07-29T18:49:38.680896+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01744,
+    "pnl_pct": 0.753,
+    "duracao_min": 32.0,
+    "data_resultado": "2026-07-29T18:59:11.660969+00:00"
   },
   {
     "page_id": "3aca5230-de72-819a-afa7-f79cbbe0a19f",
