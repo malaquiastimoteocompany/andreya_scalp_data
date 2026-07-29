@@ -654813,7 +654813,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.31395,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.3174,
+    "pnl_pct": 0.73,
+    "duracao_min": 2.2,
+    "data_resultado": "2026-07-29T18:39:37.087607+00:00"
   },
   {
     "page_id": "3aca5230-de72-8199-82f2-fd4554d2d7ee",
