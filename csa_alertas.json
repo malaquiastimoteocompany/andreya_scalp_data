@@ -639631,11 +639631,11 @@
     "estado_cfi": "E1",
     "zona_sr": 195.475,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 196.28,
-    "pnl_pct": 0.307,
-    "duracao_min": 44.1,
-    "data_resultado": "2026-07-29T06:37:39.356771+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 197.19,
+    "pnl_pct": 0.539,
+    "duracao_min": 99.7,
+    "data_resultado": "2026-07-29T07:33:13.613608+00:00"
   },
   {
     "page_id": "3aca5230-de72-810a-9c9f-f31382b644fb",
