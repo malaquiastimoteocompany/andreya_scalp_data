@@ -630655,7 +630655,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.1935,
+    "pnl_pct": -0.616,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-29T00:51:20.592850+00:00"
   },
   {
     "page_id": "3aba5230-de72-8100-91f9-f0c31b0b5f8f",
