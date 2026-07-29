@@ -655103,7 +655103,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.17266,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.17196,
+    "pnl_pct": 0.405,
+    "duracao_min": 33.0,
+    "data_resultado": "2026-07-29T19:20:05.618968+00:00"
   },
   {
     "page_id": "3aca5230-de72-81ef-85eb-ce779b8903fc",
