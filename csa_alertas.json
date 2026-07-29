@@ -644575,11 +644575,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.80305,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.758,
-    "pnl_pct": 2.631,
-    "duracao_min": 54.7,
-    "data_resultado": "2026-07-29T11:00:47.085605+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.685,
+    "pnl_pct": 4.652,
+    "duracao_min": 80.6,
+    "data_resultado": "2026-07-29T11:26:45.638825+00:00"
   },
   {
     "page_id": "3aca5230-de72-8137-b06b-d06861345b9c",
