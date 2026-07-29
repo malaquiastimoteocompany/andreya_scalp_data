@@ -652883,7 +652883,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.6205,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 3.893,
+    "pnl_pct": -7.512,
+    "duracao_min": 13.2,
+    "data_resultado": "2026-07-29T17:34:40.387909+00:00"
   },
   {
     "page_id": "3aca5230-de72-8176-8ae1-dd5ab7baf52b",
