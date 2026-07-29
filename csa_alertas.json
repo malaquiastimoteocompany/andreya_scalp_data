@@ -643101,11 +643101,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1335,
-    "pnl_pct": 0.603,
-    "duracao_min": 45.7,
-    "data_resultado": "2026-07-29T09:41:49.016776+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1327,
+    "pnl_pct": 0.301,
+    "duracao_min": 55.5,
+    "data_resultado": "2026-07-29T09:51:37.344454+00:00"
   },
   {
     "page_id": "3aca5230-de72-81c2-94b5-fb5ad75114aa",
