@@ -641269,11 +641269,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04135,
-    "pnl_pct": 0.535,
-    "duracao_min": 36.8,
-    "data_resultado": "2026-07-29T08:00:12.464020+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0411,
+    "pnl_pct": 0.231,
+    "duracao_min": 64.4,
+    "data_resultado": "2026-07-29T08:27:49.103782+00:00"
   },
   {
     "page_id": "3aca5230-de72-81e4-8a8b-f937b9eddacc",
