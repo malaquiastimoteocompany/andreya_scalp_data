@@ -643015,11 +643015,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.862,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 3.9,
-    "pnl_pct": 0.801,
-    "duracao_min": 7.5,
-    "data_resultado": "2026-07-29T09:03:16.087703+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 3.92,
+    "pnl_pct": 1.06,
+    "duracao_min": 19.9,
+    "data_resultado": "2026-07-29T09:15:39.753910+00:00"
   },
   {
     "page_id": "3aca5230-de72-8132-ab31-c7dfd049e45a",
