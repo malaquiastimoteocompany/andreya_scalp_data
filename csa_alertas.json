@@ -648035,11 +648035,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.68646667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.6855,
-    "pnl_pct": 0.291,
-    "duracao_min": 71.2,
-    "data_resultado": "2026-07-29T14:25:02.847179+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.6843,
+    "pnl_pct": 0.378,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-29T15:14:49.177909+00:00"
   },
   {
     "page_id": "3aca5230-de72-81b6-9031-cd6cf5f9038a",
