@@ -653575,11 +653575,11 @@
     "estado_cfi": "E1",
     "zona_sr": 30.425,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 30.47,
-    "pnl_pct": 0.594,
-    "duracao_min": 5.3,
-    "data_resultado": "2026-07-29T18:04:58.534588+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 30.29,
+    "pnl_pct": 0.297,
+    "duracao_min": 37.5,
+    "data_resultado": "2026-07-29T18:37:08.256965+00:00"
   },
   {
     "page_id": "3aca5230-de72-81ca-b819-c9da628949e6",
