@@ -647997,11 +647997,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0678275,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06824,
-    "pnl_pct": 0.279,
-    "duracao_min": 14.3,
-    "data_resultado": "2026-07-29T13:35:34.430660+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06802,
+    "pnl_pct": 0.118,
+    "duracao_min": 31.7,
+    "data_resultado": "2026-07-29T13:52:59.813948+00:00"
   },
   {
     "page_id": "3aca5230-de72-815b-add4-c3f9b29b2651",
