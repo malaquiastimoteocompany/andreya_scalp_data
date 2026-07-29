@@ -636239,7 +636239,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.04117,
+    "pnl_pct": -1.46,
+    "duracao_min": 37.9,
+    "data_resultado": "2026-07-29T03:56:10.563888+00:00"
   },
   {
     "page_id": "3aca5230-de72-8188-9aed-d57c46adfeec",
