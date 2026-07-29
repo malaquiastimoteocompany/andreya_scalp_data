@@ -654987,11 +654987,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 2.549,
-    "pnl_pct": 0.513,
-    "duracao_min": 5.2,
-    "data_resultado": "2026-07-29T18:45:17.705559+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 2.532,
+    "pnl_pct": 0.177,
+    "duracao_min": 28.1,
+    "data_resultado": "2026-07-29T19:08:07.622902+00:00"
   },
   {
     "page_id": "3aca5230-de72-814d-be08-c1ec9e079884",
