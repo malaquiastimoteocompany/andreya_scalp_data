@@ -653839,11 +653839,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.6943,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.6938,
-    "pnl_pct": 0.304,
-    "duracao_min": 35.1,
-    "data_resultado": "2026-07-29T18:42:13.624108+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.6912,
+    "pnl_pct": 0.116,
+    "duracao_min": 62.8,
+    "data_resultado": "2026-07-29T19:09:51.938833+00:00"
   },
   {
     "page_id": "3aca5230-de72-812f-b90c-daa7eadb040f",
