@@ -644893,11 +644893,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0041645,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004223,
-    "pnl_pct": 1.053,
-    "duracao_min": 24.9,
-    "data_resultado": "2026-07-29T10:50:45.834967+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004177,
+    "pnl_pct": 0.503,
+    "duracao_min": 76.2,
+    "data_resultado": "2026-07-29T11:42:03.409553+00:00"
   },
   {
     "page_id": "3aca5230-de72-81e6-a307-edfd75d17dea",
