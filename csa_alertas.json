@@ -633617,7 +633617,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05500333,
     "toques_sr": 9,
-    "resultado": "Pendente"
+    "resultado": "SL Hit",
+    "preco_saida": 0.05444,
+    "pnl_pct": -0.729,
+    "duracao_min": 9.8,
+    "data_resultado": "2026-07-29T01:18:18.769509+00:00"
   },
   {
     "page_id": "3aca5230-de72-815c-98ba-f0dbb41597a6",
