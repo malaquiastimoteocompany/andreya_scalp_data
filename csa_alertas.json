@@ -658703,7 +658703,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.016805,
+    "pnl_pct": -0.274,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-29T22:42:44.750109+00:00"
   },
   {
     "page_id": "3aca5230-de72-81bb-98de-f3f24573f997",
