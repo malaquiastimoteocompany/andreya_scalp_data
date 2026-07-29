@@ -657111,11 +657111,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.06686667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 1.0651,
-    "pnl_pct": 0.337,
-    "duracao_min": 15.9,
-    "data_resultado": "2026-07-29T20:07:46.790934+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 1.0697,
+    "pnl_pct": 0.122,
+    "duracao_min": 24.6,
+    "data_resultado": "2026-07-29T20:16:30.693359+00:00"
   },
   {
     "page_id": "3aca5230-de72-813b-96f1-e29397684d24",
