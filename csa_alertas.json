@@ -644683,7 +644683,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.1105,
+    "pnl_pct": -0.181,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-29T12:09:58.193407+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a5-9d21-da4710df59e6",
