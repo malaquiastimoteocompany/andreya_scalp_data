@@ -642773,7 +642773,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 45.19,
+    "pnl_pct": 0.355,
+    "duracao_min": 6.7,
+    "data_resultado": "2026-07-29T08:47:31.829973+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a8-ab11-cf1875503a61",
