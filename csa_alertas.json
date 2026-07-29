@@ -634563,7 +634563,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05455667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.05457,
+    "pnl_pct": 0.257,
+    "duracao_min": 34.7,
+    "data_resultado": "2026-07-29T02:30:36.225466+00:00"
   },
   {
     "page_id": "3aca5230-de72-8168-801a-f998ac801484",
