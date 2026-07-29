@@ -651695,11 +651695,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.604,
-    "pnl_pct": 0.416,
-    "duracao_min": 101.5,
-    "data_resultado": "2026-07-29T18:00:38.631971+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.6006,
+    "pnl_pct": 0.133,
+    "duracao_min": 107.4,
+    "data_resultado": "2026-07-29T18:06:36.592511+00:00"
   },
   {
     "page_id": "3aca5230-de72-8160-8331-ec4dd60e923f",
