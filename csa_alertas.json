@@ -638121,7 +638121,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.001855,
+    "pnl_pct": -1.696,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-29T06:11:40.838120+00:00"
   },
   {
     "page_id": "3aca5230-de72-81bb-bb4d-e8c263888a65",
