@@ -640209,7 +640209,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0042585,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.004305,
+    "pnl_pct": 0.847,
+    "duracao_min": 110.1,
+    "data_resultado": "2026-07-29T08:03:34.420661+00:00"
   },
   {
     "page_id": "3aca5230-de72-8195-9842-fa1f8b72bfb4",
