@@ -660449,7 +660449,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00527825,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.005315,
+    "pnl_pct": 0.873,
+    "duracao_min": 83.3,
+    "data_resultado": "2026-07-29T23:25:46.314905+00:00"
   },
   {
     "page_id": "3aca5230-de72-8129-9e22-c38914570035",
