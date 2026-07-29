@@ -643551,7 +643551,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.04124,
+    "pnl_pct": 0.243,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-29T11:11:29.211966+00:00"
   },
   {
     "page_id": "3aca5230-de72-8170-92e2-ef087a32d37b",
