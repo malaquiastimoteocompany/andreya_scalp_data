@@ -636749,7 +636749,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.6856,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.6913,
+    "pnl_pct": 0.494,
+    "duracao_min": 68.9,
+    "data_resultado": "2026-07-29T04:39:37.895497+00:00"
   },
   {
     "page_id": "3aca5230-de72-81b1-9bed-f326bd69985b",
