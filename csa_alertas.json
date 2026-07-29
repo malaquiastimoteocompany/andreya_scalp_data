@@ -658395,11 +658395,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 189.95,
-    "pnl_pct": 0.449,
-    "duracao_min": 7.8,
-    "data_resultado": "2026-07-29T20:38:32.033663+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 189.07,
+    "pnl_pct": 0.217,
+    "duracao_min": 79.5,
+    "data_resultado": "2026-07-29T21:50:15.944349+00:00"
   },
   {
     "page_id": "3aca5230-de72-816e-957d-f98bcfc41f7a",
