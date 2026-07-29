@@ -640734,5 +640734,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aca5230-de72-81b7-8f62-f92d73a2c03a",
+    "token": "ASTER",
+    "direccao": "SHORT",
+    "preco_alerta": 0.6025,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00345714,
+    "tp1": 0.601117144,
+    "tp2": 0.5990428600000001,
+    "sl": 0.60768571,
+    "componentes": "sr_zone=0/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 22429384.0,
+    "spread_pct": 0.0001659613310098564,
+    "oi_usd": 7794447.305000001,
+    "data_alerta": "2026-07-29T07:03:28.774480+00:00",
+    "rsi_1h": 24.87,
+    "funding_rate": -0.0009,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
