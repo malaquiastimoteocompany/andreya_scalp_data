@@ -640573,11 +640573,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03156,
-    "pnl_pct": 0.911,
-    "duracao_min": 10.9,
-    "data_resultado": "2026-07-29T06:59:19.772026+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.03121,
+    "pnl_pct": 1.46,
+    "duracao_min": 51.8,
+    "data_resultado": "2026-07-29T07:40:15.118025+00:00"
   },
   {
     "page_id": "3aca5230-de72-81c2-a191-e05c34c1f4e5",
