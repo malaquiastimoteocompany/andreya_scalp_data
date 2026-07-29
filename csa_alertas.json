@@ -635579,11 +635579,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.82e-06,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 2.7911e-06,
-    "pnl_pct": 0.637,
-    "duracao_min": 8.8,
-    "data_resultado": "2026-07-29T02:50:26.047127+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.7525e-06,
+    "pnl_pct": 1.324,
+    "duracao_min": 50.1,
+    "data_resultado": "2026-07-29T03:31:43.423759+00:00"
   },
   {
     "page_id": "3aca5230-de72-811e-a508-e7060d030020",
