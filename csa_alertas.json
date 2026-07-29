@@ -637559,7 +637559,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.8062,
+    "pnl_pct": 0.952,
+    "duracao_min": 39.1,
+    "data_resultado": "2026-07-29T04:39:59.997127+00:00"
   },
   {
     "page_id": "3aca5230-de72-8158-9b57-efeb1274a016",
