@@ -638877,11 +638877,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.76483333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.7593,
-    "pnl_pct": 0.341,
-    "duracao_min": 6.9,
-    "data_resultado": "2026-07-29T05:20:12.003050+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.7621,
+    "pnl_pct": 0.158,
+    "duracao_min": 14.4,
+    "data_resultado": "2026-07-29T05:27:41.299464+00:00"
   },
   {
     "page_id": "3aca5230-de72-81c3-a192-c34a1e756af8",
