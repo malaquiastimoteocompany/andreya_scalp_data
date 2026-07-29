@@ -633101,7 +633101,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.60785,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 1.5908,
+    "pnl_pct": 1.517,
+    "duracao_min": 2.2,
+    "data_resultado": "2026-07-29T00:53:08.778314+00:00"
   },
   {
     "page_id": "3aca5230-de72-81bf-a175-c31b7b37e636",
