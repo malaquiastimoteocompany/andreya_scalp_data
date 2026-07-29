@@ -635935,11 +635935,11 @@
     "estado_cfi": "E1",
     "zona_sr": 4.61e-06,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 4.655e-06,
-    "pnl_pct": 0.475,
-    "duracao_min": 4.7,
-    "data_resultado": "2026-07-29T03:12:56.408457+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 4.609e-06,
+    "pnl_pct": -0.022,
+    "duracao_min": 18.9,
+    "data_resultado": "2026-07-29T03:27:11.101596+00:00"
   },
   {
     "page_id": "3aca5230-de72-81af-867d-c244c3e6ae81",
