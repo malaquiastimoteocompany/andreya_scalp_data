@@ -640331,11 +640331,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 3.594,
-    "pnl_pct": 1.83,
-    "duracao_min": 8.8,
-    "data_resultado": "2026-07-29T06:42:13.683644+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.5,
+    "pnl_pct": 3.114,
+    "duracao_min": 30.4,
+    "data_resultado": "2026-07-29T07:03:48.471161+00:00"
   },
   {
     "page_id": "3aca5230-de72-81f8-98d0-c9061ec711d3",
