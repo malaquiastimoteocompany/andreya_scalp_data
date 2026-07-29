@@ -636883,7 +636883,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.01725,
+    "pnl_pct": 0.583,
+    "duracao_min": 59.5,
+    "data_resultado": "2026-07-29T04:35:28.983992+00:00"
   },
   {
     "page_id": "3aca5230-de72-81b7-8874-e19bb6822434",
