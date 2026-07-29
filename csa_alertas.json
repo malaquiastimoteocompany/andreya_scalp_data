@@ -640567,7 +640567,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.80305,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "BE Hit",
+    "preco_saida": 1.808,
+    "pnl_pct": 1.09,
+    "duracao_min": 21.8,
+    "data_resultado": "2026-07-29T07:17:40.314675+00:00"
   },
   {
     "page_id": "3aca5230-de72-81e7-b984-c8ca491f4105",
