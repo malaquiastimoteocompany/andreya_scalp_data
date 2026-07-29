@@ -659753,7 +659753,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.06686667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 1.0729,
+    "pnl_pct": -0.159,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-29T23:29:40.700610+00:00"
   },
   {
     "page_id": "3aca5230-de72-8151-8022-ec0f5de1d31b",
