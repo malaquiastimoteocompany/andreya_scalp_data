@@ -642579,11 +642579,11 @@
     "estado_cfi": "E2",
     "zona_sr": 3.862,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 3.877,
-    "pnl_pct": 0.754,
-    "duracao_min": 3.2,
-    "data_resultado": "2026-07-29T08:36:25.668160+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 3.896,
+    "pnl_pct": 1.001,
+    "duracao_min": 14.1,
+    "data_resultado": "2026-07-29T08:47:22.811501+00:00"
   },
   {
     "page_id": "3aca5230-de72-81ee-8f9c-ff93dc3a2cde",
