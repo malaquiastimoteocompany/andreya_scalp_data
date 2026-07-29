@@ -644897,11 +644897,11 @@
     "estado_cfi": "E2",
     "zona_sr": 2.707,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 2.694,
-    "pnl_pct": 0.185,
-    "duracao_min": 27.2,
-    "data_resultado": "2026-07-29T10:58:02.193022+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.699,
+    "pnl_pct": 0.093,
+    "duracao_min": 31.6,
+    "data_resultado": "2026-07-29T11:02:21.334117+00:00"
   },
   {
     "page_id": "3aca5230-de72-81d5-9dd1-f408df8dee1f",
