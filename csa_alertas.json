@@ -637073,7 +637073,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.1129,
+    "pnl_pct": 0.704,
+    "duracao_min": 13.9,
+    "data_resultado": "2026-07-29T04:00:35.948881+00:00"
   },
   {
     "page_id": "3aca5230-de72-815f-80b8-dad96c737a54",
