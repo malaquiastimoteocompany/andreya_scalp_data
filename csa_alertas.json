@@ -637591,11 +637591,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.8062,
-    "pnl_pct": 0.952,
-    "duracao_min": 39.1,
-    "data_resultado": "2026-07-29T04:39:59.997127+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.8132,
+    "pnl_pct": 1.39,
+    "duracao_min": 63.5,
+    "data_resultado": "2026-07-29T05:04:24.038708+00:00"
   },
   {
     "page_id": "3aca5230-de72-8158-9b57-efeb1274a016",
