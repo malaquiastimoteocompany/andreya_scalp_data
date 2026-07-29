@@ -640367,11 +640367,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 45.18,
-    "pnl_pct": 0.419,
-    "duracao_min": 32.5,
-    "data_resultado": "2026-07-29T07:03:40.955558+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 45.02,
+    "pnl_pct": 0.595,
+    "duracao_min": 119.4,
+    "data_resultado": "2026-07-29T08:30:35.309176+00:00"
   },
   {
     "page_id": "3aca5230-de72-816f-9b40-eae5a7e585c6",
