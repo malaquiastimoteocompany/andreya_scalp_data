@@ -658329,11 +658329,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 44.59,
-    "pnl_pct": 0.405,
-    "duracao_min": 8.0,
-    "data_resultado": "2026-07-29T20:38:24.351871+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 44.41,
+    "pnl_pct": 0.203,
+    "duracao_min": 34.2,
+    "data_resultado": "2026-07-29T21:04:33.357664+00:00"
   },
   {
     "page_id": "3aca5230-de72-8108-a0ad-ea7c3f80c1c1",
