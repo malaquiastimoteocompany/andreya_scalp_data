@@ -648845,11 +648845,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.00484,
-    "pnl_pct": 1.574,
-    "duracao_min": 31.0,
-    "data_resultado": "2026-07-29T14:29:51.781321+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.004883,
+    "pnl_pct": 2.025,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-29T15:59:46.636263+00:00"
   },
   {
     "page_id": "3aca5230-de72-81d0-b557-e0db96a73d48",
