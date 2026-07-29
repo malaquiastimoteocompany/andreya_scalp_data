@@ -646419,11 +646419,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004906,
-    "pnl_pct": 1.624,
-    "duracao_min": 14.2,
-    "data_resultado": "2026-07-29T12:10:28.212339+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.005012,
+    "pnl_pct": 0.561,
+    "duracao_min": 24.8,
+    "data_resultado": "2026-07-29T12:21:06.724678+00:00"
   },
   {
     "page_id": "3aca5230-de72-810b-bced-d5db83bd544a",
