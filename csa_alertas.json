@@ -657393,11 +657393,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.004228,
-    "pnl_pct": 0.494,
-    "duracao_min": 3.6,
-    "data_resultado": "2026-07-29T19:58:15.344471+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.00425,
+    "pnl_pct": 0.235,
+    "duracao_min": 97.7,
+    "data_resultado": "2026-07-29T21:32:21.393661+00:00"
   },
   {
     "page_id": "3aca5230-de72-817a-9fa3-fb18a7d2d80d",
