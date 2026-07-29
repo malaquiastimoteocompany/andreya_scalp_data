@@ -652227,7 +652227,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.31538,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.31814,
+    "pnl_pct": 1.219,
+    "duracao_min": 59.6,
+    "data_resultado": "2026-07-29T17:41:38.054207+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a1-b44b-ef5172a1201e",
