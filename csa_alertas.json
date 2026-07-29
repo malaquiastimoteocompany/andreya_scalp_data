@@ -658065,11 +658065,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3961,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3996,
-    "pnl_pct": 1.113,
-    "duracao_min": 76.6,
-    "data_resultado": "2026-07-29T21:29:11.457499+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.4034,
+    "pnl_pct": 1.594,
+    "duracao_min": 105.8,
+    "data_resultado": "2026-07-29T21:58:23.154987+00:00"
   },
   {
     "page_id": "3aca5230-de72-81d6-8d1b-e088c79d25e7",
