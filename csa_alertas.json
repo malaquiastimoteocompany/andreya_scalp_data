@@ -648657,11 +648657,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.078745,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07915,
-    "pnl_pct": 0.355,
-    "duracao_min": 4.1,
-    "data_resultado": "2026-07-29T14:00:38.717098+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.07886,
+    "pnl_pct": 0.171,
+    "duracao_min": 14.1,
+    "data_resultado": "2026-07-29T14:10:38.664218+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a0-b595-deaef4a3258c",
