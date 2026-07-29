@@ -639951,11 +639951,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02784,
-    "pnl_pct": 0.433,
-    "duracao_min": 21.1,
-    "data_resultado": "2026-07-29T06:24:57.056082+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.02794,
+    "pnl_pct": 0.613,
+    "duracao_min": 121.6,
+    "data_resultado": "2026-07-29T08:05:21.328427+00:00"
   },
   {
     "page_id": "3aca5230-de72-813b-859b-dc510d7a9164",
