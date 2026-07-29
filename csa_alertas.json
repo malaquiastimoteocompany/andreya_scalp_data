@@ -641913,7 +641913,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.0362,
+    "pnl_pct": -2.452,
+    "duracao_min": 68.2,
+    "data_resultado": "2026-07-29T09:09:34.626614+00:00"
   },
   {
     "page_id": "3aca5230-de72-81c8-9a9b-d0d3f2204d3d",
