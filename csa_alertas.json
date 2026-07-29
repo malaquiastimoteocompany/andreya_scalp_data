@@ -652327,7 +652327,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.7559,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.7621,
+    "pnl_pct": 0.501,
+    "duracao_min": 17.8,
+    "data_resultado": "2026-07-29T17:04:17.177505+00:00"
   },
   {
     "page_id": "3aca5230-de72-81e9-9f98-c5931210a2d7",
