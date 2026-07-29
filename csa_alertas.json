@@ -630745,11 +630745,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.001825,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.001831,
-    "pnl_pct": 0.439,
-    "duracao_min": 41.8,
-    "data_resultado": "2026-07-28T23:35:20.219591+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.001833,
+    "pnl_pct": 0.494,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-29T00:54:17.278562+00:00"
   },
   {
     "page_id": "3aba5230-de72-81a6-9a8d-f7cc5326cdff",
