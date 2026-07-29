@@ -633407,11 +633407,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3096,
-    "pnl_pct": 4.385,
-    "duracao_min": 13.8,
-    "data_resultado": "2026-07-29T01:14:41.451143+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.32424,
+    "pnl_pct": 2.125,
+    "duracao_min": 54.1,
+    "data_resultado": "2026-07-29T01:55:01.046953+00:00"
   },
   {
     "page_id": "3aca5230-de72-81ea-92ef-fd1bbc0e9cb6",
