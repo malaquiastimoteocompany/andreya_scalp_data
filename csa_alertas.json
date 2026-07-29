@@ -637715,11 +637715,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.120385,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.12134,
-    "pnl_pct": 0.605,
-    "duracao_min": 36.2,
-    "data_resultado": "2026-07-29T04:37:57.256640+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.12265,
+    "pnl_pct": 1.148,
+    "duracao_min": 67.2,
+    "data_resultado": "2026-07-29T05:08:53.381629+00:00"
   },
   {
     "page_id": "3aca5230-de72-81bf-b120-e9018c52b1eb",
