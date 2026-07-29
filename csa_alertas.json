@@ -645459,7 +645459,11 @@
     "estado_cfi": "E2",
     "zona_sr": 2.707,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 2.694,
+    "pnl_pct": 0.185,
+    "duracao_min": 18.2,
+    "data_resultado": "2026-07-29T11:21:30.167307+00:00"
   },
   {
     "page_id": "3aca5230-de72-81d9-bddb-ee5cacdd70c2",
