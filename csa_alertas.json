@@ -642427,11 +642427,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.204275,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2055,
-    "pnl_pct": 0.391,
-    "duracao_min": 43.1,
-    "data_resultado": "2026-07-29T09:06:34.019482+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2066,
+    "pnl_pct": 0.66,
+    "duracao_min": 69.4,
+    "data_resultado": "2026-07-29T09:32:52.880683+00:00"
   },
   {
     "page_id": "3aca5230-de72-81d5-b78a-f168d75784dc",
