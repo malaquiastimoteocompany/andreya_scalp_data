@@ -653001,7 +653001,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.1824,
+    "pnl_pct": 0.718,
+    "duracao_min": 24.1,
+    "data_resultado": "2026-07-29T17:50:46.966215+00:00"
   },
   {
     "page_id": "3aca5230-de72-81dc-b806-ead9956356a7",
