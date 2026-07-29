@@ -656809,11 +656809,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 53.807,
-    "pnl_pct": 0.668,
-    "duracao_min": 34.4,
-    "data_resultado": "2026-07-29T20:16:20.266681+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 53.432,
+    "pnl_pct": 0.317,
+    "duracao_min": 84.0,
+    "data_resultado": "2026-07-29T21:05:59.932623+00:00"
   },
   {
     "page_id": "3aca5230-de72-8182-8a4f-c81a25c5f87d",
