@@ -650075,11 +650075,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 94.01,
-    "pnl_pct": 2.297,
-    "duracao_min": 83.5,
-    "data_resultado": "2026-07-29T16:04:46.533373+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 94.65,
+    "pnl_pct": 1.964,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-29T16:42:36.351297+00:00"
   },
   {
     "page_id": "3aca5230-de72-812c-94b1-c9047de3271d",
