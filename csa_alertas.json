@@ -637431,11 +637431,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.285,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.288,
-    "pnl_pct": 0.39,
-    "duracao_min": 35.3,
-    "data_resultado": "2026-07-29T04:28:42.917624+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.293,
+    "pnl_pct": 0.585,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-29T05:54:22.397063+00:00"
   },
   {
     "page_id": "3aca5230-de72-81c0-be88-c488f5a0748a",
