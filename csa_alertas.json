@@ -645553,7 +645553,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.071895,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.07157,
+    "pnl_pct": -0.028,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-29T13:01:36.204500+00:00"
   },
   {
     "page_id": "3aca5230-de72-8142-8a2c-d3861e794b66",
