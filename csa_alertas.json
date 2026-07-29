@@ -635067,11 +635067,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1212,
-    "pnl_pct": 1.383,
-    "duracao_min": 74.8,
-    "data_resultado": "2026-07-29T03:30:49.669698+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.12087,
+    "pnl_pct": 1.517,
+    "duracao_min": 90.6,
+    "data_resultado": "2026-07-29T03:46:40.110856+00:00"
   },
   {
     "page_id": "3aca5230-de72-819f-a1cb-d3de15a36f21",
