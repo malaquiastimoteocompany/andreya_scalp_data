@@ -650885,11 +650885,11 @@
     "estado_cfi": "E1",
     "zona_sr": 192.995,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 192.8,
-    "pnl_pct": 0.343,
-    "duracao_min": 82.6,
-    "data_resultado": "2026-07-29T17:07:00.566331+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 192.43,
+    "pnl_pct": 0.247,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-29T17:45:35.781177+00:00"
   },
   {
     "page_id": "3aca5230-de72-8159-a1e1-f9c58c03b6f2",
