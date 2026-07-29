@@ -654735,11 +654735,11 @@
     "estado_cfi": "E1",
     "zona_sr": 45.485,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 45.13,
-    "pnl_pct": 0.331,
-    "duracao_min": 58.7,
-    "data_resultado": "2026-07-29T19:33:37.831266+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 44.94,
+    "pnl_pct": 0.541,
+    "duracao_min": 77.1,
+    "data_resultado": "2026-07-29T19:52:00.568206+00:00"
   },
   {
     "page_id": "3aca5230-de72-814c-aff2-e9c3c93065fe",
