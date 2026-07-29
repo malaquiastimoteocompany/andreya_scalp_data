@@ -637789,11 +637789,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06781333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0683,
-    "pnl_pct": 0.323,
-    "duracao_min": 43.7,
-    "data_resultado": "2026-07-29T04:47:00.391001+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.06863,
+    "pnl_pct": 0.566,
+    "duracao_min": 95.8,
+    "data_resultado": "2026-07-29T05:39:07.610680+00:00"
   },
   {
     "page_id": "3aca5230-de72-8146-b38d-c55c4fbeaefe",
