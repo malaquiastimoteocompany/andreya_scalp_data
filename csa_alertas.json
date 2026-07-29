@@ -641772,5 +641772,31 @@
     "zona_sr": 0.042005,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aca5230-de72-81ac-b686-db40ba5926e3",
+    "token": "EDEN",
+    "direccao": "LONG",
+    "preco_alerta": 0.03711,
+    "score": 6,
+    "setup": "N/A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": false,
+    "atr_1h": 0.00053286,
+    "tp1": 0.037323143999999996,
+    "tp2": 0.03764286,
+    "sl": 0.036310709999999996,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 5291325.0,
+    "spread_pct": 0.0005389382915655937,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-29T08:01:15.927736+00:00",
+    "rsi_1h": 21.07,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
