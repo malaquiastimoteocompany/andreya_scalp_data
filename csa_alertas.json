@@ -663683,11 +663683,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.622,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.623,
-    "pnl_pct": 0.558,
-    "duracao_min": 63.2,
-    "data_resultado": "2026-07-30T02:07:58.856697+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.629,
+    "pnl_pct": 0.743,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-30T03:04:59.137161+00:00"
   },
   {
     "page_id": "3ada5230-de72-8115-b744-e40164c876d0",
