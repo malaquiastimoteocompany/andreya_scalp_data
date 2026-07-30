@@ -685539,7 +685539,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 1.0571,
+    "pnl_pct": 1.993,
+    "duracao_min": 53.2,
+    "data_resultado": "2026-07-30T18:58:43.846058+00:00"
   },
   {
     "page_id": "3ada5230-de72-8168-ab42-c55134349dbc",
