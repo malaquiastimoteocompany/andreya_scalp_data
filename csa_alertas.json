@@ -681351,7 +681351,11 @@
     "estado_cfi": "E1",
     "zona_sr": 736.46285714,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 737.21,
+    "pnl_pct": 0.115,
+    "duracao_min": 9.9,
+    "data_resultado": "2026-07-30T15:37:26.098192+00:00"
   },
   {
     "page_id": "3ada5230-de72-8133-bb62-d67a37941372",
