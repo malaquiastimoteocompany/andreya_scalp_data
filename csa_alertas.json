@@ -670841,11 +670841,11 @@
     "estado_cfi": "E1",
     "zona_sr": 97.4,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 98.0,
-    "pnl_pct": 0.792,
-    "duracao_min": 76.1,
-    "data_resultado": "2026-07-30T09:05:44.664787+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 97.55,
+    "pnl_pct": 0.561,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-30T09:50:05.628055+00:00"
   },
   {
     "page_id": "3ada5230-de72-815d-abb1-c8dad169a75a",
