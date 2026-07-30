@@ -664729,11 +664729,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.00521,
-    "pnl_pct": 1.419,
-    "duracao_min": 30.2,
-    "data_resultado": "2026-07-30T02:32:08.495102+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.00502,
+    "pnl_pct": 3.217,
+    "duracao_min": 115.5,
+    "data_resultado": "2026-07-30T03:57:27.002424+00:00"
   },
   {
     "page_id": "3ada5230-de72-8135-ad4e-f7d28f001da9",
