@@ -692145,11 +692145,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.2857,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 2.2599,
-    "pnl_pct": 0.655,
-    "duracao_min": 8.9,
-    "data_resultado": "2026-07-30T23:09:00.350629+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 2.2782,
+    "pnl_pct": 0.253,
+    "duracao_min": 20.5,
+    "data_resultado": "2026-07-30T23:20:36.652851+00:00"
   },
   {
     "page_id": "3ada5230-de72-819d-a190-eb5633f5a57d",
