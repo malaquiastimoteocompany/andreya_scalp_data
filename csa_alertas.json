@@ -668313,11 +668313,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.1897,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.21,
-    "pnl_pct": 0.849,
-    "duracao_min": 43.5,
-    "data_resultado": "2026-07-30T06:25:34.106163+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.1907,
+    "pnl_pct": 0.408,
+    "duracao_min": 72.6,
+    "data_resultado": "2026-07-30T06:54:42.488579+00:00"
   },
   {
     "page_id": "3ada5230-de72-81e2-9a34-fba951e2bea2",
