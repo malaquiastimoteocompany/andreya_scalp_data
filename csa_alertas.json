@@ -663339,7 +663339,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.02603,
+    "pnl_pct": 0.58,
+    "duracao_min": 6.0,
+    "data_resultado": "2026-07-30T01:03:17.192367+00:00"
   },
   {
     "page_id": "3ada5230-de72-817d-936d-f86eb5210d5e",
