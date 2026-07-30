@@ -683979,11 +683979,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.32118333,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3241,
-    "pnl_pct": 0.465,
-    "duracao_min": 9.0,
-    "data_resultado": "2026-07-30T17:17:13.605561+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.3252,
+    "pnl_pct": 0.635,
+    "duracao_min": 16.5,
+    "data_resultado": "2026-07-30T17:24:40.251741+00:00"
   },
   {
     "page_id": "3ada5230-de72-81fd-9e0b-dc235f92f472",
