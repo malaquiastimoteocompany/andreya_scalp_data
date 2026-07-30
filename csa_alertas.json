@@ -679859,11 +679859,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.20853333,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2074,
-    "pnl_pct": 0.288,
-    "duracao_min": 7.1,
-    "data_resultado": "2026-07-30T14:38:33.782823+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.2064,
+    "pnl_pct": 0.529,
+    "duracao_min": 59.8,
+    "data_resultado": "2026-07-30T15:31:11.054492+00:00"
   },
   {
     "page_id": "3ada5230-de72-8108-9269-fff78e8df561",
