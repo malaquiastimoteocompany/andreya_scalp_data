@@ -672035,11 +672035,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.00852,
-    "pnl_pct": 1.377,
-    "duracao_min": 67.7,
-    "data_resultado": "2026-07-30T10:27:32.827968+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.008408,
+    "pnl_pct": 2.026,
+    "duracao_min": 87.6,
+    "data_resultado": "2026-07-30T10:47:29.509782+00:00"
   },
   {
     "page_id": "3ada5230-de72-8159-abb2-c9f79ca725cd",
