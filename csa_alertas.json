@@ -681863,7 +681863,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 15.93,
+    "pnl_pct": -3.982,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-30T17:40:47.959492+00:00"
   },
   {
     "page_id": "3ada5230-de72-81e1-89a4-cfe41a6a1254",
