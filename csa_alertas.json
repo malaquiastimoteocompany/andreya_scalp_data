@@ -684349,7 +684349,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 10.07,
+    "pnl_pct": 2.233,
+    "duracao_min": 32.9,
+    "data_resultado": "2026-07-30T17:55:33.073386+00:00"
   },
   {
     "page_id": "3ada5230-de72-81d0-9f0e-c9af18f6ca0c",
