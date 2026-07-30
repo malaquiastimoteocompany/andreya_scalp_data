@@ -665729,11 +665729,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02017,
-    "pnl_pct": 0.85,
-    "duracao_min": 2.2,
-    "data_resultado": "2026-07-30T03:17:16.295853+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.02028,
+    "pnl_pct": 1.125,
+    "duracao_min": 23.9,
+    "data_resultado": "2026-07-30T03:38:57.717359+00:00"
   },
   {
     "page_id": "3ada5230-de72-81cf-9a26-d36f6b71d7b1",
