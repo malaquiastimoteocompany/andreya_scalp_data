@@ -661569,11 +661569,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 29.67,
-    "pnl_pct": 0.542,
-    "duracao_min": 35.9,
-    "data_resultado": "2026-07-29T23:55:37.747501+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 29.51,
+    "pnl_pct": 0.271,
+    "duracao_min": 64.5,
+    "data_resultado": "2026-07-30T00:24:13.222512+00:00"
   },
   {
     "page_id": "3aca5230-de72-81e1-a5c4-c0a5fae23f61",
