@@ -686363,7 +686363,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03857429,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.03906,
+    "pnl_pct": 0.852,
+    "duracao_min": 85.5,
+    "data_resultado": "2026-07-30T19:56:16.227739+00:00"
   },
   {
     "page_id": "3ada5230-de72-817c-a426-c48e30d601f2",
