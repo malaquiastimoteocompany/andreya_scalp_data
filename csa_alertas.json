@@ -673073,11 +673073,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.6705,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.657,
-    "pnl_pct": 0.48,
-    "duracao_min": 6.1,
-    "data_resultado": "2026-07-30T10:13:37.596328+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.649,
+    "pnl_pct": 0.721,
+    "duracao_min": 54.3,
+    "data_resultado": "2026-07-30T11:01:49.166812+00:00"
   },
   {
     "page_id": "3ada5230-de72-8192-bd58-dbfc2923f9c4",
