@@ -662879,7 +662879,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.2025,
+    "pnl_pct": 2.324,
+    "duracao_min": 80.1,
+    "data_resultado": "2026-07-30T01:47:21.504344+00:00"
   },
   {
     "page_id": "3ada5230-de72-812e-9aa1-d851cb06d616",
