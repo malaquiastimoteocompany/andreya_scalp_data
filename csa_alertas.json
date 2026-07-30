@@ -687143,11 +687143,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 742.03,
-    "pnl_pct": 0.114,
-    "duracao_min": 38.5,
-    "data_resultado": "2026-07-30T19:51:29.872039+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 742.91,
+    "pnl_pct": 0.055,
+    "duracao_min": 46.8,
+    "data_resultado": "2026-07-30T19:59:46.797130+00:00"
   },
   {
     "page_id": "3ada5230-de72-819d-b8b9-eb1539659709",
