@@ -682399,7 +682399,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 4.409,
+    "pnl_pct": -0.433,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-30T18:11:12.311190+00:00"
   },
   {
     "page_id": "3ada5230-de72-8107-962c-e15b8d906f67",
