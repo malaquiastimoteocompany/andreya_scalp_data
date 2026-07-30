@@ -679979,11 +679979,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 14.94,
-    "pnl_pct": 2.225,
-    "duracao_min": 22.3,
-    "data_resultado": "2026-07-30T14:57:17.123914+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 15.29,
+    "pnl_pct": 1.08,
+    "duracao_min": 62.1,
+    "data_resultado": "2026-07-30T15:36:59.514431+00:00"
   },
   {
     "page_id": "3ada5230-de72-8128-aa42-c8c573ac05b2",
