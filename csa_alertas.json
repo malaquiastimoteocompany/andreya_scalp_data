@@ -669774,5 +669774,31 @@
     "zona_sr": 0.0019045,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3ada5230-de72-81da-be29-eab7f5a1f512",
+    "token": "LYN",
+    "direccao": "SHORT",
+    "preco_alerta": 0.03475,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00039571,
+    "tp1": 0.034591716,
+    "tp2": 0.03435429,
+    "sl": 0.035343565,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 5024902.0,
+    "spread_pct": 0.0008636821649633581,
+    "oi_usd": 683001.6937500001,
+    "data_alerta": "2026-07-30T07:10:01.122854+00:00",
+    "rsi_1h": 58.29,
+    "funding_rate": 0.0186,
+    "estado_cfi": "E1",
+    "zona_sr": 0.034785,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
