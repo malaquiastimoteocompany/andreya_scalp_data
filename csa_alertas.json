@@ -670155,11 +670155,11 @@
     "estado_cfi": "E1",
     "zona_sr": 43.55,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 44.42,
-    "pnl_pct": 1.555,
-    "duracao_min": 113.1,
-    "data_resultado": "2026-07-30T09:15:13.166407+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 44.4,
+    "pnl_pct": 1.532,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-30T09:22:14.361108+00:00"
   },
   {
     "page_id": "3ada5230-de72-810c-a140-d222ef8733bc",
