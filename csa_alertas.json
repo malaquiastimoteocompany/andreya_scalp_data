@@ -669789,7 +669789,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.68602,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.6862,
+    "pnl_pct": 0.483,
+    "duracao_min": 90.3,
+    "data_resultado": "2026-07-30T08:34:49.459662+00:00"
   },
   {
     "page_id": "3ada5230-de72-8119-8cf8-dde8bebc8d23",
