@@ -661973,7 +661973,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.764975,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.7716,
+    "pnl_pct": -1.101,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-30T01:54:50.365420+00:00"
   },
   {
     "page_id": "3aca5230-de72-8179-b9c2-e55625358c88",
