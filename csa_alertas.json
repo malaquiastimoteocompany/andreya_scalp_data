@@ -678601,7 +678601,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.6936,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "BE Hit",
+    "preco_saida": 0.6953,
+    "pnl_pct": 0.065,
+    "duracao_min": 8.3,
+    "data_resultado": "2026-07-30T14:08:35.286453+00:00"
   },
   {
     "page_id": "3ada5230-de72-81a9-a18c-f00c725ff4b2",
