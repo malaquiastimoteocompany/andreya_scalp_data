@@ -672323,7 +672323,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.13986667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.14,
+    "pnl_pct": 0.575,
+    "duracao_min": 26.0,
+    "data_resultado": "2026-07-30T10:01:15.716198+00:00"
   },
   {
     "page_id": "3ada5230-de72-8156-8cec-e1e2a49e0395",
