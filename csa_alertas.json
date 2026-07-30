@@ -690171,7 +690171,11 @@
     "estado_cfi": "E1",
     "zona_sr": 45.51833333,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 45.68,
+    "pnl_pct": -0.044,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-30T23:18:38.461882+00:00"
   },
   {
     "page_id": "3ada5230-de72-81f2-908b-ccee75ee2dee",
