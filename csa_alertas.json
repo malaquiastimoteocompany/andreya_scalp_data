@@ -665889,11 +665889,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 3.503,
-    "pnl_pct": 3.029,
-    "duracao_min": 38.2,
-    "data_resultado": "2026-07-30T04:00:17.508326+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.395,
+    "pnl_pct": 1.441,
+    "duracao_min": 49.0,
+    "data_resultado": "2026-07-30T04:11:06.389437+00:00"
   },
   {
     "page_id": "3ada5230-de72-815d-9171-f3372611e126",
