@@ -668985,11 +668985,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01281,
-    "pnl_pct": 0.471,
-    "duracao_min": 27.8,
-    "data_resultado": "2026-07-30T06:42:18.227959+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.01278,
+    "pnl_pct": 0.353,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-30T08:15:29.435224+00:00"
   },
   {
     "page_id": "3ada5230-de72-81fc-a0b4-f6cd898fcf13",
