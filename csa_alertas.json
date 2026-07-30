@@ -679703,11 +679703,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04135333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04126,
-    "pnl_pct": 0.314,
-    "duracao_min": 44.5,
-    "data_resultado": "2026-07-30T15:12:07.199819+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.04108,
+    "pnl_pct": 0.532,
+    "duracao_min": 115.9,
+    "data_resultado": "2026-07-30T16:23:31.351511+00:00"
   },
   {
     "page_id": "3ada5230-de72-81a8-a737-cb1197715c3f",
