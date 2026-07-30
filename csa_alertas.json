@@ -685207,11 +685207,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2386,
-    "pnl_pct": 1.568,
-    "duracao_min": 14.1,
-    "data_resultado": "2026-07-30T18:11:58.766284+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.2426,
+    "pnl_pct": 0.743,
+    "duracao_min": 23.7,
+    "data_resultado": "2026-07-30T18:21:35.204159+00:00"
   },
   {
     "page_id": "3ada5230-de72-810e-900b-cbea03bb018d",
