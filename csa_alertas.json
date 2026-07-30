@@ -666225,7 +666225,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00431733,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.004278,
+    "pnl_pct": 0.442,
+    "duracao_min": 57.0,
+    "data_resultado": "2026-07-30T04:39:24.720969+00:00"
   },
   {
     "page_id": "3ada5230-de72-81f9-9983-ebac5e2395a1",
