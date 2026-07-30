@@ -675517,11 +675517,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02515,
-    "pnl_pct": 0.945,
-    "duracao_min": 16.3,
-    "data_resultado": "2026-07-30T12:18:20.681685+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0254,
+    "pnl_pct": 0.453,
+    "duracao_min": 52.6,
+    "data_resultado": "2026-07-30T12:54:41.813681+00:00"
   },
   {
     "page_id": "3ada5230-de72-817b-a434-ed2e73f11cf7",
