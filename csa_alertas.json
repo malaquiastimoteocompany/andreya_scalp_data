@@ -668475,11 +668475,11 @@
     "estado_cfi": "E1",
     "zona_sr": 96.215,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 96.91,
-    "pnl_pct": 0.623,
-    "duracao_min": 119.2,
-    "data_resultado": "2026-07-30T07:46:12.097333+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 97.12,
+    "pnl_pct": 0.732,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-30T07:47:37.047969+00:00"
   },
   {
     "page_id": "3ada5230-de72-8164-9957-c9bcea2555f7",
