@@ -662573,7 +662573,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06746333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.06687,
+    "pnl_pct": 0.654,
+    "duracao_min": 24.2,
+    "data_resultado": "2026-07-30T00:41:18.565587+00:00"
   },
   {
     "page_id": "3ada5230-de72-81ad-a3d5-d51e291af37d",
