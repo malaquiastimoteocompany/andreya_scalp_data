@@ -680427,11 +680427,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.08246667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 1.0902,
-    "pnl_pct": 0.276,
-    "duracao_min": 10.3,
-    "data_resultado": "2026-07-30T15:10:27.770927+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.0935,
+    "pnl_pct": 0.428,
+    "duracao_min": 37.1,
+    "data_resultado": "2026-07-30T15:37:09.963077+00:00"
   },
   {
     "page_id": "3ada5230-de72-8174-a37a-de1b9d9a220d",
