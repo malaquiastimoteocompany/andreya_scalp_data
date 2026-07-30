@@ -669377,11 +669377,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07518,
-    "pnl_pct": 0.845,
-    "duracao_min": 53.8,
-    "data_resultado": "2026-07-30T07:43:19.429260+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07455,
+    "pnl_pct": 0.423,
+    "duracao_min": 79.4,
+    "data_resultado": "2026-07-30T08:08:58.566797+00:00"
   },
   {
     "page_id": "3ada5230-de72-811a-b563-f33f24cac7c8",
