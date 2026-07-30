@@ -690677,11 +690677,11 @@
     "estado_cfi": "E1",
     "zona_sr": 99.40333333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 99.56,
-    "pnl_pct": 0.454,
-    "duracao_min": 68.8,
-    "data_resultado": "2026-07-30T22:46:21.292881+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 99.98,
+    "pnl_pct": 0.666,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-30T23:38:22.649890+00:00"
   },
   {
     "page_id": "3ada5230-de72-8111-adbe-fe5398bf3d1e",
