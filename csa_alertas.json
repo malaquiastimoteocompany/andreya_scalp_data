@@ -686779,11 +686779,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 3.165,
-    "pnl_pct": 0.508,
-    "duracao_min": 4.5,
-    "data_resultado": "2026-07-30T19:07:25.829226+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 3.19,
+    "pnl_pct": 0.905,
+    "duracao_min": 69.5,
+    "data_resultado": "2026-07-30T20:12:24.260322+00:00"
   },
   {
     "page_id": "3ada5230-de72-8105-b887-ee11931d20ac",
