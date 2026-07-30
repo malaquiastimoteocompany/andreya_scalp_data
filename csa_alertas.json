@@ -691599,11 +691599,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00350167,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.003529,
-    "pnl_pct": 0.398,
-    "duracao_min": 24.6,
-    "data_resultado": "2026-07-30T22:49:38.075950+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.003564,
+    "pnl_pct": 0.896,
+    "duracao_min": 38.9,
+    "data_resultado": "2026-07-30T23:03:58.574047+00:00"
   },
   {
     "page_id": "3ada5230-de72-8126-8824-caa78a04e84e",
