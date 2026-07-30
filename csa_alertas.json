@@ -689843,7 +689843,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.06403,
+    "pnl_pct": 0.851,
+    "duracao_min": 90.4,
+    "data_resultado": "2026-07-30T22:35:24.031689+00:00"
   },
   {
     "page_id": "3ada5230-de72-81d8-b80a-f317ff1a65c0",
