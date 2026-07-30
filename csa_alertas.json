@@ -674513,7 +674513,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00582533,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.005842,
+    "pnl_pct": 0.344,
+    "duracao_min": 37.3,
+    "data_resultado": "2026-07-30T11:51:48.360159+00:00"
   },
   {
     "page_id": "3ada5230-de72-81ab-a85f-db18b4c591ba",
