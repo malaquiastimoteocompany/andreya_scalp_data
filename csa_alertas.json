@@ -667861,11 +667861,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.622,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.626,
-    "pnl_pct": 0.494,
-    "duracao_min": 20.7,
-    "data_resultado": "2026-07-30T05:30:33.573480+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.637,
+    "pnl_pct": 0.834,
+    "duracao_min": 55.7,
+    "data_resultado": "2026-07-30T06:05:27.998906+00:00"
   },
   {
     "page_id": "3ada5230-de72-81cf-88ce-f6ec53cb4025",
