@@ -667663,7 +667663,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00582533,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.005837,
+    "pnl_pct": 0.638,
+    "duracao_min": 27.1,
+    "data_resultado": "2026-07-30T05:34:04.969749+00:00"
   },
   {
     "page_id": "3ada5230-de72-817c-8a8e-de65fd118629",
