@@ -690201,11 +690201,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.77116,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.7727,
-    "pnl_pct": 0.258,
-    "duracao_min": 41.5,
-    "data_resultado": "2026-07-30T22:01:30.247965+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.7704,
+    "pnl_pct": 0.407,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-30T23:20:06.260982+00:00"
   },
   {
     "page_id": "3ada5230-de72-8175-82f9-e04f51667955",
