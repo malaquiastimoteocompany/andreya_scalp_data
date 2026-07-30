@@ -666783,11 +666783,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.20935,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.2082,
-    "pnl_pct": 0.526,
-    "duracao_min": 11.9,
-    "data_resultado": "2026-07-30T04:31:25.288472+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2093,
+    "pnl_pct": 0.263,
+    "duracao_min": 70.7,
+    "data_resultado": "2026-07-30T05:30:10.157348+00:00"
   },
   {
     "page_id": "3ada5230-de72-81d6-a299-d4c49d4f81da",
