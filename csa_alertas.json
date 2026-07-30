@@ -663413,11 +663413,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.321125,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3235,
-    "pnl_pct": 0.591,
-    "duracao_min": 40.6,
-    "data_resultado": "2026-07-30T01:32:46.792016+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.3229,
+    "pnl_pct": 0.498,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-30T02:52:22.026583+00:00"
   },
   {
     "page_id": "3ada5230-de72-81ec-bf0f-f2cf293e031d",
