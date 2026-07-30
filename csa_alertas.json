@@ -667833,11 +667833,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0083855,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.008513,
-    "pnl_pct": 1.117,
-    "duracao_min": 4.1,
-    "data_resultado": "2026-07-30T05:28:49.412656+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.008376,
+    "pnl_pct": 0.303,
+    "duracao_min": 7.3,
+    "data_resultado": "2026-07-30T05:31:57.451228+00:00"
   },
   {
     "page_id": "3ada5230-de72-812f-9c4a-d5a212c82c39",
