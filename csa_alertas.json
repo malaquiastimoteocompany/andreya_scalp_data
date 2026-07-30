@@ -669335,7 +669335,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.40516667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "BE Hit",
+    "preco_saida": 0.4064,
+    "pnl_pct": 0.258,
+    "duracao_min": 29.3,
+    "data_resultado": "2026-07-30T07:19:15.279715+00:00"
   },
   {
     "page_id": "3ada5230-de72-81ad-99f6-cd02c1a375b9",
