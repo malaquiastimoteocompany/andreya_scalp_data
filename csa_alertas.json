@@ -665357,7 +665357,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.33144,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.333,
+    "pnl_pct": 0.36,
+    "duracao_min": 48.1,
+    "data_resultado": "2026-07-30T03:40:29.665196+00:00"
   },
   {
     "page_id": "3ada5230-de72-816c-9fa0-eb488da58b60",
