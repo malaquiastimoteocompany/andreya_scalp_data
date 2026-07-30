@@ -679325,11 +679325,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3734,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3747,
-    "pnl_pct": 0.699,
-    "duracao_min": 52.1,
-    "data_resultado": "2026-07-30T15:09:50.719421+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3721,
+    "pnl_pct": 0.349,
+    "duracao_min": 73.2,
+    "data_resultado": "2026-07-30T15:30:58.681199+00:00"
   },
   {
     "page_id": "3ada5230-de72-81d6-bd49-c93eba217fe6",
