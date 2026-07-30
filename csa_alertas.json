@@ -681713,11 +681713,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.123455,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.12258,
-    "pnl_pct": 0.398,
-    "duracao_min": 96.3,
-    "data_resultado": "2026-07-30T17:09:40.268276+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.1225,
+    "pnl_pct": 0.431,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-30T17:34:38.671969+00:00"
   },
   {
     "page_id": "3ada5230-de72-818f-8144-fbf81926c011",
