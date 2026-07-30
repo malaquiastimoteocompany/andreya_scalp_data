@@ -685873,7 +685873,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "BE Tardio",
+    "preco_saida": 4.412,
+    "pnl_pct": 0.329,
+    "duracao_min": 68.1,
+    "data_resultado": "2026-07-30T19:23:00.252044+00:00"
   },
   {
     "page_id": "3ada5230-de72-8192-bca9-ebbbfe27a10c",
