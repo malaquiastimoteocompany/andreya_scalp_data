@@ -663353,11 +663353,11 @@
     "estado_cfi": "E1",
     "zona_sr": 54.025,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 54.248,
-    "pnl_pct": 0.769,
-    "duracao_min": 18.0,
-    "data_resultado": "2026-07-30T01:05:20.428723+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 54.125,
+    "pnl_pct": 0.655,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-30T02:48:13.795645+00:00"
   },
   {
     "page_id": "3ada5230-de72-81bf-8a5d-f03c98f3b742",
