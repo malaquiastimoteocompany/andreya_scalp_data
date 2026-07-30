@@ -670751,11 +670751,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07877333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07948,
-    "pnl_pct": 0.544,
-    "duracao_min": 50.0,
-    "data_resultado": "2026-07-30T08:32:14.953743+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.07924,
+    "pnl_pct": 0.392,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-30T09:42:31.076937+00:00"
   },
   {
     "page_id": "3ada5230-de72-81b5-8c02-c92455ddfd34",
