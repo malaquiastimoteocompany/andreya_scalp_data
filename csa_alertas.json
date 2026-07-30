@@ -689893,11 +689893,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00611,
-    "pnl_pct": 0.667,
-    "duracao_min": 0.8,
-    "data_resultado": "2026-07-30T21:13:34.066475+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.006074,
+    "pnl_pct": 0.959,
+    "duracao_min": 11.1,
+    "data_resultado": "2026-07-30T21:23:48.255514+00:00"
   },
   {
     "page_id": "3ada5230-de72-8126-b756-dc6cc14e8b2b",
