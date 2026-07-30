@@ -665179,7 +665179,11 @@
     "estado_cfi": "E1",
     "zona_sr": 192.995,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 191.78,
+    "pnl_pct": -0.213,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-30T04:29:45.316404+00:00"
   },
   {
     "page_id": "3ada5230-de72-8195-8081-d69f670c1bc3",
