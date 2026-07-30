@@ -685308,5 +685308,31 @@
     "zona_sr": 0.003848,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3ada5230-de72-8163-987e-d941923843b2",
+    "token": "BANK",
+    "direccao": "LONG",
+    "preco_alerta": 0.06939,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.01602071,
+    "tp1": 0.075798284,
+    "tp2": 0.08541071,
+    "sl": 0.04535893499999999,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 7257861.0,
+    "spread_pct": 0.00014391595308334352,
+    "oi_usd": 2675790.8000000003,
+    "data_alerta": "2026-07-30T18:03:04.604278+00:00",
+    "rsi_1h": 27.16,
+    "funding_rate": -0.114,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
