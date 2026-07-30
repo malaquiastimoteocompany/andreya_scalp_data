@@ -668583,11 +668583,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.30866667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.31183,
-    "pnl_pct": 0.939,
-    "duracao_min": 19.1,
-    "data_resultado": "2026-07-30T06:16:53.058009+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.30866,
+    "pnl_pct": 0.426,
+    "duracao_min": 63.1,
+    "data_resultado": "2026-07-30T07:00:53.694536+00:00"
   },
   {
     "page_id": "3ada5230-de72-8180-b905-cc118399d579",
