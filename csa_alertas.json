@@ -688083,7 +688083,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0059575,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.006058,
+    "pnl_pct": -1.254,
+    "duracao_min": 35.9,
+    "data_resultado": "2026-07-30T20:28:31.831557+00:00"
   },
   {
     "page_id": "3ada5230-de72-81de-b1e4-f2b4b933864f",
