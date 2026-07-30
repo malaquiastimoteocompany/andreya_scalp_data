@@ -688159,11 +688159,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2571,
-    "pnl_pct": 1.945,
-    "duracao_min": 44.2,
-    "data_resultado": "2026-07-30T20:39:15.560063+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2623,
+    "pnl_pct": 0.953,
+    "duracao_min": 45.8,
+    "data_resultado": "2026-07-30T20:40:49.965642+00:00"
   },
   {
     "page_id": "3ada5230-de72-8196-b649-e21659298f88",
