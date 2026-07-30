@@ -675377,11 +675377,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.40452,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.4067,
-    "pnl_pct": 0.693,
-    "duracao_min": 121.5,
-    "data_resultado": "2026-07-30T13:54:05.782413+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.4062,
+    "pnl_pct": 0.631,
+    "duracao_min": 124.3,
+    "data_resultado": "2026-07-30T13:56:58.067764+00:00"
   },
   {
     "page_id": "3ada5230-de72-8170-a05c-ebf808e0a30a",
