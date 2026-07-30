@@ -662359,11 +662359,11 @@
     "estado_cfi": "E1",
     "zona_sr": 4.67e-06,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 4.626e-06,
-    "pnl_pct": 0.708,
-    "duracao_min": 26.5,
-    "data_resultado": "2026-07-30T00:38:30.344923+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 4.66e-06,
+    "pnl_pct": 0.343,
+    "duracao_min": 49.3,
+    "data_resultado": "2026-07-30T01:01:16.136352+00:00"
   },
   {
     "page_id": "3ada5230-de72-8152-9933-e2e8bd2f39e4",
