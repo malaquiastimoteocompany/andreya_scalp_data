@@ -687843,7 +687843,11 @@
     "estado_cfi": "E1",
     "zona_sr": 99.40333333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 99.1,
+    "pnl_pct": -0.801,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-30T21:35:57.346510+00:00"
   },
   {
     "page_id": "3ada5230-de72-81a8-bd52-e691924f17a7",
