@@ -661013,7 +661013,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05543,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.05612,
+    "pnl_pct": -0.935,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-30T00:42:29.829538+00:00"
   },
   {
     "page_id": "3aca5230-de72-8128-a1f8-e479d23c2755",
