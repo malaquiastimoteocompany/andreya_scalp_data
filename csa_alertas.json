@@ -661553,11 +661553,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.089435,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08642,
-    "pnl_pct": 3.225,
-    "duracao_min": 109.8,
-    "data_resultado": "2026-07-30T01:04:33.082696+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.08677,
+    "pnl_pct": 3.029,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-30T01:14:57.399130+00:00"
   },
   {
     "page_id": "3aca5230-de72-8135-879a-ce21779fea3c",
