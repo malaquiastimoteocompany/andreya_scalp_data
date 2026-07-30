@@ -668527,11 +668527,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.079445,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07867,
-    "pnl_pct": 0.581,
-    "duracao_min": 27.0,
-    "data_resultado": "2026-07-30T06:21:33.718722+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07915,
+    "pnl_pct": 0.278,
+    "duracao_min": 105.7,
+    "data_resultado": "2026-07-30T07:40:10.388397+00:00"
   },
   {
     "page_id": "3ada5230-de72-8184-8bff-c8ecb91e5c2b",
