@@ -668251,7 +668251,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02744,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.02716,
+    "pnl_pct": 1.451,
+    "duracao_min": 19.1,
+    "data_resultado": "2026-07-30T06:03:38.121900+00:00"
   },
   {
     "page_id": "3ada5230-de72-8167-bdd3-f23f06c71769",
