@@ -662993,11 +662993,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.042005,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04201,
-    "pnl_pct": 0.43,
-    "duracao_min": 59.2,
-    "data_resultado": "2026-07-30T01:29:04.626649+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04203,
+    "pnl_pct": 0.454,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-30T02:30:33.657140+00:00"
   },
   {
     "page_id": "3ada5230-de72-817e-a6d5-eda40152ee10",
