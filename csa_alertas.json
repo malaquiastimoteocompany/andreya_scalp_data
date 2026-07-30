@@ -688023,7 +688023,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.09163333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 1.0841,
+    "pnl_pct": 0.354,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-30T21:45:46.500066+00:00"
   },
   {
     "page_id": "3ada5230-de72-8118-8c13-db52c40dd58f",
