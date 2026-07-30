@@ -674367,11 +674367,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0105975,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01064,
-    "pnl_pct": 0.567,
-    "duracao_min": 72.8,
-    "data_resultado": "2026-07-30T12:17:56.347480+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01068,
+    "pnl_pct": 0.756,
+    "duracao_min": 102.2,
+    "data_resultado": "2026-07-30T12:47:18.960388+00:00"
   },
   {
     "page_id": "3ada5230-de72-81d1-aefd-e5235ecab244",
