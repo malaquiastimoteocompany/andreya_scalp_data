@@ -671855,11 +671855,11 @@
     "estado_cfi": "E1",
     "zona_sr": 54.025,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 54.069,
-    "pnl_pct": 0.323,
-    "duracao_min": 15.5,
-    "data_resultado": "2026-07-30T09:22:57.180986+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 53.834,
+    "pnl_pct": 0.105,
+    "duracao_min": 90.2,
+    "data_resultado": "2026-07-30T10:37:36.769718+00:00"
   },
   {
     "page_id": "3ada5230-de72-81e2-99af-e0d0dca3df54",
