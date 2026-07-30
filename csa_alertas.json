@@ -676277,7 +676277,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00582533,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.005854,
+    "pnl_pct": 0.429,
+    "duracao_min": 71.3,
+    "data_resultado": "2026-07-30T13:46:21.489149+00:00"
   },
   {
     "page_id": "3ada5230-de72-8163-a9c5-d9702f021bc6",
