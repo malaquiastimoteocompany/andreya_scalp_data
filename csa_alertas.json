@@ -678140,5 +678140,31 @@
     "zona_sr": 194.06,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3ada5230-de72-81ce-ac46-cae78320c467",
+    "token": "ENA",
+    "direccao": "LONG",
+    "preco_alerta": 0.08177,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00097643,
+    "tp1": 0.082160572,
+    "tp2": 0.08274643,
+    "sl": 0.080305355,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 19258079.0,
+    "spread_pct": 0.00012230171833909525,
+    "oi_usd": 8709959.4582,
+    "data_alerta": "2026-07-30T13:50:33.192417+00:00",
+    "rsi_1h": 64.35,
+    "funding_rate": 0.0048,
+    "estado_cfi": "E1",
+    "zona_sr": 0.08175,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
