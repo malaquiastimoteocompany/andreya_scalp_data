@@ -687453,11 +687453,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.172716,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.17232,
-    "pnl_pct": 0.255,
-    "duracao_min": 71.7,
-    "data_resultado": "2026-07-30T20:32:01.319080+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.17214,
+    "pnl_pct": 0.307,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-30T21:21:30.196522+00:00"
   },
   {
     "page_id": "3ada5230-de72-8162-8f8c-c8925a980276",
