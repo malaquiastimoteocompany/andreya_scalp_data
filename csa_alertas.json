@@ -690647,11 +690647,11 @@
     "estado_cfi": "E1",
     "zona_sr": 742.05076923,
     "toques_sr": 13,
-    "resultado": "TP Hit",
-    "preco_saida": 743.12,
-    "pnl_pct": 0.133,
-    "duracao_min": 28.2,
-    "data_resultado": "2026-07-30T22:03:08.475955+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 743.82,
+    "pnl_pct": 0.181,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-30T23:36:09.595012+00:00"
   },
   {
     "page_id": "3ada5230-de72-81d4-ab76-e6d30c028ae8",
