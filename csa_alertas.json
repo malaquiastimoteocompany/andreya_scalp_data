@@ -673125,11 +673125,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08377,
-    "pnl_pct": 0.981,
-    "duracao_min": 4.1,
-    "data_resultado": "2026-07-30T10:13:45.475561+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.08307,
+    "pnl_pct": 1.395,
+    "duracao_min": 43.2,
+    "data_resultado": "2026-07-30T10:52:53.212012+00:00"
   },
   {
     "page_id": "3ada5230-de72-818c-92b6-ff029b9dedde",
