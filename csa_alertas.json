@@ -685269,11 +685269,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3257,
-    "pnl_pct": 0.61,
-    "duracao_min": 18.3,
-    "data_resultado": "2026-07-30T18:16:20.778174+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.3277,
+    "pnl_pct": 0.305,
+    "duracao_min": 44.8,
+    "data_resultado": "2026-07-30T18:42:50.621456+00:00"
   },
   {
     "page_id": "3ada5230-de72-81f7-95fd-dc8a023ea892",
