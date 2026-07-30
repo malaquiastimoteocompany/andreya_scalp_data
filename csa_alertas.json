@@ -686883,7 +686883,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.031505,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.03164,
+    "pnl_pct": 0.063,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-30T21:04:30.119736+00:00"
   },
   {
     "page_id": "3ada5230-de72-8108-ba97-f2c20b824d3a",
