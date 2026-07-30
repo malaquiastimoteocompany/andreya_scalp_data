@@ -679885,11 +679885,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06832,
-    "pnl_pct": 0.22,
-    "duracao_min": 19.0,
-    "data_resultado": "2026-07-30T14:51:46.996821+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.06811,
+    "pnl_pct": 0.066,
+    "duracao_min": 24.3,
+    "data_resultado": "2026-07-30T14:57:09.271178+00:00"
   },
   {
     "page_id": "3ada5230-de72-81fa-98aa-cac42004efed",
