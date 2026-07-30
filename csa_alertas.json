@@ -665629,7 +665629,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.005279,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.005253,
+    "pnl_pct": -0.209,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-30T05:02:22.978878+00:00"
   },
   {
     "page_id": "3ada5230-de72-8166-8f1d-e601e197f17e",
