@@ -684693,7 +684693,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.02152,
+    "pnl_pct": 0.416,
+    "duracao_min": 3.1,
+    "data_resultado": "2026-07-30T17:38:11.577631+00:00"
   },
   {
     "page_id": "3ada5230-de72-818d-a9c9-de1880d6d8e9",
