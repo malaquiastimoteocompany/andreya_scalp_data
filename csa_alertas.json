@@ -663551,7 +663551,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.005339,
+    "pnl_pct": -5.326,
+    "duracao_min": 34.1,
+    "data_resultado": "2026-07-30T01:36:01.482521+00:00"
   },
   {
     "page_id": "3ada5230-de72-8196-921e-e0c8a9efc0a0",
