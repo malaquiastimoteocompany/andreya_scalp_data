@@ -687693,11 +687693,11 @@
     "estado_cfi": "E1",
     "zona_sr": 8.495,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 8.471,
-    "pnl_pct": 0.329,
-    "duracao_min": 42.5,
-    "data_resultado": "2026-07-30T20:12:37.722089+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 8.47,
+    "pnl_pct": 0.335,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-30T21:31:11.588912+00:00"
   },
   {
     "page_id": "3ada5230-de72-8138-b185-dba6be675fe1",
