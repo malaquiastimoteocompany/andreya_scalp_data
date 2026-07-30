@@ -676235,11 +676235,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1087,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1092,
-    "pnl_pct": 0.738,
-    "duracao_min": 80.3,
-    "data_resultado": "2026-07-30T13:50:40.850968+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1083,
+    "pnl_pct": 0.323,
+    "duracao_min": 108.8,
+    "data_resultado": "2026-07-30T14:19:08.619283+00:00"
   },
   {
     "page_id": "3ada5230-de72-8124-9321-d43adbc34501",
