@@ -677583,11 +677583,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.172716,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.17213,
-    "pnl_pct": 0.238,
-    "duracao_min": 5.2,
-    "data_resultado": "2026-07-30T13:36:07.704416+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.17275,
+    "pnl_pct": 0.058,
+    "duracao_min": 13.1,
+    "data_resultado": "2026-07-30T13:44:02.229479+00:00"
   },
   {
     "page_id": "3ada5230-de72-81da-9439-dcf7216861fc",
