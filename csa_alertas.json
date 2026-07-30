@@ -664145,7 +664145,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.481,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 6.486,
+    "pnl_pct": 0.434,
+    "duracao_min": 10.6,
+    "data_resultado": "2026-07-30T01:47:53.436234+00:00"
   },
   {
     "page_id": "3ada5230-de72-81f1-8798-f6f5af4e60cb",
