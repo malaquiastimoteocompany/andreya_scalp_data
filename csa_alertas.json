@@ -665149,7 +665149,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.071895,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.07186,
+    "pnl_pct": -0.333,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-30T04:25:54.006682+00:00"
   },
   {
     "page_id": "3ada5230-de72-8167-b8bc-cd9b2f9f02d8",
