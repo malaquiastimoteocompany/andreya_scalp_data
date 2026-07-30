@@ -673594,5 +673594,31 @@
     "zona_sr": 1.28266667,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3ada5230-de72-81bb-b237-e6cd416f4bd2",
+    "token": "HYPE",
+    "direccao": "LONG",
+    "preco_alerta": 53.856,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.40121429,
+    "tp1": 54.016485716,
+    "tp2": 54.25721429,
+    "sl": 53.254178565000004,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 33035001.0,
+    "spread_pct": 1.8568205661534568e-05,
+    "oi_usd": 45451120.982,
+    "data_alerta": "2026-07-30T10:39:22.492943+00:00",
+    "rsi_1h": 44.39,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 54.025,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
