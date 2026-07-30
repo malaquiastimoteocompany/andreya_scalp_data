@@ -687123,11 +687123,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0025565,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.002589,
-    "pnl_pct": 0.818,
-    "duracao_min": 56.7,
-    "data_resultado": "2026-07-30T20:07:22.051568+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.002579,
+    "pnl_pct": 0.623,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-30T21:11:10.747487+00:00"
   },
   {
     "page_id": "3ada5230-de72-8160-9499-e4c2943a51bb",
