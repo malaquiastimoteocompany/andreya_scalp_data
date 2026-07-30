@@ -662445,11 +662445,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.07833333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.079,
-    "pnl_pct": 0.435,
-    "duracao_min": 57.1,
-    "data_resultado": "2026-07-30T01:09:13.139890+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.093,
+    "pnl_pct": 0.773,
+    "duracao_min": 105.6,
+    "data_resultado": "2026-07-30T01:57:40.635929+00:00"
   },
   {
     "page_id": "3ada5230-de72-81c6-8fbe-f3fb6d027324",
