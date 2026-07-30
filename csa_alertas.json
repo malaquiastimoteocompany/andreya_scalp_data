@@ -677869,11 +677869,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.405,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 6.449,
-    "pnl_pct": 0.483,
-    "duracao_min": 6.8,
-    "data_resultado": "2026-07-30T13:44:31.429425+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 6.47,
+    "pnl_pct": 0.647,
+    "duracao_min": 17.6,
+    "data_resultado": "2026-07-30T13:55:16.606748+00:00"
   },
   {
     "page_id": "3ada5230-de72-8120-aae3-c5d423683571",
