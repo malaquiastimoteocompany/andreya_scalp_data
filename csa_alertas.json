@@ -663687,7 +663687,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.0784,
+    "pnl_pct": 0.706,
+    "duracao_min": 13.6,
+    "data_resultado": "2026-07-30T01:30:42.714433+00:00"
   },
   {
     "page_id": "3ada5230-de72-8144-ba9c-c9537b24e40b",
