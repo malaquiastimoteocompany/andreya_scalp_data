@@ -681795,11 +681795,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.70945,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.7036,
-    "pnl_pct": 0.453,
-    "duracao_min": 3.8,
-    "data_resultado": "2026-07-30T15:56:16.146289+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.7075,
+    "pnl_pct": 0.177,
+    "duracao_min": 12.5,
+    "data_resultado": "2026-07-30T16:04:59.240444+00:00"
   },
   {
     "page_id": "3ada5230-de72-81df-ba17-c552e5ea56f3",
