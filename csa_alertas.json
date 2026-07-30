@@ -661495,11 +661495,11 @@
     "estado_cfi": "E1",
     "zona_sr": 54.025,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 54.1,
-    "pnl_pct": 0.565,
-    "duracao_min": 32.7,
-    "data_resultado": "2026-07-29T23:47:11.536228+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 53.775,
+    "pnl_pct": 0.263,
+    "duracao_min": 90.0,
+    "data_resultado": "2026-07-30T00:44:31.430414+00:00"
   },
   {
     "page_id": "3aca5230-de72-81ea-b4a7-e019e9f9c221",
