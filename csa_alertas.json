@@ -663593,7 +663593,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.055945,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.05611,
+    "pnl_pct": -0.125,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-30T02:58:07.586020+00:00"
   },
   {
     "page_id": "3ada5230-de72-81bf-8912-e70dd8e63ff2",
