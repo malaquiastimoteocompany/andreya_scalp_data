@@ -669863,6 +669863,10 @@
     "estado_cfi": "E1",
     "zona_sr": 0.089435,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.08645,
+    "pnl_pct": 3.256,
+    "duracao_min": 5.4,
+    "data_resultado": "2026-07-30T07:17:56.627444+00:00"
   }
 ]
