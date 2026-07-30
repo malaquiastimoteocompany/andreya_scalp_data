@@ -676511,11 +676511,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.29275,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.3,
-    "pnl_pct": 0.775,
-    "duracao_min": 71.0,
-    "data_resultado": "2026-07-30T13:51:06.236899+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 1.301,
+    "pnl_pct": 0.814,
+    "duracao_min": 74.3,
+    "data_resultado": "2026-07-30T13:54:26.261338+00:00"
   },
   {
     "page_id": "3ada5230-de72-8123-b45a-dab41656ac02",
