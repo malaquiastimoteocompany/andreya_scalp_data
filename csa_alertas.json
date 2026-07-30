@@ -689205,11 +689205,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 16.29,
-    "pnl_pct": 1.495,
-    "duracao_min": 20.6,
-    "data_resultado": "2026-07-30T20:55:35.122119+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 16.64,
+    "pnl_pct": 2.586,
+    "duracao_min": 97.1,
+    "data_resultado": "2026-07-30T22:12:07.012813+00:00"
   },
   {
     "page_id": "3ada5230-de72-81d6-bc41-fa01147847e9",
