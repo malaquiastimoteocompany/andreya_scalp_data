@@ -676603,11 +676603,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.065186,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06449,
-    "pnl_pct": 0.724,
-    "duracao_min": 106.2,
-    "data_resultado": "2026-07-30T14:31:39.923142+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.065,
+    "pnl_pct": 0.331,
+    "duracao_min": 110.8,
+    "data_resultado": "2026-07-30T14:36:17.388769+00:00"
   },
   {
     "page_id": "3ada5230-de72-8145-bb63-d8fc83481d2c",
