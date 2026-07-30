@@ -660953,7 +660953,11 @@
     "estado_cfi": "E1",
     "zona_sr": 192.995,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 192.05,
+    "pnl_pct": -0.083,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-30T00:25:29.978251+00:00"
   },
   {
     "page_id": "3aca5230-de72-811d-b89d-f18cd4f69130",
