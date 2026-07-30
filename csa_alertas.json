@@ -684811,11 +684811,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1423,
-    "pnl_pct": 0.628,
-    "duracao_min": 65.2,
-    "data_resultado": "2026-07-30T18:38:31.654821+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1435,
+    "pnl_pct": 0.209,
+    "duracao_min": 93.5,
+    "data_resultado": "2026-07-30T19:06:48.171450+00:00"
   },
   {
     "page_id": "3ada5230-de72-819c-a6b4-e7edfc0ff7f3",
