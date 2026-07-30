@@ -673611,11 +673611,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1087,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1087,
-    "pnl_pct": 0.462,
-    "duracao_min": 98.4,
-    "data_resultado": "2026-07-30T12:05:46.987190+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.1086,
+    "pnl_pct": 0.416,
+    "duracao_min": 121.5,
+    "data_resultado": "2026-07-30T12:28:54.095953+00:00"
   },
   {
     "page_id": "3ada5230-de72-81b7-86b3-ffae8fa3cc6d",
