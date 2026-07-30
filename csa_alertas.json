@@ -675929,11 +675929,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.056245,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.05512,
-    "pnl_pct": 1.712,
-    "duracao_min": 4.3,
-    "data_resultado": "2026-07-30T12:22:38.546092+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0561,
+    "pnl_pct": 0.838,
+    "duracao_min": 39.8,
+    "data_resultado": "2026-07-30T12:58:04.932345+00:00"
   },
   {
     "page_id": "3ada5230-de72-810f-99b1-d12487978eab",
