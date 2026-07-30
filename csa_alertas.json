@@ -671173,11 +671173,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.7238,
-    "pnl_pct": 1.629,
-    "duracao_min": 31.8,
-    "data_resultado": "2026-07-30T08:46:30.936196+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.7281,
+    "pnl_pct": 1.931,
+    "duracao_min": 35.9,
+    "data_resultado": "2026-07-30T08:50:36.214772+00:00"
   },
   {
     "page_id": "3ada5230-de72-81b5-bd47-d2a7a758874e",
