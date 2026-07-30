@@ -674377,11 +674377,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.6585,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.659,
-    "pnl_pct": 0.424,
-    "duracao_min": 46.2,
-    "data_resultado": "2026-07-30T11:51:34.806700+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.651,
+    "pnl_pct": 0.182,
+    "duracao_min": 72.7,
+    "data_resultado": "2026-07-30T12:18:03.843377+00:00"
   },
   {
     "page_id": "3ada5230-de72-8175-b514-ece5f6a6b213",
