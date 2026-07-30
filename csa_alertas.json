@@ -681534,5 +681534,31 @@
     "zona_sr": 192.94,
     "toques_sr": 4,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3ada5230-de72-81c6-b941-c6bb0f5e095a",
+    "token": "MMT",
+    "direccao": "SHORT",
+    "preco_alerta": 0.2198,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00690714,
+    "tp1": 0.217037144,
+    "tp2": 0.21289286,
+    "sl": 0.23016071,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 12510735.0,
+    "spread_pct": 0.0004552697473253664,
+    "oi_usd": 654562.5456000001,
+    "data_alerta": "2026-07-30T15:35:02.197834+00:00",
+    "rsi_1h": 76.75,
+    "funding_rate": -0.0002,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
