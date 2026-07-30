@@ -662933,11 +662933,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.28266667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.287,
-    "pnl_pct": 0.39,
-    "duracao_min": 103.3,
-    "data_resultado": "2026-07-30T02:12:50.416137+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.283,
+    "pnl_pct": 0.234,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-30T02:30:17.928431+00:00"
   },
   {
     "page_id": "3ada5230-de72-812e-8a51-c5c2961a89f2",
