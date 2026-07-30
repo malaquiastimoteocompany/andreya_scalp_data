@@ -675489,7 +675489,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.5725,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.5719,
+    "pnl_pct": 0.386,
+    "duracao_min": 112.8,
+    "data_resultado": "2026-07-30T13:49:57.330855+00:00"
   },
   {
     "page_id": "3ada5230-de72-8137-ba91-dcc064697c07",
