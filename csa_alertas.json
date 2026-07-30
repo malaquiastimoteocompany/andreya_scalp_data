@@ -684913,11 +684913,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.31263333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3098,
-    "pnl_pct": 0.546,
-    "duracao_min": 9.7,
-    "data_resultado": "2026-07-30T17:52:26.841540+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.3118,
+    "pnl_pct": 0.225,
+    "duracao_min": 20.4,
+    "data_resultado": "2026-07-30T18:03:12.022990+00:00"
   },
   {
     "page_id": "3ada5230-de72-8187-a192-c274b84f6050",
