@@ -688355,11 +688355,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 743.33,
-    "pnl_pct": 0.126,
-    "duracao_min": 35.0,
-    "data_resultado": "2026-07-30T20:37:39.285688+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 742.13,
+    "pnl_pct": 0.207,
+    "duracao_min": 90.5,
+    "data_resultado": "2026-07-30T21:33:12.217023+00:00"
   },
   {
     "page_id": "3ada5230-de72-816c-aa03-e6e89745fc12",
