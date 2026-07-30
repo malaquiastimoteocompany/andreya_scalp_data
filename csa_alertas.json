@@ -677169,11 +677169,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.14323333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1432,
-    "pnl_pct": 0.35,
-    "duracao_min": 39.0,
-    "data_resultado": "2026-07-30T13:47:26.451546+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1441,
+    "pnl_pct": 0.666,
+    "duracao_min": 43.2,
+    "data_resultado": "2026-07-30T13:51:41.838672+00:00"
   },
   {
     "page_id": "3ada5230-de72-81b5-b62a-cb85fa83a40b",
