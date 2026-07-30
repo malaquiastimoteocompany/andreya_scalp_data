@@ -668907,11 +668907,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04089667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04125,
-    "pnl_pct": 0.414,
-    "duracao_min": 45.8,
-    "data_resultado": "2026-07-30T06:57:55.299450+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04108,
+    "pnl_pct": 0.207,
+    "duracao_min": 78.8,
+    "data_resultado": "2026-07-30T07:30:54.632656+00:00"
   },
   {
     "page_id": "3ada5230-de72-817c-bfa3-fe31f31ba5a4",
