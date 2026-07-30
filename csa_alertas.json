@@ -683371,11 +683371,11 @@
     "estado_cfi": "E1",
     "zona_sr": 470.85833333,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 475.08,
-    "pnl_pct": 0.419,
-    "duracao_min": 72.6,
-    "data_resultado": "2026-07-30T17:55:11.799897+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 473.06,
+    "pnl_pct": 0.205,
+    "duracao_min": 88.9,
+    "data_resultado": "2026-07-30T18:11:30.327268+00:00"
   },
   {
     "page_id": "3ada5230-de72-812d-9037-c7a4bed5a501",
