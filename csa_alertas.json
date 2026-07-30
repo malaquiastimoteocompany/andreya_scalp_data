@@ -661971,7 +661971,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.204275,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.2046,
+    "pnl_pct": 0.442,
+    "duracao_min": 10.8,
+    "data_resultado": "2026-07-30T00:12:51.559632+00:00"
   },
   {
     "page_id": "3ada5230-de72-8111-96fe-fdb1a791b0cf",
