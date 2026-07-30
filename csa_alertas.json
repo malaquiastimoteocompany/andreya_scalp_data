@@ -667668,5 +667668,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3ada5230-de72-8105-aa95-ff21ff852ac9",
+    "token": "EDU",
+    "direccao": "SHORT",
+    "preco_alerta": 0.03175,
+    "score": 8,
+    "setup": "B",
+    "prioritario": true,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00045,
+    "tp1": 0.03157,
+    "tp2": 0.0313,
+    "sl": 0.032425,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 10740216.0,
+    "spread_pct": 0.0003149110376317469,
+    "oi_usd": 3873173.8470699997,
+    "data_alerta": "2026-07-30T05:07:28.084650+00:00",
+    "rsi_1h": 57.97,
+    "funding_rate": 0.0014,
+    "estado_cfi": "E1",
+    "zona_sr": 0.031845,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
