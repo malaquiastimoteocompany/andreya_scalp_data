@@ -684957,11 +684957,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 15.68,
-    "pnl_pct": 1.569,
-    "duracao_min": 31.5,
-    "data_resultado": "2026-07-30T18:13:56.085428+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 16.0,
+    "pnl_pct": 0.565,
+    "duracao_min": 84.5,
+    "data_resultado": "2026-07-30T19:06:55.882306+00:00"
   },
   {
     "page_id": "3ada5230-de72-81c0-8929-eb6b01fb623d",
