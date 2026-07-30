@@ -661551,11 +661551,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07827,
-    "pnl_pct": 0.604,
-    "duracao_min": 29.3,
-    "data_resultado": "2026-07-29T23:48:47.498142+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0778,
+    "pnl_pct": 0.302,
+    "duracao_min": 83.4,
+    "data_resultado": "2026-07-30T00:42:55.114628+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a1-9de6-d24725024475",
