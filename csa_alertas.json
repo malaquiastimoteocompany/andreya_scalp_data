@@ -685573,11 +685573,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01719,
-    "pnl_pct": 2.261,
-    "duracao_min": 45.1,
-    "data_resultado": "2026-07-30T18:50:21.820439+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01775,
+    "pnl_pct": 3.926,
+    "duracao_min": 95.8,
+    "data_resultado": "2026-07-30T19:41:04.830960+00:00"
   },
   {
     "page_id": "3ada5230-de72-817d-b04c-db13237908f9",
