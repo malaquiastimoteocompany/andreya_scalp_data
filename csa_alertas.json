@@ -688267,7 +688267,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 743.33,
+    "pnl_pct": 0.126,
+    "duracao_min": 35.0,
+    "data_resultado": "2026-07-30T20:37:39.285688+00:00"
   },
   {
     "page_id": "3ada5230-de72-816c-aa03-e6e89745fc12",
