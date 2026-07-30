@@ -682199,11 +682199,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05513,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05479,
-    "pnl_pct": 0.364,
-    "duracao_min": 76.3,
-    "data_resultado": "2026-07-30T17:16:24.899459+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.05499,
+    "pnl_pct": 0.182,
+    "duracao_min": 89.6,
+    "data_resultado": "2026-07-30T17:29:43.582113+00:00"
   },
   {
     "page_id": "3ada5230-de72-8148-8585-cb6e074e9b90",
