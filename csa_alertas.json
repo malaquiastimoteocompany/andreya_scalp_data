@@ -685659,7 +685659,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.005886,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.00589,
+    "pnl_pct": 0.375,
+    "duracao_min": 55.1,
+    "data_resultado": "2026-07-30T19:05:06.923846+00:00"
   },
   {
     "page_id": "3ada5230-de72-813e-961a-c28d28e46c7a",
