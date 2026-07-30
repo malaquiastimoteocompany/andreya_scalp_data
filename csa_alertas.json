@@ -672325,11 +672325,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.2059,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2075,
-    "pnl_pct": 0.29,
-    "duracao_min": 103.8,
-    "data_resultado": "2026-07-30T11:16:11.660360+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.2072,
+    "pnl_pct": 0.217,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-30T11:33:12.059447+00:00"
   },
   {
     "page_id": "3ada5230-de72-81ac-b3a3-d543d2e43480",
