@@ -682995,7 +682995,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.04496,
+    "pnl_pct": -0.882,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-30T18:25:47.991266+00:00"
   },
   {
     "page_id": "3ada5230-de72-81f2-bee0-e01bebafc0db",
