@@ -688619,7 +688619,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.013,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.01286,
+    "pnl_pct": -0.772,
+    "duracao_min": 121.6,
+    "data_resultado": "2026-07-30T22:11:37.765716+00:00"
   },
   {
     "page_id": "3ada5230-de72-8147-8f06-e4948bd48997",
