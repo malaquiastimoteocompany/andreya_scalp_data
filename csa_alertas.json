@@ -670485,7 +670485,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.14323333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.1428,
+    "pnl_pct": -0.488,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-30T09:33:35.632011+00:00"
   },
   {
     "page_id": "3ada5230-de72-815d-a8f9-c5d0cac6f6c9",
