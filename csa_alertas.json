@@ -681681,11 +681681,11 @@
     "estado_cfi": "E1",
     "zona_sr": 192.94,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 194.28,
-    "pnl_pct": 0.356,
-    "duracao_min": 31.0,
-    "data_resultado": "2026-07-30T16:04:39.046646+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 193.18,
+    "pnl_pct": 0.072,
+    "duracao_min": 68.0,
+    "data_resultado": "2026-07-30T16:41:37.910819+00:00"
   },
   {
     "page_id": "3ada5230-de72-81c6-b941-c6bb0f5e095a",
