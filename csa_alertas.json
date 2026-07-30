@@ -682105,7 +682105,11 @@
     "estado_cfi": "E1",
     "zona_sr": 99.40333333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 99.6,
+    "pnl_pct": 0.505,
+    "duracao_min": 3.2,
+    "data_resultado": "2026-07-30T16:06:00.782780+00:00"
   },
   {
     "page_id": "3ada5230-de72-813f-a430-f5c57e2de754",
