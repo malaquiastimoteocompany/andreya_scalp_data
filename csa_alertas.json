@@ -661223,11 +661223,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.464,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 1.47,
-    "pnl_pct": 0.754,
-    "duracao_min": 84.6,
-    "data_resultado": "2026-07-30T00:14:07.893757+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.463,
+    "pnl_pct": 0.514,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-30T00:50:16.261785+00:00"
   },
   {
     "page_id": "3aca5230-de72-811e-ac4f-d8fe49cf4424",
