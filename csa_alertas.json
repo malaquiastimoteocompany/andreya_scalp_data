@@ -664309,11 +664309,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05438,
-    "pnl_pct": 1.873,
-    "duracao_min": 88.5,
-    "data_resultado": "2026-07-30T03:06:35.196045+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.05457,
+    "pnl_pct": 2.051,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-30T03:38:34.056634+00:00"
   },
   {
     "page_id": "3ada5230-de72-81ac-b7ac-cf319a8160f6",
