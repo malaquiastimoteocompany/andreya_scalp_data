@@ -684311,11 +684311,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.14323333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1436,
-    "pnl_pct": 0.349,
-    "duracao_min": 4.5,
-    "data_resultado": "2026-07-30T17:24:57.387647+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.1444,
+    "pnl_pct": 0.629,
+    "duracao_min": 28.9,
+    "data_resultado": "2026-07-30T17:49:20.675999+00:00"
   },
   {
     "page_id": "3ada5230-de72-81c8-ad3c-d6a2f7698314",
