@@ -676899,7 +676899,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.2831,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 2.2748,
+    "pnl_pct": 0.184,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-30T15:03:47.223047+00:00"
   },
   {
     "page_id": "3ada5230-de72-81aa-a7f2-cf4c6e9efa07",
