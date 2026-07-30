@@ -672919,11 +672919,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.077785,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07767,
-    "pnl_pct": 0.271,
-    "duracao_min": 17.5,
-    "data_resultado": "2026-07-30T10:22:18.568254+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07746,
+    "pnl_pct": 0.136,
+    "duracao_min": 44.3,
+    "data_resultado": "2026-07-30T10:49:11.908309+00:00"
   },
   {
     "page_id": "3ada5230-de72-817c-b52e-f73fdac47f05",
