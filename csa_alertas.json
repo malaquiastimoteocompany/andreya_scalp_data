@@ -689861,6 +689861,10 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.00611,
+    "pnl_pct": 0.667,
+    "duracao_min": 0.8,
+    "data_resultado": "2026-07-30T21:13:34.066475+00:00"
   }
 ]
