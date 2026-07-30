@@ -684519,7 +684519,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.172716,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.17236,
+    "pnl_pct": 0.249,
+    "duracao_min": 86.3,
+    "data_resultado": "2026-07-30T18:51:43.218853+00:00"
   },
   {
     "page_id": "3ada5230-de72-819f-a579-e2f99a38c288",
