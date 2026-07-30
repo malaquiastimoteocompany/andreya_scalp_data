@@ -682821,11 +682821,11 @@
     "estado_cfi": "E1",
     "zona_sr": 99.40333333,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 100.17,
-    "pnl_pct": 0.532,
-    "duracao_min": 24.8,
-    "data_resultado": "2026-07-30T16:49:47.924611+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 99.55,
+    "pnl_pct": 0.221,
+    "duracao_min": 49.7,
+    "data_resultado": "2026-07-30T17:14:44.405692+00:00"
   },
   {
     "page_id": "3ada5230-de72-813d-b91a-f89ef46aec6c",
