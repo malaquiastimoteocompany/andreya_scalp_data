@@ -683671,11 +683671,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02134,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02158,
-    "pnl_pct": 0.841,
-    "duracao_min": 21.8,
-    "data_resultado": "2026-07-30T17:22:18.035117+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.02161,
+    "pnl_pct": 0.911,
+    "duracao_min": 29.7,
+    "data_resultado": "2026-07-30T17:30:07.178459+00:00"
   },
   {
     "page_id": "3ada5230-de72-81d1-bf97-d226af8691c1",
