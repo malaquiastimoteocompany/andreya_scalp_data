@@ -664959,11 +664959,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0025565,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00259,
-    "pnl_pct": 0.935,
-    "duracao_min": 5.1,
-    "data_resultado": "2026-07-30T02:24:38.577081+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.002564,
+    "pnl_pct": 0.429,
+    "duracao_min": 41.5,
+    "data_resultado": "2026-07-30T03:00:58.154084+00:00"
   },
   {
     "page_id": "3ada5230-de72-81ee-8668-ec04e057bcd1",
