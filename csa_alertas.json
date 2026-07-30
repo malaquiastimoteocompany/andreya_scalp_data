@@ -684655,11 +684655,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004333,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.004327,
-    "pnl_pct": 0.3,
-    "duracao_min": 30.2,
-    "data_resultado": "2026-07-30T18:00:13.358014+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.004342,
+    "pnl_pct": 0.127,
+    "duracao_min": 99.0,
+    "data_resultado": "2026-07-30T19:09:04.128320+00:00"
   },
   {
     "page_id": "3ada5230-de72-81fa-b084-e5c85f5c3022",
