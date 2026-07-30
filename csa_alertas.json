@@ -661989,7 +661989,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.13825,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.1386,
+    "pnl_pct": 0.654,
+    "duracao_min": 9.0,
+    "data_resultado": "2026-07-30T00:11:08.402826+00:00"
   },
   {
     "page_id": "3ada5230-de72-81df-8d76-f520fed2bda6",
