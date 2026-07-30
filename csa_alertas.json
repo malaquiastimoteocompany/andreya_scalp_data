@@ -673933,7 +673933,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06778714,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.06786,
+    "pnl_pct": 0.222,
+    "duracao_min": 23.6,
+    "data_resultado": "2026-07-30T11:18:21.577896+00:00"
   },
   {
     "page_id": "3ada5230-de72-8154-bd53-ff598ba24e1e",
