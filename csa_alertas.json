@@ -678759,11 +678759,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 49.51,
-    "pnl_pct": 1.531,
-    "duracao_min": 6.1,
-    "data_resultado": "2026-07-30T14:08:44.255588+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 50.34,
+    "pnl_pct": 0.706,
+    "duracao_min": 18.8,
+    "data_resultado": "2026-07-30T14:21:22.383667+00:00"
   },
   {
     "page_id": "3ada5230-de72-81cc-947a-c5759fa77be2",
