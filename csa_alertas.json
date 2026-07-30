@@ -671877,11 +671877,11 @@
     "estado_cfi": "E1",
     "zona_sr": 45.516,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 45.18,
-    "pnl_pct": 0.287,
-    "duracao_min": 24.3,
-    "data_resultado": "2026-07-30T09:31:58.416897+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 45.34,
+    "pnl_pct": 0.11,
+    "duracao_min": 71.3,
+    "data_resultado": "2026-07-30T10:18:56.224945+00:00"
   },
   {
     "page_id": "3ada5230-de72-8112-9381-f397e67f6636",
