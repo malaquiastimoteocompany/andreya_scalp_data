@@ -676629,11 +676629,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.017015,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01716,
-    "pnl_pct": 0.351,
-    "duracao_min": 50.5,
-    "data_resultado": "2026-07-30T13:43:19.715902+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01727,
+    "pnl_pct": 0.673,
+    "duracao_min": 53.9,
+    "data_resultado": "2026-07-30T13:46:43.147157+00:00"
   },
   {
     "page_id": "3ada5230-de72-8182-a518-d7b9a2b56356",
