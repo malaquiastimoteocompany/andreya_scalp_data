@@ -664037,11 +664037,11 @@
     "estado_cfi": "E1",
     "zona_sr": 149.19,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 150.59,
-    "pnl_pct": 1.319,
-    "duracao_min": 3.6,
-    "data_resultado": "2026-07-30T01:33:21.672149+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 148.36,
+    "pnl_pct": 0.569,
+    "duracao_min": 57.6,
+    "data_resultado": "2026-07-30T02:27:25.970684+00:00"
   },
   {
     "page_id": "3ada5230-de72-81b7-8cb4-cf04cc5722c9",
