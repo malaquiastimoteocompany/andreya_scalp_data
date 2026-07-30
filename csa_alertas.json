@@ -679231,11 +679231,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.060996,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06113,
-    "pnl_pct": 0.394,
-    "duracao_min": 71.2,
-    "data_resultado": "2026-07-30T15:21:32.790748+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.06128,
+    "pnl_pct": 0.517,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-30T16:11:02.116599+00:00"
   },
   {
     "page_id": "3ada5230-de72-81c3-ac7e-c6e663a2b639",
