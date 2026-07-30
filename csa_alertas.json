@@ -676129,7 +676129,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06778714,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.06818,
+    "pnl_pct": 0.191,
+    "duracao_min": 17.9,
+    "data_resultado": "2026-07-30T12:50:23.534180+00:00"
   },
   {
     "page_id": "3ada5230-de72-81ed-ae0d-e100f3cb0136",
