@@ -667517,11 +667517,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.055945,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05563,
-    "pnl_pct": 0.554,
-    "duracao_min": 41.1,
-    "data_resultado": "2026-07-30T05:41:08.351995+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.05597,
+    "pnl_pct": 0.25,
+    "duracao_min": 97.9,
+    "data_resultado": "2026-07-30T06:37:56.326873+00:00"
   },
   {
     "page_id": "3ada5230-de72-81d5-b16c-ddd59dd72e5b",
