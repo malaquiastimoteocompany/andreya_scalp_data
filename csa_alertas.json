@@ -685889,7 +685889,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.4007,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.4008,
+    "pnl_pct": 0.502,
+    "duracao_min": 110.6,
+    "data_resultado": "2026-07-30T20:01:28.334810+00:00"
   },
   {
     "page_id": "3ada5230-de72-811f-8119-da2c4b25d930",
