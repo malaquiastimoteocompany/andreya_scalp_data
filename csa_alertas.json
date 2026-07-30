@@ -681143,7 +681143,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06778714,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.06827,
+    "pnl_pct": 0.25,
+    "duracao_min": 21.7,
+    "data_resultado": "2026-07-30T15:41:50.588812+00:00"
   },
   {
     "page_id": "3ada5230-de72-812f-badb-da24cf88a114",
