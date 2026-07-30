@@ -685969,11 +685969,11 @@
     "estado_cfi": "E1",
     "zona_sr": 54.58175,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 54.914,
-    "pnl_pct": 0.426,
-    "duracao_min": 14.9,
-    "data_resultado": "2026-07-30T18:32:32.322738+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 55.24,
+    "pnl_pct": 0.724,
+    "duracao_min": 51.8,
+    "data_resultado": "2026-07-30T19:09:27.680503+00:00"
   },
   {
     "page_id": "3ada5230-de72-81f3-ad2f-e16ca2beac34",
