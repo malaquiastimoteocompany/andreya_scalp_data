@@ -662834,5 +662834,31 @@
     "zona_sr": 0.042005,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3ada5230-de72-817e-a6d5-eda40152ee10",
+    "token": "PI",
+    "direccao": "LONG",
+    "preco_alerta": 0.08069,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00155357,
+    "tp1": 0.08131142799999999,
+    "tp2": 0.08224357,
+    "sl": 0.07835964499999999,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 20783813.0,
+    "spread_pct": 0.00037172418065797966,
+    "oi_usd": 5249006.07075,
+    "data_alerta": "2026-07-30T00:31:55.527675+00:00",
+    "rsi_1h": 58.29,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.0807025,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
