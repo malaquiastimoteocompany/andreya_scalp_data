@@ -672353,7 +672353,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.2359,
+    "pnl_pct": 0.632,
+    "duracao_min": 1.4,
+    "data_resultado": "2026-07-30T09:41:15.628978+00:00"
   },
   {
     "page_id": "3ada5230-de72-815f-88ad-dfecde508f41",
