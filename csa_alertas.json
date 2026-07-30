@@ -678855,11 +678855,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0669,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0664,
-    "pnl_pct": 0.465,
-    "duracao_min": 18.3,
-    "data_resultado": "2026-07-30T14:21:30.883310+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.06606,
+    "pnl_pct": 0.72,
+    "duracao_min": 55.6,
+    "data_resultado": "2026-07-30T14:58:44.895235+00:00"
   },
   {
     "page_id": "3ada5230-de72-8135-9932-cfd427df45b7",
