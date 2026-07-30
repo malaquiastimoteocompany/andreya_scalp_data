@@ -671637,7 +671637,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.62033333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 1.631,
+    "pnl_pct": 0.369,
+    "duracao_min": 4.8,
+    "data_resultado": "2026-07-30T09:07:22.924704+00:00"
   },
   {
     "page_id": "3ada5230-de72-8126-b286-c4216dc90886",
