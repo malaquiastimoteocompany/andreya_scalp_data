@@ -667134,5 +667134,31 @@
     "zona_sr": 0.0083855,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3ada5230-de72-8192-8735-d8f70527e1d0",
+    "token": "RIF",
+    "direccao": "SHORT",
+    "preco_alerta": 0.08902,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00683929,
+    "tp1": 0.086284284,
+    "tp2": 0.08218071,
+    "sl": 0.099278935,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 5033124.0,
+    "spread_pct": 0.0006738544474392476,
+    "oi_usd": 2707506.7323,
+    "data_alerta": "2026-07-30T04:49:52.194772+00:00",
+    "rsi_1h": 49.57,
+    "funding_rate": -0.0032,
+    "estado_cfi": "E1",
+    "zona_sr": 0.089435,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
