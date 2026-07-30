@@ -685221,11 +685221,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.464,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 1.467,
-    "pnl_pct": 0.342,
-    "duracao_min": 10.7,
-    "data_resultado": "2026-07-30T18:08:26.068876+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.462,
+    "pnl_pct": 0.171,
+    "duracao_min": 59.5,
+    "data_resultado": "2026-07-30T18:57:16.089094+00:00"
   },
   {
     "page_id": "3ada5230-de72-8102-8c82-f8800c75873f",
