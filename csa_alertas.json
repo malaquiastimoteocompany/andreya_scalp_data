@@ -675593,7 +675593,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.013,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.01306,
+    "pnl_pct": 0.384,
+    "duracao_min": 9.3,
+    "data_resultado": "2026-07-30T12:16:31.291089+00:00"
   },
   {
     "page_id": "3ada5230-de72-811e-822b-e1c7f83e1c2c",
