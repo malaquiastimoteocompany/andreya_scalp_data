@@ -678323,11 +678323,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01732,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01748,
-    "pnl_pct": 1.04,
-    "duracao_min": 71.2,
-    "data_resultado": "2026-07-30T15:04:05.561186+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0173,
+    "pnl_pct": 0.52,
+    "duracao_min": 76.7,
+    "data_resultado": "2026-07-30T15:09:36.530211+00:00"
   },
   {
     "page_id": "3ada5230-de72-8129-ad66-ce485d2d7018",
