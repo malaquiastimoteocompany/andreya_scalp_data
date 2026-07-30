@@ -685369,11 +685369,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02162,
-    "pnl_pct": 0.369,
-    "duracao_min": 5.8,
-    "data_resultado": "2026-07-30T18:08:34.820599+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.0215,
+    "pnl_pct": 0.645,
+    "duracao_min": 27.9,
+    "data_resultado": "2026-07-30T18:30:41.259886+00:00"
   },
   {
     "page_id": "3ada5230-de72-8177-a619-f0e3fe2011ce",
