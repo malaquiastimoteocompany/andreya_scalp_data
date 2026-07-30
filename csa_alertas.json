@@ -664195,11 +664195,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.016927,
-    "pnl_pct": 7.965,
-    "duracao_min": 94.7,
-    "data_resultado": "2026-07-30T03:11:49.707087+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.016598,
+    "pnl_pct": 8.86,
+    "duracao_min": 96.6,
+    "data_resultado": "2026-07-30T03:13:42.473350+00:00"
   },
   {
     "page_id": "3ada5230-de72-816a-b6ed-cad13cd2a898",
