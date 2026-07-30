@@ -684197,11 +684197,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07857,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07879,
-    "pnl_pct": 0.293,
-    "duracao_min": 5.5,
-    "data_resultado": "2026-07-30T17:20:41.503146+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.07914,
+    "pnl_pct": 0.516,
+    "duracao_min": 15.2,
+    "data_resultado": "2026-07-30T17:30:25.040947+00:00"
   },
   {
     "page_id": "3ada5230-de72-81ee-b863-e3d17ed33e60",
