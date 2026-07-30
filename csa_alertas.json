@@ -682069,7 +682069,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.02514,
+    "pnl_pct": -0.357,
+    "duracao_min": 121.8,
+    "data_resultado": "2026-07-30T17:56:54.284680+00:00"
   },
   {
     "page_id": "3ada5230-de72-8185-bfea-fc8f40778c4e",
