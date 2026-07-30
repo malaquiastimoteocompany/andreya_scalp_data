@@ -661433,7 +661433,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 3.821,
+    "pnl_pct": -3.241,
+    "duracao_min": 121.5,
+    "data_resultado": "2026-07-30T01:10:59.464212+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a7-a75d-cbbb4895508a",
