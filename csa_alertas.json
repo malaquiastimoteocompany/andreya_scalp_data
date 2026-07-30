@@ -675053,7 +675053,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02744,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.0271,
+    "pnl_pct": 0.805,
+    "duracao_min": 44.5,
+    "data_resultado": "2026-07-30T12:23:56.783401+00:00"
   },
   {
     "page_id": "3ada5230-de72-816d-ad7d-e633381fb818",
