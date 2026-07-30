@@ -670095,11 +670095,11 @@
     "estado_cfi": "E1",
     "zona_sr": 470.33,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 475.12,
-    "pnl_pct": 0.614,
-    "duracao_min": 20.7,
-    "data_resultado": "2026-07-30T07:40:28.899760+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 476.53,
+    "pnl_pct": 0.763,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-30T09:20:27.037862+00:00"
   },
   {
     "page_id": "3ada5230-de72-8166-a490-cc2e2fe7cb21",
