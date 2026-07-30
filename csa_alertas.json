@@ -665539,7 +665539,11 @@
     "estado_cfi": "E1",
     "zona_sr": 45.48666667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 45.31,
+    "pnl_pct": -0.088,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-30T05:00:45.791541+00:00"
   },
   {
     "page_id": "3ada5230-de72-8194-a537-cef981f16d11",
