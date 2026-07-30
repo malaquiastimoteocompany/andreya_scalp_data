@@ -689065,11 +689065,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.003927,
-    "pnl_pct": 1.003,
-    "duracao_min": 95.0,
-    "data_resultado": "2026-07-30T21:58:04.075667+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.003903,
+    "pnl_pct": 0.694,
+    "duracao_min": 121.5,
+    "data_resultado": "2026-07-30T22:24:29.650235+00:00"
   },
   {
     "page_id": "3ada5230-de72-819c-97c9-db8536af0d0a",
