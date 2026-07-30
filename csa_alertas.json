@@ -681560,5 +681560,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3ada5230-de72-81ae-9f38-e5e2ba70fa9a",
+    "token": "RSR",
+    "direccao": "LONG",
+    "preco_alerta": 0.001238,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 1.386e-05,
+    "tp1": 0.0012435439999999999,
+    "tp2": 0.00125186,
+    "sl": 0.00121721,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 135020072.0,
+    "spread_pct": 0.000807428340734867,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-30T15:37:19.955476+00:00",
+    "rsi_1h": 50.14,
+    "funding_rate": -0.064,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00124125,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
