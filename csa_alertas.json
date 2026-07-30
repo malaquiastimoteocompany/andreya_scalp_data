@@ -681993,7 +681993,11 @@
     "estado_cfi": "E1",
     "zona_sr": 736.46285714,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 739.41,
+    "pnl_pct": 0.115,
+    "duracao_min": 8.0,
+    "data_resultado": "2026-07-30T16:05:42.156987+00:00"
   },
   {
     "page_id": "3ada5230-de72-816c-8516-c44b524501e8",
