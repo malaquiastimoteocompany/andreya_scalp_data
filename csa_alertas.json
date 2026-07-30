@@ -673877,11 +673877,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1786,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1796,
-    "pnl_pct": 0.504,
-    "duracao_min": 19.0,
-    "data_resultado": "2026-07-30T11:11:45.392423+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.1787,
+    "pnl_pct": 0.252,
+    "duracao_min": 28.9,
+    "data_resultado": "2026-07-30T11:21:39.221677+00:00"
   },
   {
     "page_id": "3ada5230-de72-8189-92dd-dfe507b6d810",
