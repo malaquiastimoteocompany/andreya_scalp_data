@@ -687303,7 +687303,11 @@
     "estado_cfi": "E1",
     "zona_sr": 45.50142857,
     "toques_sr": 7,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 45.71,
+    "pnl_pct": -0.838,
+    "duracao_min": 121.5,
+    "data_resultado": "2026-07-30T21:14:50.391159+00:00"
   },
   {
     "page_id": "3ada5230-de72-8149-af7f-c5c08091121f",
