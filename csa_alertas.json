@@ -664789,7 +664789,11 @@
     "estado_cfi": "E1",
     "zona_sr": 192.03,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 193.88,
+    "pnl_pct": 0.524,
+    "duracao_min": 11.2,
+    "data_resultado": "2026-07-30T02:23:11.229062+00:00"
   },
   {
     "page_id": "3ada5230-de72-8105-9efc-d430d506cca6",
