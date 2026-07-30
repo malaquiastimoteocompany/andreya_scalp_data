@@ -671927,11 +671927,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00224,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.002228,
-    "pnl_pct": 0.402,
-    "duracao_min": 110.8,
-    "data_resultado": "2026-07-30T10:58:37.721472+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.002237,
+    "pnl_pct": 0.201,
+    "duracao_min": 112.2,
+    "data_resultado": "2026-07-30T11:00:03.290846+00:00"
   },
   {
     "page_id": "3ada5230-de72-81e7-9d30-ebce641ab464",
