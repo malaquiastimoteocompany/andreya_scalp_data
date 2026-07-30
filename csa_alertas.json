@@ -678411,7 +678411,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.09166667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 2.076,
+    "pnl_pct": 0.432,
+    "duracao_min": 8.9,
+    "data_resultado": "2026-07-30T14:06:50.438382+00:00"
   },
   {
     "page_id": "3ada5230-de72-81e9-b2fa-cdf4432140b8",
