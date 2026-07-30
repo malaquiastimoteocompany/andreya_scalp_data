@@ -665329,11 +665329,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.40348,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.4045,
-    "pnl_pct": 0.697,
-    "duracao_min": 37.0,
-    "data_resultado": "2026-07-30T03:16:48.060427+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.4077,
+    "pnl_pct": 1.095,
+    "duracao_min": 114.3,
+    "data_resultado": "2026-07-30T04:34:03.741881+00:00"
   },
   {
     "page_id": "3ada5230-de72-8140-b06b-d64a62dd12ad",
