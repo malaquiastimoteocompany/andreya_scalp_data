@@ -679340,5 +679340,31 @@
     "zona_sr": 0.005233,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3ada5230-de72-81eb-946a-fa330040d964",
+    "token": "DYDX",
+    "direccao": "LONG",
+    "preco_alerta": 0.1085,
+    "score": 7,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00114286,
+    "tp1": 0.108957144,
+    "tp2": 0.10964286,
+    "sl": 0.10678571,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 7798992.0,
+    "spread_pct": 0.0009220839096358034,
+    "oi_usd": 976645.173,
+    "data_alerta": "2026-07-30T14:20:48.660438+00:00",
+    "rsi_1h": 44.63,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.1087,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
