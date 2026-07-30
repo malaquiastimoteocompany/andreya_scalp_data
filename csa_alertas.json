@@ -682635,11 +682635,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.07475,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
+    "resultado": "Falhado",
     "preco_saida": 2.077,
     "pnl_pct": 0.387,
-    "duracao_min": 82.8,
-    "data_resultado": "2026-07-30T17:37:48.671236+00:00"
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-30T18:15:12.671825+00:00"
   },
   {
     "page_id": "3ada5230-de72-81e8-b8d8-f69af5904b52",
