@@ -661673,7 +661673,11 @@
     "estado_cfi": "E1",
     "zona_sr": 8.26666667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 8.342,
+    "pnl_pct": 0.409,
+    "duracao_min": 46.2,
+    "data_resultado": "2026-07-30T00:10:58.894333+00:00"
   },
   {
     "page_id": "3aca5230-de72-8182-a69d-e2ca5791afd3",
