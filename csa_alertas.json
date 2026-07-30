@@ -674507,7 +674507,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 1.0721,
+    "pnl_pct": 1.756,
+    "duracao_min": 21.9,
+    "data_resultado": "2026-07-30T11:39:08.827007+00:00"
   },
   {
     "page_id": "3ada5230-de72-8152-8259-dfb275520fed",
