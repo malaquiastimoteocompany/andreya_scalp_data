@@ -683535,11 +683535,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02674,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02666,
-    "pnl_pct": 0.782,
-    "duracao_min": 81.6,
-    "data_resultado": "2026-07-30T18:11:37.908233+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.02669,
+    "pnl_pct": 0.726,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-30T18:50:04.468858+00:00"
   },
   {
     "page_id": "3ada5230-de72-8117-a69e-ebaccb4ea1d6",
