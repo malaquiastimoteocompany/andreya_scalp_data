@@ -664609,7 +664609,11 @@
     "estado_cfi": "E1",
     "zona_sr": 8.39666667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 8.342,
+    "pnl_pct": -0.537,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-30T03:50:13.719122+00:00"
   },
   {
     "page_id": "3ada5230-de72-8143-8bc7-d9e98448f170",
