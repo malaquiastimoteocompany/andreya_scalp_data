@@ -691349,7 +691349,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.012898,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01284,
+    "pnl_pct": 0.156,
+    "duracao_min": 48.7,
+    "data_resultado": "2026-07-30T23:03:49.370172+00:00"
   },
   {
     "page_id": "3ada5230-de72-81da-b697-f8e0697c1a89",
