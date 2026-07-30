@@ -691009,11 +691009,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.23015,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 2.2542,
-    "pnl_pct": 0.796,
-    "duracao_min": 16.6,
-    "data_resultado": "2026-07-30T22:14:22.905734+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.2744,
+    "pnl_pct": 1.248,
+    "duracao_min": 60.7,
+    "data_resultado": "2026-07-30T22:58:30.388131+00:00"
   },
   {
     "page_id": "3ada5230-de72-81eb-89a5-cdff425fb28c",
