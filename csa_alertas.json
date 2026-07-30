@@ -663773,11 +663773,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1710325,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.17254,
-    "pnl_pct": 0.466,
-    "duracao_min": 37.6,
-    "data_resultado": "2026-07-30T01:49:36.645118+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.17199,
+    "pnl_pct": 0.306,
+    "duracao_min": 121.5,
+    "data_resultado": "2026-07-30T03:13:32.522015+00:00"
   },
   {
     "page_id": "3ada5230-de72-8167-8433-df0adb99d303",
