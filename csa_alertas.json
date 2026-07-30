@@ -664189,7 +664189,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.68585,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.6831,
+    "pnl_pct": -0.044,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-30T03:38:19.671268+00:00"
   },
   {
     "page_id": "3ada5230-de72-8127-afac-f88f494867b7",
