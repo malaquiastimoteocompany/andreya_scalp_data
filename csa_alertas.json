@@ -688613,7 +688613,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.285125,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 2.266,
+    "pnl_pct": 0.666,
+    "duracao_min": 19.0,
+    "data_resultado": "2026-07-30T20:34:13.295396+00:00"
   },
   {
     "page_id": "3ada5230-de72-81e0-80e8-d76b15eadafa",
