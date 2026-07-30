@@ -676715,11 +676715,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 4.234,
-    "pnl_pct": 0.882,
-    "duracao_min": 11.5,
-    "data_resultado": "2026-07-30T13:13:58.109813+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 4.257,
+    "pnl_pct": 1.156,
+    "duracao_min": 20.6,
+    "data_resultado": "2026-07-30T13:23:05.574142+00:00"
   },
   {
     "page_id": "3ada5230-de72-81fa-91d2-ea662c3b320a",
