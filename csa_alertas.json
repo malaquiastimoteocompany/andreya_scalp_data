@@ -689963,11 +689963,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 161.63,
-    "pnl_pct": 0.685,
-    "duracao_min": 10.2,
-    "data_resultado": "2026-07-30T21:18:35.636898+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 162.85,
+    "pnl_pct": 1.065,
+    "duracao_min": 90.3,
+    "data_resultado": "2026-07-30T22:38:46.499287+00:00"
   },
   {
     "page_id": "3ada5230-de72-816c-b4d1-d7274bc2e82e",
