@@ -663009,7 +663009,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 29.61,
+    "pnl_pct": 0.543,
+    "duracao_min": 63.1,
+    "data_resultado": "2026-07-30T01:37:44.870259+00:00"
   },
   {
     "page_id": "3ada5230-de72-81f3-b2f5-c1c3fd9cc8bf",
