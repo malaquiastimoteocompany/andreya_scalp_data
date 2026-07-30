@@ -672453,11 +672453,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.002709,
-    "pnl_pct": 1.023,
-    "duracao_min": 8.6,
-    "data_resultado": "2026-07-30T09:50:42.313317+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.002675,
+    "pnl_pct": 1.644,
+    "duracao_min": 16.0,
+    "data_resultado": "2026-07-30T09:58:05.951088+00:00"
   },
   {
     "page_id": "3ada5230-de72-81ec-94b4-f8d0f776eb52",
