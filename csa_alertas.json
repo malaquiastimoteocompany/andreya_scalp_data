@@ -692475,11 +692475,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 27.78,
-    "pnl_pct": 1.907,
-    "duracao_min": 6.0,
-    "data_resultado": "2026-07-30T23:21:00.105276+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 28.33,
+    "pnl_pct": 0.936,
+    "duracao_min": 19.8,
+    "data_resultado": "2026-07-30T23:34:50.034556+00:00"
   },
   {
     "page_id": "3ada5230-de72-81dc-9cfc-cc20fbf3a328",
