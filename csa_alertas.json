@@ -667935,11 +667935,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.024615,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.02483,
-    "pnl_pct": 0.445,
-    "duracao_min": 24.6,
-    "data_resultado": "2026-07-30T05:34:13.043874+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.02493,
+    "pnl_pct": 0.647,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-30T07:10:49.103920+00:00"
   },
   {
     "page_id": "3ada5230-de72-818a-a7e2-e56ee0fe0a34",
