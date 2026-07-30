@@ -668195,11 +668195,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04805,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04815,
-    "pnl_pct": 0.501,
-    "duracao_min": 43.0,
-    "data_resultado": "2026-07-30T06:18:12.545624+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.04844,
+    "pnl_pct": 0.804,
+    "duracao_min": 89.3,
+    "data_resultado": "2026-07-30T07:04:30.692978+00:00"
   },
   {
     "page_id": "3ada5230-de72-8158-b438-e5078739d9e3",
