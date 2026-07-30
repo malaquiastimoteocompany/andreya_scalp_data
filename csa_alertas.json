@@ -690917,11 +690917,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0079685,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.008109,
-    "pnl_pct": 1.261,
-    "duracao_min": 52.2,
-    "data_resultado": "2026-07-30T22:40:20.695045+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.008124,
+    "pnl_pct": 1.355,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-30T23:49:18.280145+00:00"
   },
   {
     "page_id": "3ada5230-de72-813b-9e15-e16c7a24c620",
