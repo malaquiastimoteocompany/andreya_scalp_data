@@ -676025,11 +676025,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 1.0758,
-    "pnl_pct": 2.272,
-    "duracao_min": 2.3,
-    "data_resultado": "2026-07-30T12:27:35.554965+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 1.097,
+    "pnl_pct": 3.28,
+    "duracao_min": 27.9,
+    "data_resultado": "2026-07-30T12:53:12.479621+00:00"
   },
   {
     "page_id": "3ada5230-de72-81d6-afb0-e5163fdc5c34",
