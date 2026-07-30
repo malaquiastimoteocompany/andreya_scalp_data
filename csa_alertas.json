@@ -666706,5 +666706,31 @@
     "zona_sr": 8.26666667,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3ada5230-de72-8187-9870-ee1482c09389",
+    "token": "ESPORTS",
+    "direccao": "LONG",
+    "preco_alerta": 0.02186,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00106714,
+    "tp1": 0.022286856,
+    "tp2": 0.022927140000000002,
+    "sl": 0.02025929,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 9371401.0,
+    "spread_pct": 0.00045714285714283854,
+    "oi_usd": 0,
+    "data_alerta": "2026-07-30T04:19:52.948341+00:00",
+    "rsi_1h": 25.75,
+    "funding_rate": -0.0772,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
