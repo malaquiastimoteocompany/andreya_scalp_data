@@ -664186,5 +664186,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3ada5230-de72-81ac-b7ac-cf319a8160f6",
+    "token": "PENGU",
+    "direccao": "LONG",
+    "preco_alerta": 0.005827,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 6.993e-05,
+    "tp1": 0.005854972,
+    "tp2": 0.00589693,
+    "sl": 0.005722105,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 161779185.0,
+    "spread_pct": 0.0001716001716001944,
+    "oi_usd": 3474569.42604,
+    "data_alerta": "2026-07-30T01:39:24.530661+00:00",
+    "rsi_1h": 49.3,
+    "funding_rate": -0.0071,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00582533,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
