@@ -675297,11 +675297,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.123455,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.12282,
-    "pnl_pct": 0.414,
-    "duracao_min": 96.5,
-    "data_resultado": "2026-07-30T13:21:23.384452+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.12339,
+    "pnl_pct": 0.182,
+    "duracao_min": 101.2,
+    "data_resultado": "2026-07-30T13:26:08.157132+00:00"
   },
   {
     "page_id": "3ada5230-de72-8125-9fd0-e6c5df50c99b",
