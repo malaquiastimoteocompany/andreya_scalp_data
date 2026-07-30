@@ -682287,7 +682287,11 @@
     "estado_cfi": "E1",
     "zona_sr": 8.495,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 8.459,
+    "pnl_pct": 0.271,
+    "duracao_min": 68.2,
+    "data_resultado": "2026-07-30T17:11:10.712858+00:00"
   },
   {
     "page_id": "3ada5230-de72-81bf-94b8-f80dd9ebf182",
