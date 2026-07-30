@@ -668707,7 +668707,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.005233,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.005255,
+    "pnl_pct": 0.786,
+    "duracao_min": 62.7,
+    "data_resultado": "2026-07-30T07:04:58.770041+00:00"
   },
   {
     "page_id": "3ada5230-de72-8173-bda1-eaa484bbc0ef",
