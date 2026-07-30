@@ -688173,7 +688173,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.776,
+    "pnl_pct": 0.283,
+    "duracao_min": 5.2,
+    "data_resultado": "2026-07-30T20:07:40.008445+00:00"
   },
   {
     "page_id": "3ada5230-de72-8173-b457-f76ae7dfbcde",
