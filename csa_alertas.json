@@ -662273,11 +662273,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.013,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01303,
-    "pnl_pct": 0.463,
-    "duracao_min": 115.0,
-    "data_resultado": "2026-07-30T02:01:58.924001+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.01305,
+    "pnl_pct": 0.54,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-30T02:07:44.980863+00:00"
   },
   {
     "page_id": "3ada5230-de72-8161-baae-c59415e9722b",
