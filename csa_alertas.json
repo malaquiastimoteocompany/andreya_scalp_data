@@ -662873,11 +662873,11 @@
     "estado_cfi": "E1",
     "zona_sr": 192.995,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 193.53,
-    "pnl_pct": 0.687,
-    "duracao_min": 70.5,
-    "data_resultado": "2026-07-30T01:37:36.805625+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 192.17,
+    "pnl_pct": 0.333,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-30T02:27:11.705836+00:00"
   },
   {
     "page_id": "3ada5230-de72-816e-8ccf-cd0e3d3666d0",
