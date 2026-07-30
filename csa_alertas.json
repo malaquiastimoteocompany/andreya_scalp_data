@@ -686497,11 +686497,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00384,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.003851,
-    "pnl_pct": 0.339,
-    "duracao_min": 49.2,
-    "data_resultado": "2026-07-30T19:24:41.888487+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.003863,
+    "pnl_pct": 0.495,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-30T20:35:33.221715+00:00"
   },
   {
     "page_id": "3ada5230-de72-81a2-a4be-f2de55528980",
