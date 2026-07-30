@@ -691778,5 +691778,31 @@
     "zona_sr": 470.92,
     "toques_sr": 7,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3ada5230-de72-81e0-a61f-edbf08b914ca",
+    "token": "SNXX",
+    "direccao": "SHORT",
+    "preco_alerta": 11.68,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.64571429,
+    "tp1": 11.421714284,
+    "tp2": 11.034285709999999,
+    "sl": 12.648571435,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 11386052.0,
+    "spread_pct": 0.0008580008580008396,
+    "oi_usd": 1784349.0320000001,
+    "data_alerta": "2026-07-30T22:40:09.436409+00:00",
+    "rsi_1h": 82.73,
+    "funding_rate": -0.0969,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
