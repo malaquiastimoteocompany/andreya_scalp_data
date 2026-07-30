@@ -668489,11 +668489,11 @@
     "estado_cfi": "E1",
     "zona_sr": 29.935,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 30.11,
-    "pnl_pct": 0.669,
-    "duracao_min": 77.4,
-    "data_resultado": "2026-07-30T07:04:42.372193+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 29.86,
+    "pnl_pct": 0.251,
+    "duracao_min": 108.2,
+    "data_resultado": "2026-07-30T07:35:33.174883+00:00"
   },
   {
     "page_id": "3ada5230-de72-8122-96a1-cf99ed65e014",
