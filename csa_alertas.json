@@ -672869,7 +672869,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02744,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.02712,
+    "pnl_pct": 0.768,
+    "duracao_min": 9.0,
+    "data_resultado": "2026-07-30T10:13:26.744867+00:00"
   },
   {
     "page_id": "3ada5230-de72-81f8-909a-fc62bd0f4a37",
