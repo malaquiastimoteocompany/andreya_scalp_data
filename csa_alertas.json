@@ -680126,5 +680126,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3ada5230-de72-81d3-8137-eec8008305f6",
+    "token": "TRUMPOFFICIAL",
+    "direccao": "SHORT",
+    "preco_alerta": 1.451,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.011,
+    "tp1": 1.4466,
+    "tp2": 1.4400000000000002,
+    "sl": 1.4675,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=1/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 24634916.0,
+    "spread_pct": 0.0006884681583477534,
+    "oi_usd": 3937220.6899000006,
+    "data_alerta": "2026-07-30T14:47:33.017524+00:00",
+    "rsi_1h": 47.78,
+    "funding_rate": 0.0044,
+    "estado_cfi": "E1",
+    "zona_sr": 1.44425,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
