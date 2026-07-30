@@ -686853,11 +686853,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.040825,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04119,
-    "pnl_pct": 0.414,
-    "duracao_min": 49.9,
-    "data_resultado": "2026-07-30T19:53:00.606549+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04117,
+    "pnl_pct": 0.39,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-30T21:04:19.396493+00:00"
   },
   {
     "page_id": "3ada5230-de72-811f-be0f-e19ec9671015",
