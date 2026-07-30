@@ -679605,11 +679605,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.13986667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1405,
-    "pnl_pct": 0.717,
-    "duracao_min": 80.5,
-    "data_resultado": "2026-07-30T15:43:28.166804+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.141,
+    "pnl_pct": 0.896,
+    "duracao_min": 111.1,
+    "data_resultado": "2026-07-30T16:14:05.140013+00:00"
   },
   {
     "page_id": "3ada5230-de72-81bc-bcc7-f77e70061488",
