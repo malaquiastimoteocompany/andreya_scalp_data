@@ -675143,7 +675143,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.13986667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.1406,
+    "pnl_pct": 0.716,
+    "duracao_min": 93.6,
+    "data_resultado": "2026-07-30T13:13:31.034522+00:00"
   },
   {
     "page_id": "3ada5230-de72-81c8-abed-daeaa79ce62c",
