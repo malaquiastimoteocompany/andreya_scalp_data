@@ -665929,11 +665929,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.4669,
-    "pnl_pct": 2.83,
-    "duracao_min": 21.5,
-    "data_resultado": "2026-07-30T03:45:56.928925+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.4818,
+    "pnl_pct": 1.28,
+    "duracao_min": 29.0,
+    "data_resultado": "2026-07-30T03:53:29.123496+00:00"
   },
   {
     "page_id": "3ada5230-de72-8169-a441-f5a641ce17a2",
