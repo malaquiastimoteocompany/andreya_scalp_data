@@ -678219,11 +678219,11 @@
     "estado_cfi": "E1",
     "zona_sr": 194.06,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 193.22,
-    "pnl_pct": 0.361,
-    "duracao_min": 28.9,
-    "data_resultado": "2026-07-30T14:19:23.361533+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 193.92,
+    "pnl_pct": 0.18,
+    "duracao_min": 36.1,
+    "data_resultado": "2026-07-30T14:26:35.810166+00:00"
   },
   {
     "page_id": "3ada5230-de72-81ce-ac46-cae78320c467",
