@@ -683053,11 +683053,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.013,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01301,
-    "pnl_pct": 0.386,
-    "duracao_min": 58.1,
-    "data_resultado": "2026-07-30T17:28:15.132486+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01296,
+    "pnl_pct": 0.193,
+    "duracao_min": 94.5,
+    "data_resultado": "2026-07-30T18:04:36.826082+00:00"
   },
   {
     "page_id": "3ada5230-de72-81b2-9721-d531645d1f12",
