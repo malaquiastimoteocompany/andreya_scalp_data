@@ -680585,11 +680585,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.17103333,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.17213,
-    "pnl_pct": 0.215,
-    "duracao_min": 3.2,
-    "data_resultado": "2026-07-30T15:06:35.308752+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.17172,
+    "pnl_pct": 0.096,
+    "duracao_min": 9.0,
+    "data_resultado": "2026-07-30T15:12:22.462933+00:00"
   },
   {
     "page_id": "3ada5230-de72-8149-8e1e-efd4f94f6de3",
