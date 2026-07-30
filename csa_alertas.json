@@ -663255,7 +663255,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 94.84,
+    "pnl_pct": 0.722,
+    "duracao_min": 16.0,
+    "data_resultado": "2026-07-30T01:05:31.555715+00:00"
   },
   {
     "page_id": "3ada5230-de72-8102-9422-ea3ed2e1ac83",
