@@ -666781,11 +666781,11 @@
     "estado_cfi": "E1",
     "zona_sr": 470.33,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 475.77,
-    "pnl_pct": 0.998,
-    "duracao_min": 76.3,
-    "data_resultado": "2026-07-30T05:33:27.344414+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 477.32,
+    "pnl_pct": 1.162,
+    "duracao_min": 94.2,
+    "data_resultado": "2026-07-30T05:51:16.508306+00:00"
   },
   {
     "page_id": "3ada5230-de72-81d4-8908-f236f0fd642c",
