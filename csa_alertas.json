@@ -670799,7 +670799,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.19625,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 1.1816,
+    "pnl_pct": 1.443,
+    "duracao_min": 31.6,
+    "data_resultado": "2026-07-30T08:29:03.296764+00:00"
   },
   {
     "page_id": "3ada5230-de72-81d2-b092-f16790e52f87",
