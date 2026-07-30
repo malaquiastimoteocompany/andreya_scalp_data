@@ -686963,11 +686963,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 16.29,
-    "pnl_pct": 1.622,
-    "duracao_min": 49.7,
-    "data_resultado": "2026-07-30T19:59:37.726614+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 15.99,
+    "pnl_pct": 0.686,
+    "duracao_min": 81.9,
+    "data_resultado": "2026-07-30T20:31:50.496860+00:00"
   },
   {
     "page_id": "3ada5230-de72-8151-b647-c2cefd8ab35e",
