@@ -671729,7 +671729,11 @@
     "estado_cfi": "E1",
     "zona_sr": 6.481,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 6.453,
+    "pnl_pct": 0.062,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-30T11:03:04.722092+00:00"
   },
   {
     "page_id": "3ada5230-de72-81a1-a87b-c15c367bbfd0",
