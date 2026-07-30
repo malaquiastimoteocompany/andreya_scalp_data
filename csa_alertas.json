@@ -661403,11 +661403,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.72,
-    "pnl_pct": 1.437,
-    "duracao_min": 115.8,
-    "data_resultado": "2026-07-30T01:02:48.298650+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.7232,
+    "pnl_pct": 1.662,
+    "duracao_min": 121.7,
+    "data_resultado": "2026-07-30T01:08:45.278897+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a7-957a-c203cfcec9e5",
