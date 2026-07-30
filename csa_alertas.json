@@ -663337,7 +663337,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.6792,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.6846,
+    "pnl_pct": 0.44,
+    "duracao_min": 8.5,
+    "data_resultado": "2026-07-30T01:05:42.907845+00:00"
   },
   {
     "page_id": "3ada5230-de72-818e-8587-d81e4675d998",
