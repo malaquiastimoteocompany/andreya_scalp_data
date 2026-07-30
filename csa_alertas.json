@@ -677455,11 +677455,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 4.268,
-    "pnl_pct": 0.637,
-    "duracao_min": 23.0,
-    "data_resultado": "2026-07-30T13:47:59.221953+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 4.302,
+    "pnl_pct": 1.037,
+    "duracao_min": 38.7,
+    "data_resultado": "2026-07-30T14:03:46.791646+00:00"
   },
   {
     "page_id": "3ada5230-de72-81b4-87bc-f13cd8334914",
