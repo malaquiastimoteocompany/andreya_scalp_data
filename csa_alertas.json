@@ -662183,7 +662183,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04131,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.04158,
+    "pnl_pct": -1.119,
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-30T02:04:44.906617+00:00"
   },
   {
     "page_id": "3ada5230-de72-8105-af4d-f3fe9a078231",
