@@ -680708,5 +680708,31 @@
     "pnl_pct": 0.597,
     "duracao_min": 1.1,
     "data_resultado": "2026-07-30T15:06:44.407167+00:00"
+  },
+  {
+    "page_id": "3ada5230-de72-8193-b6da-fb46a6258871",
+    "token": "LIT",
+    "direccao": "SHORT",
+    "preco_alerta": 2.2816,
+    "score": 8,
+    "setup": "B",
+    "prioritario": true,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.03817143,
+    "tp1": 2.266331428,
+    "tp2": 2.2434285700000003,
+    "sl": 2.338857145,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 14533254.0,
+    "spread_pct": 4.3820249337116604e-05,
+    "oi_usd": 2411539.81697,
+    "data_alerta": "2026-07-30T15:07:28.150852+00:00",
+    "rsi_1h": 58.95,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 2.2831,
+    "toques_sr": 3,
+    "resultado": "Pendente"
   }
 ]
