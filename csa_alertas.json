@@ -668421,11 +668421,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0149,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.015,
-    "pnl_pct": 0.469,
-    "duracao_min": 11.1,
-    "data_resultado": "2026-07-30T06:08:14.667411+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.01489,
+    "pnl_pct": 0.1,
+    "duracao_min": 22.5,
+    "data_resultado": "2026-07-30T06:19:40.186171+00:00"
   },
   {
     "page_id": "3ada5230-de72-818d-934b-d6bdbe157b1c",
