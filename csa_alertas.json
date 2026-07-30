@@ -678153,7 +678153,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.227,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 3.16,
+    "pnl_pct": -1.68,
+    "duracao_min": 73.1,
+    "data_resultado": "2026-07-30T14:58:31.924078+00:00"
   },
   {
     "page_id": "3ada5230-de72-8196-92a6-f646cb464c91",
