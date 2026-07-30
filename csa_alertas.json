@@ -682231,11 +682231,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.57325,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.5759,
-    "pnl_pct": 0.418,
-    "duracao_min": 32.8,
-    "data_resultado": "2026-07-30T16:35:25.542771+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.5735,
+    "pnl_pct": 0.209,
+    "duracao_min": 71.9,
+    "data_resultado": "2026-07-30T17:14:32.098301+00:00"
   },
   {
     "page_id": "3ada5230-de72-813b-bf64-c3cf0894d42a",
