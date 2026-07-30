@@ -684015,11 +684015,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06541,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06554,
-    "pnl_pct": 0.475,
-    "duracao_min": 27.0,
-    "data_resultado": "2026-07-30T17:33:24.604190+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.0658,
+    "pnl_pct": 0.675,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-30T19:06:35.604318+00:00"
   },
   {
     "page_id": "3ada5230-de72-8189-a764-ea75650f7a7c",
