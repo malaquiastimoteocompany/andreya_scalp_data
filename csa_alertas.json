@@ -676355,11 +676355,11 @@
     "estado_cfi": "E1",
     "zona_sr": 737.422,
     "toques_sr": 10,
-    "resultado": "TP Hit",
-    "preco_saida": 736.28,
-    "pnl_pct": 0.118,
-    "duracao_min": 26.1,
-    "data_resultado": "2026-07-30T13:01:37.672775+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 737.05,
+    "pnl_pct": 0.171,
+    "duracao_min": 67.5,
+    "data_resultado": "2026-07-30T13:43:01.854247+00:00"
   },
   {
     "page_id": "3ada5230-de72-81a2-a695-ca6658f02b6b",
