@@ -677043,11 +677043,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.3693,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.3703,
-    "pnl_pct": 0.652,
-    "duracao_min": 6.2,
-    "data_resultado": "2026-07-30T13:14:18.388658+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.3726,
+    "pnl_pct": 0.965,
+    "duracao_min": 16.7,
+    "data_resultado": "2026-07-30T13:24:47.793607+00:00"
   },
   {
     "page_id": "3ada5230-de72-81c5-9b79-d76bce81c268",
