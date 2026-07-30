@@ -669913,11 +669913,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.19625,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.1851,
-    "pnl_pct": 1.118,
-    "duracao_min": 29.7,
-    "data_resultado": "2026-07-30T07:42:00.073044+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.201,
+    "pnl_pct": 0.455,
+    "duracao_min": 43.8,
+    "data_resultado": "2026-07-30T07:56:03.270787+00:00"
   },
   {
     "page_id": "3ada5230-de72-8183-a937-e112b811c752",
