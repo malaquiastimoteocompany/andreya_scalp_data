@@ -674657,11 +674657,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.13765,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
+    "resultado": "Falhado",
     "preco_saida": 0.1379,
     "pnl_pct": 0.51,
-    "duracao_min": 113.2,
-    "data_resultado": "2026-07-30T13:10:37.546545+00:00"
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-30T13:18:20.685014+00:00"
   },
   {
     "page_id": "3ada5230-de72-8102-80f7-c52cf2c606f3",
