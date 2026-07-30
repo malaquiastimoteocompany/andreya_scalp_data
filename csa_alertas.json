@@ -668683,11 +668683,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.40445,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.41,
-    "pnl_pct": 0.886,
-    "duracao_min": 76.5,
-    "data_resultado": "2026-07-30T07:16:13.519628+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.4062,
+    "pnl_pct": 0.418,
+    "duracao_min": 94.0,
+    "data_resultado": "2026-07-30T07:33:47.513096+00:00"
   },
   {
     "page_id": "3ada5230-de72-81e9-ad67-d32487b9c5d1",
