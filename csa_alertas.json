@@ -667635,11 +667635,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 1.4437,
-    "pnl_pct": 1.383,
-    "duracao_min": 27.9,
-    "data_resultado": "2026-07-30T05:30:22.774470+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 1.4438,
+    "pnl_pct": 1.387,
+    "duracao_min": 121.7,
+    "data_resultado": "2026-07-30T07:04:10.752361+00:00"
   },
   {
     "page_id": "3ada5230-de72-81dd-933b-fce9167d4c3c",
