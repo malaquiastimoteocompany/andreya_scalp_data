@@ -668299,11 +668299,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.067766,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06796,
-    "pnl_pct": 0.295,
-    "duracao_min": 51.6,
-    "data_resultado": "2026-07-30T06:31:07.283141+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.06776,
+    "pnl_pct": 0.148,
+    "duracao_min": 81.2,
+    "data_resultado": "2026-07-30T07:00:44.767635+00:00"
   },
   {
     "page_id": "3ada5230-de72-81f4-9272-fcd28aaad481",
