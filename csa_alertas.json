@@ -666225,7 +666225,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.68585,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.6813,
+    "pnl_pct": -0.322,
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-30T05:42:23.110739+00:00"
   },
   {
     "page_id": "3ada5230-de72-81a2-8fca-fe320ab945df",
