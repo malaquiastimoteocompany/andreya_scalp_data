@@ -672177,7 +672177,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0019045,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.001889,
+    "pnl_pct": 0.788,
+    "duracao_min": 83.6,
+    "data_resultado": "2026-07-30T10:50:37.220279+00:00"
   },
   {
     "page_id": "3ada5230-de72-811b-b7bb-d91febedaef5",
