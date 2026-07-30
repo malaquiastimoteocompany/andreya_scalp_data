@@ -676635,11 +676635,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 1.0626,
-    "pnl_pct": 2.567,
-    "duracao_min": 24.8,
-    "data_resultado": "2026-07-30T13:20:06.779690+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.0932,
+    "pnl_pct": 1.164,
+    "duracao_min": 38.9,
+    "data_resultado": "2026-07-30T13:34:10.408964+00:00"
   },
   {
     "page_id": "3ada5230-de72-81ae-9079-f47e1d15f5e1",
