@@ -690737,11 +690737,11 @@
     "estado_cfi": "E1",
     "zona_sr": 30.425,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 30.37,
-    "pnl_pct": 0.297,
-    "duracao_min": 119.3,
-    "data_resultado": "2026-07-30T23:39:48.330693+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 30.35,
+    "pnl_pct": 0.264,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-30T23:41:22.577155+00:00"
   },
   {
     "page_id": "3ada5230-de72-8101-89b4-e209fc0d776c",
