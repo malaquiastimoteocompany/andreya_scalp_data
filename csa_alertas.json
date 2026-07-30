@@ -663487,11 +663487,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.5898,
-    "pnl_pct": 0.391,
-    "duracao_min": 5.7,
-    "data_resultado": "2026-07-30T01:03:24.699117+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.5932,
+    "pnl_pct": 0.681,
+    "duracao_min": 35.4,
+    "data_resultado": "2026-07-30T01:33:02.533476+00:00"
   },
   {
     "page_id": "3ada5230-de72-81a7-a220-cb4d492d783a",
