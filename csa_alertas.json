@@ -662633,11 +662633,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.33144,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.3324,
-    "pnl_pct": 0.788,
-    "duracao_min": 84.1,
-    "data_resultado": "2026-07-30T01:37:28.713370+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.3342,
+    "pnl_pct": 1.061,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-30T02:14:20.355729+00:00"
   },
   {
     "page_id": "3ada5230-de72-81d8-99e5-fb0c26d82ee9",
