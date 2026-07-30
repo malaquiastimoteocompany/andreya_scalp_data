@@ -687173,11 +687173,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.01476667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01483,
-    "pnl_pct": 0.338,
-    "duracao_min": 14.1,
-    "data_resultado": "2026-07-30T19:29:10.497525+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01478,
+    "pnl_pct": 0.169,
+    "duracao_min": 31.1,
+    "data_resultado": "2026-07-30T19:46:09.683944+00:00"
   },
   {
     "page_id": "3ada5230-de72-81ae-ae89-d50f054d4883",
