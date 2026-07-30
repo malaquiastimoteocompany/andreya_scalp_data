@@ -683445,11 +683445,11 @@
     "estado_cfi": "E1",
     "zona_sr": 192.94,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 193.93,
-    "pnl_pct": 0.347,
-    "duracao_min": 17.2,
-    "data_resultado": "2026-07-30T17:00:08.276642+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 193.5,
+    "pnl_pct": 0.235,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-30T18:44:15.545218+00:00"
   },
   {
     "page_id": "3ada5230-de72-8153-9d26-e793f4a63135",
