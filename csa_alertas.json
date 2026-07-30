@@ -693187,7 +693187,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06853,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.06843,
+    "pnl_pct": 0.204,
+    "duracao_min": 12.6,
+    "data_resultado": "2026-07-30T23:57:56.336331+00:00"
   },
   {
     "page_id": "3ada5230-de72-81ac-8efa-f03ade030aae",
