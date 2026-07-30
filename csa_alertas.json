@@ -673934,5 +673934,31 @@
     "zona_sr": 0.03127,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3ada5230-de72-81b7-b3d7-cc0e5a424b8f",
+    "token": "ATH",
+    "direccao": "LONG",
+    "preco_alerta": 0.00385,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 3.9e-05,
+    "tp1": 0.0038656000000000003,
+    "tp2": 0.003889,
+    "sl": 0.0037915,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 6966635.0,
+    "spread_pct": 0.0002597065316191921,
+    "oi_usd": 1315329.92242,
+    "data_alerta": "2026-07-30T10:59:41.934633+00:00",
+    "rsi_1h": 45.93,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": 0.00384,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
