@@ -683629,11 +683629,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0092674,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00924,
-    "pnl_pct": 0.741,
-    "duracao_min": 19.2,
-    "data_resultado": "2026-07-30T17:17:01.175370+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.009131,
+    "pnl_pct": 1.327,
+    "duracao_min": 70.2,
+    "data_resultado": "2026-07-30T18:07:59.400913+00:00"
   },
   {
     "page_id": "3ada5230-de72-81a7-b3ac-e28ea1f8e8aa",
