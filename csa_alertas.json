@@ -661065,11 +661065,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07877333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0792,
-    "pnl_pct": 0.597,
-    "duracao_min": 69.4,
-    "data_resultado": "2026-07-29T23:54:01.145589+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.07873,
+    "pnl_pct": 0.298,
+    "duracao_min": 113.4,
+    "data_resultado": "2026-07-30T00:37:59.076595+00:00"
   },
   {
     "page_id": "3aca5230-de72-8130-bfa3-e138b7c7d493",
