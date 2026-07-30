@@ -673585,11 +673585,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.9374,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.922,
-    "pnl_pct": 0.781,
-    "duracao_min": 36.2,
-    "data_resultado": "2026-07-30T11:08:06.407293+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 2.945,
+    "pnl_pct": 0.39,
+    "duracao_min": 39.5,
+    "data_resultado": "2026-07-30T11:11:27.058460+00:00"
   },
   {
     "page_id": "3ada5230-de72-8159-b188-d22984d7dbe2",
