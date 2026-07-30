@@ -661703,7 +661703,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0025565,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.002593,
+    "pnl_pct": 1.052,
+    "duracao_min": 116.1,
+    "data_resultado": "2026-07-30T01:20:46.905985+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a9-964b-e4e646d167cb",
