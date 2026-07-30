@@ -662063,11 +662063,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.047045,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04702,
-    "pnl_pct": 0.427,
-    "duracao_min": 6.8,
-    "data_resultado": "2026-07-30T00:09:11.011970+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04679,
+    "pnl_pct": 0.182,
+    "duracao_min": 40.9,
+    "data_resultado": "2026-07-30T00:43:12.527896+00:00"
   },
   {
     "page_id": "3ada5230-de72-81a5-8e68-c590e90a57b9",
