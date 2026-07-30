@@ -664607,7 +664607,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.7704,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.768,
+    "pnl_pct": 0.415,
+    "duracao_min": 29.0,
+    "data_resultado": "2026-07-30T02:25:59.358855+00:00"
   },
   {
     "page_id": "3ada5230-de72-81d8-9964-e06d32611664",
