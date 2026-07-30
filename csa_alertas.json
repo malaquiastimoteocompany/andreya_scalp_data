@@ -687393,11 +687393,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00800475,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.008045,
-    "pnl_pct": 0.224,
-    "duracao_min": 50.5,
-    "data_resultado": "2026-07-30T20:05:55.237598+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.008038,
+    "pnl_pct": 0.181,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-30T21:16:34.049389+00:00"
   },
   {
     "page_id": "3ada5230-de72-8153-8969-c57f802ffa18",
