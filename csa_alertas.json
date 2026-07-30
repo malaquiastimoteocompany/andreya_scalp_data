@@ -666315,11 +666315,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.40445,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.406,
-    "pnl_pct": 0.769,
-    "duracao_min": 114.0,
-    "data_resultado": "2026-07-30T05:36:38.925245+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.4063,
+    "pnl_pct": 0.807,
+    "duracao_min": 121.4,
+    "data_resultado": "2026-07-30T05:44:02.073791+00:00"
   },
   {
     "page_id": "3ada5230-de72-81d5-b032-e6efa4b40408",
