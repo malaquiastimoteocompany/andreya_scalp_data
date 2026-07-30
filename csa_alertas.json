@@ -676047,11 +676047,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.07475,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.078,
-    "pnl_pct": 0.435,
-    "duracao_min": 86.2,
-    "data_resultado": "2026-07-30T13:46:09.545773+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.084,
+    "pnl_pct": 0.58,
+    "duracao_min": 94.3,
+    "data_resultado": "2026-07-30T13:54:16.662410+00:00"
   },
   {
     "page_id": "3ada5230-de72-8188-bc8d-e04394d193b1",
