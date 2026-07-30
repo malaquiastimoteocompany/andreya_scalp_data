@@ -671249,7 +671249,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 3.214,
+    "pnl_pct": 0.595,
+    "duracao_min": 110.0,
+    "data_resultado": "2026-07-30T10:02:36.637184+00:00"
   },
   {
     "page_id": "3ada5230-de72-816c-9771-c9fc49a89cc2",
