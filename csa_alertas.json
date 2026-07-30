@@ -691029,7 +691029,11 @@
     "estado_cfi": "E1",
     "zona_sr": 195.81,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 196.8,
+    "pnl_pct": 0.357,
+    "duracao_min": 112.1,
+    "data_resultado": "2026-07-30T23:47:25.343934+00:00"
   },
   {
     "page_id": "3ada5230-de72-81f1-8782-ebf91dcc4f37",
