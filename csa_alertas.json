@@ -661823,7 +661823,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0081116,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.008299,
+    "pnl_pct": 1.918,
+    "duracao_min": 47.8,
+    "data_resultado": "2026-07-30T00:22:46.094273+00:00"
   },
   {
     "page_id": "3aca5230-de72-81c1-907a-dee92bf48b57",
