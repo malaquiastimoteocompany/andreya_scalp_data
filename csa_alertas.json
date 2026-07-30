@@ -669129,7 +669129,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.01961,
+    "pnl_pct": -8.364,
+    "duracao_min": 79.9,
+    "data_resultado": "2026-07-30T07:44:51.784934+00:00"
   },
   {
     "page_id": "3ada5230-de72-8147-9d61-db6aef22b434",
