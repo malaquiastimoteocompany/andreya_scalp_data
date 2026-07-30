@@ -674067,11 +674067,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.363,
-    "pnl_pct": 3.863,
-    "duracao_min": 9.9,
-    "data_resultado": "2026-07-30T11:11:55.364147+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.3912,
+    "pnl_pct": 7.897,
+    "duracao_min": 16.5,
+    "data_resultado": "2026-07-30T11:18:30.860760+00:00"
   },
   {
     "page_id": "3ada5230-de72-817f-987c-fe86bf7b2246",
