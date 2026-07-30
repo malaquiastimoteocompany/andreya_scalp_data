@@ -671141,11 +671141,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05825,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05672,
-    "pnl_pct": 2.308,
-    "duracao_min": 114.2,
-    "data_resultado": "2026-07-30T09:59:18.243670+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.05562,
+    "pnl_pct": 3.255,
+    "duracao_min": 120.7,
+    "data_resultado": "2026-07-30T10:05:46.715259+00:00"
   },
   {
     "page_id": "3ada5230-de72-81ea-a741-f52777ab1783",
