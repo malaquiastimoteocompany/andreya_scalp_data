@@ -666075,11 +666075,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.081835,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.08238,
-    "pnl_pct": 0.746,
-    "duracao_min": 12.4,
-    "data_resultado": "2026-07-30T03:37:09.760737+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.08159,
+    "pnl_pct": 0.263,
+    "duracao_min": 114.2,
+    "data_resultado": "2026-07-30T05:18:54.851970+00:00"
   },
   {
     "page_id": "3ada5230-de72-8145-8e66-e349afb7b45e",
