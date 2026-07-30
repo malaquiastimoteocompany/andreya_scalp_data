@@ -676201,11 +676201,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.013,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01305,
-    "pnl_pct": 0.462,
-    "duracao_min": 80.5,
-    "data_resultado": "2026-07-30T13:50:32.581962+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01299,
+    "pnl_pct": 0.231,
+    "duracao_min": 102.5,
+    "data_resultado": "2026-07-30T14:12:31.393756+00:00"
   },
   {
     "page_id": "3ada5230-de72-812e-ba48-e4393512d376",
