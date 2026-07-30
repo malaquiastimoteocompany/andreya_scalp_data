@@ -660923,11 +660923,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.08081,
-    "pnl_pct": 0.749,
-    "duracao_min": 108.6,
-    "data_resultado": "2026-07-30T00:10:38.695632+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.08124,
+    "pnl_pct": 0.485,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-30T00:22:31.745416+00:00"
   },
   {
     "page_id": "3aca5230-de72-81a8-82a7-e9d2601fab0a",
