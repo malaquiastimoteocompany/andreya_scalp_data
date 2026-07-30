@@ -674181,7 +674181,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.031995,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.03228,
+    "pnl_pct": -0.404,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-30T13:01:06.918327+00:00"
   },
   {
     "page_id": "3ada5230-de72-81d5-b710-ceee1f8401c0",
