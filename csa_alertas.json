@@ -686349,11 +686349,11 @@
     "estado_cfi": "E1",
     "zona_sr": 194.68142857,
     "toques_sr": 7,
-    "resultado": "TP Hit",
-    "preco_saida": 193.11,
-    "pnl_pct": 0.33,
-    "duracao_min": 18.5,
-    "data_resultado": "2026-07-30T18:48:54.140212+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 194.35,
+    "pnl_pct": 0.01,
+    "duracao_min": 91.6,
+    "data_resultado": "2026-07-30T20:02:00.248130+00:00"
   },
   {
     "page_id": "3ada5230-de72-8100-b60a-d069cb2ddbf4",
