@@ -676537,11 +676537,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04202667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04215,
-    "pnl_pct": 0.621,
-    "duracao_min": 61.3,
-    "data_resultado": "2026-07-30T13:46:33.993253+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.04226,
+    "pnl_pct": 0.752,
+    "duracao_min": 65.9,
+    "data_resultado": "2026-07-30T13:51:14.512594+00:00"
   },
   {
     "page_id": "3ada5230-de72-8127-a9c6-f2163f66bd20",
