@@ -698351,7 +698351,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 197.27,
+    "pnl_pct": 0.351,
+    "duracao_min": 2.3,
+    "data_resultado": "2026-07-31T03:20:17.471178+00:00"
   },
   {
     "page_id": "3aea5230-de72-8193-adc1-dece25680915",
