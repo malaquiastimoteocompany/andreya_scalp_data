@@ -691967,11 +691967,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.006054,
-    "pnl_pct": 0.493,
-    "duracao_min": 13.8,
-    "data_resultado": "2026-07-30T22:51:19.776349+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.00604,
+    "pnl_pct": 0.608,
+    "duracao_min": 120.8,
+    "data_resultado": "2026-07-31T00:38:16.160708+00:00"
   },
   {
     "page_id": "3ada5230-de72-8197-9d35-e8d3ce23bd05",
