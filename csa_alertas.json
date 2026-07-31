@@ -699643,11 +699643,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.040645,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04437,
-    "pnl_pct": 9.691,
-    "duracao_min": 55.8,
-    "data_resultado": "2026-07-31T05:01:07.418148+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.04394,
+    "pnl_pct": 9.159,
+    "duracao_min": 57.3,
+    "data_resultado": "2026-07-31T05:02:33.549553+00:00"
   },
   {
     "page_id": "3aea5230-de72-819b-8077-fe34c94809db",
