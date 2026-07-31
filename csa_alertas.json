@@ -693969,11 +693969,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.17103333,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.17163,
-    "pnl_pct": 0.292,
-    "duracao_min": 32.7,
-    "data_resultado": "2026-07-31T00:43:19.390985+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.17281,
+    "pnl_pct": 0.637,
+    "duracao_min": 60.2,
+    "data_resultado": "2026-07-31T01:10:46.659225+00:00"
   },
   {
     "page_id": "3aea5230-de72-811a-bae8-dd55f04c1861",
