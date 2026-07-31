@@ -699439,7 +699439,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.70945,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.7164,
+    "pnl_pct": -0.505,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-31T05:55:26.118243+00:00"
   },
   {
     "page_id": "3aea5230-de72-8102-9156-e857934020db",
