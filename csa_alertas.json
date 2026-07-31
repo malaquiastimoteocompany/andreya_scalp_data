@@ -697361,7 +697361,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00436633,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "BE Hit",
+    "preco_saida": 0.004365,
+    "pnl_pct": 0.149,
+    "duracao_min": 19.5,
+    "data_resultado": "2026-07-31T02:54:36.981305+00:00"
   },
   {
     "page_id": "3aea5230-de72-81ab-8c88-d296a3e8a771",
