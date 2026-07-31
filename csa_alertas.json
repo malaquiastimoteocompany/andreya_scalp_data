@@ -701689,11 +701689,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 54.75,
-    "pnl_pct": 0.905,
-    "duracao_min": 63.5,
-    "data_resultado": "2026-07-31T06:36:08.605334+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 54.02,
+    "pnl_pct": 1.566,
+    "duracao_min": 68.9,
+    "data_resultado": "2026-07-31T06:41:32.937265+00:00"
   },
   {
     "page_id": "3aea5230-de72-8165-af3a-f320a7575504",
