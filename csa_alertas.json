@@ -693623,7 +693623,11 @@
     "estado_cfi": "E1",
     "zona_sr": 4.73e-06,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 4.699e-06,
+    "pnl_pct": 0.382,
+    "duracao_min": 5.9,
+    "data_resultado": "2026-07-31T00:08:24.020090+00:00"
   },
   {
     "page_id": "3aea5230-de72-8147-8ae1-e82dbc07c096",
