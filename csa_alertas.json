@@ -699917,11 +699917,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 11.76,
-    "pnl_pct": 2.083,
-    "duracao_min": 16.2,
-    "data_resultado": "2026-07-31T04:28:49.331883+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 12.16,
+    "pnl_pct": 3.819,
+    "duracao_min": 58.3,
+    "data_resultado": "2026-07-31T05:10:58.226086+00:00"
   },
   {
     "page_id": "3aea5230-de72-81a8-8473-d2b5e129bea8",
