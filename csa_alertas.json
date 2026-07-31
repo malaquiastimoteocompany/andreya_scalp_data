@@ -694295,11 +694295,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02178333,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.02158,
-    "pnl_pct": 0.461,
-    "duracao_min": 96.3,
-    "data_resultado": "2026-07-31T02:03:57.672502+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.02148,
+    "pnl_pct": 0.692,
+    "duracao_min": 120.3,
+    "data_resultado": "2026-07-31T02:27:58.257003+00:00"
   },
   {
     "page_id": "3aea5230-de72-81eb-b093-d7fe0409819f",
