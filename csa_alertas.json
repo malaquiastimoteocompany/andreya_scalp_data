@@ -696281,11 +696281,11 @@
     "estado_cfi": "E1",
     "zona_sr": 744.675,
     "toques_sr": 8,
-    "resultado": "TP Tardio",
-    "preco_saida": 744.27,
-    "pnl_pct": 0.107,
-    "duracao_min": 91.5,
-    "data_resultado": "2026-07-31T03:14:16.866968+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 745.08,
+    "pnl_pct": 0.053,
+    "duracao_min": 108.3,
+    "data_resultado": "2026-07-31T03:31:06.270370+00:00"
   },
   {
     "page_id": "3aea5230-de72-8178-af65-e455cc135a13",
