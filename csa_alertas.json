@@ -703839,11 +703839,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 164.32,
-    "pnl_pct": 0.629,
-    "duracao_min": 11.3,
-    "data_resultado": "2026-07-31T07:09:20.982234+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 165.37,
+    "pnl_pct": 0.311,
+    "duracao_min": 14.6,
+    "data_resultado": "2026-07-31T07:12:38.887737+00:00"
   },
   {
     "page_id": "3aea5230-de72-8108-86ed-e187af45d05e",
