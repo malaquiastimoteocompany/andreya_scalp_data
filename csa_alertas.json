@@ -703869,11 +703869,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0145855,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.014122,
-    "pnl_pct": 3.617,
-    "duracao_min": 11.2,
-    "data_resultado": "2026-07-31T07:11:13.405919+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.014697,
+    "pnl_pct": 1.655,
+    "duracao_min": 14.2,
+    "data_resultado": "2026-07-31T07:14:13.044469+00:00"
   },
   {
     "page_id": "3aea5230-de72-817e-beb6-e1cf3acf73dc",
