@@ -699559,7 +699559,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.023096,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.02314,
+    "pnl_pct": -0.652,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-31T05:57:14.261344+00:00"
   },
   {
     "page_id": "3aea5230-de72-8175-9c52-c5d9f6578478",
