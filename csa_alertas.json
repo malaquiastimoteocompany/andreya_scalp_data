@@ -700725,11 +700725,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.12145,
     "toques_sr": 2,
-    "resultado": "TP Hit",
+    "resultado": "Falhado",
     "preco_saida": 0.12203,
     "pnl_pct": 0.519,
-    "duracao_min": 15.3,
-    "data_resultado": "2026-07-31T05:06:03.902937+00:00"
+    "duracao_min": 120.1,
+    "data_resultado": "2026-07-31T06:50:50.840829+00:00"
   },
   {
     "page_id": "3aea5230-de72-8141-85c7-d485ca9f15aa",
