@@ -697345,11 +697345,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0005095,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0005101,
-    "pnl_pct": 0.313,
-    "duracao_min": 7.2,
-    "data_resultado": "2026-07-31T02:37:15.679792+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.0005127,
+    "pnl_pct": 0.059,
+    "duracao_min": 51.8,
+    "data_resultado": "2026-07-31T03:21:52.175028+00:00"
   },
   {
     "page_id": "3aea5230-de72-8137-a372-c5e24775c950",
