@@ -701777,7 +701777,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0020015,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.002018,
+    "pnl_pct": 0.799,
+    "duracao_min": 22.2,
+    "data_resultado": "2026-07-31T06:07:22.452563+00:00"
   },
   {
     "page_id": "3aea5230-de72-81b0-99e8-f46ae59b2294",
