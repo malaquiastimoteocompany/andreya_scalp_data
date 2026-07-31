@@ -699015,11 +699015,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 17.09,
-    "pnl_pct": 2.03,
-    "duracao_min": 48.5,
-    "data_resultado": "2026-07-31T04:28:34.581999+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 17.48,
+    "pnl_pct": 3.194,
+    "duracao_min": 77.6,
+    "data_resultado": "2026-07-31T04:57:42.090747+00:00"
   },
   {
     "page_id": "3aea5230-de72-8184-bd6b-f8ec4ca2240c",
