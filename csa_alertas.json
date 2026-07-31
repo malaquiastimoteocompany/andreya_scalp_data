@@ -692949,11 +692949,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0025565,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
+    "resultado": "Falhado",
     "preco_saida": 0.002565,
     "pnl_pct": 0.746,
-    "duracao_min": 105.9,
-    "data_resultado": "2026-07-31T01:13:28.214295+00:00"
+    "duracao_min": 120.4,
+    "data_resultado": "2026-07-31T01:27:57.416361+00:00"
   },
   {
     "page_id": "3ada5230-de72-818c-a0ec-c170ed1c5050",
