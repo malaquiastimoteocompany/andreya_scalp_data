@@ -693839,7 +693839,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.5725,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.5728,
+    "pnl_pct": 0.544,
+    "duracao_min": 54.7,
+    "data_resultado": "2026-07-31T01:02:08.179212+00:00"
   },
   {
     "page_id": "3aea5230-de72-81b4-bcdf-d14e668b8d45",
