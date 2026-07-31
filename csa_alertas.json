@@ -702947,11 +702947,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00433933,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00433,
-    "pnl_pct": 0.345,
-    "duracao_min": 16.6,
-    "data_resultado": "2026-07-31T06:44:20.083992+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.004313,
+    "pnl_pct": 0.541,
+    "duracao_min": 39.2,
+    "data_resultado": "2026-07-31T07:06:56.828340+00:00"
   },
   {
     "page_id": "3aea5230-de72-81bf-b1d9-d603d897ec31",
