@@ -692415,11 +692415,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.03186,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03161,
-    "pnl_pct": 0.441,
-    "duracao_min": 45.6,
-    "data_resultado": "2026-07-30T23:51:22.025430+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.03184,
+    "pnl_pct": 0.079,
+    "duracao_min": 86.2,
+    "data_resultado": "2026-07-31T00:31:57.004098+00:00"
   },
   {
     "page_id": "3ada5230-de72-8146-a5d4-cfd23af3890d",
