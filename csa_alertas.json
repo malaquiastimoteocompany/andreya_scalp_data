@@ -701501,7 +701501,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 0.01255,
+    "pnl_pct": -1.181,
+    "duracao_min": 103.6,
+    "data_resultado": "2026-07-31T07:06:25.052804+00:00"
   },
   {
     "page_id": "3aea5230-de72-81b9-9b95-d012e6bd41f4",
