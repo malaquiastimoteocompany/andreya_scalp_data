@@ -702389,11 +702389,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03526,
-    "pnl_pct": 0.395,
-    "duracao_min": 8.7,
-    "data_resultado": "2026-07-31T06:19:13.100363+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.03548,
+    "pnl_pct": 0.085,
+    "duracao_min": 22.0,
+    "data_resultado": "2026-07-31T06:32:26.915488+00:00"
   },
   {
     "page_id": "3aea5230-de72-8138-b84f-c610d109a12c",
