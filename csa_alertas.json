@@ -695375,11 +695375,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.06853,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.06799,
-    "pnl_pct": 0.323,
-    "duracao_min": 36.5,
-    "data_resultado": "2026-07-31T01:49:14.401475+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.06796,
+    "pnl_pct": 0.345,
+    "duracao_min": 121.4,
+    "data_resultado": "2026-07-31T03:14:07.037437+00:00"
   },
   {
     "page_id": "3aea5230-de72-8134-a44d-f1fa9fb5cd97",
