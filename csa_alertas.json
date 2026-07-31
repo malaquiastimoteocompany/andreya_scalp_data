@@ -693185,7 +693185,11 @@
     "estado_cfi": "E1",
     "zona_sr": 744.675,
     "toques_sr": 8,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 745.01,
+    "pnl_pct": -0.159,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-31T01:41:06.792311+00:00"
   },
   {
     "page_id": "3ada5230-de72-8147-97da-e9052b54ef5f",
