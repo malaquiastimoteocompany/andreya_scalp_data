@@ -694751,11 +694751,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.228,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 3.26,
-    "pnl_pct": 0.617,
-    "duracao_min": 9.1,
-    "data_resultado": "2026-07-31T01:04:40.835814+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 3.239,
+    "pnl_pct": 0.293,
+    "duracao_min": 60.2,
+    "data_resultado": "2026-07-31T01:55:47.296044+00:00"
   },
   {
     "page_id": "3aea5230-de72-81f2-a06a-e808af0e7568",
