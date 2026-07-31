@@ -703767,7 +703767,11 @@
     "estado_cfi": "E1",
     "zona_sr": 45.51833333,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 45.16,
+    "pnl_pct": 0.331,
+    "duracao_min": 9.6,
+    "data_resultado": "2026-07-31T07:07:19.974842+00:00"
   },
   {
     "page_id": "3aea5230-de72-81cb-a0a2-e0eab2c83d92",
