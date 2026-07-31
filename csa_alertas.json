@@ -694307,11 +694307,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.831,
-    "pnl_pct": 1.552,
-    "duracao_min": 53.3,
-    "data_resultado": "2026-07-31T01:26:01.016796+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.845,
+    "pnl_pct": 0.723,
+    "duracao_min": 60.0,
+    "data_resultado": "2026-07-31T01:32:41.589404+00:00"
   },
   {
     "page_id": "3aea5230-de72-81ca-b2fb-ea4cce5af28d",
