@@ -696173,7 +696173,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.2705,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 1.254,
+    "pnl_pct": -1.647,
+    "duracao_min": 115.2,
+    "data_resultado": "2026-07-31T03:34:01.069676+00:00"
   },
   {
     "page_id": "3aea5230-de72-81eb-bf51-de5ca3b9d38e",
