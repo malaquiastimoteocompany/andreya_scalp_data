@@ -694006,5 +694006,31 @@
     "zona_sr": 0.20603333,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aea5230-de72-81c2-a74b-e939defde54b",
+    "token": "LA",
+    "direccao": "SHORT",
+    "preco_alerta": 0.05334,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00112214,
+    "tp1": 0.052891144,
+    "tp2": 0.05221786,
+    "sl": 0.055023209999999996,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 43597021.0,
+    "spread_pct": 0.00018735362997650815,
+    "oi_usd": 535446.6684,
+    "data_alerta": "2026-07-31T00:22:25.903216+00:00",
+    "rsi_1h": 56.16,
+    "funding_rate": -1.1597,
+    "estado_cfi": "E1",
+    "zona_sr": 0.053535,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
