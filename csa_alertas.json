@@ -693779,11 +693779,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.07475,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 2.073,
-    "pnl_pct": 0.29,
-    "duracao_min": 33.9,
-    "data_resultado": "2026-07-31T00:38:57.748234+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 2.082,
+    "pnl_pct": 0.508,
+    "duracao_min": 50.8,
+    "data_resultado": "2026-07-31T00:55:49.985288+00:00"
   },
   {
     "page_id": "3aea5230-de72-8119-a45d-f29e3ae9e676",
