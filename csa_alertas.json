@@ -700279,7 +700279,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.56515,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.5666,
+    "pnl_pct": -0.141,
+    "duracao_min": 121.1,
+    "data_resultado": "2026-07-31T06:26:12.418877+00:00"
   },
   {
     "page_id": "3aea5230-de72-81d9-bcf9-d8e1e956af2b",
