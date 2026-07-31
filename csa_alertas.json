@@ -694569,11 +694569,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00384133,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00389,
-    "pnl_pct": 0.96,
-    "duracao_min": 22.1,
-    "data_resultado": "2026-07-31T01:02:48.763524+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.003924,
+    "pnl_pct": 1.402,
+    "duracao_min": 50.5,
+    "data_resultado": "2026-07-31T01:31:15.199950+00:00"
   },
   {
     "page_id": "3aea5230-de72-81e9-b85c-fd07301a6d6d",
