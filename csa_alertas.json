@@ -693421,11 +693421,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.607625,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.6099,
-    "pnl_pct": 0.28,
-    "duracao_min": 61.9,
-    "data_resultado": "2026-07-31T00:48:10.048757+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.6081,
+    "pnl_pct": 0.132,
+    "duracao_min": 118.1,
+    "data_resultado": "2026-07-31T01:44:22.543671+00:00"
   },
   {
     "page_id": "3ada5230-de72-810c-8a91-d9309fab10c7",
