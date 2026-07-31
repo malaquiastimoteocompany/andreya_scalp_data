@@ -698613,11 +698613,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.03251,
-    "pnl_pct": 0.551,
-    "duracao_min": 18.8,
-    "data_resultado": "2026-07-31T03:42:06.551625+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.03269,
+    "pnl_pct": 0.275,
+    "duracao_min": 27.8,
+    "data_resultado": "2026-07-31T03:51:08.847476+00:00"
   },
   {
     "page_id": "3aea5230-de72-819f-9171-cf963976c80c",
