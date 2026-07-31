@@ -701415,11 +701415,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.04503,
-    "pnl_pct": 0.989,
-    "duracao_min": 48.4,
-    "data_resultado": "2026-07-31T06:11:08.783477+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04554,
+    "pnl_pct": 0.429,
+    "duracao_min": 58.1,
+    "data_resultado": "2026-07-31T06:20:47.033807+00:00"
   },
   {
     "page_id": "3aea5230-de72-81b1-b688-c5ba1ad35ae7",
