@@ -693679,7 +693679,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "SL Tardio",
+    "preco_saida": 55.32,
+    "pnl_pct": -3.402,
+    "duracao_min": 70.9,
+    "data_resultado": "2026-07-31T01:06:16.458635+00:00"
   },
   {
     "page_id": "3ada5230-de72-81c2-ad66-daa5dbe1df83",
