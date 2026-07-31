@@ -695245,11 +695245,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.012996,
-    "pnl_pct": 4.209,
-    "duracao_min": 22.8,
-    "data_resultado": "2026-07-31T01:32:55.636909+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01369,
+    "pnl_pct": 1.651,
+    "duracao_min": 48.0,
+    "data_resultado": "2026-07-31T01:58:06.309948+00:00"
   },
   {
     "page_id": "3aea5230-de72-811f-b6f8-fea8346684ae",
