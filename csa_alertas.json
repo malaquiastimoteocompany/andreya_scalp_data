@@ -698573,7 +698573,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.02134,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.02144,
+    "pnl_pct": 0.422,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-31T05:18:24.349993+00:00"
   },
   {
     "page_id": "3aea5230-de72-81b0-9743-ff6ed4040e30",
