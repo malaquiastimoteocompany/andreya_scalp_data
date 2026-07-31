@@ -693193,7 +693193,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04088667,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.04121,
+    "pnl_pct": 0.316,
+    "duracao_min": 33.8,
+    "data_resultado": "2026-07-31T00:18:55.844068+00:00"
   },
   {
     "page_id": "3ada5230-de72-81fd-a62b-d3f795121c9c",
