@@ -702873,7 +702873,11 @@
     "estado_cfi": "E2",
     "zona_sr": 0.34636667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.364,
+    "pnl_pct": 5.142,
+    "duracao_min": 44.0,
+    "data_resultado": "2026-07-31T07:08:57.708914+00:00"
   },
   {
     "page_id": "3aea5230-de72-81e1-9c8e-cb57ce9496db",
