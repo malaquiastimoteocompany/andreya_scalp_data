@@ -699619,11 +699619,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.004368,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.00435,
-    "pnl_pct": 0.275,
-    "duracao_min": 4.7,
-    "data_resultado": "2026-07-31T04:12:15.286658+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.004362,
+    "pnl_pct": 0.138,
+    "duracao_min": 11.9,
+    "data_resultado": "2026-07-31T04:19:30.340149+00:00"
   },
   {
     "page_id": "3aea5230-de72-814b-85e3-cb26ccd75e9c",
