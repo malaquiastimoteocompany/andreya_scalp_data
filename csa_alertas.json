@@ -703185,11 +703185,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 165.27,
-    "pnl_pct": 1.525,
-    "duracao_min": 1.6,
-    "data_resultado": "2026-07-31T06:41:53.073777+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 164.97,
+    "pnl_pct": 1.615,
+    "duracao_min": 4.3,
+    "data_resultado": "2026-07-31T06:44:37.741190+00:00"
   },
   {
     "page_id": "3aea5230-de72-8167-97af-dd552a5fc23e",
