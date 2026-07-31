@@ -702493,7 +702493,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.041712,
     "toques_sr": 5,
-    "resultado": "Pendente"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04174,
+    "pnl_pct": 0.216,
+    "duracao_min": 33.9,
+    "data_resultado": "2026-07-31T06:46:27.865211+00:00"
   },
   {
     "page_id": "3aea5230-de72-8110-be42-f6c9f6e7e039",
