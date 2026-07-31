@@ -698421,11 +698421,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04710667,
     "toques_sr": 3,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04745,
-    "pnl_pct": 0.53,
-    "duracao_min": 4.3,
-    "data_resultado": "2026-07-31T03:20:09.963860+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04719,
+    "pnl_pct": 0.254,
+    "duracao_min": 95.6,
+    "data_resultado": "2026-07-31T04:51:30.886137+00:00"
   },
   {
     "page_id": "3aea5230-de72-81be-9072-cbdb1ce00bad",
