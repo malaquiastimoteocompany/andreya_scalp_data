@@ -699543,7 +699543,11 @@
     "estado_cfi": "E1",
     "zona_sr": 3.421e-05,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 3.42e-05,
+    "pnl_pct": 0.292,
+    "duracao_min": 35.7,
+    "data_resultado": "2026-07-31T04:38:15.488813+00:00"
   },
   {
     "page_id": "3aea5230-de72-81f2-ae74-f938ae8f4dab",
