@@ -699619,11 +699619,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.05524125,
     "toques_sr": 8,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.05495,
-    "pnl_pct": 0.363,
-    "duracao_min": 53.9,
-    "data_resultado": "2026-07-31T04:51:44.409991+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.05508,
+    "pnl_pct": 0.245,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-31T05:58:49.157571+00:00"
   },
   {
     "page_id": "3aea5230-de72-8126-95e2-f2ef11d95888",
