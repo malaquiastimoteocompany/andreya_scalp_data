@@ -700039,11 +700039,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07945,
     "toques_sr": 5,
-    "resultado": "TP Hit",
-    "preco_saida": 0.07945,
-    "pnl_pct": 0.354,
-    "duracao_min": 12.1,
-    "data_resultado": "2026-07-31T04:32:16.808953+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.07917,
+    "pnl_pct": 0.177,
+    "duracao_min": 18.2,
+    "data_resultado": "2026-07-31T04:38:26.542911+00:00"
   },
   {
     "page_id": "3aea5230-de72-81f0-a9ab-f8a29d712976",
