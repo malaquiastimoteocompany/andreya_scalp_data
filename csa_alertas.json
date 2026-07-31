@@ -701669,7 +701669,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.54515,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 1.5888,
+    "pnl_pct": 3.048,
+    "duracao_min": 12.4,
+    "data_resultado": "2026-07-31T05:52:43.739176+00:00"
   },
   {
     "page_id": "3aea5230-de72-8174-ba48-ea168143b068",
