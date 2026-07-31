@@ -701507,11 +701507,11 @@
     "estado_cfi": "E1",
     "zona_sr": 198.35166667,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 198.27,
-    "pnl_pct": 0.236,
-    "duracao_min": 11.2,
-    "data_resultado": "2026-07-31T05:39:13.600230+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 198.76,
+    "pnl_pct": 0.113,
+    "duracao_min": 31.2,
+    "data_resultado": "2026-07-31T05:59:12.534717+00:00"
   },
   {
     "page_id": "3aea5230-de72-8127-a8fc-df4778cecc95",
