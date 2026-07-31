@@ -698723,7 +698723,11 @@
     "estado_cfi": "E1",
     "zona_sr": 198.35166667,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 198.8,
+    "pnl_pct": -0.389,
+    "duracao_min": 121.5,
+    "data_resultado": "2026-07-31T05:24:32.993339+00:00"
   },
   {
     "page_id": "3aea5230-de72-8103-a4e3-d736d2174f26",
