@@ -703511,7 +703511,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1087,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.1095,
+    "pnl_pct": 0.551,
+    "duracao_min": 5.9,
+    "data_resultado": "2026-07-31T06:54:35.096462+00:00"
   },
   {
     "page_id": "3aea5230-de72-81b1-a49b-e600f1249ae9",
