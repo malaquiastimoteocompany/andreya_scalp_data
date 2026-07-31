@@ -694541,11 +694541,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.6936,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.6939,
-    "pnl_pct": 0.318,
-    "duracao_min": 22.6,
-    "data_resultado": "2026-07-31T01:02:35.839054+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.6916,
+    "pnl_pct": 0.152,
+    "duracao_min": 68.6,
+    "data_resultado": "2026-07-31T01:48:41.675718+00:00"
   },
   {
     "page_id": "3aea5230-de72-81db-b81d-db2b1390879a",
