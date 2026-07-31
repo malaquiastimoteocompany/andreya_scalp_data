@@ -693563,11 +693563,11 @@
     "estado_cfi": "E1",
     "zona_sr": 191.706,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 193.22,
-    "pnl_pct": 0.348,
-    "duracao_min": 37.3,
-    "data_resultado": "2026-07-31T00:30:11.659268+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 194.22,
+    "pnl_pct": 0.608,
+    "duracao_min": 68.9,
+    "data_resultado": "2026-07-31T01:01:48.923260+00:00"
   },
   {
     "page_id": "3ada5230-de72-811d-8951-e1783c11cd90",
