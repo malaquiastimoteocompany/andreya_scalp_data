@@ -695737,11 +695737,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 4.508,
-    "pnl_pct": 0.836,
-    "duracao_min": 17.6,
-    "data_resultado": "2026-07-31T01:45:07.862619+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 4.468,
+    "pnl_pct": 1.276,
+    "duracao_min": 28.9,
+    "data_resultado": "2026-07-31T01:56:24.045759+00:00"
   },
   {
     "page_id": "3aea5230-de72-81c8-aefe-cf1cec1592c6",
