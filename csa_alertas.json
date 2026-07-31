@@ -697779,7 +697779,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.00436633,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.004349,
+    "pnl_pct": 0.275,
+    "duracao_min": 7.3,
+    "data_resultado": "2026-07-31T03:04:56.539362+00:00"
   },
   {
     "page_id": "3aea5230-de72-81f6-b795-c9458c9f39a1",
