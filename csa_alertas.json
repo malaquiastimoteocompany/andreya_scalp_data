@@ -696541,11 +696541,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.07738667,
     "toques_sr": 3,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.07762,
-    "pnl_pct": 0.362,
-    "duracao_min": 92.3,
-    "data_resultado": "2026-07-31T03:24:52.946848+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.07774,
+    "pnl_pct": 0.44,
+    "duracao_min": 122.8,
+    "data_resultado": "2026-07-31T03:55:23.180390+00:00"
   },
   {
     "page_id": "3aea5230-de72-81ef-af4f-d42cd8f63df2",
