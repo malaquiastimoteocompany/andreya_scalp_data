@@ -697921,11 +697921,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04090429,
     "toques_sr": 7,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.0412,
-    "pnl_pct": 0.341,
-    "duracao_min": 32.0,
-    "data_resultado": "2026-07-31T03:27:03.744852+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.04126,
+    "pnl_pct": 0.414,
+    "duracao_min": 120.9,
+    "data_resultado": "2026-07-31T04:55:58.745043+00:00"
   },
   {
     "page_id": "3aea5230-de72-8181-b6bc-c3a3e7da882a",
