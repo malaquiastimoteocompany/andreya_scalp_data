@@ -693069,11 +693069,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.009633,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.009491,
-    "pnl_pct": 1.474,
-    "duracao_min": 96.8,
-    "data_resultado": "2026-07-31T01:09:50.483776+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.009519,
+    "pnl_pct": 1.329,
+    "duracao_min": 121.2,
+    "data_resultado": "2026-07-31T01:34:10.487078+00:00"
   },
   {
     "page_id": "3ada5230-de72-8198-b78c-e6e2c517e9d1",
