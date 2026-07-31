@@ -697021,11 +697021,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0095625,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.009486,
-    "pnl_pct": 1.105,
-    "duracao_min": 22.8,
-    "data_resultado": "2026-07-31T02:28:19.541155+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.009478,
+    "pnl_pct": 1.147,
+    "duracao_min": 120.0,
+    "data_resultado": "2026-07-31T04:05:36.311802+00:00"
   },
   {
     "page_id": "3aea5230-de72-81af-9bf4-d8099caabe92",
