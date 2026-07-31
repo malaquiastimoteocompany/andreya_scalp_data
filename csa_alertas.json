@@ -703739,11 +703739,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.04422,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04358,
-    "pnl_pct": 1.134,
-    "duracao_min": 7.1,
-    "data_resultado": "2026-07-31T07:02:11.171710+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.04434,
+    "pnl_pct": 0.272,
+    "duracao_min": 33.6,
+    "data_resultado": "2026-07-31T07:28:43.583871+00:00"
   },
   {
     "page_id": "3aea5230-de72-8163-9072-e61798572911",
