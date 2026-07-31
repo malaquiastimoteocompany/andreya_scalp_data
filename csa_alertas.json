@@ -701281,11 +701281,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0180225,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.01818,
-    "pnl_pct": 0.664,
-    "duracao_min": 45.6,
-    "data_resultado": "2026-07-31T06:01:08.862959+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.01826,
+    "pnl_pct": 0.886,
+    "duracao_min": 74.1,
+    "data_resultado": "2026-07-31T06:29:33.901622+00:00"
   },
   {
     "page_id": "3aea5230-de72-8140-a8b5-cbb16be21323",
