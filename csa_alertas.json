@@ -695076,5 +695076,31 @@
     "zona_sr": 0.18526667,
     "toques_sr": 3,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aea5230-de72-81b8-8c86-fb641fb373c8",
+    "token": "KOMA",
+    "direccao": "SHORT",
+    "preco_alerta": 0.013567,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00106057,
+    "tp1": 0.013142771999999999,
+    "tp2": 0.012506429999999999,
+    "sl": 0.015157855,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 50807644.0,
+    "spread_pct": 0.0006636434022785331,
+    "oi_usd": 790360.27392,
+    "data_alerta": "2026-07-31T01:09:58.615089+00:00",
+    "rsi_1h": 66.4,
+    "funding_rate": 0.0342,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
