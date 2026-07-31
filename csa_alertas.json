@@ -699327,11 +699327,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03234,
-    "pnl_pct": 1.131,
-    "duracao_min": 74.6,
-    "data_resultado": "2026-07-31T05:07:34.159576+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.03228,
+    "pnl_pct": 1.223,
+    "duracao_min": 76.5,
+    "data_resultado": "2026-07-31T05:09:29.978023+00:00"
   },
   {
     "page_id": "3aea5230-de72-8124-9240-dc212e6127e3",
