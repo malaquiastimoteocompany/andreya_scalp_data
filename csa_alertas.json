@@ -694365,11 +694365,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1109,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.1095,
-    "pnl_pct": 0.815,
-    "duracao_min": 75.3,
-    "data_resultado": "2026-07-31T01:48:34.248332+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.1091,
+    "pnl_pct": 0.996,
+    "duracao_min": 82.2,
+    "data_resultado": "2026-07-31T01:55:27.142444+00:00"
   },
   {
     "page_id": "3aea5230-de72-811c-9d30-f477ad97aba1",
