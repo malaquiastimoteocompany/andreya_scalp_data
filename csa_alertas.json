@@ -701765,11 +701765,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.54515,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 1.5888,
-    "pnl_pct": 3.048,
-    "duracao_min": 12.4,
-    "data_resultado": "2026-07-31T05:52:43.739176+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 1.541,
+    "pnl_pct": 1.498,
+    "duracao_min": 38.7,
+    "data_resultado": "2026-07-31T06:19:00.221627+00:00"
   },
   {
     "page_id": "3aea5230-de72-8174-ba48-ea168143b068",
