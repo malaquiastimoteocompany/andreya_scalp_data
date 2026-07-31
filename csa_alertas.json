@@ -703859,7 +703859,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0478,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.04734,
+    "pnl_pct": 0.588,
+    "duracao_min": 3.8,
+    "data_resultado": "2026-07-31T07:04:17.527649+00:00"
   },
   {
     "page_id": "3aea5230-de72-81be-96eb-f9731556f1b9",
