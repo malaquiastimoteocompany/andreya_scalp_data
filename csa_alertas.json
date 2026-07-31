@@ -695183,7 +695183,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.4415,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 1.4617,
+    "pnl_pct": 1.479,
+    "duracao_min": 13.9,
+    "data_resultado": "2026-07-31T01:24:31.437185+00:00"
   },
   {
     "page_id": "3aea5230-de72-815e-95fc-dd7be3242426",
