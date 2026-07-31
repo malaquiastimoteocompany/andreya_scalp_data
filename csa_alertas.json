@@ -698393,7 +698393,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.23008333,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.22172,
+    "pnl_pct": -3.751,
+    "duracao_min": 121.5,
+    "data_resultado": "2026-07-31T05:16:43.942035+00:00"
   },
   {
     "page_id": "3aea5230-de72-8189-b41c-c8717c3e2f69",
