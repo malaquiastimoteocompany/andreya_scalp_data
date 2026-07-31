@@ -697669,11 +697669,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.56515,
     "toques_sr": 2,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.57,
-    "pnl_pct": 0.441,
-    "duracao_min": 40.1,
-    "data_resultado": "2026-07-31T03:25:13.155232+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.5674,
+    "pnl_pct": 0.211,
+    "duracao_min": 98.7,
+    "data_resultado": "2026-07-31T04:23:48.660767+00:00"
   },
   {
     "page_id": "3aea5230-de72-815a-880b-fc4dea9b7c97",
