@@ -691187,11 +691187,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.8315,
-    "pnl_pct": 1.957,
-    "duracao_min": 52.5,
-    "data_resultado": "2026-07-30T22:55:19.012524+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.8275,
+    "pnl_pct": 2.193,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-31T00:03:23.889335+00:00"
   },
   {
     "page_id": "3ada5230-de72-819d-8609-e8467f0da568",
