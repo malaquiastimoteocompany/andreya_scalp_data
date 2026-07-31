@@ -701879,11 +701879,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 123.72,
-    "pnl_pct": 1.45,
-    "duracao_min": 53.8,
-    "data_resultado": "2026-07-31T06:36:16.774133+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 126.25,
+    "pnl_pct": 0.442,
+    "duracao_min": 105.9,
+    "data_resultado": "2026-07-31T07:28:25.252432+00:00"
   },
   {
     "page_id": "3aea5230-de72-81f7-bd77-ebebdad00430",
