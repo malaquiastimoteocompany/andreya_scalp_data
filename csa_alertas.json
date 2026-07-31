@@ -696061,11 +696061,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 121.49,
-    "pnl_pct": 1.795,
-    "duracao_min": 26.5,
-    "data_resultado": "2026-07-31T02:04:12.418053+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 122.02,
+    "pnl_pct": 1.58,
+    "duracao_min": 120.6,
+    "data_resultado": "2026-07-31T03:38:14.461889+00:00"
   },
   {
     "page_id": "3aea5230-de72-8186-a38c-c1b21e189366",
