@@ -698127,7 +698127,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0079685,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.007916,
+    "pnl_pct": -0.864,
+    "duracao_min": 121.0,
+    "data_resultado": "2026-07-31T05:04:00.027700+00:00"
   },
   {
     "page_id": "3aea5230-de72-818f-a662-df5a93459165",
