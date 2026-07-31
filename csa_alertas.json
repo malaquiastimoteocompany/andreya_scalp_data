@@ -694969,7 +694969,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0020015,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 0.002011,
+    "pnl_pct": 0.903,
+    "duracao_min": 4.2,
+    "data_resultado": "2026-07-31T01:11:43.461235+00:00"
   },
   {
     "page_id": "3aea5230-de72-817f-bae4-d3f10eb34d4d",
