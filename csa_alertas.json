@@ -704596,5 +704596,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aea5230-de72-816b-89dd-d58788957e07",
+    "token": "SOXL",
+    "direccao": "SHORT",
+    "preco_alerta": 126.09,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 3.96142857,
+    "tp1": 124.505428572,
+    "tp2": 122.12857143000001,
+    "sl": 132.03214285500002,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=1/1 | cfi=1/1",
+    "volume_24h": 62429508.0,
+    "spread_pct": 7.93493354493562e-05,
+    "oi_usd": 3010370.168,
+    "data_alerta": "2026-07-31T07:29:51.586661+00:00",
+    "rsi_1h": 66.85,
+    "funding_rate": -0.079,
+    "estado_cfi": "E2",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
