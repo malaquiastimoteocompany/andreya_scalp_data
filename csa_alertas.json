@@ -694225,11 +694225,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.033784,
     "toques_sr": 5,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.03405,
-    "pnl_pct": 0.413,
-    "duracao_min": 30.6,
-    "data_resultado": "2026-07-31T00:56:01.849556+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.03425,
+    "pnl_pct": 0.708,
+    "duracao_min": 70.5,
+    "data_resultado": "2026-07-31T01:35:59.943008+00:00"
   },
   {
     "page_id": "3aea5230-de72-81a9-8570-c14c4dfb1511",
