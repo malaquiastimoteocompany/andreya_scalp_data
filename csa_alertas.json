@@ -703268,5 +703268,31 @@
     "zona_sr": 0.20433333,
     "toques_sr": 6,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aea5230-de72-81ed-ba87-c88d080d6cd2",
+    "token": "FET",
+    "direccao": "LONG",
+    "preco_alerta": 0.1413,
+    "score": 6,
+    "setup": "A",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00189286,
+    "tp1": 0.142057144,
+    "tp2": 0.14319286,
+    "sl": 0.13846071000000001,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=1/2 | wall=1/1 | cvd=1/1 | volume=1/1 | liquidacoes=0/1 | cfi=0/1",
+    "volume_24h": 5679844.0,
+    "spread_pct": 0.0007079646017700301,
+    "oi_usd": 7252445.716,
+    "data_alerta": "2026-07-31T06:45:33.887099+00:00",
+    "rsi_1h": 48.87,
+    "funding_rate": 0.01,
+    "estado_cfi": "E1",
+    "zona_sr": 0.140775,
+    "toques_sr": 4,
+    "resultado": "Pendente"
   }
 ]
