@@ -698464,5 +698464,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aea5230-de72-81fe-b3bb-d4f86a9c865f",
+    "token": "CAP",
+    "direccao": "SHORT",
+    "preco_alerta": 0.03627,
+    "score": 6,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.00207071,
+    "tp1": 0.035441716,
+    "tp2": 0.03419928999999999,
+    "sl": 0.039376064999999995,
+    "componentes": "sr_zone=0/2 | rsi_1h=1/1 | cluster=2/2 | wall=0/1 | cvd=1/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 15459220.0,
+    "spread_pct": 0.00027574796635864123,
+    "oi_usd": 553205.637,
+    "data_alerta": "2026-07-31T03:22:43.277776+00:00",
+    "rsi_1h": 66.72,
+    "funding_rate": 0.005,
+    "estado_cfi": "E1",
+    "zona_sr": null,
+    "toques_sr": null,
+    "resultado": "Pendente"
   }
 ]
