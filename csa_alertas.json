@@ -695371,11 +695371,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.172835,
     "toques_sr": 6,
-    "resultado": "TP Hit",
-    "preco_saida": 0.17225,
-    "pnl_pct": 0.272,
-    "duracao_min": 23.0,
-    "data_resultado": "2026-07-31T01:36:17.275699+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.17153,
+    "pnl_pct": 0.481,
+    "duracao_min": 37.6,
+    "data_resultado": "2026-07-31T01:50:54.873775+00:00"
   },
   {
     "page_id": "3aea5230-de72-81b0-905a-d54e539fc579",
