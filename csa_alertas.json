@@ -701331,7 +701331,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 4.476,
+    "pnl_pct": 0.973,
+    "duracao_min": 88.5,
+    "data_resultado": "2026-07-31T06:45:55.707947+00:00"
   },
   {
     "page_id": "3aea5230-de72-81b6-aae8-e234f1f6eb2a",
