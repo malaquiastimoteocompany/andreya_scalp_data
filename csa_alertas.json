@@ -696369,7 +696369,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 52.98,
+    "pnl_pct": 1.23,
+    "duracao_min": 25.3,
+    "data_resultado": "2026-07-31T02:15:34.892719+00:00"
   },
   {
     "page_id": "3aea5230-de72-81fe-8c52-c5abb44b58c4",
