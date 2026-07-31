@@ -700171,11 +700171,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.06322,
-    "pnl_pct": 7.847,
-    "duracao_min": 6.9,
-    "data_resultado": "2026-07-31T04:32:26.000123+00:00"
+    "resultado": "TP2 Hit",
+    "preco_saida": 0.06756,
+    "pnl_pct": 11.549,
+    "duracao_min": 26.4,
+    "data_resultado": "2026-07-31T04:51:56.377325+00:00"
   },
   {
     "page_id": "3aea5230-de72-8179-a306-ed41b9bf5b43",
