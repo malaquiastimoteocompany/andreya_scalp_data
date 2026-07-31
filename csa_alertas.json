@@ -701241,11 +701241,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0120675,
     "toques_sr": 4,
-    "resultado": "TP Hit",
-    "preco_saida": 0.01212,
-    "pnl_pct": 0.414,
-    "duracao_min": 12.1,
-    "data_resultado": "2026-07-31T05:24:55.638970+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.01207,
+    "pnl_pct": 0.207,
+    "duracao_min": 93.0,
+    "data_resultado": "2026-07-31T06:45:48.104126+00:00"
   },
   {
     "page_id": "3aea5230-de72-81ba-957f-f45799d0a43a",
