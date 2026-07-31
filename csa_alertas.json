@@ -697403,7 +697403,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 162.0,
+    "pnl_pct": 0.845,
+    "duracao_min": 26.3,
+    "data_resultado": "2026-07-31T03:01:50.255472+00:00"
   },
   {
     "page_id": "3aea5230-de72-8190-996d-ea97c929cd25",
