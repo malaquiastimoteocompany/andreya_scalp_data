@@ -698149,11 +698149,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 0.0127,
-    "pnl_pct": 0.316,
-    "duracao_min": 9.8,
-    "data_resultado": "2026-07-31T03:19:51.118740+00:00"
+    "resultado": "BE Hit",
+    "preco_saida": 0.01266,
+    "pnl_pct": 0.158,
+    "duracao_min": 28.5,
+    "data_resultado": "2026-07-31T03:38:34.906630+00:00"
   },
   {
     "page_id": "3aea5230-de72-81b6-9271-ded3aee84e35",
