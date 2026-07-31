@@ -702661,11 +702661,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.1087,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.1097,
-    "pnl_pct": 0.458,
-    "duracao_min": 14.7,
-    "data_resultado": "2026-07-31T06:30:07.125921+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.1089,
+    "pnl_pct": 0.092,
+    "duracao_min": 31.2,
+    "data_resultado": "2026-07-31T06:46:35.481974+00:00"
   },
   {
     "page_id": "3aea5230-de72-81c5-a956-ecfaa1361b9c",
