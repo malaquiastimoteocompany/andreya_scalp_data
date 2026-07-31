@@ -694273,11 +694273,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 17.61,
-    "pnl_pct": 1.851,
-    "duracao_min": 29.9,
-    "data_resultado": "2026-07-31T01:02:25.271458+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 17.29,
+    "pnl_pct": 0.925,
+    "duracao_min": 55.7,
+    "data_resultado": "2026-07-31T01:28:13.868207+00:00"
   },
   {
     "page_id": "3aea5230-de72-817d-b8a7-deea4c8a9193",
