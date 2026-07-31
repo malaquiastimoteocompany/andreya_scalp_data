@@ -693695,11 +693695,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0081195,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.008216,
-    "pnl_pct": 0.958,
-    "duracao_min": 97.6,
-    "data_resultado": "2026-07-31T01:31:02.895860+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.008197,
+    "pnl_pct": 0.842,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-31T01:53:52.220677+00:00"
   },
   {
     "page_id": "3ada5230-de72-8189-90a8-ead6963e252c",
