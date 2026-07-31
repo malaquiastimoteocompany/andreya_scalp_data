@@ -695353,7 +695353,11 @@
     "estado_cfi": "E1",
     "zona_sr": 475.25,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Hit",
+    "preco_saida": 473.92,
+    "pnl_pct": 0.416,
+    "duracao_min": 4.7,
+    "data_resultado": "2026-07-31T01:20:06.982202+00:00"
   },
   {
     "page_id": "3aea5230-de72-8151-9c33-f0bb37d4841e",
