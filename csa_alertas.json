@@ -693099,7 +693099,11 @@
     "estado_cfi": "E1",
     "zona_sr": 8.5225,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 8.457,
+    "pnl_pct": -0.611,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-31T01:35:44.535735+00:00"
   },
   {
     "page_id": "3ada5230-de72-81bd-9dba-cc7a00533c79",
