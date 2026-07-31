@@ -701771,7 +701771,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.009699,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 0.009709,
+    "pnl_pct": -0.32,
+    "duracao_min": 120.5,
+    "data_resultado": "2026-07-31T07:33:24.336023+00:00"
   },
   {
     "page_id": "3aea5230-de72-8139-be13-f765756c4258",
