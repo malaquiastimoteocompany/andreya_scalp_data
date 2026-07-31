@@ -699831,11 +699831,11 @@
     "estado_cfi": "E2",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Hit",
-    "preco_saida": 4.461,
-    "pnl_pct": 0.7,
-    "duracao_min": 7.8,
-    "data_resultado": "2026-07-31T04:17:48.840704+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 4.506,
+    "pnl_pct": 1.208,
+    "duracao_min": 65.2,
+    "data_resultado": "2026-07-31T05:15:09.908816+00:00"
   },
   {
     "page_id": "3aea5230-de72-81b0-9c2f-ff5753da2cef",
