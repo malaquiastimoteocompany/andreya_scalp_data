@@ -702359,7 +702359,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.40086667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.403,
+    "pnl_pct": 0.524,
+    "duracao_min": 48.8,
+    "data_resultado": "2026-07-31T06:54:04.852057+00:00"
   },
   {
     "page_id": "3aea5230-de72-81a9-928c-f6867653a625",
