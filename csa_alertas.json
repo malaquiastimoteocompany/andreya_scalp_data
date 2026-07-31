@@ -693357,7 +693357,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.607625,
     "toques_sr": 4,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 0.6099,
+    "pnl_pct": 0.28,
+    "duracao_min": 61.9,
+    "data_resultado": "2026-07-31T00:48:10.048757+00:00"
   },
   {
     "page_id": "3ada5230-de72-810c-8a91-d9309fab10c7",
