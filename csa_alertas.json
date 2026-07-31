@@ -702173,7 +702173,11 @@
     "estado_cfi": "E1",
     "zona_sr": 198.35166667,
     "toques_sr": 6,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 198.0,
+    "pnl_pct": 0.387,
+    "duracao_min": 34.1,
+    "data_resultado": "2026-07-31T06:34:25.045838+00:00"
   },
   {
     "page_id": "3aea5230-de72-8138-abb3-f1513162d06e",
