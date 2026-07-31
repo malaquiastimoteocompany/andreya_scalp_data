@@ -698603,7 +698603,11 @@
     "estado_cfi": "E1",
     "zona_sr": 1.14855,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "Falhado",
+    "preco_saida": 1.1285,
+    "pnl_pct": -1.561,
+    "duracao_min": 121.3,
+    "data_resultado": "2026-07-31T05:19:49.318874+00:00"
   },
   {
     "page_id": "3aea5230-de72-8169-89ab-ee3f4f69a91f",
