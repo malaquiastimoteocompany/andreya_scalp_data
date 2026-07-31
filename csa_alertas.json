@@ -704690,5 +704690,31 @@
     "zona_sr": 0.0035495,
     "toques_sr": 2,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aea5230-de72-8193-a26a-c691567d8c17",
+    "token": "BSV",
+    "direccao": "LONG",
+    "preco_alerta": 12.39,
+    "score": 7,
+    "setup": "B",
+    "prioritario": false,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 0.08142857,
+    "tp1": 12.422571428000001,
+    "tp2": 12.47142857,
+    "sl": 12.267857145,
+    "componentes": "sr_zone=2/2 | rsi_1h=0/1 | cluster=2/2 | wall=1/1 | cvd=1/1 | volume=0/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 43054003.0,
+    "spread_pct": 0.0008067769261798941,
+    "oi_usd": 665153.9286,
+    "data_alerta": "2026-07-31T07:32:26.284106+00:00",
+    "rsi_1h": 42.87,
+    "funding_rate": -0.0129,
+    "estado_cfi": "E1",
+    "zona_sr": 12.33,
+    "toques_sr": 2,
+    "resultado": "Pendente"
   }
 ]
