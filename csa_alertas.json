@@ -701969,7 +701969,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.21116667,
     "toques_sr": 3,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 2.192,
+    "pnl_pct": 0.94,
+    "duracao_min": 97.3,
+    "data_resultado": "2026-07-31T07:22:54.368389+00:00"
   },
   {
     "page_id": "3aea5230-de72-81e7-94cb-f0fd799c5e03",
