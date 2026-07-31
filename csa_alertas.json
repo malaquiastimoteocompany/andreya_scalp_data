@@ -701445,11 +701445,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.77165,
     "toques_sr": 6,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.7658,
-    "pnl_pct": 0.338,
-    "duracao_min": 103.8,
-    "data_resultado": "2026-07-31T07:06:17.103937+00:00"
+    "resultado": "Falhado",
+    "preco_saida": 0.7657,
+    "pnl_pct": 0.345,
+    "duracao_min": 120.2,
+    "data_resultado": "2026-07-31T07:22:44.992544+00:00"
   },
   {
     "page_id": "3aea5230-de72-816e-96c8-fb2d760ed5a8",
