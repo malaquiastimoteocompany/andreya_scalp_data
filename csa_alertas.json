@@ -701411,11 +701411,11 @@
     "estado_cfi": "E1",
     "zona_sr": 8.385,
     "toques_sr": 4,
-    "resultado": "TP Tardio",
-    "preco_saida": 8.337,
-    "pnl_pct": 0.311,
-    "duracao_min": 85.8,
-    "data_resultado": "2026-07-31T06:46:02.654138+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 8.304,
+    "pnl_pct": 0.508,
+    "duracao_min": 105.9,
+    "data_resultado": "2026-07-31T07:06:08.144585+00:00"
   },
   {
     "page_id": "3aea5230-de72-8108-bdb3-e56539210f69",
