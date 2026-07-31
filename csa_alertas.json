@@ -698841,11 +698841,11 @@
     "estado_cfi": "E1",
     "zona_sr": null,
     "toques_sr": null,
-    "resultado": "TP Tardio",
-    "preco_saida": 0.2805,
-    "pnl_pct": 3.873,
-    "duracao_min": 90.9,
-    "data_resultado": "2026-07-31T05:00:54.850208+00:00"
+    "resultado": "BE Tardio",
+    "preco_saida": 0.2931,
+    "pnl_pct": 1.714,
+    "duracao_min": 94.3,
+    "data_resultado": "2026-07-31T05:04:20.068640+00:00"
   },
   {
     "page_id": "3aea5230-de72-81cf-ad6a-cc7d93f4b603",
