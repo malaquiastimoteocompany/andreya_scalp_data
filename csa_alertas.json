@@ -696997,11 +696997,11 @@
     "estado_cfi": "E1",
     "zona_sr": 0.0478,
     "toques_sr": 2,
-    "resultado": "TP Hit",
-    "preco_saida": 0.04743,
-    "pnl_pct": 0.336,
-    "duracao_min": 16.0,
-    "data_resultado": "2026-07-31T02:24:04.944922+00:00"
+    "resultado": "TP2 Tardio",
+    "preco_saida": 0.04719,
+    "pnl_pct": 0.588,
+    "duracao_min": 64.3,
+    "data_resultado": "2026-07-31T03:12:25.805039+00:00"
   },
   {
     "page_id": "3aea5230-de72-8106-81cd-c91258e0b4d3",
