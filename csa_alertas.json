@@ -697297,7 +697297,11 @@
     "estado_cfi": "E1",
     "zona_sr": 2.26225,
     "toques_sr": 2,
-    "resultado": "Pendente"
+    "resultado": "TP Tardio",
+    "preco_saida": 2.2712,
+    "pnl_pct": 0.602,
+    "duracao_min": 63.0,
+    "data_resultado": "2026-07-31T03:28:26.012684+00:00"
   },
   {
     "page_id": "3aea5230-de72-8114-8229-fea90fa465c3",
