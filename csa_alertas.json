@@ -698730,5 +698730,31 @@
     "zona_sr": null,
     "toques_sr": null,
     "resultado": "Pendente"
+  },
+  {
+    "page_id": "3aea5230-de72-8172-85a7-d74582ee8389",
+    "token": "SPY",
+    "direccao": "SHORT",
+    "preco_alerta": 745.09,
+    "score": 8,
+    "setup": "B",
+    "prioritario": true,
+    "enviado": false,
+    "executavel": true,
+    "atr_1h": 1.64714286,
+    "tp1": 744.4311428560001,
+    "tp2": 743.44285714,
+    "sl": 747.5607142900001,
+    "componentes": "sr_zone=2/2 | rsi_1h=1/1 | cluster=2/2 | wall=1/1 | cvd=0/1 | volume=1/1 | liquidacoes=1/1 | cfi=0/1",
+    "volume_24h": 48525432.0,
+    "spread_pct": 1.3420927251851624e-05,
+    "oi_usd": 6562286.7156,
+    "data_alerta": "2026-07-31T03:32:25.361756+00:00",
+    "rsi_1h": 68.84,
+    "funding_rate": 0.0,
+    "estado_cfi": "E1",
+    "zona_sr": 744.81857143,
+    "toques_sr": 7,
+    "resultado": "Pendente"
   }
 ]
